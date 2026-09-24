@@ -25,10 +25,10 @@ npm run docs:dev    # http://localhost:5173/
 CDN 示例（把 `<user>` 换成你的 GitHub 用户名）：
 
 ```text
-https://cdn.jsdelivr.net/gh/<user>/joyPromptCatalog@main/data/index.json
-https://cdn.jsdelivr.net/gh/<user>/joyPromptCatalog@main/data/families.json
-https://cdn.jsdelivr.net/gh/<user>/joyPromptCatalog@main/data/brand/models/openai.svg
-https://cdn.jsdelivr.net/gh/<user>/joyPromptCatalog@main/data/pages/0001.json
+https://cdn.jsdelivr.net/gh/<user>/joy-prompt-catalog@main/data/index.json
+https://cdn.jsdelivr.net/gh/<user>/joy-prompt-catalog@main/data/families.json
+https://cdn.jsdelivr.net/gh/<user>/joy-prompt-catalog@main/data/brand/models/openai.svg
+https://cdn.jsdelivr.net/gh/<user>/joy-prompt-catalog@main/data/pages/0001.json
 ```
 
 字段说明见 [schema.md](./schema.md)。
@@ -74,4 +74,4 @@ npm run docs:build   # 输出 docs/.vitepress/dist
 ```
 
 GitHub Pages：Settings → Pages → **Deploy from a branch** → `gh-pages` / `/ (root)`。
-站点路径为 `/joyPromptCatalog/`（见 `docs/.vitepress/config.js` 的 `base`）。
+站点路径为 `/joy-prompt-catalog/`（见 `docs/.vitepress/config.js` 的 `base`）。

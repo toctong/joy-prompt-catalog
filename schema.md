@@ -72,7 +72,7 @@
 1. 拉 `data/index.json` 或 `data/families.json`
 2. 用 `tabs` 渲染顶栏（含 `iconPath`）
 3. 选中 family 后用对应 `families[].communities` 渲染第二行胶囊
-4. 图标 URL：`https://cdn.jsdelivr.net/gh/<user>/joyPromptCatalog@main/data/<iconPath>`
+4. 图标 URL：`https://cdn.jsdelivr.net/gh/<user>/joy-prompt-catalog@main/data/<iconPath>`
 5. `live: true` 且 `count: 0` 表示实时市场源（本仓未静态收录），JoyAI 可走原有 live 代理
 
 ## 重建头部
