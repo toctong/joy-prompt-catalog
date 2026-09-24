@@ -1,0 +1,954 @@
+{
+  "items": [
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-24",
+      "title": "Raymarched Mandelbulb fractal with audio-reactive particles in Three.js",
+      "prompt": "Create a raymarching Mandelbulb fractal in GLSL, surround it with {argument name=\"particle_count_en\" default=\"12,000\"} instanced particles, make it audio-reactive to my microphone, and add Unreal Bloom.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-24-Raymarched-Mandelbulb-fractal-with-audio-reactive-particles-in-Three.js.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "SRKDAN",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-25",
+      "title": "Agency-style website for a client called AP",
+      "prompt": "You are the studio {argument name=\"studio_name_en\" default=\"makemepulse\"}. Build me a website for {argument name=\"client_name_en\" default=\"AP\"}. Think carefully and make no mistakes.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-25-Agency-style-website-for-a-client-called-AP.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "arda",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-26",
+      "title": "Laser eye effect web demo with Mediapipe and Three.js",
+      "prompt": "Use the computer's front-facing camera.\nUse the `mediapipe` library to capture facial landmarks.\nUse `threejs` to apply a LASER EYE effect to the face captured by the camera, based on the real-time 3D landmark information provided by `mediapipe`.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-26-Laser-eye-effect-web-demo-with-Mediapipe-and-Three.js.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "3D"
+      ],
+      "author": "愚瞳 | winterx",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-27",
+      "title": "Three.js survival-mode replica of Minecraft",
+      "prompt": "Design a full survival-mode replica of {argument name=\"game_name_en\" default=\"Minecraft\"} using {argument name=\"tech_stack_en\" default=\"Three.js\"}.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-27-Three.js-survival-mode-replica-of-Minecraft.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "Vardhan Agnihotri",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-28",
+      "title": "Enterprise landing page with interactive responsive design",
+      "prompt": "Generate an enterprise-grade professional landing page for {argument name=\"business_description_en\" default=\"[DESCRIBE YOUR BUSINESS]\"}.\n\nAdd interactive elements, animations, and make it fully responsive.\n\nSurprise me, be creative, and do this step by step.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-28-Enterprise-landing-page-with-interactive-responsive-design.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "God of Prompt",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-29",
+      "title": "Chinese traditional colors daily web app",
+      "prompt": "Generate a web application that introduces one {argument name=\"color_system_en\" default=\"traditional Chinese color\"} each day (for example: {argument name=\"example_color_1_en\" default=\"Sky Blue (Tianqing)\"}, {argument name=\"example_color_2_en\" default=\"Crimson (Yanzhi)\"}, {argument name=\"example_color_3_en\" default=\"Dark Green (Dailuo)\"}), accompanied by related classical poetry, artifact illustrations, or natural landscapes.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-29-Chinese-traditional-colors-daily-web-app.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "松果先森",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-30",
+      "title": "Web-based Word-like rich text editor in one HTML file",
+      "prompt": "Help me write a web-based rich text editor similar to {argument name=\"reference_software_en\" default=\"Word\"}, including its main features, with all code contained in a single HTML file. It should support: headings, paragraphs, left alignment, bold, italic, right alignment, underline, strikethrough, background color, text color, numbering, undo, and finally a download function. Directly generate the HTML, and that’s it!",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-30-Web-based-Word-like-rich-text-editor-in-one-HTML-file.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "karminski-牙医",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-31",
+      "title": "Chinese Twitter KOL leaderboard landing page",
+      "prompt": "As a frontend engineer with a strong sense of aesthetics, create a website landing page for \"{argument name=\"leaderboard_name_en\" default=\"Chinese Twitter KOL Leaderboard\"}\". The design should be highly polished, with a minimal color palette, dark mode, and high contrast. Fetch the data source from the web.\nUse Tailwind CSS + HTML5, add animations, and output only the HTML code directly.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-31-Chinese-Twitter-KOL-leaderboard-landing-page.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "katon",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-32",
+      "title": "English picture book learning web app",
+      "prompt": "Create a picture book for learning {argument name=\"learning_subject\" default=\"English\"}.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-32-English-picture-book-learning-web-app.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "松果先森",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-33",
+      "title": "Douyin recommendation algorithm demo animation",
+      "prompt": "Create a demo animation of the recommendation algorithm for {argument name=\"platform_name_en\" default=\"Douyin\"}.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-33-Douyin-recommendation-algorithm-demo-animation.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "松果先森",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-34",
+      "title": "Multi-level gear linkage system animation",
+      "prompt": "A multi-level gear linkage system where rotating the main gear causes all gears to automatically move in proportion.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-34-Multi-level-gear-linkage-system-animation.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "余温",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-35",
+      "title": "Parallax scrolling homepage with explosive visual effects",
+      "prompt": "Create a parallax scrolling website with explosive visual effects: layered backgrounds that move at different speeds when scrolling, smooth transitions, and interactive elements that pop up with animations.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-35-Parallax-scrolling-homepage-with-explosive-visual-effects.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "木子不写代码",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-36",
+      "title": "High-end Swiss-style landing page generator in React",
+      "prompt": "{argument name=\"generator_name_en\" default=\"High-End LP Generator (Swiss Style)\"}\n\nBased on the later-provided {argument name=\"input_text_en\" default=\"Input Text\"}, strictly follow the following specifications and implement a top-quality landing page in React (single file).\n\n1. Design concept: {argument name=\"design_concept_en\" default=\"Swiss Modern & Bento\"}\n\nStyle: {argument name=\"style_en\" default=\"Apple/Linear-like Swiss modern style\"}, removing decoration and using whitespace and typography to create appeal.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-36-High-end-Swiss-style-landing-page-generator-in-React.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Poster"
+      ],
+      "author": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-37",
+      "title": "Glassmorphism neon interface UI",
+      "prompt": "A glassmorphism neon interface with ultra-modern UI lighting effects and semi-transparent glass panels.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-37-Glassmorphism-neon-interface-UI.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "余温",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-38",
+      "title": "Interactive SVG demo of Tesla FSD road recognition",
+      "prompt": "Use SVG to draw a dynamic, interactive demonstration of how Tesla FSD recognizes roads.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-38-Interactive-SVG-demo-of-Tesla-FSD-road-recognition.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "余温",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-39",
+      "title": "Rebuild GitHub’s React project page UI",
+      "prompt": "Build the GitHub page of {argument name=\"project_name_en\" default=\"React\"}.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-39-Rebuild-GitHub-s-React-project-page-UI.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "Samro ✨",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-40",
+      "title": "Three.js museum walkthrough scene",
+      "prompt": "Create a scene in three.js.\nIt will be a museum with paintings on the walls, and you can walk around the museum hall like in a game.\nMake the walls and floor white.\nThere will be glass on the ceiling with the sky visible behind it.\nAlso place white blocks in the middle of the hall.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-40-Three.js-museum-walkthrough-scene.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "Sabo Sugi ✦",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-41",
+      "title": "Voxel art threejs scene generation prompt from image",
+      "prompt": "I have provided an image. Code a beautiful voxel art scene inspired by this image. Write threejs code as a single-page",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-41-Voxel-art-threejs-scene-generation-prompt-from-image.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "Ian Goodfellow",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-42",
+      "title": "3D Rubik’s cube web app with mix and solve controls",
+      "prompt": "Build a 3D {argument name=\"puzzle_type_en\" default=\"Rubik's cube\"}, include a button to mix it that shuffles the cube, and a button that solves the puzzle. Also allow the user to manually manipulate and solve it themselves.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-42-3D-Rubik-s-cube-web-app-with-mix-and-solve-controls.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "3D"
+      ],
+      "author": "Alan Shiflett",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-43",
+      "title": "CapCut-like video editor UI in Gemini",
+      "prompt": "Design a {argument name=\"app_name_en\" default=\"CapCut\"}.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-43-CapCut-like-video-editor-UI-in-Gemini.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Video"
+      ],
+      "author": "padphone",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-44",
+      "title": "Single-file HTML billiards game",
+      "prompt": "Please create a fully functional {argument name=\"game_type_en\" default=\"billiards game\"} in a single HTML file.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-44-Single-file-HTML-billiards-game.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "余温",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-45",
+      "title": "Quantum core monitoring single-page HTML",
+      "prompt": "Please generate a single-page HTML (SVG) for a “{argument name=\"system_name_en\" default=\"Quantum Core Monitoring System\"}”.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-45-Quantum-core-monitoring-single-page-HTML.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "余温",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-46",
+      "title": "Dynamic point cloud special relativity webpage",
+      "prompt": "Write a dynamic webpage that uses a cool point-cloud style to explain special relativity.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-46-Dynamic-point-cloud-special-relativity-webpage.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "-Zho-",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-47",
+      "title": "Single-file SVG of an Xbox controller",
+      "prompt": "Create an SVG of an {argument name=\"controller_type_en\" default=\"Xbox controller\"}.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-47-Single-file-SVG-of-an-Xbox-controller.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "Singularity",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-48",
+      "title": "Neobrutalist webpage generation prompt",
+      "prompt": "Make a neobrutalist webpage, make it extremely creative and push the limits as far as possible. Add smooth scroll animations, fancy colors, and Tailwind CSS styles. Make it fully responsive. The title of the page is {argument name=\"page_title\" default=\"dorksense\"}.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-48-Neobrutalist-webpage-generation-prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "Dorksense",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-gemini-3-prompts-49",
+      "title": "New York skyline SVG single-HTML scene",
+      "prompt": "SVG of the {argument name=\"city_skyline_en\" default=\"New York skyline\"}. Use whatever libraries are needed to get this done, but make sure I can paste everything into a single HTML file and open it in Chrome. Make it interesting and highly detailed, showing unexpected details. Go fully creative and fully beautiful in one code block.",
+      "media": "image",
+      "model": "Gemini 3 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-gemini-3-prompts/README-49-New-York-skyline-SVG-single-HTML-scene.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Gemini 3 Pro",
+        "Creative"
+      ],
+      "author": "Chetaslua",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-gemini-3-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-1",
+      "title": "Fun Educational Children's Science Fair Poster",
+      "prompt": "A fun and educational poster for a children’s science fair. The design is a colorful cartoon illustration featuring kids dressed as scientists, looking at bubbling beakers, telescopes, and robots. The typography is playful and kid-friendly. The poster should make science look exciting and accessible, encouraging kids to participate. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-1-Fun-Educational-Children-s-Science-Fair-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-2",
+      "title": "Trendy Fashion Sale Poster",
+      "prompt": "A trendy and eye-catching poster for a fashion store’s end-of-season sale. The design uses bold, vibrant colors and modern, edgy typography. The main visual is a stylish model wearing clothes from the store, but the image is creatively treated with paint strokes or collage elements. The text “50% OFF EVERYTHING” is the most prominent element. The poster should create a sense of urgency and excitement. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-2-Trendy-Fashion-Sale-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-3",
+      "title": "Aspirational Swiss Alps Travel Poster",
+      "prompt": "An aspirational and beautiful travel poster for visiting the Swiss Alps. The image is a breathtaking, hyper-realistic photograph of a picturesque alpine village with snow-capped mountains in the background. The text “SWITZERLAND: The Adventure Awaits” is in an elegant, classic font. The poster should evoke a strong sense of wanderlust and make the viewer want to book a trip immediately. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-3-Aspirational-Swiss-Alps-Travel-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-4",
+      "title": "Effective 'Lost Cat' Flyer",
+      "prompt": "An effective and clear “Lost Cat” flyer. The design is simple and functional. It features a large, clear, color photograph of the cat at the top. The headline “LOST CAT” is in a very large, bold, and easy-to-read font. Below the photo are the cat’s name, description, last seen location, and the owner’s contact information with tear-off tabs at the bottom. This demonstrates the ability to create practical, real-world designs. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-4-Effective-Lost-Cat-Flyer.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-5",
+      "title": "Informative Climate Change Seminar Poster",
+      "prompt": "An informative and engaging poster for a public seminar on climate change. The poster is designed as a mini-infographic, with a large, central graphic showing the earth with a thermometer, and smaller icons and data points around it explaining the causes and effects. The design is clean, organized, and aims to educate the viewer quickly and effectively. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-5-Informative-Climate-Change-Seminar-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-6",
+      "title": "Sleek Minimalist Wireless Headphone Ad",
+      "prompt": "A sleek and minimalist poster advertisement for a new high-tech wireless headphone. The poster features a stunning, high-resolution 3D render of the headphone, seemingly floating in a zero-gravity environment. The background is a simple, clean gradient. The only text is the brand name and the product slogan: “Unleash Your Sound.” The design is modern, sophisticated, and focuses entirely on the product’s beauty. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-6-Sleek-Minimalist-Wireless-Headphone-Ad.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Product"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-7",
+      "title": "Energetic 5K Charity Run Poster",
+      "prompt": "An energetic and motivational poster for a 5K charity run for a good cause. The design features a dynamic photograph of a diverse group of people running, with smiles on their faces. The background has abstract, colorful shapes and lines that suggest movement and energy. The event details are clear and easy to read. The poster should be inspiring and encourage people to sign up. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-7-Energetic-5K-Charity-Run-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-8",
+      "title": "Dramatic Minimalist Hamlet Poster",
+      "prompt": "A dramatic and minimalist poster for a production of Shakespeare’s “Hamlet”. The design features a single, powerful image: a human skull with a golden crown resting on it, against a stark black background. The title “HAMLET” is in a classic, sharp serif font, with the letters slightly decaying. The design is symbolic, modern, and full of gravitas. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-8-Dramatic-Minimalist-Hamlet-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Product"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-9",
+      "title": "Charming Rustic Farmers Market Poster",
+      "prompt": "A charming and rustic poster for a local farmers market. The design is an illustration in a friendly, hand-drawn style, featuring a bounty of fresh vegetables, fruits, and flowers in a wooden crate. The typography is a friendly, rounded sans-serif. The poster should feel wholesome, local, and community-oriented. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-9-Charming-Rustic-Farmers-Market-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-10",
+      "title": "Quirky Independent Short Film Festival Poster",
+      "prompt": "A quirky and independent-style poster for a short film festival. The design is a collage of hand-drawn doodles, film strips, and vintage photographs. The typography is a mix of different typewriter and handwritten fonts, giving it a DIY, zine-like feel. The color palette is limited and has a retro vibe. The poster should look creative, unconventional, and appeal to an arthouse audience. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-10-Quirky-Independent-Short-Film-Festival-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-11",
+      "title": "Serene Yoga & Meditation Workshop Poster",
+      "prompt": "A serene and calming poster for a weekend yoga and meditation workshop. The main visual is a beautiful, soft-focus photograph of a person in a peaceful yoga pose on a beach at sunrise. The color palette is soft pastels (pinks, oranges, light blues). The typography is a gentle, flowing script. The poster should evoke feelings of peace, wellness, and self-care. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-11-Serene-Yoga-Meditation-Workshop-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-12",
+      "title": "Italian Restaurant Grand Opening Flyer",
+      "prompt": "A delicious and inviting flyer for the grand opening of a new Italian restaurant. The main visual is a beautiful, rustic flat-lay photograph of a table laden with Italian food: a pizza, a bowl of pasta, a glass of red wine, and some fresh basil. The restaurant’s name is in a warm, handwritten script font. The date and address of the opening are clearly visible. The overall feel is warm, authentic, and appetizing. –ar 4:5",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-12-Italian-Restaurant-Grand-Opening-Flyer.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-13",
+      "title": "Plastic Pollution PSA Poster",
+      "prompt": "A powerful and thought-provoking poster for a public service announcement about plastic pollution in the oceans. The image is a surreal and sad depiction of a sea turtle swimming through a sea of plastic bags and bottles, instead of water. The tagline “Is this the ocean you want?” is at the bottom. The visual should be realistic and impactful, designed to evoke an emotional response and raise awareness. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-13-Plastic-Pollution-PSA-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-14",
+      "title": "Crime Novel Book Cover \"The Shadow Detective\"",
+      "prompt": "A thrilling and mysterious book cover for a crime novel titled “The Shadow Detective”. The cover features a silhouette of a detective in a fedora and trench coat, standing in a dark, foggy alleyway. The only light source is a single, distant streetlamp. The title is in a gritty, textured font that looks like it was stamped on. The mood is noir and full of suspense, demonstrating strong atmospheric control. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-14-Crime-Novel-Book-Cover-The-Shadow-Detective.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-15",
+      "title": "Japanese Ukiyo-e Museum Poster",
+      "prompt": "An elegant and artistic poster for a museum exhibition of Japanese Ukiyo-e woodblock prints. The design features a beautiful, high-resolution detail from a famous print, like Hokusai’s “The Great Wave,” but creatively cropped. The typography is a mix of an elegant English serif font and Japanese calligraphy. The layout is minimalist and respectful of the artwork, using a lot of negative space. This showcases knowledge of art history and sophisticated graphic design skills. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-15-Japanese-Ukiyo-e-Museum-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-16",
+      "title": "Software Developer Recruitment Flyer",
+      "prompt": "A bold and direct recruitment flyer for a startup looking for software developers. The headline “BUILD THE FUTURE” is in a large, strong, sans-serif font. The main visual is an abstract, stylized illustration of code turning into a growing city skyline. The company logo and a QR code to the application page are prominently displayed at the bottom. The color palette is energetic and tech-oriented (e.g., electric blue and dark gray). –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-16-Software-Developer-Recruitment-Flyer.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Product"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-17",
+      "title": "Psychedelic Music Festival Poster \"Ethereal Bloom\"",
+      "prompt": "A vibrant, psychedelic poster for a summer music festival called “Ethereal Bloom”. The design is a surreal explosion of color, featuring giant, glowing mushrooms, whimsical fantasy creatures, and abstract geometric patterns all intertwined. The festival lineup is integrated into the artwork in a wavy, distorted font. The overall mood is magical, energetic, and otherworldly, showcasing the ability to create complex, imaginative, and genre-specific visuals. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-17-Psychedelic-Music-Festival-Poster-Ethereal-Bloom.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-18",
+      "title": "Cinematic Sci-Fi Movie Poster \"CHRONOS\"",
+      "prompt": "A cinematic, epic movie poster for a fictional sci-fi blockbuster titled “CHRONOS”. The poster features the main hero, a rugged astronaut, looking out at a massive, swirling black hole in space. The reflection of a mysterious alien artifact is visible in his helmet visor. The typography is bold, metallic, and modern. The tagline “Time is the enemy” is positioned at the bottom. This requires advanced cinematic lighting, composition, and the ability to blend multiple complex elements seamlessly. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-18-Cinematic-Sci-Fi-Movie-Poster-CHRONOS.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-19",
+      "title": "Website Building Tutorial Thumbnail",
+      "prompt": "A thumbnail for a tutorial on “How to Build a Website in 10 Minutes.” The image shows a computer screen with a beautiful, professional-looking website on it. A large clock icon showing “10 Min” is overlaid on the screen. The YouTuber is in the corner, pointing to the screen and smiling, looking confident and helpful. The text is clear and promises a quick, easy solution. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-19-Website-Building-Tutorial-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-20",
+      "title": "Vending Machine Food Challenge Thumbnail",
+      "prompt": "A thumbnail for an “Eating Only Vending Machine Food for 24 Hours” challenge. The image shows the YouTuber sitting on the floor, surrounded by a huge pile of colorful snacks and drinks from vending machines. They have a pained but funny expression on their face. The text “I REGRET THIS” is in a bold, distressed font. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-20-Vending-Machine-Food-Challenge-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-21",
+      "title": "Prank Video Thumbnail",
+      "prompt": "A thumbnail for a prank video. The image captures the peak moment of the prank: the person being pranked is screaming or jumping in surprise. The YouTuber who set up the prank is in the background, laughing. The scene is chaotic and funny. A red circle is drawn around the pranked person’s face to highlight their reaction. The text “He FREAKED OUT!” is in a shaky, hand-drawn font. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-21-Prank-Video-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-22",
+      "title": "5-Minute Life Hacks Thumbnail",
+      "prompt": "A thumbnail for a “5-Minute Life Hacks” video. The image is a grid of four different hacks being demonstrated (e.g., using a bottle to separate egg yolks). Each image is clear and easy to understand. The YouTuber is in the center of the grid, giving a thumbs-up. The number “5” is huge and placed prominently. This requires creating clear, instructional visuals. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-22-5-Minute-Life-Hacks-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-23",
+      "title": "Tech Gadget Unboxing Thumbnail",
+      "prompt": "A thumbnail for an unboxing video of a new, expensive tech gadget. The box is open, and a bright, magical light is shining out from inside. The YouTuber is peering into the box with a look of pure wonder and excitement. The product itself is not fully visible, creating curiosity. The text “I Can’t Believe What’s Inside!” is in a bold, excited font. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-23-Tech-Gadget-Unboxing-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Product"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-xianyu110-awesome-seedream-4.5-24",
+      "title": "Ancient Egypt Documentary Thumbnail",
+      "prompt": "A thumbnail for a documentary about ancient Egypt. The image is a cinematic, photorealistic rendering of the Great Pyramids of Giza at sunset. The sun is setting behind the pyramids, creating a beautiful silhouette. In the foreground, the silhouette of an archaeologist looking at the pyramids. The title is in a font that mimics ancient hieroglyphs. This showcases rich world knowledge and cinematic rendering. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/xianyu110/awesome-seedream-4.5/README-24-Ancient-Egypt-Documentary-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/xianyu110/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    }
+  ]
+}

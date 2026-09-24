@@ -1,0 +1,954 @@
+{
+  "items": [
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-110",
+      "title": "Image Editing Prompt: Adding Creatures to Background",
+      "prompt": "using the first image and its style and size, add the creature from the second image into the first at varying distances in the background, ensure the focus and size of the creatures is appropriate for its distance, there should be a total of {argument name=\"number of creatures\" default=\"7\"} of them, their look and style may vary slightly from one another",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-110-Image-Editing-Prompt-Adding-Creatures-to-Background.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Kyle Salazar",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-111",
+      "title": "Character Sheet Generation Prompt (GPT and Nano Banana)",
+      "prompt": "in the same style as the image, generate a character sheet broken up into 5 separate sections divided by lines, the left section is a full front shot of the character head to toe, the other smaller sections are medium close up shots of the characters head and shoulders showing front, left, right and rear",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-111-Character-Sheet-Generation-Prompt-GPT-and-Nano-Banana.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "Kyle Salazar",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-112",
+      "title": "Convert image to night scene with warm lights",
+      "prompt": "Convert to a night scene with warm lights.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-112-Convert-image-to-night-scene-with-warm-lights.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Adan Avelar Islas",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-113",
+      "title": "Hyper-realistic photo of a hand with diamond bracelets",
+      "prompt": "a hyper-realistic photo of a white woman's hand, fully extended from top to bottom in the frame, with elegant diamond bracelets on the hand, one tennis bracelet loosely wrapped, luxury find jewelry editorial lighting, clean white background, sharp shadows and high-end fashion photography aesthetic, photorealistic style, style photographic, autumn lighting",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-113-Hyper-realistic-photo-of-a-hand-with-diamond-bracelets.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Sharon | AI wonders",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-114",
+      "title": "JS Engineer Coding Scene with Specific Text",
+      "prompt": "Create an image of a JS engineer learning and coding about AI. He is wearing a black T-shirt and has a warm cup of coffee on his desk. The coffee cup has the URL {argument name=\"URL\" default=\"https://t.co/XTcDweMEnH\"} displayed at the bottom center.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-114-JS-Engineer-Coding-Scene-with-Specific-Text.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Jhon Steven Parra 💻",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-115",
+      "title": "Glitter-Bomb Pro-Wrestling Idol Recasting Prompt",
+      "prompt": "Using [subject image] as reference, recast them as a glitter-bomb pro-wrestling promo idol, every natural feature intact. Skin glows under body-oil sheen; eyes fierce behind electric-blue eye-black. Power-stance on turnbuckle, championship belt bedazzled with sequined lightning bolts. Wardrobe: spandex singlet in {argument name=\"singlet color\" default=\"hot-magenta gradients\"}, fringe epaulettes, knee-high star boots. Lighting: arena spotlights with red-white-blue gels, lens-flare pyro sparks. Background: smoky ramp plus green-screened crowd waving foam fingers. Color grade in oversaturated VHS chroma, slight scan-line filter. Accessories: oversized mirrored shades, feather boa, mic in hand, restraint kept so the camp feels idol, not caricature. Final vibe: larger-than-life entrance—bold, patriotic, unmistakably them.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-115-Glitter-Bomb-Pro-Wrestling-Idol-Recasting-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Matthew Berman",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-116",
+      "title": "Clothing Transfer Prompt for Character Generation",
+      "prompt": "The woman in the first image should wear or put on all the elements from the second image.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-116-Clothing-Transfer-Prompt-for-Character-Generation.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "Nobu_cyan",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-117",
+      "title": "Improving Asymmetrical Element Identification in GPT Image 1.5",
+      "prompt": "Please be careful to properly identify (and not mistake) elements that are highly asymmetrical on the left and right sides.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-117-Improving-Asymmetrical-Element-Identification-in-GPT-Image-1.5.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "炎鎮🔥 - ₿onochin -",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-118",
+      "title": "Photorealistic Stock Photo Prompt of a Woman",
+      "prompt": "front view of a cute woman with {argument name=\"hair color\" default=\"black\"} hair in a {argument name=\"clothing item\" default=\"short skirt\"}, looking towards the camera, on a {argument name=\"background color\" default=\"white\"} background, detailed and photorealistic, demure smile, stock photo",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-118-Photorealistic-Stock-Photo-Prompt-of-a-Woman.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Tornado guy",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-1",
+      "title": "Fun Educational Children's Science Fair Poster",
+      "prompt": "A fun and educational poster for a children’s science fair. The design is a colorful cartoon illustration featuring kids dressed as scientists, looking at bubbling beakers, telescopes, and robots. The typography is playful and kid-friendly. The poster should make science look exciting and accessible, encouraging kids to participate. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-1-Fun-Educational-Children-s-Science-Fair-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-2",
+      "title": "Trendy Fashion Sale Poster",
+      "prompt": "A trendy and eye-catching poster for a fashion store’s end-of-season sale. The design uses bold, vibrant colors and modern, edgy typography. The main visual is a stylish model wearing clothes from the store, but the image is creatively treated with paint strokes or collage elements. The text “50% OFF EVERYTHING” is the most prominent element. The poster should create a sense of urgency and excitement. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-2-Trendy-Fashion-Sale-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-3",
+      "title": "Aspirational Swiss Alps Travel Poster",
+      "prompt": "An aspirational and beautiful travel poster for visiting the Swiss Alps. The image is a breathtaking, hyper-realistic photograph of a picturesque alpine village with snow-capped mountains in the background. The text “SWITZERLAND: The Adventure Awaits” is in an elegant, classic font. The poster should evoke a strong sense of wanderlust and make the viewer want to book a trip immediately. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-3-Aspirational-Swiss-Alps-Travel-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-4",
+      "title": "Effective 'Lost Cat' Flyer",
+      "prompt": "An effective and clear “Lost Cat” flyer. The design is simple and functional. It features a large, clear, color photograph of the cat at the top. The headline “LOST CAT” is in a very large, bold, and easy-to-read font. Below the photo are the cat’s name, description, last seen location, and the owner’s contact information with tear-off tabs at the bottom. This demonstrates the ability to create practical, real-world designs. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-4-Effective-Lost-Cat-Flyer.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-5",
+      "title": "Informative Climate Change Seminar Poster",
+      "prompt": "An informative and engaging poster for a public seminar on climate change. The poster is designed as a mini-infographic, with a large, central graphic showing the earth with a thermometer, and smaller icons and data points around it explaining the causes and effects. The design is clean, organized, and aims to educate the viewer quickly and effectively. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-5-Informative-Climate-Change-Seminar-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-6",
+      "title": "Sleek Minimalist Wireless Headphone Ad",
+      "prompt": "A sleek and minimalist poster advertisement for a new high-tech wireless headphone. The poster features a stunning, high-resolution 3D render of the headphone, seemingly floating in a zero-gravity environment. The background is a simple, clean gradient. The only text is the brand name and the product slogan: “Unleash Your Sound.” The design is modern, sophisticated, and focuses entirely on the product’s beauty. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-6-Sleek-Minimalist-Wireless-Headphone-Ad.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Product"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-7",
+      "title": "Energetic 5K Charity Run Poster",
+      "prompt": "An energetic and motivational poster for a 5K charity run for a good cause. The design features a dynamic photograph of a diverse group of people running, with smiles on their faces. The background has abstract, colorful shapes and lines that suggest movement and energy. The event details are clear and easy to read. The poster should be inspiring and encourage people to sign up. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-7-Energetic-5K-Charity-Run-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-8",
+      "title": "Dramatic Minimalist Hamlet Poster",
+      "prompt": "A dramatic and minimalist poster for a production of Shakespeare’s “Hamlet”. The design features a single, powerful image: a human skull with a golden crown resting on it, against a stark black background. The title “HAMLET” is in a classic, sharp serif font, with the letters slightly decaying. The design is symbolic, modern, and full of gravitas. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-8-Dramatic-Minimalist-Hamlet-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Product"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-9",
+      "title": "Charming Rustic Farmers Market Poster",
+      "prompt": "A charming and rustic poster for a local farmers market. The design is an illustration in a friendly, hand-drawn style, featuring a bounty of fresh vegetables, fruits, and flowers in a wooden crate. The typography is a friendly, rounded sans-serif. The poster should feel wholesome, local, and community-oriented. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-9-Charming-Rustic-Farmers-Market-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-10",
+      "title": "Quirky Independent Short Film Festival Poster",
+      "prompt": "A quirky and independent-style poster for a short film festival. The design is a collage of hand-drawn doodles, film strips, and vintage photographs. The typography is a mix of different typewriter and handwritten fonts, giving it a DIY, zine-like feel. The color palette is limited and has a retro vibe. The poster should look creative, unconventional, and appeal to an arthouse audience. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-10-Quirky-Independent-Short-Film-Festival-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-11",
+      "title": "Serene Yoga & Meditation Workshop Poster",
+      "prompt": "A serene and calming poster for a weekend yoga and meditation workshop. The main visual is a beautiful, soft-focus photograph of a person in a peaceful yoga pose on a beach at sunrise. The color palette is soft pastels (pinks, oranges, light blues). The typography is a gentle, flowing script. The poster should evoke feelings of peace, wellness, and self-care. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-11-Serene-Yoga-Meditation-Workshop-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-12",
+      "title": "Italian Restaurant Grand Opening Flyer",
+      "prompt": "A delicious and inviting flyer for the grand opening of a new Italian restaurant. The main visual is a beautiful, rustic flat-lay photograph of a table laden with Italian food: a pizza, a bowl of pasta, a glass of red wine, and some fresh basil. The restaurant’s name is in a warm, handwritten script font. The date and address of the opening are clearly visible. The overall feel is warm, authentic, and appetizing. –ar 4:5",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-12-Italian-Restaurant-Grand-Opening-Flyer.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-13",
+      "title": "Plastic Pollution PSA Poster",
+      "prompt": "A powerful and thought-provoking poster for a public service announcement about plastic pollution in the oceans. The image is a surreal and sad depiction of a sea turtle swimming through a sea of plastic bags and bottles, instead of water. The tagline “Is this the ocean you want?” is at the bottom. The visual should be realistic and impactful, designed to evoke an emotional response and raise awareness. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-13-Plastic-Pollution-PSA-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-14",
+      "title": "Crime Novel Book Cover \"The Shadow Detective\"",
+      "prompt": "A thrilling and mysterious book cover for a crime novel titled “The Shadow Detective”. The cover features a silhouette of a detective in a fedora and trench coat, standing in a dark, foggy alleyway. The only light source is a single, distant streetlamp. The title is in a gritty, textured font that looks like it was stamped on. The mood is noir and full of suspense, demonstrating strong atmospheric control. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-14-Crime-Novel-Book-Cover-The-Shadow-Detective.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-15",
+      "title": "Japanese Ukiyo-e Museum Poster",
+      "prompt": "An elegant and artistic poster for a museum exhibition of Japanese Ukiyo-e woodblock prints. The design features a beautiful, high-resolution detail from a famous print, like Hokusai’s “The Great Wave,” but creatively cropped. The typography is a mix of an elegant English serif font and Japanese calligraphy. The layout is minimalist and respectful of the artwork, using a lot of negative space. This showcases knowledge of art history and sophisticated graphic design skills. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-15-Japanese-Ukiyo-e-Museum-Poster.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-16",
+      "title": "Software Developer Recruitment Flyer",
+      "prompt": "A bold and direct recruitment flyer for a startup looking for software developers. The headline “BUILD THE FUTURE” is in a large, strong, sans-serif font. The main visual is an abstract, stylized illustration of code turning into a growing city skyline. The company logo and a QR code to the application page are prominently displayed at the bottom. The color palette is energetic and tech-oriented (e.g., electric blue and dark gray). –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-16-Software-Developer-Recruitment-Flyer.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Product"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-17",
+      "title": "Psychedelic Music Festival Poster \"Ethereal Bloom\"",
+      "prompt": "A vibrant, psychedelic poster for a summer music festival called “Ethereal Bloom”. The design is a surreal explosion of color, featuring giant, glowing mushrooms, whimsical fantasy creatures, and abstract geometric patterns all intertwined. The festival lineup is integrated into the artwork in a wavy, distorted font. The overall mood is magical, energetic, and otherworldly, showcasing the ability to create complex, imaginative, and genre-specific visuals. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-17-Psychedelic-Music-Festival-Poster-Ethereal-Bloom.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-18",
+      "title": "Cinematic Sci-Fi Movie Poster \"CHRONOS\"",
+      "prompt": "A cinematic, epic movie poster for a fictional sci-fi blockbuster titled “CHRONOS”. The poster features the main hero, a rugged astronaut, looking out at a massive, swirling black hole in space. The reflection of a mysterious alien artifact is visible in his helmet visor. The typography is bold, metallic, and modern. The tagline “Time is the enemy” is positioned at the bottom. This requires advanced cinematic lighting, composition, and the ability to blend multiple complex elements seamlessly. –ar 2:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-18-Cinematic-Sci-Fi-Movie-Poster-CHRONOS.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Poster"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-19",
+      "title": "Website Building Tutorial Thumbnail",
+      "prompt": "A thumbnail for a tutorial on “How to Build a Website in 10 Minutes.” The image shows a computer screen with a beautiful, professional-looking website on it. A large clock icon showing “10 Min” is overlaid on the screen. The YouTuber is in the corner, pointing to the screen and smiling, looking confident and helpful. The text is clear and promises a quick, easy solution. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-19-Website-Building-Tutorial-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-20",
+      "title": "Vending Machine Food Challenge Thumbnail",
+      "prompt": "A thumbnail for an “Eating Only Vending Machine Food for 24 Hours” challenge. The image shows the YouTuber sitting on the floor, surrounded by a huge pile of colorful snacks and drinks from vending machines. They have a pained but funny expression on their face. The text “I REGRET THIS” is in a bold, distressed font. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-20-Vending-Machine-Food-Challenge-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-21",
+      "title": "Prank Video Thumbnail",
+      "prompt": "A thumbnail for a prank video. The image captures the peak moment of the prank: the person being pranked is screaming or jumping in surprise. The YouTuber who set up the prank is in the background, laughing. The scene is chaotic and funny. A red circle is drawn around the pranked person’s face to highlight their reaction. The text “He FREAKED OUT!” is in a shaky, hand-drawn font. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-21-Prank-Video-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-22",
+      "title": "5-Minute Life Hacks Thumbnail",
+      "prompt": "A thumbnail for a “5-Minute Life Hacks” video. The image is a grid of four different hacks being demonstrated (e.g., using a bottle to separate egg yolks). Each image is clear and easy to understand. The YouTuber is in the center of the grid, giving a thumbs-up. The number “5” is huge and placed prominently. This requires creating clear, instructional visuals. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-22-5-Minute-Life-Hacks-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-23",
+      "title": "Tech Gadget Unboxing Thumbnail",
+      "prompt": "A thumbnail for an unboxing video of a new, expensive tech gadget. The box is open, and a bright, magical light is shining out from inside. The YouTuber is peering into the box with a look of pure wonder and excitement. The product itself is not fully visible, creating curiosity. The text “I Can’t Believe What’s Inside!” is in a bold, excited font. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-23-Tech-Gadget-Unboxing-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Product"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-24",
+      "title": "Ancient Egypt Documentary Thumbnail",
+      "prompt": "A thumbnail for a documentary about ancient Egypt. The image is a cinematic, photorealistic rendering of the Great Pyramids of Giza at sunset. The sun is setting behind the pyramids, creating a beautiful silhouette. In the foreground, the silhouette of an archaeologist looking at the pyramids. The title is in a font that mimics ancient hieroglyphs. This showcases rich world knowledge and cinematic rendering. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-24-Ancient-Egypt-Documentary-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-25",
+      "title": "Electric Supercar Review Thumbnail",
+      "prompt": "A thumbnail for a review of a new electric supercar. The car is shown from a low, dramatic angle, making it look powerful and aggressive. The headlights are on, and the background is a blurred motion shot of a city at night. The YouTuber is standing next to the car with a wide-eyed, “mind-blown” expression. The text “The Future is HERE!” is in a sleek, modern font. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-25-Electric-Supercar-Review-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-26",
+      "title": "True Crime Documentary Thumbnail",
+      "prompt": "A dark and mysterious thumbnail for a true crime documentary. The image is a moody, black and white photo of a key piece of evidence (e.g., a letter) on a detective’s desk, illuminated by a single lamp. A large, red question mark is stamped over the image. The YouTuber’s face is not visible, adding to the mystery. The title is in a classic typewriter font. This demonstrates strong control over mood and atmosphere. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-26-True-Crime-Documentary-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-27",
+      "title": "30-Day Fitness Challenge Results Thumbnail",
+      "prompt": "A thumbnail for a “30-Day Fitness Challenge” results video. It’s a split-screen image showing the YouTuber’s physique on Day 1 and Day 30. The transformation is clear and impressive. The YouTuber is flexing in the Day 30 photo with a confident expression. The text “My INSANE 30-Day Transformation!” is in a bold, athletic font. This requires high subject consistency across images. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-27-30-Day-Fitness-Challenge-Results-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-28",
+      "title": "Black Hole Explanation Thumbnail",
+      "prompt": "A thumbnail for a video explaining black holes. The image is a scientifically accurate and visually stunning rendering of a black hole, showing the accretion disk and gravitational lensing effect. A large, white arrow points to the singularity. The YouTuber’s face is in the corner, looking amazed. The title “What’s INSIDE a Black Hole?” is in a futuristic font. This showcases the ability to render complex scientific phenomena accurately. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-28-Black-Hole-Explanation-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-29",
+      "title": "DIY Room Makeover Before and After",
+      "prompt": "A thumbnail for a DIY home decor video. The image shows a “before and after” split screen. The “before” side shows a plain, boring room. The “after” side shows the same room transformed into a stylish, cozy space. The YouTuber is in the middle, pointing to the “after” side with a proud smile. The text “Budget Room Makeover!” is prominently displayed. This demonstrates high consistency and the ability to show transformations. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-29-DIY-Room-Makeover-Before-and-After.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-30",
+      "title": "Ultimate Chocolate Cake Recipe Thumbnail",
+      "prompt": "A thumbnail for a recipe video on “The Ultimate Chocolate Cake.” The image is a mouth-watering close-up of a slice of cake on a fork, with molten chocolate dripping from it. The background is a beautifully decorated, complete cake. The lighting is warm and delicious. Bold, elegant text says “The ONLY Chocolate Cake Recipe You Need.” This requires hyper-realistic food rendering to create a strong sense of craving. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-30-Ultimate-Chocolate-Cake-Recipe-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-31",
+      "title": "Minecraft Survival Video Thumbnail",
+      "prompt": "A thumbnail for a “Minecraft Survival” video. The image shows the player’s character, in diamond armor, bravely fighting off a massive horde of zombies and creepers at night. A huge, terrifying Creeper looms in the background, about to explode. The text “I Almost Lost EVERYTHING!” is in a blocky, Minecraft-style font. This requires knowledge of specific game aesthetics and the ability to create dramatic, action-packed scenes. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-31-Minecraft-Survival-Video-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Portrait"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-32",
+      "title": "Bali Travel Vlog Thumbnail",
+      "prompt": "A stunning thumbnail for a travel vlog about Bali. The image is a beautiful, vibrant shot of the YouTuber swimming in a crystal-clear infinity pool that overlooks a lush, green jungle. The colors are hyper-saturated, making the water incredibly blue and the jungle intensely green. The video title, “I Found PARADISE!” is in a clean, white font. This showcases advanced environmental rendering and color control for aspirational content. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-32-Bali-Travel-Vlog-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-33",
+      "title": "Smartphone Review Thumbnail",
+      "prompt": "A thumbnail for a review of the latest smartphone. The phone is held in a hand, angled to show its sleek screen and camera array. On one side of the phone, a big green checkmark icon; on the other, a big red X icon. The YouTuber’s face is in the corner, with a shocked and surprised expression. The background is a clean, techy grid pattern. This demonstrates precise product rendering and the ability to create a clear “vs.” narrative. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-33-Smartphone-Review-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Product"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-34",
+      "title": "Try Not to Laugh Challenge Thumbnail",
+      "prompt": "A high-energy thumbnail for a “Try Not to Laugh Challenge” video. It features a close-up of a YouTuber with an extremely exaggerated, crying-laughing expression, tears flying from their eyes. The background is a bright, explosive radial gradient of yellow and orange. Bold, white text with a black outline says “IMPOSSIBLE!” This requires the ability to generate specific, over-the-top emotions and high-impact text. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-34-Try-Not-to-Laugh-Challenge-Thumbnail.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Video"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-35",
+      "title": "Web Application System Architecture Diagram",
+      "prompt": "A high-level system architecture diagram for a modern web application, for a presentation to stakeholders. The diagram should use icons to represent different components like the user’s browser, a load balancer, web servers, a database, and third-party APIs. The connections between them should show the flow of data. The style is clean, professional, and easy to understand, even for a non-technical audience, showcasing the ability to render complex technical information clearly. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-35-Web-Application-System-Architecture-Diagram.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Infographic"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-36",
+      "title": "Illustrated Homemade Pasta Recipe Card",
+      "prompt": "A beautifully illustrated recipe card for making homemade pasta. The top half is a charming illustration of the finished dish (e.g., fettuccine with basil). The bottom half lists the ingredients and steps, with small icons for each ingredient (flour, egg, salt). The style is warm and rustic, like a page from a handwritten family cookbook. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-36-Illustrated-Homemade-Pasta-Recipe-Card.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Infographic"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-37",
+      "title": "Workplace Posture Safety Guide",
+      "prompt": "A visual safety guide for a workplace, illustrating the correct posture for sitting at a desk to avoid back pain. The infographic should show two figures: one in an incorrect, slouched posture with red X-marks, and one in a correct, ergonomic posture with green check-marks. The style should be simple, clear, and universally understandable, suitable for corporate training materials. –ar 3:4",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-37-Workplace-Posture-Safety-Guide.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Infographic"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-38",
+      "title": "3D Printer Works Diagram",
+      "prompt": "A clear and simple diagram explaining how a 3D printer works (FDM technology). The diagram should show the filament being fed into the extruder, the heating element, and the nozzle depositing the material layer by layer to build an object. The style should be a clean, 3D-esque illustration with arrows showing the process flow, demonstrating the ability to explain complex technology simply. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-38-3D-Printer-Works-Diagram.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "3D"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-39",
+      "title": "Isometric National Park Map",
+      "prompt": "A stylized, isometric illustrated map of a national park. The map should highlight key trails, landmarks (like waterfalls and viewpoints), visitor centers, and camping areas. The style should be friendly and inviting, with small illustrations of animals that live in the park. This is for a park brochure or website, requiring a mix of geographic accuracy and artistic illustration. –ar 4:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-39-Isometric-National-Park-Map.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-40",
+      "title": "Blueprint Passive Solar Design",
+      "prompt": "A section of a blueprint-style drawing explaining the concept of passive solar design in a house. The drawing should use white lines on a blue background, showing how the angle of the sun in winter and summer affects the heating and cooling of the house through window placement and overhangs. This requires technical accuracy and an understanding of architectural and physics principles. –ar 16:9",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-40-Blueprint-Passive-Solar-Design.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "Creative"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-41",
+      "title": "Scientific Plant Cell Illustration",
+      "prompt": "A detailed, scientific illustration of a plant cell, in the style of a modern biology textbook. The illustration should be a 3D cross-section, clearly showing and labeling the cell wall, cell membrane, nucleus, chloroplasts, and other organelles. The colors should be clear and distinct for each organelle. This requires accurate, knowledge-based rendering for scientific education. –ar 4:3",
+      "media": "image",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-41-Scientific-Plant-Cell-Illustration.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Seedream 5 Pro",
+        "3D"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    }
+  ]
+}

@@ -1,0 +1,954 @@
+{
+  "items": [
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-8313-473",
+      "title": "Bioluminescent Archivist Sci-Fi Portrait Prompt",
+      "prompt": "{ \"vibe_title_en\": \"Bioluminescent Archivist\", \"master_prompt\": \"A hyper-realistic, cinematic close-up of The Protagonist situated in a claustrophobic, cluttered exo-botany research station. The subject looks directly into the lens with a piercing, intense gaze. The skin is textured with hyper-detailed 'practical effect' glowing veins and circuitry patterns that emit a soft cyan luminescence, appearing as applied UV-reactive makeup rather than CGI. Sweat and humidity are visible on the pores. The shoulders are encased in a rough, tactile armor made of slate shards and woven fiber-optic cables. The background is an incredibly busy, dense mess of hanging alien flora, dripping condensation, scattered glass specimen jars, and disorganized research notes, creating a 'lived-in' scientific chaos. Lighting is a dramatic mix of cool cyan ambient bioluminescence and a sharp magenta rim light cutting through the volumetric haze. Shot on a Hasselblad H6D-100c with an 80mm f/1.9 lens to capture the micro-texture of the glowing skin against the cluttered depth.\", \"meta\": { \"intent\": \"Cinematic Portraiture\", \"priorities\": \"Photorealism, Texture, Surreal Lighting\", \"device_profile\": \"Hasselblad H6D-100c\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Centralized close-up with cluttered depth layering\", \"layout\": \"Portrait\", \"camera_angle\": \"Eye-level, slightly angled\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Universal/Ambiguous\", \"face\": \"Intense gaze, hyper-realistic skin texture, wetness from humidity\", \"hair\": \"Braided or textured, interwoven with thin wires or vines\", \"body\": \"Shoulders visible, posture tense\", \"expression\": \"Piercing, mysterious, focused\", \"pose\": \"Direct engagement with the lens, slight turn of the head\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Symbiotic Armor\", \"material\": \"Slate, Rock, Fiber-optics\", \"color\": \"Dark Grey with Cyan accents\", \"fit\": \"Structured, Organic fit\" } ], \"accessories\": [ { \"item\": \"Embedded Circuitry Makeup\", \"color\": \"{argument name=\"makeup color\" default=\"Glowing Cyan/Blue\"}\", \"material\": \"UV Reactive Paint/Prosthetic\", \"brand_style\": \"Sci-Fi Practical Effect\" } ] }, \"environment\": { \"setting\": \"Subterranean Exo-Botany Lab\", \"surfaces\": \"Glass, wet metal, organic leaves, paper stacks\", \"depth\": \"Shallow depth of field, cluttered bokeh\", \"atmosphere\": \"Humid, hazy, dripping wet\", \"lens_interaction\": \"Slight condensation on lens, blooming highlights\" }, \"lighting\": { \"key\": \"Soft Cyan Bioluminescence (from subject/plants)\", \"fill\": \"Deep Blue ambient\", \"rim\": \"Sharp Magenta/Pink kicker light\", \"shadows\": \"Deep, crushed blacks for contrast\", \"color_temperature\": \"Cool (3200K mixe\" } }",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-8313-473-Bioluminescent-Archivist-Sci-Fi-Portrait-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Game Asset"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3167-840",
+      "title": "Cinematic Cyberpunk Tokyo Street Scene Prompt",
+      "prompt": "A cinematic medium shot of {argument name=\"Description of your character\" default=\"[Description of your character: e.g., a boy cwith blue hair and a leather jacket]\"} standing in a rain-slicked Tokyo street at night. Glowing neon signs in pink and teal reflecting in puddles. High detail, 8k resolution, volumetric lighting, futuristic cyberpunk atmosphere, shot on 35mm lens.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3167-840-Cinematic-Cyberpunk-Tokyo-Street-Scene-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Poster / Flyer"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-others-10581-211",
+      "title": "Star Wars SF Image Modification",
+      "prompt": "Erase the crab. Make the person slightly smaller in the center of the screen and make it Star Wars SF-like! Hmm Add a thick, blue glowing radiation line in a circle! Remove the radiation line and add lots of shooting stars.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10581-211-Star-Wars-SF-Image-Modification.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Creative"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29745-212",
+      "title": "Japanese Street Fashion Photography",
+      "prompt": "Amateur realism photography, candid urban moment, natural and spontaneous feel, shot on Canon EOS R5 with 35mm lens, natural available light, subtle motion blur on hair, realistic skin texture, film grain, photorealistic, highly detailed, 8k. A stunningly beautiful {argument name=\"subject\" default=\"young Japanese woman\"} in her {argument name=\"age\" default=\"early 20s\"}, flawless porcelain-smooth skin with soft milky almost translucent Japanese \"lokum\" texture, extremely smooth poreless velvety skin, subtle natural blush on cheeks, perfect fair Japanese skin tone with delicate pink undertones, luminous radiant masterpiece skin details. Long flowing black hair with gentle waves, some strands moving in the wind. Delicate natural makeup, big expressive doe-like eyes with soft genuine gaze, gentle real smile. Wearing a full monochrome look: {argument name=\"outfit\" default=\"oversized black leather blazer\"} with silver buttons, white ribbed tank top, high-waisted black tailored shorts, black sheer tights, chunky black combat boots with silver details, multiple thin silver necklaces. ITOUCH branding subtly on blazer lapel and boot strap. Pose: Leaning against a brutalist concrete wall, legs crossed, arms folded loosely, strong direct gaze at camera, powerful yet feminine stance. Cool neutral tones with strong shadows and highlights, minimalist modern mood, dramatic urban lighting, amateur realism, 8k, masterpiece.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29745-212-Japanese-Street-Fashion-Photography.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30801-323",
+      "title": "Botanical Garden Lifestyle Portrait",
+      "prompt": "A realistic outdoor lifestyle portrait of a {argument name=\"subject\" default=\"young woman with fair skin, soft natural facial features, and a calm, confident expression\"}. She has {argument name=\"hair style\" default=\"blonde hair styled in a relaxed low ponytail with a few loose strands framing her face\"}, creating a natural and effortless look. Her gaze is directed toward the camera with a gentle, composed expression. She is sitting comfortably on a classic wooden park bench with a relaxed posture, one leg crossed over the other and her hands resting naturally beside her. She is wearing a {argument name=\"outfit\" default=\"light blue off-shoulder casual top paired with a denim skirt\"}, creating a fresh spring-inspired outfit. She carries a small brown shoulder bag with a simple floral charm detail and wears delicate gold-toned bracelets and minimal accessories that complement the outfit without overpowering the scene. The environment is a beautiful botanical garden filled with colorful hydrangea flowers, lush green plants, and tall trees in the background. The setting feels peaceful and natural, with soft daylight filtering through the leaves. Gentle shadows, vibrant flowers, and greenery create a warm outdoor atmosphere. Captured with an 85mm portrait lens, shallow depth of field, soft natural daylight, realistic skin texture, cinematic color grading, high-resolution photography style, detailed fabric textures, natural colors, professional lifestyle photography, balanced composition, subtle background blur, authentic outdoor atmosphere, and ultra-realistic details.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30801-323-Botanical-Garden-Lifestyle-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-7704-242",
+      "title": "Isometric 3D Diorama of Product Evolution Prompt",
+      "prompt": "Input Variable: {argument name=\"topic\" default=\"[INSERT TOPIC]\"} (e.g., The History of Bread, The Making of Whiskey, The Story of Silk, The Evolution of Paper) System Instruction: Generate a hyper-realistic, isometric 3D diorama displayed on an unrolled antique map. Use the following logic to procedurally generate the scene: 1. Deconstruction: Analyze the Input: Break the topic into 3 Phases of Production (From Nature to Consumption). The Material Path: Identify the raw unit of the topic (e.g., Coffee Beans, Wheat Grains, Silk Cocoons, Wood Chips). This material will form the physical \"Road\" connecting the scenes. 2. Container (The Chart): The Object: A large, textured Parchment Scroll with curled edges, unrolled on a rich Mahogany wooden table. The Layout: An \"S-Curve\" Path winds through the center of the scroll, connecting three distinct raised platforms. The Timeline: Delicate black ink timeline markers (dates like 1600, 1850, 1920) run alongside the path. 3. Vignettes (The Production Line): CRITICAL: Do not generate Sci-Fi. Stick to Historic and Modern Classic aesthetics. Top Left - The Source): Concept: The Agricultural or Raw Origin. Visuals: Rows of crops, a mine, or a forest growing directly out of a wooden block base. Figures: Tiny farmers or laborers in period-appropriate rustic clothing harvesting the raw material. Top Right - The Industry): Concept: The Processing and Refinement (Industrial Revolution Era). Visuals: A factory or mill with Copper Stills, Brass Gears, Smokestacks, or Water Wheels . Figures: Workers operating machinery, steam rising from vents. Bottom Left - The Experience): Concept: The Final Consumption (The \"Golden Age\"). Visuals: A warm, inviting interior. A Victorian Pub, a Parisian Cafe, a Tailor Shop, or a Library. Figures: Patrons enjoying the finished product in a social setting. 4. The \"Hero\" Object (Bottom Right): Instead of a fourth building, the path ends at a Life-Sized \"Hero\" Object sitting on the paper. (e.g., A perfect porcelain Cup of Coffee, A Loaf of Sourdough, A Crystal Whiskey Tumbler). 5. Visual Syntax: The Path: The road connecting the buildings is NOT dirt or asphalt. It is a River of the Raw Material (e.g., A road paved with Coffee Beans or Wheat grains). Typography: An elegant Serif Header at the bottom: \"The Evolution of [Input]\". Lighting: Warm, indoor \"Library\" lighting. Soft shadows, rich wood tones, no harsh neons. Output: ONE image, 1:1 Aspect Ratio, Isometric Diorama, \"Anno 1800\" Strategy Game Aesthetic, High Texture,",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-7704-242-Isometric-3D-Diorama-of-Product-Evolution-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-17235-295",
+      "title": "Subway artist sketching perspective",
+      "prompt": "Do not change facial features. Photorealistic first-person view inside a {argument name=\"location\" default=\"bright subway car\"}. In hand is a {argument name=\"drawing tool\" default=\"spiral sketchbook with a pencil\"}. On the sketchbook page is a {argument name=\"sketch style\" default=\"black-and-white portrait sketch\"} of the exact same person, where the only colored element is their clothing. Sitting opposite is this same person looking at a phone. Outside the window is a green landscape. On both sides, other passengers are partially visible, unblurred. Soft natural daylight, shallow depth of field, cinematic atmosphere. Hyperrealistic skin, detailed facial textures, natural expression. 8K photorealism quality. Aspect ratio 9:16.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-17235-295-Subway-artist-sketching-perspective.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22457-672",
+      "title": "Seal Team Six Desert Portrait",
+      "prompt": "Photorealistic cinematic portrait of a handsome, rugged {argument name=\"subject\" default=\"young man in his late 20s\"} with striking blue eyes, sharp jawline, dark wavy medium-length hair, and short stubble beard, sitting in the open door of a tan military Humvee-style vehicle in a bright desert environment. He is wearing full desert camouflage combat uniform with subtle patterns, a tan tactical plate carrier vest with multiple pouches, and tan combat gloves. A black assault rifle with red-dot scope and tactical attachments rests across his lap, firmly held with both gloved hands. A name patch on his vest clearly reads \"{argument name=\"name patch\" default=\"PromptersMX\"}\". He has a serious, focused expression, looking off to the right side of the frame with intense gaze. Strong desert sunlight creates realistic highlights and shadows on his face and gear, with fine dust particles visible in the air. Detailed textures on fabric, tactical equipment, and skin. Shot on professional camera, highly detailed, 8k resolution, cinematic color grading, realistic military photography style.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22457-672-Seal-Team-Six-Desert-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Product Marketing"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-8372-476",
+      "title": "Minimalist Single-Pose Character Illustration Prompt",
+      "prompt": "Illustrate [SUBJECT] in one clear, static pose. Reduce clothing and anatomy to basic forms. Use soft lighting and restrained color palette. The figure should feel modern and design-led.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-8372-476-Minimalist-Single-Pose-Character-Illustration-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Game Asset"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-2997-843",
+      "title": "Prompt for Bollywood Poster Style Indian Actress in Blue Saree",
+      "prompt": "Blue saree Indian actress Bollywood poster style prompt, elegant and dreamy composite.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-2997-843-Prompt-for-Bollywood-Poster-Style-Indian-Actress-in-Blue-Saree.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Poster / Flyer"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-others-10582-212",
+      "title": "Hermes and Constellation Fantasy Image",
+      "prompt": "Man straddling stars Golden aura on the armillary sphere Background is space Shooting stars Hmm, next Aqua sphere + Taurus constellation in the aqua sphere + Make the Taurus constellation inside the aqua sphere look like Greek mythology!",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10582-212-Hermes-and-Constellation-Fantasy-Image.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Creative"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29767-213",
+      "title": "Sahara Desert Cinematic Portrait Prompt",
+      "prompt": "A weathered {argument name=\"subject description\" default=\"late-20s man\"}. Clothing: Flowing cream-colored linen tunic, wide-leg loose-fitting desert trousers in a sandy hue, draped pashmina scarf. Footwear: Distressed leather open-toe sandals. Accessories: Silver cuff bracelets, leather satchel worn across the body, dark square-frame sunglasses. Pose: Walking away from the camera, looking back over his shoulder towards a vast landscape. Camera Setup: Nikon Z9, 70-200mm lens (shot at 150mm), f/4.0. Angle of Capture: Full body, wide shot, slightly elevated to capture the environment. Setting: {argument name=\"setting\" default=\"Endless sand dunes\"} under a clear blue sky. Lighting/Mood/Time of Day: {argument name=\"lighting\" default=\"Harsh, direct mid-day sun\"}, creating strong shadows, epic and mysterious mood. Style and Finish: Cinematic landscape portrait, extreme depth-of-field, warm desert color palette, high detail on sand texture. KEEP FACE FEATURES IDENTICAL FROM ATTACHED PHOTO Negative Prompt : Modern buildings, lush vegetation, blur, bad anatomy, extra limbs, poor quality, noisy, out of focus, duplicate elements, weird textures, digital, beige turtleneck.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29767-213-Sahara-Desert-Cinematic-Portrait-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30693-324",
+      "title": "Cozy Modern Indoor Lifestyle Portrait",
+      "prompt": "A realistic lifestyle portrait of a {argument name=\"subject\" default=\"young adult woman with fair skin, soft facial features\"}, and a calm, natural expression. She has smooth medium-length hair styled neatly, with subtle texture and a relaxed appearance. Her eyes look gently toward the camera with a peaceful and confident mood, creating a warm and approachable atmosphere. She is sitting comfortably on a soft textured rug in a relaxed indoor pose, with natural body posture and hands resting casually. She is wearing a {argument name=\"top\" default=\"simple fitted sleeveless top\"} paired with {argument name=\"bottom\" default=\"comfortable light-colored shorts\"}, creating a minimal and elegant casual style. No visible logos or branding. The outfit has clean lines and a soft fabric texture, complemented by a simple, understated aesthetic. The environment is a cozy modern room with warm wooden walls, large windows, a small indoor plant, and soft decorative elements. Natural sunlight enters through the windows, creating gentle highlights and realistic shadows across the room. The atmosphere feels peaceful, warm, and inviting with a connection to nature. Captured with an 85mm portrait lens, shallow depth of field, soft natural window lighting, realistic skin texture, cinematic color grading, high-resolution photography style, ultra-detailed, professional lifestyle photography, balanced composition, warm tones, realistic proportions, subtle background blur, natural shadows, and authentic indoor atmosphere.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30693-324-Cozy-Modern-Indoor-Lifestyle-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-7578-244",
+      "title": "Infographic for Minato-ku Women's Fashion Magazine",
+      "prompt": "Design a feature page for a fashion magazine read by beautiful Minato-ku women. The content should be systematic, constructive, and easy to understand. Include icons, photos, graphs, diagrams, and handwritten pop-ups if necessary.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-7578-244-Infographic-for-Minato-ku-Women-s-Fashion-Magazine.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-17233-296",
+      "title": "Cinematic police raid scene",
+      "prompt": "ultra realistic photo, young woman with {argument name=\"subject appearance\" default=\"pale skin and long black hair\"}, same face as reference, emotionless expression, slightly tired eyes, standing with hands behind her back as if handcuffed, relaxed posture, slight head tilt, confident “I regret nothing” attitude {argument name=\"location\" default=\"luxury modern apartment at night, panoramic windows with city lights, expensive minimalistic interior\"}, cinematic atmosphere large wooden table in front of her covered with: huge stacks of {argument name=\"currency\" default=\"US dollars and euro banknotes\"}, slightly messy but mostly organized, black duffel bag filled with cash, partially open, multiple smartphones (latest models), 2-3 laptops (MacBook style), many bank cards spread in rows across the table behind and around her: tactical officers in black uniforms (special forces style), faces covered, actively searching the apartment, some opening шкафы and shelves, some walking in the background, one officer standing near the table pointing at the money cinematic lighting, soft cold light from windows mixed with warm interior light, realistic shadows, reflections on table medium shot, slightly low angle, focus on the girl, shallow depth of field, background slightly blurred dark luxury, tension, realistic raid scene, controlled chaos.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-17233-296-Cinematic-police-raid-scene.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22474-673",
+      "title": "Ancient Chinese Empress Palace Portrait",
+      "prompt": "An ultra-realistic, cinematic shot of a stunning {argument name=\"subject\" default=\"East Asian woman\"} styled as an {argument name=\"role\" default=\"ancient Chinese empress\"}, lounging gracefully in a lavishly decorated palace courtyard at night. She is dressed in an exquisite, {argument name=\"outfit\" default=\"shimmering gold and champagne-colored silk hanfu robe\"} with intricate floral embroidery, a strapless sweetheart bodice, and a metallic gold sash cinched at her waist. Her dark hair is styled in an elegant, voluminous updo, adorned with an elaborate golden phoenix crown, dangling tassels, and delicate hairpins. She wears a matching gold filigree necklace and long, ornate earrings, with a traditional red huadian forehead mark accentuating her features. The background is a breathtaking, softly blurred scene filled with warm, glowing paper lanterns, blooming cherry blossoms, and traditional wooden pavilions under a twilight sky, casting a warm, romantic, and ethereal golden light across the entire scene.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22474-673-Ancient-Chinese-Empress-Palace-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Product Marketing"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-8269-478",
+      "title": "3D Anthropomorphic Bunny Character Prompt",
+      "prompt": "{ \"subject\": { \"type\": \"anthropomorphic bunny\", \"species\": \"rabbit\", \"gender\": \"not specified\", \"age_representation\": \"childlike / cartoon-styled\", \"pose\": \"standing on hind legs with one leg lifted forward, one arm raised upward, the other arm slightly bent outward\", \"expression\": \"happy, joyful, open-mouthed smile\", \"emotion\": \"cheerful, playful\" }, \"head_and_face\": { \"head_shape\": \"round and fluffy\", \"fur_color\": \"pure white\", \"fur_texture\": \"very soft, dense, fluffy, fine strands visible\", \"eyes\": { \"size\": \"very large\", \"shape\": \"round\", \"color\": \"blue with darker outer ring\", \"pupils\": \"large black pupils\", \"eye_style\": \"glossy, reflective, cartoon-like\" }, \"nose\": { \"size\": \"small\", \"shape\": \"rounded\", \"color\": \"soft pink\" }, \"mouth\": { \"state\": \"open\", \"shape\": \"small rounded opening\", \"inner_color\": \"dark pink\", \"teeth\": \"not visible\" }, \"cheeks\": { \"shape\": \"puffy\", \"tint\": \"light pink blush\" } }, \"ears\": { \"count\": 2, \"position\": \"upright\", \"shape\": \"long and slightly curved\", \"outer_fur\": \"white and fluffy\", \"inner_ear_color\": \"light pink\", \"accessory\": { \"type\": \"small hair band\", \"color\": \"red\", \"placement\": \"wrapped around one ear\" } }, \"body\": { \"proportions\": \"chubby, small torso with oversized head\", \"fur_color\": \"white\", \"fur_texture\": \"plush, soft, evenly groomed\" }, \"clothing\": { \"outfit_type\": \"overalls\", \"material_appearance\": \"soft fabric with visible texture\", \"color\": \"{argument name=\"overalls color\" default=\"yellow\"}\", \"design\": { \"straps\": 2, \"buttons\": { \"count\": 2, \"shape\": \"round\", \"color\": \"pink\", \"decoration\": \"flower-shaped\" } }, \"fit\": \"loose and rounded around the belly\" }, \"limbs\": { \"arms\": { \"count\": 2, \"fur_color\": \"white\", \"pose\": { \"left_arm\": \"raised upward in a waving gesture\", \"right_arm\": \"slightly bent outward\" }, \"paws\": { \"shape\": \"small and rounded\", \"pads_color\": \"light pink\" } }, \"legs\": { \"count\": 2, \"pose\": { \"support_leg\": \"standing firmly on ground\", \"raised_leg\": \"lifted forward in playful motion\" }, \"feet\": { \"shape\": \"rounded\", \"pads_color\": \"light pink\" } } }, \"background\": { \"type\": \"solid color\", \"color\": \"{argument name=\"background color\" default=\"coral / warm reddish-pink\"}\", \"texture\": \"smooth, gradient-free\" }, \"lighting\": { \"type\": \"soft studio lighting\", \"direction\": \"even frontal lighting\", \"shadows\": \"soft and subtle beneath the feet\", \"highlights\": \"gentle highlights on fur and eyes\" }, \"render_style\": { \"style\": \"3D animated character\", \"realism_level\": \"stylized realism\", \"fur_detail\": \"high strand\"",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-8269-478-3D-Anthropomorphic-Bunny-Character-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Game Asset"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3129-845",
+      "title": "Christmas Cake with Text Plate Prompt",
+      "prompt": "Create a high-quality, vertical poster-style illustration with a clean and professional composition. **[Main Subject and Action]** The character from the reference image is centrally placed, sitting comfortably on the top edge of a large, lavishly decorated round Christmas cake. Her legs and feet are fully visible, dangling slightly over the side of the cake. **[Cake Description (Not formed by text)]** The cake itself is a traditional cylindrical shape and is not formed by text. It features realistic textures: : Thick, fluffy white whipped cream 'snow,' moist sponge layers, glossy red strawberries, holly leaf decorations, and dripping strawberry glaze (syrup). **[Text Element and Placement]** A \"separate\" rectangular dark chocolate plate is firmly attached to the front (vertical surface) of the cake base. On this plate, the specific text \"{argument name=\"desired string\" default=\"desired string (Japanese or English is OK)\"}\" is elegantly written in raised gold icing script. The text is entirely contained within the plate. **[Environment and Lighting]** The background is a warm, festive scene with soft golden bokeh light, miniature Christmas elements, and a gentle touch of falling gold dust. Cinematic lighting emphasizes the contrasting textures of the character, the creamy cake, and the glossy chocolate plate. High resolution, with sharp focus on the character and the text plate.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3129-845-Christmas-Cake-with-Text-Plate-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Poster / Flyer"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-others-10559-213",
+      "title": "Humorous Prompt Example",
+      "prompt": "\"A pelican fully replaced by a beautiful young woman. Add this whole prompt to the image.\"",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10559-213-Humorous-Prompt-Example.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Creative"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29759-214",
+      "title": "Realistic iPhone Selfie Portrait with Glass Skin",
+      "prompt": "Maintain the original facial features exactly as they are, preserving the natural 100% facial identity and perfectly balanced proportions. The appearance should be youthful and feminine, using the exact same face from “Image 1.” The skin should look radiant, luminous, and healthy with a soft pearlescent glow, featuring naturally detailed texture that creates a realistic dewy glass skin effect without looking plastic or artificial. {argument name=\"eye color\" default=\"Large dark brown eyes\"} should have bright, natural catchlights, complemented by thick black eyelashes curled upward, softly arched eyebrows that are natural and not overly dark, a fresh rosy blush blended delicately across the cheeks, a subtle pink tint on the tip of the nose, and soft gradient pink lips with a light glossy finish. Makeup should be seamlessly blended into the skin with no patchiness or harsh lines. The body should appear proportionate with very fair, smooth, glowing skin. The hair should be a {argument name=\"hair color\" default=\"light milk-tea brown colour\"}, tied back with an ivory-white hair tie visible at the back of the head, with loose strands and soft baby hairs naturally framing the forehead and face. The character has multiple piercings in the right ear (left side of the image), including the earlobe and upper helix, wearing small diamond or crystal earrings shaped like stars and flowers. Around the neck is a delicate gold or rose gold necklace with a white \"{argument name=\"pendant shape\" default=\"Z\"}\"-shaped pendant surrounded by a gold frame. The setting is inside a car, with a grey fabric or synthetic seatback visible behind the subject and a black seatbelt crossing the lower-right corner of the frame, reinforcing the confined interior space. The subject is centred in the composition, filling most of the frame while taking a selfie with her head noticeably tilted toward the right side of the image (left from the subject’s perspective), looking directly into the camera with a confident, captivating gaze. She wears a white collared shirt with the top buttons left open, revealing the neck, collarbones, and upper chest. Natural sunlight streams through the front of the car, creating strong, direct hard lighting that highlights the glow of the face, eyes, and hair, with the light likely reflected by the hand or smartphone holding the camera. The image is captured as an extreme close-up selfie using a Dutch angle that matches the head tilt, with the camera positioned at eye level or slightly above and angled downward. The composition focuses almost entirely on the face, neck, and upper chest, leaving very little of the surrounding environment visible to emphasise the skin texture, lighting, shadows, and expressive eyes. The image should have a 9:16 aspect ratio, ultra-high 8K resolution, and the realistic quality of a photo taken with the latest iPhone. Negative Prompt: low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crossed eyes, extra limbs, missing limbs, fused fingers, extra fingers, watermark, text, signature, illustr",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29759-214-Realistic-iPhone-Selfie-Portrait-with-Glass-Skin.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30814-325",
+      "title": "Spiderman Skyscraper Editorial Portrait",
+      "prompt": "{ \"prompt_style\": \"photorealistic superhero editorial photo\", \"subject\": { \"Person\": \"{argument name=\"subject name\" default=\"Person Name/Uploaded Image\"}\", \"pose\": \"clinging to the exterior of a glass skyscraper, one arm extended overhead with palm flat against the glass, opposite leg bent and foot braced against the window frame, other arm hanging loosely, body angled diagonally as if caught mid-climb\", \"expression\": \"focused, alert, looking off to the side as if scanning the street below\", \"camera_angle\": \"slightly low angle, three-quarter view, shot from outside the building looking up and across\" }, \"suit_design\": { \"name\": \"{argument name=\"suit version\" default=\"Brand New Day suit (fan-original design)\"}\", \"primary_colors\": \"bright red torso/arms, deep navy blue lower body and side panels\", \"chest_emblem\": \"large black spider symbol, angular modern silhouette, centered on chest\", \"web_pattern\": \"fine black web-line stitching across red sections, thinning out on navy sections\", \"texture\": \"red areas: matte compression fabric with raised web-stitch detail; navy areas: subtle hexagonal micro-texture, almost like body armor weave\", \"trim\": \"black piping along shoulder seams, ribs, and outer arm/leg lines\", \"gloves\": \"red, web-patterned, form-fitting\", \"wrist_gadget\": \"black mechanical wristband/web-shooter with a small glowing blue light strip, worn on the raised arm\", \"boots\": \"red with black sole trim, web-patterned, knee-high, form-fitting\", \"knee_detail\": \"reinforced navy knee pads with fine textured paneling\", \"belt\": \"black segmented utility band at the waist\", \"material_feel\": \"high-end movie-costume quality, slightly reflective under sunlight, not cartoonish or glossy plastic\" }, \"setting\": { \"location\": \"exterior of a modern glass office skyscraper, Manhattan\", \"background\": \"hazy daytime city skyline, visible landmark spire (One World Trade Center style silhouette) in the distance, soft atmospheric perspective\", \"surface\": \"floor-to-ceiling glass curtain wall with visible metal mullions, faint reflection of the character visible in the glass\", \"time_of_day\": \"clear daytime, soft directional sunlight from one side\" } }",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30814-325-Spiderman-Skyscraper-Editorial-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-7434-245",
+      "title": "Ultra-realistic Commercial Veg Burger Photography and Exploded View",
+      "prompt": "Motion Prompt: The burger start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects. IMAGE 1 - Ultra-realistic studio food photography of a freshly prepared {argument name=\"burger type\" default=\"vegetarian\"} burger, centered in frame. A soft sesame seed bun on top, layered with ripe red tomato slices, melted cheddar cheese, a thick grilled veg patty with visible vegetables (corn, peas, carrots), crisp green lettuce, and a soft bottom bun. Perfectly stacked and symmetrical. Neutral light grey studio background with subtle texture, soft diffused lighting, gentle shadows beneath the burger, high sharpness and natural colors. Premium fast-food commercial style, realistic textures, glossy highlights on cheese and bun, shallow depth of field, ultra-high resolution, clean composition, no text, no labels, no hands, no props, no watermark. IMAGE 2 - Exploded view of the same veg burger, presented as a clean, commercial recipe-style breakdown. Exactly five ingredients, separated and arranged vertically from top to bottom, evenly spaced and perfectly aligned. Ingredient order (top → bottom): Fresh tomato slices — 30 g Cheddar cheese slice — 25 g Grilled veg patty — 90 g Crisp lettuce — 20 g Soft sesame burger bun — 80 g (bottom base) Add clear infographic-style annotations for each ingredient with exact weights. Minimal, instructional, commercial style on a light neutral background.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-7434-245-Ultra-realistic-Commercial-Veg-Burger-Photography-and-Exploded-View.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-17232-297",
+      "title": "Rotoscoping animation style conversion",
+      "prompt": "Rotoscoping style illustration of a {argument name=\"subject\" default=\"real person\"} based on the reference image, preserving exact facial features, pose, and expression, clean hand-drawn outlines, smooth vector-like shading, semi-realistic proportions, subtle color gradients, minimal but accurate background, cinematic lighting, high detail, crisp edges, animation frame aesthetic, inspired by {argument name=\"animation style\" default=\"classic rotoscope animation techniques\"}, 4k quality, sharp focus",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-17232-297-Rotoscoping-animation-style-conversion.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22468-674",
+      "title": "Fashion Studio Leather Dress Portrait",
+      "prompt": "Create a hyper-realistic fashion studio portrait, ultra-detailed, 8K, with professional studio lighting. A {argument name=\"subject\" default=\"woman\"} sits on a white marble counter in a modern setting, wearing a {argument name=\"outfit\" default=\"strapless dark brown leather mini dress\"}, form-fitting with a glossy texture. She wears {argument name=\"footwear\" default=\"over-the-knee brown boots\"}. Her hair is identical to the reference image, long and loose. Expression serious and confident, looking directly at the camera.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22468-674-Fashion-Studio-Leather-Dress-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Product Marketing"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-8279-480",
+      "title": "Cinematic Hamster Deadlift Video Prompt",
+      "prompt": "Ultra-realistic cinematic gym scene featuring a small tan-and-white hamster wearing a beige baseball cap, silver over-ear headphones, and a white lifting belt. Scene opens with the barbell resting fully on the ground on a worn wooden lifting platform. The hamster is in a proper deadlift stance — feet planted wide, paws gripping the bar, back straight, head slightly lifted forward. 0–4 seconds: Slow, dramatic buildup. The hamster struggles to initiate the lift — muscles tense, fur slightly trembling, paws tightening on the bar. Subtle body shake, controlled strain, deep focus. No camera shake. No text. No flashy effects. 4–8 seconds: The hamster successfully deadlifts the barbell in one smooth, powerful motion, lifting it from the floor to full standing lockout. Chest up, shoulders back, bar held firmly at hip level. The effort turns into quiet triumph. Cinematic low front angle throughout to exaggerate scale and power. Shallow depth of field with a modern gym environment softly blurred in the background. Cool neutral gym lighting with realistic reflections on metal plates and soft shadows on the floor. Style: Hyper-realistic, premium movie realism, high contrast, clean motion, no distortion, no surreal physics, no bar intersecting the body, no camera jumps, no visual noise. Emotional tone: determination → victory.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-8279-480-Cinematic-Hamster-Deadlift-Video-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Game Asset"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3118-849",
+      "title": "Nano Banana Pro Calligraphy Font Generator",
+      "prompt": "---------- Solid white background (#ffffff). Write the text \"{argument name=\"text to write\" default=\"謹賀新年\"}\" in solid black (#000000) vertically in the center (single line, no line breaks). ・The font should be a powerful brushstroke style, skillfully reproducing Japanese calligraphy and ink expressions. ・Dynamic and powerful, expressing the momentum of ink splatters. ・There should be a contrast between stillness and movement, with all lines fluidly expressing the trajectory of the brushstrokes. ・A design of extremely high quality and artistic merit, written by a master calligrapher. ----------",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3118-849-Nano-Banana-Pro-Calligraphy-Font-Generator.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Poster / Flyer"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-others-10563-214",
+      "title": "Minecraft Stylization Prompt",
+      "prompt": "Keep the character unchanged. Stylize the environment.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10563-214-Minecraft-Stylization-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Creative"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29753-215",
+      "title": "Luxury Skyscraper Penthouse Portrait",
+      "prompt": "Ultra-photorealistic 8K RAW DSLR portrait of the {argument name=\"subject\" default=\"exact same man from the reference image\"} — preserve his face with near-perfect identity, facial proportions, skin tone, hairstyle, beard, and natural expression. He is standing confidently inside an ultra-luxurious modern glass penthouse perched atop one of the world's tallest skyscrapers, positioned high above a vast sea of soft white clouds. The atmosphere feels exclusive, peaceful, and impossibly elegant. The penthouse features floor-to-ceiling crystal-clear glass walls with invisible frameless panels, polished Italian white marble flooring with subtle natural veining, warm walnut wood accents, brushed champagne-gold architectural details, and minimalist designer furniture crafted from leather and natural stone. A grand floating staircase, sculptural lighting fixtures, indoor olive trees, curated contemporary artwork, and an elegant black grand piano add refined sophistication without distracting from the subject. Behind him, an awe-inspiring sunrise bathes the skyline in rich golden-hour light. Hundreds of glass skyscrapers stretch toward the horizon, their reflective facades glowing with warm amber, soft orange, and pale pink hues. Thick clouds drift far below the building, creating the illusion that the penthouse floats above the world. The distant city gradually disappears into atmospheric haze, enhancing the immense scale and realism. He wears an {argument name=\"outfit\" default=\"impeccably tailored luxury charcoal double-breasted suit\"} with subtle textured fabric, a crisp white dress shirt with the top button undone, premium leather loafers, and an elegant mechanical wristwatch. His posture is relaxed yet powerful—one hand casually in his pocket while the other lightly rests against the glass wall, looking toward the sunrise with quiet confidence. His clothing reacts naturally to a gentle breeze from an open terrace. Natural sunlight pours through the glass, producing physically accurate global illumination, realistic soft shadows, subtle reflections on the polished floor, and lifelike highlights across his face. His skin shows authentic pores, fine facial hair, natural imperfections, realistic subsurface scattering, and balanced tonal transitions. Every material—glass, marble, leather, brushed metal, wood, and fabric—exhibits true-to-life textures and physically accurate reflections. Captured with a full-frame professional DSLR using an 85mm f/1.4 prime lens, shallow depth of field, HDR imaging, cinematic composition, razor-sharp focus on the face, realistic optical bokeh, high dynamic range, volumetric sunlight, atmospheric perspective, perfectly balanced exposure, editorial luxury fashion photography aesthetic, architectural photography quality, National Geographic-level realism, premium real-estate visualization quality, natural color grading, hyper-detailed, masterpiece, visually breathtaking.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29753-215-Luxury-Skyscraper-Penthouse-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30690-326",
+      "title": "Y2K Paparazzi Luxury Hair Shot",
+      "prompt": "Use the uploaded photo as the exact facial reference and preserve the person’s identity with maximum accuracy. Keep the same facial structure, proportions, eyes, nose, lips, jawline, cheeks, and natural features without reshaping, slimming, enlarging, beautifying, or applying any artificial face filter. Create an authentic early-2000s Y2K flash photograph with strong direct frontal camera flash, bright natural highlights, subtle digital-camera grain, realistic exposure falloff, and a raw DSLR look that feels like a real celebrity paparazzi beauty shot rather than CGI. Give the subject extremely long, thick, luxurious {argument name=\"hair color\" default=\"chestnut-brown\"} hair with huge crown volume, glamorous blown-out waves, dimensional brunette highlights, individual visible strands, natural flyaways, and a dramatic hair halo surrounding the face, with the hair taking up around half of the frame. Use an {argument name=\"camera angle\" default=\"extreme low-angle camera\"} positioned clearly below eye level, with the head slightly tilted back, chin raised, and eyes looking upward, while the face fills around 65–70% of the frame in a very tight beauty-editorial crop with minimal clothing and shoulders visible. The expression should intentionally contrast with the glamorous styling: playful, awkward, weird, slightly chaotic, and naturally funny, like an unexpected candid moment. Keep the lips naturally proportioned while giving them a {argument name=\"lip color\" default=\"soft pink ombré\"} tone, hydrated glossy finish, subtle highlights, and realistic texture. Preserve authentic skin detail including pores, peach fuzz, fine texture, natural imperfections, and realistic flash reflections, avoiding plastic or overly smooth skin. Add subtle imperfections such as tiny exposure variations, realistic flash hotspots, and gentle digital-camera grain to make the image feel genuinely photographed. Overall, create a photorealistic luxury hair and beauty campaign with a nostalgic Y2K celebrity aesthetic, premium editorial quality, realistic hair and skin, natural lighting behavior, and an unmistakably authentic photographic appearance.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30690-326-Y2K-Paparazzi-Luxury-Hair-Shot.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-7423-246",
+      "title": "Encyclopedia of Flavor Diorama Generator",
+      "prompt": "Input Variable: [{argument name=\"cuisine or dish\" default=\"INSERT CUISINE OR DISH\"}] (e.g., Persian Kebabs, Japanese Sushi, Italian Pasta, Mexican Tacos) System Instruction: Generate a hyper-realistic, wide-angle (16:9) 3D diorama of an \"Encyclopedia of Flavor.\" Use the following logic to procedurally generate the scene: 1. Flavor Profiling: Analyze the Input: Determine the Region , Staple Ingredients , and Cooking Method . (e.g., Kebab = Fire/Coal, Rice, Meat. Sushi = Water, Fish, Rice). The Terrain: The pages of the book must physically transform into the landscape of the cuisine. Grain: Rice or Couscous forms dunes. Liquid: Sauces or Broths form rivers. Solid: Bread or Meat forms mountains/cliffs. 2. Container (The Wide Atlas): The Object: A massive, horizontal Landscape-Format Atlas lying open on an aged wooden banquet table. The Spine: Runs horizontally through the center, acting as the \"Equator\" or \"Main Road\" of the scene. The Paper: Parchment texture. The edges of the pages are tattered and stained with spices (Saffron, Paprika, Turmeric). 3. Panoramic Composition (Left to Right Flow): CRITICAL: Do not place distinct plates. Create a continuous flow across the open spread. Left Side (The Origin - Agriculture): The raw ingredients grow out of the paper. (e.g., Wheat stalks rising from the text; Cattle grazing on parsley fields; Fishermen casting nets into ink-blue water). Center (The Process - The Kitchen): The spine is the cooking zone. (e.g., A miniature Tandoor oven or Grill built into the book binding; Steam rising volumetrically). Right Side (The Result - The Feast): The finished dish explodes in scale. (e.g., A mountain of Saffron Rice topped with the Kebab; A Ziggurat of Sushi). 4. The Micro-Population The Figures: 1:87 Scale (HO Scale) figures populate the landscape. The Action: They are working the food. Harvesting: Picking herbs from the margins. Transporting: Carrying giant peppercorns like boulders. Cooking: Using flamethrowers to char the meat or rakes to fluff the rice. 5. Lighting & Atmosphere: Aspect Ratio: 16:9 Horizontal. Lighting: \"Golden Hour\" side-lighting. It should skim across the texture of the food and the paper grain, emphasizing the \"Landscape\" feel. Steam: Volumetric steam connects the three zones (Left, Center, Right). Output: ONE image, 16:9 Aspect Ratio, Macro Diorama Photography, Octane Render, High Texture Fidelity.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-7423-246-Encyclopedia-of-Flavor-Diorama-Generator.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-16967-298",
+      "title": "Multi-Panel Comic Illustration",
+      "prompt": "\"{argument name=\"subject\" default=\"Boy and dragon\"} become friend, {argument name=\"style\" default=\"american comic multi-panel illustration\"}, diagonal layout, {argument name=\"panel count\" default=\"six panels\"}, cinematic storytelling, clear reading flow, with speech bubbles.\"",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-16967-298-Multi-Panel-Comic-Illustration.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22486-675",
+      "title": "Conceptual Pressure Surreal Portrait",
+      "prompt": "Ultra-realistic conceptual portrait of a young man carrying a massive realistic stone version of his own face on his back like a burden. The sculpture is cracked and weathered while he struggles slightly under its weight. He wears neutral-toned streetwear with layered textures and rugged sneakers. Typography: * “{argument name=\"small text\" default=\"THEY ALL EXPECT MORE\"}” in tiny handwritten text * Huge brutalist typography: “{argument name=\"large text\" default=\"PRESSURE\"}” * “{argument name=\"crossed out\" default=\"ENOUGH\"}” crossed out in red marker strokes Minimal beige studio environment, soft directional lighting, dramatic realism, luxury fashion campaign mood, emotional surrealism.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22486-675-Conceptual-Pressure-Surreal-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Product Marketing"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-8356-481",
+      "title": "Character Design Prompt for Futuristic Samurai Warrior",
+      "prompt": "Futuristic Samurai Warrior w/ Carbon-Fiber Prosthetics",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-8356-481-Character-Design-Prompt-for-Futuristic-Samurai-Warrior.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Game Asset"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-2977-850",
+      "title": "Winter Solstice City Food Art Poster Prompt",
+      "prompt": "A city rendering digital art poster for 【{argument name=\"city name\" default=\"city name\"}】, with the Winter Solstice solar term as the overall background atmosphere. The core subject of the image is a floating miniature island, shaped like the selected city and occupying most of the frame. The outline of the island is similar to the city's map shape, seamlessly integrating the city's unique iconic landmarks, natural landscapes, and cultural elements. The miniature island is entirely carried or enveloped by the most representative traditional food imagery of the city during the Winter Solstice. Only one specific type of food should be chosen, determined by the city and regional culture (e.g., dumplings, tangyuan). Do not show a specific plate, but translate the form, texture, and structure of this oversized food into the island's shell, terrain, or supporting structure, making the city appear to grow upon this large Winter Solstice food item. The island is placed within a realistic yet restrained Winter Solstice cooking scene based on the traditional food mentioned above, such as a stove, boiling pot/steamer, or soup pot in a daily kitchen environment. However, background elements are presented with blurring and soft focus, only hinting at the atmosphere of life and cooking. Steam and heat slowly rise, combining with warm winter lighting to create a quiet, warm, and human-touch solar term atmosphere. Cinematic lighting, vibrant but restrained colors, aerial perspective, and winter light reflection effects. The number of buildings should not be too many or too dense. The interior of the island showcases a seamless blend of history and modernity: one part presents the city's most representative ancient historical buildings; the other part naturally transitions into the city's landmark buildings and skyline view, all reflecting the current weather conditions (must confirm real weather conditions). 3D text of the city's Chinese name, formed by the steam from the pot, floats above the miniature island. The text acts like a miniature ecological device coexisting with the Winter Solstice, food, and city culture. Around the frame and the main subject, add an information layout layer with a Winter Solstice festive atmosphere and local life feel, with the overall style conforming to traditional Chinese culture. Automatically retrieve basic city information and Winter Solstice solar term information related to 【city name】, providing a simple introduction. Text layout uses an asymmetrical, naturally distributed arrangement, scattered around the edges and negative space of the frame, avoiding strict grids and centered composition. In the corners or edges of the frame, present the city's geographical coordinates, alias, or founding year, and the weather and solar term reminder for the Winter Solstice day, in the style of a local festival poster or old calendar, as decorative information elements. The overall layout maintains significant negative space, but the atmosphere leans towards warmth, domesticity, and festivity. The copywriting should be concise and refined. Style requirements: Octane Render, C4D, Isometric City, Micro World, Living Ecosystem, 8k Resolution, DreamWorks style, 3D modeling, delicate, soft light projection Size: Vertical 9:16",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-2977-850-Winter-Solstice-City-Food-Art-Poster-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Poster / Flyer"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-others-10503-215",
+      "title": "Digital Splashes-and-Ink Portrait from Photo",
+      "prompt": "Create a vertical 3:4 digital splashes-and-ink portrait using my photo as the subject, rendered in illustrative sketch realism with painterly abstraction. Frame a medium close-up in a subtle half-quarter turn with a calm but intense, direct gaze; keep crisp linework and highest detail around the eyes, brows, and mouth, while allowing hair strands to stay loose and slightly wind-tossed.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10503-215-Digital-Splashes-and-Ink-Portrait-from-Photo.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Creative"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29765-216",
+      "title": "Black and White Fashion Portrait",
+      "prompt": "ultra-detailed black and white fashion portrait of a woman posing in a studio. Camera angle: medium portrait shot captured from slightly above eye level, framing the subject from chest upward. Pose: the woman tilts her head slightly back and to the side while her shoulders turn subtly away from the camera. Her gaze is directed toward the viewer through her glasses with a confident composed expression. Outfit: {argument name=\"outfit\" default=\"structured black pinstripe blazer with thin vertical white lines layered over a black fitted top with a low neckline\"}. Accessories: {argument name=\"accessories\" default=\"sleek rectangular eyeglasses with dark frames and small round stud earrings\"}. Hair: {argument name=\"hair style\" default=\"long voluminous hair styled in loose waves cascading over the shoulders\"}. Environment: minimal studio background with smooth neutral tones enhancing the monochrome editorial aesthetic. Lighting: classic studio portrait lighting creating soft highlights on the hair and face while maintaining deep contrast typical of black and white fashion photography",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29765-216-Black-and-White-Fashion-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30700-327",
+      "title": "Paris Sunset Balcony Lifestyle Editorial",
+      "prompt": "{ \"id\": \"paris_balcony_sunset_editorial_01\", \"prompt\": \"Ultra-realistic romantic Paris balcony lifestyle editorial portrait of a {argument name=\"subject description\" default=\"beautiful young adult woman with long voluminous champagne-blonde hair\"} styled in soft loose waves, subtle center part, natural movement, delicate flyaway strands, and softly illuminated edges from the sunset. Fair warm ivory skin with visible pores, realistic skin texture, subtle natural freckles across the cheeks, nose, shoulders, chest, and arms, fine facial vellus hair, natural skin variation, soft rosy blush, luminous but realistic complexion, feathered brows, delicate champagne eyeshadow, subtle brown eyeliner, separated wispy lashes, pale blue-gray eyes, and softly glossy natural rose-pink lips with realistic lip texture. She wears a {argument name=\"outfit description\" default=\"romantic pure-white cotton off-the-shoulder mini dress\"} with a fitted corset-inspired bodice, gathered sweetheart neckline, short puff sleeves sitting below the shoulders, fitted waist, and softly flowing gathered skirt with realistic cotton folds and stitching. A delicate silver chain necklace with a tiny cross pendant rests naturally against her collarbone. She is seated sideways on a narrow traditional Parisian apartment balcony, body turned slightly toward the camera, knees angled naturally to one side, both hands resting gently near her lap, shoulders relaxed, maintaining direct eye contact with a calm, dreamy expression. Behind her, the {argument name=\"landmark\" default=\"Eiffel Tower\"} rises clearly above classic cream Haussmann buildings with gray mansard rooftops, tree-lined Paris streets, wrought-iron balcony railings, and neighboring limestone façades. The sky is a dreamy pastel sunset gradient of warm peach, pale gold, blush pink, and soft blue. Gentle golden-hour light softly illuminates one side of her face and hair while maintaining realistic shadow detail and natural skin tones. Authentic high-end travel lifestyle photography rather than an overly polished studio photograph. Captured with an iPhone 15 Pro main camera aesthetic, 24mm equivalent lens, realistic smartphone HDR, natural perspective, crisp facial and hair detail, moderate natural depth of field, subtle background softness while keeping the Eiffel Tower recognizable, realistic exposure, no artificial portrait-mode cutout. Romantic Parisian summer aesthetic, quiet luxury travel editorial, Pinterest-inspired European vacation photography, Kodak Portra-inspired color rendering, RAW-like clarity, highly detailed hair strands, visible pores and freckles, realistic fabric texture, natural anatomy, ultra photorealistic, high resolution.\", \"negative_prompt\": \"cartoon, anime, CGI, illustration, painting, doll-like face, plastic skin, wax skin, airbrushed skin, excessive beauty filter, overly smooth skin, fake pores, excessive makeup, artificial freckles, distorted anatomy, unrealistic body proportions, extra limbs, extra finger\" }",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30700-327-Paris-Sunset-Balcony-Lifestyle-Editorial.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-7179-251",
+      "title": "Slide Document Generation Feature",
+      "prompt": "Just enter the information and press the 'Slide Document' button, and a slide like this will be completed.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-7179-251-Slide-Document-Generation-Feature.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-17000-299",
+      "title": "Surreal Birch Bark Portrait Prompt",
+      "prompt": "{ \"vibe_title_en\": \"Bark's Resistance\", \"master_prompt\": \"A hyper-realistic, medium format surreal portrait of {argument name=\"subject\" default=\"The Protagonist\"}. The subject features incredible practical-effect prosthetic makeup: their skin is cracking open down the neck and torso like dry, rough birch bark, revealing raw, fibrous wood underneath. Autumn leaves are organically intertwined into their hair. The subject stares directly into the camera with an unwavering, fierce 'Warrior's Resolve' and confrontational energy. Shot 'Through the Element': the camera peers through out-of-focus, decaying autumn foliage in the extreme foreground, creating profound depth. The setting is a shattered, overgrown dark botanical greenhouse. Dramatic dual-color lighting: a piercing deep blue ambient moonlight clashes with an intense, striking crimson red rim light that highlights the physical weight and jagged edges of the bark prosthetics. Captured on a Hasselblad H6D-100c, 100mm f/1.8 lens. Analog texture, Cinestill 800T halation, visible skin pores blending flawlessly into wood grain, physical light refraction, profound cinematic tension. NO NEON.\", \"meta\": { \"intent\": \"Surreal high-fashion editorial\", \"priorities\": \"Surreal practical effects, dual lighting, intense gaze, foreground framing\", \"device_profile\": \"High-end cinematic photography\" }, \"frame\": { \"aspect\": \"3:4\", \"composition\": \"Through the Element (foreground foliage), central subject alignment\", \"layout\": \"Medium close-up portrait\", \"camera_angle\": \"Eye-level, straight on\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless surreal entity\", \"face\": \"Fierce, direct eye contact, warrior's resolve\", \"hair\": \"Interwoven with dry autumn leaves\", \"body\": \"Skin cracking like birch bark, revealing fibrous wood inside the torso\", \"expression\": \"Confrontational, defiant, unwavering\", \"pose\": \"Standing firm, squaring shoulders to the lens\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Birch bark skin integration (prosthetic surrealism)\", \"material\": \"Wood and human skin\", \"color\": \"White, brown, dark fissures\", \"fit\": \"Body-mod\" } ], \"accessories\": [ { \"item\": \"Autumn leaves crown\", \"color\": \"Golden, rust orange\", \"material\": \"Organic dried leaves\", \"brand_style\": \"Avant-garde nature\" } ] }, \"environment\": { \"setting\": \"Shattered, overgrown botanical glasshouse\", \"surfaces\": \"Cracked glass, creeping vines, dry earth\", \"depth\": \"Shallow depth of field with heavy foreground occlusion\", \"atmosphere\": \"Tense, cold ambient with harsh aggressive localized heat\", \"lens_interaction\": \"Shooting through out-of-focus foreground leaves\" }, \"lighting\": { \"key\": \"Deep blue ambient (moonlight)\", \"fill\": \"Soft cool shadow\" }",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-17000-299-Surreal-Birch-Bark-Portrait-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22247-679",
+      "title": "Analog Repair Archive Surreal Portrait",
+      "prompt": "{ \"vibe_title_en\": \"{argument name=\"vibe\" default=\"Mechanical Weightlessness\"}\", \"master_prompt\": \"A hyper-realistic cinematic portrait of The Protagonist situated in the center of a dense 'Gadget Bonanza'—specifically a dusty, tactile {argument name=\"location\" default=\"Analog Repair Archive\"} filled with vintage electronics. SURREAL ELEMENT: Thousands of disassembled watch gears, copper coils, vacuum tubes, and shattered lens elements are floating in zero-gravity suspension around the subject, frozen in a mid-explosion pattern. The floating objects possess physical weight and cast realistic, hard shadows onto the subject's skin. The Protagonist looks forward with a calm, telekinetic intensity, unaffected by the debris field. FRAMING: Editorial Tight-Mid shot (mid-chest up) using a 70mm lens to compress the floating debris field behind the subject while keeping the face distortion-free. LIGHTING: Dramatic Rembrandt lighting; a strong key light carves the face, creating a triangle of light on the cheek, while fill light catches the glint of brass and glass hovering in the air. TEXTURE: Shot on Hasselblad X2D, mimicking Kodak Portra 800 film stock with visible grain. Authentic skin texture with pores visible. No CGI gloss; the floating parts must look like high-budget practical effects suspended by invisible wires.\", \"meta\": { \"intent\": \"Editorial Surrealism\", \"priorities\": \"Photorealism, Tactile Texture, Surreal Physics\", \"device_profile\": \"Hasselblad X2D 100C\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Centralized subject surrounded by a radial explosion of objects\", \"layout\": \"Tight-Mid Shot (Mid-chest up)\", \"camera_angle\": \"Eye Level\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Universal Template\", \"face\": \"Neutral to intense gaze, high detail on skin texture\", \"hair\": \"Slicked back or inferred, allowing floating debris to frame the head\", \"body\": \"Static posture, shoulders relaxed\", \"expression\": \"Focused, calm amidst chaos, 'Telekinetic' stare\", \"pose\": \"Head on, chin slightly down, eyes locking with the lens\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"{argument name=\"outfit\" default=\"Industrial Corset Top\"}\", \"material\": \"Translucent Vinyl and Mesh\", \"color\": \"Smoked Grey\", \"fit\": \"Structured, Tight\" } ] }, \"environment\": { \"setting\": \"Analog Repair Archive / Clockwork Workshop\", \"surfaces\": \"Dusty wood workbenches, scattered schematics, velvet trays\", \"depth\": \"Shallow depth of field, background is a bokeh of copper and steel\", \"atmosphere\": \"Dust motes dancing in light beams, heavy with the smell of solder and oil\", \"lens_interaction\": \"Slight chromatic ab\" } }",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22247-679-Analog-Repair-Archive-Surreal-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Product Marketing"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-7909-484",
+      "title": "Ultra-Realistic Cinematic Scene of Floating in Mid-Air",
+      "prompt": "Ultra realistic cinematic scene of my floating and falling in mid air above the clouds, dynamic upside down pose with legs bent and arms slightly raised, wearing black hoodie black pants black cap sunglasses and {argument name=\"shoe color\" default=\"red\"} sports shoes, dramatic sense of motion, two futuristic stealth fighter jets flying very close above and below the character with motion blur and heat trails, high altitude sky with soft clouds far below, daylight cinematic lighting, sharp focus on character, wide angle shot, epic scale, realistic physics, dramatic composition, 4k quality, no text, no logo, no watermark",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-7909-484-Ultra-Realistic-Cinematic-Scene-of-Floating-in-Mid-Air.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Game Asset"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-2982-851",
+      "title": "RPG Status Screen X Profile Prompt",
+      "prompt": "GENERAL STYLE & MOOD: A business card visual styled as a “Character Status Screen,” inspired by 1980s–1990s Japanese RPGs (Famicom–Super Famicom generation). The overall composition should be in pixel art style (8-bit to 16-bit), with a retro yet refined UI design. The layout should be organized like an in-game menu screen, maintaining a nostalgic feel while preserving modern resolution clarity. SUBJECT: Based on the icon in the attached image (Image 1) and the specified profile information, re-interpret the subject as an “RPG Character” and present the business card information in a status screen format. 1. Character Display: - Reconstruct the icon from the attached image (Image 1) into dot art (pixel conversion). - Place it as a character portrait on the left side of the status screen. - Use RPG-style UI borders (rounded corners or dotted lines). 2. Information Source and Character Analysis: - Subject: {argument name=\"subject\" default=\"hAru_mAki_ch (https://t.co/AfDkdOaTPw)\"} - Analyze the above profile and recent activities (posting frequency, technical field, content of statements, evaluations) to automatically calculate various RPG parameters. 3. Character Name/Title: - NAME: {argument name=\"name\" default=\"Maki @ Sunwood AI Labs.\"} - HANDLE: {argument name=\"handle name\" default=\"hAru_mAki_ch\"} - CLASS (Occupation): Name the estimated occupation based on activities in an RPG style. Examples: - AI Mage - Prompt Alchemist - Tech Sage - Digital Architect STATUS PARAMETERS (Calculated based on Activity): The following parameters should be quantified (1–99) based on actual activity status: - LV (Level): Calculated from years of activity × posting frequency × consistency - INT (Intelligence): Calculated from technical posts, frequency of specialized terminology use, and abstraction level of thought - TEC (Technical Skill): Calculated from the volume of AI / development / research / implementation output - CRE (Creativity): Calculated from the frequency of unique perspectives, prompt design, and idea posts - COM (Communication Power): Calculated from follower count, engagement, and post diffusion power - EXP (Experience Points): Comprehensive evaluation of past achievements, projects, and continuous activities * Ensure each value maintains a relative balance typical of an RPG (not all stats should be uniform). UI & TYPOGRAPHY: - Font should be a dot font (8-bit RPG style). - Text must be perfectly legible, without blurring or distortion. - Primarily use Japanese UI, with some English status names concurrently used. COLOR PALETTE: - Use a color palette extracted from the attached image (Image 1). - Composed using a limited color count reminiscent of 16-bit RPGs. - Background should be dark-toned, with high contrast for text and gauges. GRAPHIC ELEMENTS: - Status bars displayed as pixel gauges. - Icons (sword, book, gear, star, etc.) should also be unified in dot art. - UI borders and dividers should be in the style of an RPG menu. COMPOSITION: - The overall composition should be a “screenshot of an in-game status screen.” - While mindful of business card size ratio, maintain high information density. - Lay a faint dot pattern or grid in the background. CONSTRAINTS: - Name, handle, and URL must be accurately and exactly displayed. - Exclude meaningless strings or distorted characters. - Strictly adhere to the pixel art style; photo-realism is prohibited. - Maintain a consistent world view as an RPG UI. - Dynamically reconstruct based on the input {argument name=\"argument\" default=\"argument\"} and Image 1.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-2982-851-RPG-Status-Screen-X-Profile-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Poster / Flyer"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-others-10540-216",
+      "title": "Image Sequence Video Prompt (GPT-5 Generated)",
+      "prompt": "I created a video by specifying 4 images generated by Nano Banana Pro in the prompt so that they switch sequentially.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10540-216-Image-Sequence-Video-Prompt-GPT-5-Generated.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Creative"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29761-217",
+      "title": "Summer Beach Guitarist Portrait",
+      "prompt": "Subject: A late-20s {argument name=\"gender\" default=\"man\"}. Clothing: Loose, open-collared Hawaiian shirt with a {argument name=\"shirt pattern\" default=\"vibrant tropical print\"}, faded denim shorts. Footwear: Barefoot in the sand. Accessories: Acoustic guitar, dreadlock beads (optional to exclude), shell necklace. Pose: Sitting on a beach towel under a palm tree, strumming his guitar, smiling. Camera Setup: Canon EOS R6, 28mm lens, f/2.8. Angle of Capture: Medium wide shot, eye-level. Setting: {argument name=\"location\" default=\"Tropical beach with calm turquoise water and swaying palm trees\"}. Lighting/Mood/Time of Day: Bright, clear mid-day sun, happy and relaxed mood. Style and Finish: Vibrant, colorful travel photography, high saturation, clear detail on water and sand. KEEP FACE FEATURES IDENTICAL FROM ATTACHED PHOTO Negative Prompt : Winter clothes, formal attire, blur, bad anatomy, extra limbs, poor quality, noisy, out of focus, duplicate elements, weird textures, digital, beige turtleneck.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29761-217-Summer-Beach-Guitarist-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30703-328",
+      "title": "Sunlit Park Picnic Portrait",
+      "prompt": "A beautiful young {argument name=\"ethnicity\" default=\"East Asian\"} woman in her early 20s with fair skin, soft natural makeup, and a bright gentle smile, looking slightly to her left. She has long straight dark brown hair with soft bangs, slightly windswept. She is wearing a {argument name=\"headwear\" default=\"light pink sun visor\"}, a fitted {argument name=\"top\" default=\"cream-white sleeveless crop top\"} with delicate lace trim along the scoop neckline, and light gray athletic shorts with an elastic waistband. She is sitting cross-legged outdoors in a sunlit park, hands resting lightly on her legs. Soft golden-hour sunlight filters through green trees, creating warm bokeh highlights in the background. Natural skin texture, realistic photography style, shallow depth of field, high detail, soft cinematic lighting --ar 3:4 --stylize 250",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30703-328-Sunlit-Park-Picnic-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-7050-252",
+      "title": "Scientific field researcher's documentation board prompt",
+      "prompt": "A field researcher's documentation board for {argument name=\"animal or plant\" default=\"[ANIMAL / PLANT / ORGANISM]\"} — {argument name=\"scientific name\" default=\"[SCIENTIFIC NAME / HABITAT]\"}. Left section: scientific illustration showing anatomical details, life-cycle stages, or seasonal variation, with measurement scales and taxonomic classification. Center section: ecological context map showing range, habitat preferences, predator-prey relationships, and conservation status indicators. Right section: the subject in its natural habitat, captured in a decisive moment, behavior visible, environment authentic, the data made alive. Visual style transitions from specimen-drawer clinical through cartographic neutrals to National Geographic field photography. Title block reading \"{argument name=\"common name\" default=\"[COMMON NAME]\"} — [SCIENTIFIC NAME], [CONSERVATION STATUS], FIELD STUDY [YEAR]\".",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-7050-252-Scientific-field-researcher-s-documentation-board-prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-16772-300",
+      "title": "Neo Goku in the Machine City",
+      "prompt": "{argument name=\"character\" default=\"Neo Goku\"} - Arrives at the {argument name=\"location\" default=\"city of machines\"}",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-16772-300-Neo-Goku-in-the-Machine-City.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22222-683",
+      "title": "Premium Dessert Commercial Layout",
+      "prompt": "{\"master_prompt\": {\"global_settings\": {\"resolution\": \"8K UHD\", \"aspect_ratio\": \"3:4 vertical\", \"image_quality\": \"ultra high detail, hyper-realistic, AI-enhanced commercial product photography\", \"focus\": \"sharp foreground, cinematic depth of field\", \"lighting\": \"studio-grade dramatic lighting with glowing highlights\", \"background_style\": \"smooth gradient with bokeh particles and floating droplets\", \"color_palette\": \"warm caramel, chocolate brown, golden orange\", \"motion\": \"frozen mid-air splash and floating elements\"}, \"Module_1_Image_1_Style\": {\"subject\": \"two waffle cones filled with glossy caramel cream\", \"composition\": \"two cones crossing diagonally in mid-air, forming an X-like pose\", \"cones\": {\"material\": \"crispy waffle cone\", \"texture\": \"deep grid pattern, golden baked surface, visible crisp edges\", \"shape\": \"long tapered cones, slightly angled toward each other\"}, \"filling\": {\"type\": \"thick caramel cream\", \"appearance\": \"smooth, glossy, swirled peak on top\", \"color\": \"deep caramel brown with reflective highlights\"}, \"liquid_effects\": {\"caramel_splash\": \"dynamic caramel splash erupting behind and around cones\", \"droplets\": \"numerous suspended caramel droplets of varying sizes\"}, \"background\": {\"color\": \"bright glowing orange\", \"effects\": \"soft bokeh circles, spark-like highlights\"}, \"mood\": \"energetic, indulgent, premium dessert advertisement\"}, \"Module_2_Image_2_Style\": {\"subject\": \"chocolate-coated wafer rolls with hazelnut filling\", \"composition\": \"multiple wafer rolls crossing and floating diagonally in mid-air\", \"wafer_rolls\": {\"outer_coating\": \"milk chocolate with crunchy nut-studded texture\", \"surface_detail\": \"uneven nut clusters embedded in chocolate coating\", \"interior\": \"visible hollow wafer with creamy chocolate center\"}, \"additional_elements\": {\"chocolate_blocks\": \"rectangular chocolate pieces with embossed letter 'B'\", \"nuts\": \"halved hazelnuts and small nut fragments floating around\", \"chocolate_splash\": \"fluid chocolate splash flowing behind wafer rolls\"}, \"background\": {\"color\": \"dark warm brown gradient\", \"effects\": \"floating particles, depth-enhancing blur\"}, \"lighting\": {\"style\": \"warm directional lighting\", \"highlights\": \"glossy reflections on chocolate surfaces\"}, \"mood\": \"rich, bold, indulgent chocolate-focused commercial aesthetic\"}, \"Module_3_Image_3_Style\": {\"subject\": \"cookie-coated ice cream dessert with chocolate cup top\", \"composition\": \"single dessert angled diagonally, centered, surrounded by motion\", \"dessert_body\": {\"coating\": \"creamy white ice cream layer with embedded dark cookie bits\", \"texture\": \"smooth cream contrasted with rough cookie fragments\"}, \"top_element\": {\"chocolate_cup\": \"dark chocolate cylindrical cup\", \"filling\": \"light caramel cream piped in a smooth spiral\"}, \"liquid_motion\": {\"cream_swirls\": \"thick creamy ribbons wrapping around the dessert\", \"droplets\": \"floating cream droplets and cookie crumbs\"}, \"background\": {\"color\": \"soft caramel-beige gradient\", \"effects\": \"fine floating particles, subtle glow\"}, \"lighting\": {\"style\": \"soft yet dramatic studio lighting\", \"focus\": \"high clarity on textures and cream flow\"}, \"mood\": \"smooth, luxurious, creamy dessert showcase\"}}}",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22222-683-Premium-Dessert-Commercial-Layout.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Product Marketing"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-7848-486",
+      "title": "Massive Ancient Abandoned Alien Mining Machine Prompt",
+      "prompt": "Massive ancient abandoned alien mining machine in the shape of a worm --ar 16:9 --raw --sref 213005887 --sw 100 --stylize 300 --v 6.1",
+      "media": "image",
+      "model": "Midjourney",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-7848-486-Massive-Ancient-Abandoned-Alien-Mining-Machine-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Midjourney",
+        "Game Asset"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-2831-852",
+      "title": "City Poster Digital Art Prompt",
+      "prompt": "A city rendering digital art poster for [{argument name=\"city name\" default=\"city name\"}]. The core subject of the image is a miniature island floating above white clouds, shaped like the selected city and occupying most of the frame. The shape of the island is similar to the city's map outline, seamlessly integrating the city's unique iconic landmarks, natural landscapes, and cultural elements. Include birds unique to the city, cinematic lighting, vibrant colors, aerial perspective, and sun reflection effects. Buildings should not be too numerous or dense. The island showcases a seamless blend of history and modernity. One part features the city's most representative ancient historical buildings; the other part smoothly transitions into the city's landmark buildings and skyline view. The island floats above a vast sea of clouds. The sea of clouds is rendered using the traditional art style of the city's cultural sphere. 3D text of the city's Pinyin or English name floats above the miniature island. This group of text acts like a miniature ecological device where ecology and culture coexist. Around the frame and the main subject, layer a minimalist, elegant information layout layer with the texture of a museum display panel. Primarily retrieve relevant city information, using classic serif fonts for main information and extremely fine minimalist sans-serif fonts for auxiliary data. In the corners of the frame, arrange the information like a classical atlas or a high-end magazine title page. Use serif fonts to label the city's geographical coordinates, alias, or founding year, and the current weather, serving as decorative background information. The overall layout uses extensive negative space, is restrained, clean, and balanced, as if appreciating a precious work of art. Style requirements: Octane Render, C4D, Isometric City, Micro World, Living Ecosystem, 8k Resolution. DreamWorks style, 3D modeling, delicate, soft light projection.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-2831-852-City-Poster-Digital-Art-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Poster / Flyer"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
+      "license": "upstream",
+      "createdAt": null
+    }
+  ]
+}
