@@ -1,0 +1,179 @@
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap");
+
+:root {
+  --background: #ffffff;
+  --foreground: #0d0d0d;
+  --card: #ffffff;
+  --card-foreground: #0d0d0d;
+  --secondary: #f4f4f5;
+  --secondary-foreground: #0d0d0d;
+  --muted: #f4f4f5;
+  --muted-foreground: #71717a;
+  --border: #eeeeee;
+  --ring: #84b3ff;
+  --radius: 0.75rem;
+  --primary: #0d0d0d;
+  --primary-foreground: #fafafa;
+
+  --joy-font-caption: 13px;
+  --joy-font-label: 14px;
+  --joy-font-title: 16px;
+  --joy-radius-lg: 12px;
+  --joy-radius-pill: 999px;
+  --joy-ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --joy-duration-fast: 140ms;
+  --joy-duration-normal: 220ms;
+
+  --vp-font-family-base: "Geist", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --vp-c-bg: var(--background);
+  --vp-c-bg-alt: var(--background);
+  --vp-c-bg-soft: var(--muted);
+  --vp-c-bg-mute: var(--secondary);
+  --vp-c-text-1: var(--foreground);
+  --vp-c-text-2: var(--muted-foreground);
+  --vp-c-text-3: var(--muted-foreground);
+  --vp-c-divider: var(--border);
+  --vp-c-gutter: var(--background);
+  --vp-c-brand-1: var(--foreground);
+  --vp-c-brand-2: #27272a;
+  --vp-c-brand-3: #3f3f46;
+  --vp-nav-bg-color: color-mix(in oklab, var(--background) 86%, transparent);
+  --vp-c-bg-elv: var(--card);
+}
+
+body {
+  font-family: var(--vp-font-family-base);
+  background: var(--background);
+  color: var(--foreground);
+  font-weight: 400;
+}
+
+.market-page .VPDoc {
+  padding: 0 !important;
+}
+
+.market-page .VPDoc .container {
+  max-width: none !important;
+  margin: 0 !important;
+}
+
+.market-page .VPDoc .content,
+.market-page .VPDoc .content-container {
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.market-page .VPDocAside,
+.market-page .aside,
+.market-page .VPDocFooter,
+.market-page .edit-link,
+.market-page .prev-next {
+  display: none !important;
+}
+
+.market-page .VPContent {
+  padding-top: 56px;
+}
+
+.market-page h1.market-hide-title {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.VPNavBar {
+  border-bottom: 1px solid var(--border) !important;
+  backdrop-filter: blur(16px);
+  height: 56px !important;
+}
+
+.VPNavBar .wrapper {
+  height: 56px !important;
+}
+
+.VPNavBar .container {
+  max-width: none !important;
+  padding: 0 20px !important;
+}
+
+/* 左对齐品牌，别居中 */
+.VPNavBarTitle,
+.VPNavBar .title {
+  position: static !important;
+  left: auto !important;
+  transform: none !important;
+  flex-shrink: 0;
+}
+
+.VPNavBar .title {
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -0.03em;
+  color: var(--foreground) !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.VPNavBar .title .logo {
+  height: 22px !important;
+  width: 22px !important;
+  border-radius: 6px;
+  object-fit: contain;
+}
+
+.VPNavBar .content {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 !important;
+}
+
+.VPNavBar .content-body {
+  display: flex !important;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  gap: 4px;
+  background: transparent !important;
+}
+
+.VPNavBarMenu {
+  margin-right: 0 !important;
+}
+
+.VPNavBarMenuLink {
+  font-size: 13px !important;
+  font-weight: 400 !important;
+  color: var(--muted-foreground) !important;
+  padding: 0 10px !important;
+  line-height: 32px !important;
+  border-radius: 8px;
+  transition: color 0.15s, background 0.15s;
+}
+
+.VPNavBarMenuLink:hover,
+.VPNavBarMenuLink.active {
+  color: var(--foreground) !important;
+  background: var(--muted);
+}
+
+/* 藏掉多余装饰 */
+.VPNavBar .divider,
+.VPNavBarExtra,
+.VPNavBarHamburger,
+.VPSwitchAppearance {
+  display: none !important;
+}
+
+.market-page .VPNavScreen {
+  display: none !important;
+}

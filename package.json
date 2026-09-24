@@ -1,0 +1,20 @@
+{
+  "name": "joy-prompt-catalog",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JoyAI prompt catalog — prompts + image/video URLs, VitePress gallery",
+  "type": "module",
+  "scripts": {
+    "import": "node scripts/import-sources.mjs",
+    "families": "node scripts/build-families.mjs",
+    "retry:youmind": "node scripts/retry-youmind.mjs",
+    "sync-public": "node scripts/sync-public-data.mjs",
+    "docs:dev": "node scripts/sync-public-data.mjs && vitepress dev docs",
+    "docs:build": "node scripts/sync-public-data.mjs && vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.13"
+  }
+}

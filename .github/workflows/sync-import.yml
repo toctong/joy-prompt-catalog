@@ -1,0 +1,52 @@
+name: 定时同步上游
+
+on:
+  schedule:
+    # 每天 UTC 18:00 ≈ 北京时间次日 02:00
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: 安装依赖
+        run: npm ci
+
+      - name: 拉取上游并写入 data/
+        run: npm run import
+
+      - name: 补拉 YouMind（jsDelivr 易挂）
+        run: npm run retry:youmind
+        continue-on-error: true
+
+      - name: 提交变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes"
+            exit 0
+          fi
+          git commit -m "chore: sync upstream prompts $(date -u +%Y-%m-%d)"
+          git push
