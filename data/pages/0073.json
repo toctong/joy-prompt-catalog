@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32982-70",
-      "title": "Double Exposure Watercolor Portrait",
-      "prompt": "A creative double-exposure watercolor portrait composition. In the foreground, a {argument name=\"subject\" default=\"young South Asian woman\"} sits gracefully on a {argument name=\"setting\" default=\"black metal park bench\"}, wearing an {argument name=\"outfit\" default=\"elegant black sleeveless frock layered over a white top\"}, with hair styled in a neat bun. She wears bold red lipstick and a delicate white necklace, no dupatta or head covering. She rests her chin thoughtfully on her hand, one arm across her knee, smiling softly while looking off to the side.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33095-70",
+      "title": "Intimate Hijab Portrait",
+      "prompt": "A soft close-up portrait of a young East Asian woman with fair, smooth skin and a gentle, slightly sideways gaze looking toward the camera. She has large dark eyes with long, fluttery eyelashes, soft winged eyeliner, defined arched eyebrows, light pink blush on her cheeks, and glossy soft-pink lips. She is wearing a {argument name=\"hijab color\" default=\"light dusty-pink (mauve-rose)\"} hijab made of soft, slightly wrinkled fabric that is loosely draped around her head and neck, with gentle folds framing her face. She wears a {argument name=\"top style\" default=\"fitted white ribbed long-sleeve top\"} with delicate ruffled cuffs. One hand is lightly raised near her chest, fingers gently touching the hijab. Soft, warm indoor lighting creates gentle shadows on the right side of her face and a soft glow on her skin. The background is slightly blurred with {argument name=\"background details\" default=\"muted greenish-brown curtains and a few small photos pinned on the wall\"}. Intimate, natural, soft aesthetic, high detail, realistic skin texture, cinematic soft lighting, shallow depth of field.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32982-70-Double-Exposure-Watercolor-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33095-70-Intimate-Hijab-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -20,12 +20,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33187-110",
-      "title": "Playful Hijab Portrait",
-      "prompt": "ar 9:16 4K A close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman with fair, smooth porcelain skin\"}, wearing a {argument name=\"clothing\" default=\"soft light periwinkle-blue hijab\"} that fully covers her hair and drapes elegantly around her neck and shoulders. The fabric has a fine, slightly textured weave with natural soft folds and gentle wrinkles catching the light. She rests her right hand gently against the side of her face, fingers lightly curled near her cheek and jawline in a relaxed, feminine pose. Her expression is {argument name=\"expression\" default=\"playful and cute: one eye softly squinted in a gentle wink\"}, the other eye partially open with a warm, inviting gaze directed at the camera. Soft rosy pink blush colors her cheeks, long dark eyelashes (natural-looking with slight length), neatly shaped dark eyebrows, a small refined nose, and full lips tinted in a soft natural pink with a subtle glossy finish. Soft, diffused natural lighting from the front and slightly above creates a gentle glow on her skin, with smooth highlights and minimal shadows. The background is a plain, out-of-focus light beige or warm off-white wall. Shallow depth of field keeps the focus sharply on her face and the fabric near her hand. High-resolution, photorealistic style with natural skin texture, realistic fabric detail, and a soft, intimate, slightly dreamy atmosphere. Vertical portrait orientation, tightly framed from the upper chest to the top of the hijab. Shorter / refined version (for tools with length limits): Close-up portrait of a young fair-skinned East Asian woman in a soft light blue hijab, hand gently touching her cheek, playful half-wink expression, soft pink blush and lips, long lashes, natural soft lighting, plain light background, photorealistic, intimate and cute mood. Additional prompt variations you can mix in: “soft cinematic lighting, delicate skin texture, ultra-detailed fabric weave” “gentle smile with slightly pursed lips, coquettish expression” “hijab in muted dusty periwinkle blue, matte soft cotton texture” “high detail face, realistic pores and skin glow, 8k”",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33275-109",
+      "title": "Cinematic Streetwear Fashion Poster",
+      "prompt": "Ultra-realistic cinematic streetwear fashion poster, vertical 4:5 composition. Use the person from the reference image with highly accurate {argument name=\"subject features\" default=\"facial, hairstyle, beard, skin tone, and natural identity\"}. Show the same man twice: a large high-contrast {argument name=\"background style\" default=\"black-and-white close-up portrait\"} in the background wearing {argument name=\"accessory\" default=\"dark sunglasses\"}, and a smaller full-body color version standing powerfully in the foreground.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33187-110-Playful-Hijab-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33275-109-Cinematic-Streetwear-Fashion-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2691-186",
-      "title": "Photorealistic MacBook Screen POV Selfie Prompt",
-      "prompt": "{ \"image_settings\": { \"aspect_ratio\": \"3:4\", \"resolution\": { \"width\": 1152, \"height\": 1536 } }, \"prompt\": { \"identity_lock\": { \"reference\": \"{argument name=\"reference\" default=\"input_photo\"}\", \"preserve\": [ \"{argument name=\"preserve 1\" default=\"face\"}\", \"{argument name=\"preserve 2\" default=\"facial proportions\"}\", \"{argument name=\"preserve 3\" default=\"eye shape\"}\", \"{argument name=\"preserve 4\" default=\"nose\"}\", \"{argument name=\"preserve 5\" default=\"lips\"}\", \"{argument name=\"preserve 6\" default=\"skin tone\"}\", \"{argument name=\"preserve 7\" default=\"skin texture\"}\", \"{argument name=\"preserve 8\" default=\"hairline\"}\", \"{argument name=\"preserve 9\" default=\"overall identity\"}\" ], \"rules\": [ \"{argument name=\"rule 1\" default=\"no face swap\"}\", \"{argument name=\"rule 2\" default=\"no beautify\"}\", \"{argument name=\"rule 3\" default=\"no smoothing\"}\", \"{argument name=\"rule 4\" default=\"no reshaping\"}\", \"{argument name=\"rule 5\" default=\"no AI look\"}\" ] }, \"scene\": { \"camera_angle\": \"{argument name=\"camera angle\" default=\"high-angle downward shot, POV\"}\", \"composition\": \"{argument name=\"composition\" default=\"MacBook screen fills most of the frame, thin strip of physical keyboard visible at the bottom\"}\", \"screen_surface\": [ \"{argument name=\"screen surface 1\" default=\"visible RGB pixel grid\"}\", \"{argument name=\"screen surface 2\" default=\"subtle moire effect\"}\", \"{argument name=\"screen surface 3\" default=\"micro dust on glass\"}\", \"{argument name=\"screen surface 4\" default=\"faint fingerprints\"}\", \"{argument name=\"screen surface 5\" default=\"soft ambient reflections\"}\" ] }, \"digital_interface\": { \"os\": \"{argument name=\"os\" default=\"macOS dark mode\"}\", \"background_app\": { \"name\": \"{argument name=\"background app name\" default=\"Spotify\"}\", \"view\": \"{argument name=\"background app view\" default=\"Liked Songs\"}\", \"visible_tracks\": [ \"{argument name=\"track 1\" default=\"Blank Space – Taylor Swift\"}\", \"{argument name=\"track 2\" default=\"Shake It Off – Taylor Swift\"}\", \"{argument name=\"track 3\" default=\"Cruel Summer – Taylor Swift\"}\", \"{argument name=\"track 4\" default=\"Love Story – Taylor Swift\"}\" ] }, \"foreground_app\": { \"name\": \"{argument name=\"foreground app name\" default=\"Photo Booth\"}\", \"state\": \"{argument name=\"foreground app state\" default=\"live preview window\"}\", \"position\": \"{argument name=\"foreground app position\" default=\"floating, center-right\"}\" } }, \"photo_booth_content\": { \"environment\": { \"room\": \"{argument name=\"room\" default=\"dim bedroom\"}\", \"background\": \"{argument name=\"background\" default=\"off-white wall, rumpled bedding\"}\", \"lighting\": \"{argument name=\"lighting\" default=\"low-light, nocturnal, cool screen glow mixed with warm skin tones\"}\" }, \"subject\": { \"pose\": \"{argument name=\"subject pose\" default=\"lying down, relaxed, candid\"}\", \"expression\": \"{argument name=\"subject expression\" default=\"natural, slightly relaxed\"}\", \"outfit\": \"{argument name=\"subject outfit\" default=\"light-colored tank top\"}\", \"prop\": { \"item\": \"{argument name=\"prop item\" default=\"iPhone 15 Pro\"}\", \"hand\": \"{argument name=\"prop hand\" default=\"right hand\"}\" } } }, \"realism_rules\": [ \"{argument name=\"realism rule 1\" default=\"this is a photo of a screen, not a screenshot\"}\", \"{argument name=\"realism rule 2\" default=\"raw smartphone photo look\"}\", \"{argument name=\"realism rule 3\" default=\"natural noise\"}\", \"{argument name=\"realism rule 4\" default=\"imperfect glass\"}\", \"{argument name=\"realism rule 5\" default=\"no studio lighting\"}\", \"{argument name=\"realism rule 6\" default=\"no HD polish\"}\" ] }, \"negative_prompt\": [ \"{argument name=\"negative 1\" default=\"screenshot\"}\", \"{argument name=\"negative 2\" default=\"flat UI\"}\", \"{argument name=\"negative 3\" default=\"perfect screen\"}\", \"{argument name=\"negative 4\" default=\"clean glass\"}\", \"{argument name=\"negative 5\" default=\"studio lighting\"}\", \"{argument name=\"negative 6\" default=\"beauty filter\"}\", \"{argument name=\"negative 7\" default=\"cartoon\"}\", \"{argument name=\"negative 8\" default=\"3d render\"}\", \"{argument name=\"negative 9\" default=\"painting\"}\", \"{argument name=\"negative 10\" default=\"watermark\"}\", \"{argument name=\"negative 11\" default=\"blurred face\"}\" ] }",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2852-185",
+      "title": "Blade Runner Opening Style Image",
+      "prompt": "Create an image like the opening of Blade Runner",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2691-186-Photorealistic-MacBook-Screen-POV-Selfie-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2852-185-Blade-Runner-Opening-Style-Image.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31659-167",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31659-171",
       "title": "Twilight Menswear Editorial Portrait",
       "prompt": "A young, conventionally attractive {argument name=\"gender\" default=\"male model\"} stands confidently in the center of the frame, positioned straight on to the camera with level shoulders and a deliberately posed demeanor. His meticulously styled hair complements a chiseled jawline and a closed, neutral mouth with relaxed eyebrows, while his eyes look off-camera to the left with a sophisticated, unsmiling expression. He wears a tailored, {argument name=\"blazer color\" default=\"deep navy blue\"} double-breasted blazer adorned with prominent, warm gold buttons, layered over a crisp white dress shirt with a patterned navy tie and a sharp white pocket square, paired with crisp cream trousers. Both of his relaxed hands rest inside the front pockets of the cream trousers, gently pulling the blazer fabric slightly backward. He stands on a solid expanse of warm beige and brown loose gravel within an upscale outdoor courtyard at {argument name=\"time of day\" default=\"twilight\"}. The background falls into a medium depth of field with a beautifully blurred, deep spatial arrangement. In the left midground sits a thriving, rounded topiary bush in a dark classical planter subtly illuminated by ground-level pathway lights, while the left background features an aged, rough matte dark stone building with a paned glass arched window emitting a warm interior light. To the right midground, dense, dark olive green sculpted hedges form a structural boundary next to a vintage black iron streetlamp casting an amber glow from its dual bulbs in a glass housing, all framing a large leafy tree situated directly behind the subject in the center background. The scene exudes an elegant, wealthy aesthetic bathed in a moody, high-contrast twilight atmosphere. A 45-degree front-left softbox key light wraps smoothly around his features, preserving sharp specular highlights on the bridge of his nose, the pristine white shirt collar, and the gold blazer buttons, while casting short, deep black shadows with soft gradual edges on the right side of his face, beneath his jawline, and inside the structural folds of the navy blazer. The overall color palette balances complementary tones of deep navy, cream, warm gold, and dark forest green under a golden ambient fill, mixing a 5500K daylight balance on the subject with exceptionally warm 3200K practical background lights. Shot on an 85mm lens at f/2.8 for a tack-sharp focal point on his brightly lit face that draws the eye down the contrasting lapels before drifting to the out-of-focus creamy bokeh of the practical lights, the composition evokes a classic menswear editorial campaign. The highly detailed, photorealistic digital image features a Kodak Portra 400 aesthetic, processed with a 1/125s shutter speed and ISO 400, completed by subtle film grain, slightly crushed shadows, warm and teal split toning with deep navy shadows and amber highlights, natural skin texture preservation, and enhanced clarity on the tailored fabrics, all naturally framed in a 4:5 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31659-167-Twilight-Menswear-Editorial-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31659-171-Twilight-Menswear-Editorial-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13280-227",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13280-228",
       "title": "GTA 6 In-Game Footage Test Prompt",
       "prompt": "GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a stationary 4k monitor. (There's a slight blurriness in the image, as it feels like it was taken handheld). A wide, bright environment. Realistic details. The character is walking on the beach with / :dog.",
       "media": "image",
       "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13280-227-GTA-6-In-Game-Footage-Test-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13280-228-GTA-6-In-Game-Footage-Test-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32912-71",
-      "title": "High-Fashion Magazine Cover Identity Lock",
-      "prompt": "high-fashion editorial portrait of me, preserving my facial identity, features, skin tone, hairstyle, and overall likeness accurately, styled like a {argument name=\"style\" default=\"luxury fashion magazine cover shoot\"} with a sophisticated designer outfit, confident model-like pose, intense yet natural expression, dramatic cinematic studio lighting, sculpted shadows, premium minimalist backdrop, sharp facial details, realistic skin texture, refined grooming, elegant composition, subtle depth of field, sophisticated color grading, ultra-realistic photography, high-end fashion campaign aesthetic, bold visual hierarchy, professional full-frame camera quality, {argument name=\"lens\" default=\"85mm portrait lens\"} look, crisp focus, luxurious, modern, artistic, cinematic, photorealistic, and visually striking",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32982-71",
+      "title": "Double Exposure Watercolor Portrait",
+      "prompt": "A creative double-exposure watercolor portrait composition. In the foreground, a {argument name=\"subject\" default=\"young South Asian woman\"} sits gracefully on a {argument name=\"setting\" default=\"black metal park bench\"}, wearing an {argument name=\"outfit\" default=\"elegant black sleeveless frock layered over a white top\"}, with hair styled in a neat bun. She wears bold red lipstick and a delicate white necklace, no dupatta or head covering. She rests her chin thoughtfully on her hand, one arm across her knee, smiling softly while looking off to the side.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32912-71-High-Fashion-Magazine-Cover-Identity-Lock.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32982-71-Double-Exposure-Watercolor-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33206-111",
-      "title": "Ethereal Mermaid Fantasy Anime Art",
-      "prompt": "Ethereal ocean-fantasy anime illustration of a beautiful young adult woman, vertical 9:16 composition. She has a delicate youthful face, large expressive blue-gray eyes, soft peach-toned skin, a small elegant nose, and a bright gentle smile. Her hair is long, voluminous {argument name=\"hair color\" default=\"aqua-blue and turquoise\"}, flowing dramatically around her body as if carried by underwater currents. Loose curled strands frame her face, with decorative braids and small ocean-inspired ornaments woven into the hair. She wears an elegant flowing {argument name=\"outfit\" default=\"sea-blue fantasy gown\"} inspired by ancient Greek and mermaid aesthetics. The dress has a fitted strapless pale aqua bodice with soft gathered fabric and subtle translucent layers. A wide ornate waist sash wraps around her waist, decorated with golden rope, seashell-like details, pearls, and intricate metallic ornaments. The lower dress is long, flowing, and lightweight, with layered translucent blue fabric sweeping dramatically outward. Accessories Delicate gold forehead ornament Layered pearl and turquoise necklace Small seashell and floral hair ornaments Gold bracelets and thin bangles Elegant decorative earrings Fine gold detailing throughout the outfit Pose She stands gracefully with both arms raised above her head, hands gently overlapping, creating an elegant flowing silhouette. Her body is slightly turned while her face looks toward the viewer. Her long blue hair and dress billow dramatically around her, creating a sense of movement and magical energy. Background A fantasy ocean environment filled with sweeping turquoise waves, foamy white water, floating droplets, soft mist, and flowing ribbons of blue water. The composition should feel as though she is emerging from a magical sea. White negative space and pale aqua tones contrast beautifully with the vivid turquoise elements. Art Style {argument name=\"style\" default=\"High-detail Japanese fantasy illustration\"}, elegant anime character art, watercolor and ink painting, delicate linework, soft cel-shading, painterly textures, luminous highlights, flowing fabric, dynamic hair movement, intricate costume design, magical ocean atmosphere, graceful feminine composition, dreamy fantasy poster aesthetic. Color palette: turquoise, aqua blue, pale cyan, ivory white, soft gold, subtle peach skin tones. Negative prompt: photorealistic, 3D CGI, plastic texture, modern clothing, dull colors, distorted anatomy, extra fingers, malformed hands, asymmetrical eyes, messy facial features, low detail, blurry artwork, heavy outlines, text, watermark, logo.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33191-110",
+      "title": "Romantic Feminine Editorial Collage",
+      "prompt": "A photorealistic young woman with {argument name=\"hair style\" default=\"long wavy dark hair\"}, natural makeup, expressive eyes and a gentle smile, wearing a {argument name=\"outfit\" default=\"white off-shoulder blouse, pastel pink pleated skirt\"}, delicate jewelry and a slim white shoulder bag. Create a romantic feminine editorial collage with one large portrait on the right and two smaller portraits on the left. White background with {argument name=\"background details\" default=\"pink water color splashes, flowers, butterflies and botanical elements\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33206-111-Ethereal-Mermaid-Fantasy-Anime-Art.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33191-110-Romantic-Feminine-Editorial-Collage.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2152-190",
-      "title": "Cognitive Science-Based High-CTR Thumbnail Design Prompt",
-      "prompt": "You are an expert in the \"Adaptive Salience Model,\" creatively integrating knowledge from cognitive science (neuroscience, psychology, behavioral economics), and you are a top-tier art director. Deeply analyze the [Input Text (Article Title or Beginning)] provided at the end, and generate a thumbnail image that maximizes the CTR (Click-Through Rate) for that article. If a reference image is attached, place that character as the \"person presenting the article content\" and maintain consistency. ▼ Instructions for Generation Process (Thinking Process) Use Nano Banana Pro's \"Thinking Mode\" to logically formulate the composition plan in the following steps before drawing: 1. **[Step 1: Content Analysis and Hook Extraction]** * Identify the \"maximum benefit the reader gains\" or the \"risk of loss if they don't know\" from the input text (Application of Prospect Theory). * Select the most intuitive visual metaphor symbolizing the article's theme (e.g., rise, key, lightning, light, darkness, etc.). 2. **[Step 2: Optimization by Adaptive Salience Model]** * **FFA Activation (Face Fusiform Area)**: Maximize the resolution of the character's face, especially the \"eyes,\" and design the composition so that the gaze meets the viewer's (eye contact). Match the expression to the article's tone (surprise, confidence, seriousness, etc.). * **Pop-out Effect**: Use \"vivid colors (neon colors or yellow, etc.)\" that are complementary to the background color for the title text and important icons to create visual prominence. * **Cognitive Load Theory**: Do not overload the information. Limit elements to \"1 face + 1 impactful text + 1 background metaphor.\" 3. **[Step 3: Layout Design]** * Design the layout, considering the Z-pattern or F-pattern, so that the viewer's gaze flows from the \"face\" → \"high jump-rate text\" → \"clickable element.\" ▼ Design and Style Specification * **Composition**: Close-up (bust shot) or medium shot. Place the character in the center or at the intersection of the rule of thirds. * **Taste/Aesthetic**: [Optimize for the genre of the input text. Examples: For business, \"sophisticated, trustworthy\"; for entertainment, \"vibrant, high saturation\"; for technology, \"cyberpunk, futuristic\"] * **Text Rendering (Important)**: * Extract the **most catchy short phrase (recommended 10 characters or less)** from the input text. * **Font**: Use \"**Heavy Serif**\" font. To enhance readability, the text must have a **thick outline** contrasting with the background color. * **Placement (Jump Rate)**: **Set a high \"Jump Rate.\"** Place the main keywords extremely large, and auxiliary words or sub-information small, creating visual rhythm and contrast. * **Character Direction**: If there is a reference character, adjust their attire to match the article's theme (lab coat, suit, explorer, casual, etc.). ▼ Input Text {argument name=\"input text\" default=\"(Article title or content)\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2691-187",
+      "title": "Photorealistic MacBook Screen POV Selfie Prompt",
+      "prompt": "{ \"image_settings\": { \"aspect_ratio\": \"3:4\", \"resolution\": { \"width\": 1152, \"height\": 1536 } }, \"prompt\": { \"identity_lock\": { \"reference\": \"{argument name=\"reference\" default=\"input_photo\"}\", \"preserve\": [ \"{argument name=\"preserve 1\" default=\"face\"}\", \"{argument name=\"preserve 2\" default=\"facial proportions\"}\", \"{argument name=\"preserve 3\" default=\"eye shape\"}\", \"{argument name=\"preserve 4\" default=\"nose\"}\", \"{argument name=\"preserve 5\" default=\"lips\"}\", \"{argument name=\"preserve 6\" default=\"skin tone\"}\", \"{argument name=\"preserve 7\" default=\"skin texture\"}\", \"{argument name=\"preserve 8\" default=\"hairline\"}\", \"{argument name=\"preserve 9\" default=\"overall identity\"}\" ], \"rules\": [ \"{argument name=\"rule 1\" default=\"no face swap\"}\", \"{argument name=\"rule 2\" default=\"no beautify\"}\", \"{argument name=\"rule 3\" default=\"no smoothing\"}\", \"{argument name=\"rule 4\" default=\"no reshaping\"}\", \"{argument name=\"rule 5\" default=\"no AI look\"}\" ] }, \"scene\": { \"camera_angle\": \"{argument name=\"camera angle\" default=\"high-angle downward shot, POV\"}\", \"composition\": \"{argument name=\"composition\" default=\"MacBook screen fills most of the frame, thin strip of physical keyboard visible at the bottom\"}\", \"screen_surface\": [ \"{argument name=\"screen surface 1\" default=\"visible RGB pixel grid\"}\", \"{argument name=\"screen surface 2\" default=\"subtle moire effect\"}\", \"{argument name=\"screen surface 3\" default=\"micro dust on glass\"}\", \"{argument name=\"screen surface 4\" default=\"faint fingerprints\"}\", \"{argument name=\"screen surface 5\" default=\"soft ambient reflections\"}\" ] }, \"digital_interface\": { \"os\": \"{argument name=\"os\" default=\"macOS dark mode\"}\", \"background_app\": { \"name\": \"{argument name=\"background app name\" default=\"Spotify\"}\", \"view\": \"{argument name=\"background app view\" default=\"Liked Songs\"}\", \"visible_tracks\": [ \"{argument name=\"track 1\" default=\"Blank Space – Taylor Swift\"}\", \"{argument name=\"track 2\" default=\"Shake It Off – Taylor Swift\"}\", \"{argument name=\"track 3\" default=\"Cruel Summer – Taylor Swift\"}\", \"{argument name=\"track 4\" default=\"Love Story – Taylor Swift\"}\" ] }, \"foreground_app\": { \"name\": \"{argument name=\"foreground app name\" default=\"Photo Booth\"}\", \"state\": \"{argument name=\"foreground app state\" default=\"live preview window\"}\", \"position\": \"{argument name=\"foreground app position\" default=\"floating, center-right\"}\" } }, \"photo_booth_content\": { \"environment\": { \"room\": \"{argument name=\"room\" default=\"dim bedroom\"}\", \"background\": \"{argument name=\"background\" default=\"off-white wall, rumpled bedding\"}\", \"lighting\": \"{argument name=\"lighting\" default=\"low-light, nocturnal, cool screen glow mixed with warm skin tones\"}\" }, \"subject\": { \"pose\": \"{argument name=\"subject pose\" default=\"lying down, relaxed, candid\"}\", \"expression\": \"{argument name=\"subject expression\" default=\"natural, slightly relaxed\"}\", \"outfit\": \"{argument name=\"subject outfit\" default=\"light-colored tank top\"}\", \"prop\": { \"item\": \"{argument name=\"prop item\" default=\"iPhone 15 Pro\"}\", \"hand\": \"{argument name=\"prop hand\" default=\"right hand\"}\" } } }, \"realism_rules\": [ \"{argument name=\"realism rule 1\" default=\"this is a photo of a screen, not a screenshot\"}\", \"{argument name=\"realism rule 2\" default=\"raw smartphone photo look\"}\", \"{argument name=\"realism rule 3\" default=\"natural noise\"}\", \"{argument name=\"realism rule 4\" default=\"imperfect glass\"}\", \"{argument name=\"realism rule 5\" default=\"no studio lighting\"}\", \"{argument name=\"realism rule 6\" default=\"no HD polish\"}\" ] }, \"negative_prompt\": [ \"{argument name=\"negative 1\" default=\"screenshot\"}\", \"{argument name=\"negative 2\" default=\"flat UI\"}\", \"{argument name=\"negative 3\" default=\"perfect screen\"}\", \"{argument name=\"negative 4\" default=\"clean glass\"}\", \"{argument name=\"negative 5\" default=\"studio lighting\"}\", \"{argument name=\"negative 6\" default=\"beauty filter\"}\", \"{argument name=\"negative 7\" default=\"cartoon\"}\", \"{argument name=\"negative 8\" default=\"3d render\"}\", \"{argument name=\"negative 9\" default=\"painting\"}\", \"{argument name=\"negative 10\" default=\"watermark\"}\", \"{argument name=\"negative 11\" default=\"blurred face\"}\" ] }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2152-190-Cognitive-Science-Based-High-CTR-Thumbnail-Design-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2691-187-Photorealistic-MacBook-Screen-POV-Selfie-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31569-168",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31569-172",
       "title": "Surreal Beauty Product Hair Roller",
       "prompt": "Studio product photo shot from behind of a person with {argument name=\"hair color\" default=\"light brown\"} wavy/curled hair styled into large voluminous curls, viewed from the back of the head down to the shoulders. Multiple identical product tubes — {argument name=\"product\" default=\"product from uploaded photo\"} — are inserted into the hair like oversized velcro rollers/curlers, tucked between the curls at various angles all across the head, roughly 3-4 tubes visible, creating a playful surreal \"product as hair roller\" concept. The person wears a solid {argument name=\"shirt color\" default=\"green\"} collared top/shirt with a popped collar. Background is a flat, solid muted olive-green studio backdrop matching the tonal palette of the outfit. Even, soft studio lighting with minimal shadows, clean commercial beauty-photography look, slightly desaturated warm color grading. Composition is centered and vertical, tight crop from mid-shoulders up, no face visible — only the back of the head and hair. Photorealistic, high-end beauty/cosmetics advertising style, aspect ratio 3:4.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31569-168-Surreal-Beauty-Product-Hair-Roller.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31569-172-Surreal-Beauty-Product-Hair-Roller.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13246-229",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13246-230",
       "title": "Nano Banana 2 image editing prompt",
       "prompt": "Take this screenshot and edit it. The graphics are too modern. please make this look like a 90s boomer shooter.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13246-229-Nano-Banana-2-image-editing-prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13246-230-Nano-Banana-2-image-editing-prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32988-72",
-      "title": "Realistic DSLR Selfie Portrait",
-      "prompt": "Ultra realistic DSLR-style selfie portrait of a {argument name=\"subject\" default=\"girl\"} with similar facial features and body proportion, and same skin tone standing indoors during {argument name=\"lighting\" default=\"golden hour sunlight\"}, camera held slightly above eye level with natural arm extension visible in foreground, centered composition, soft confident smile, direct eye contact with camera, delicate feminine facial structure, oval face shape, smooth glowing skin with visible natural texture and pores, subtle rosy cheeks, natural glossy lips, expressive",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32912-72",
+      "title": "High-Fashion Magazine Cover Identity Lock",
+      "prompt": "high-fashion editorial portrait of me, preserving my facial identity, features, skin tone, hairstyle, and overall likeness accurately, styled like a {argument name=\"style\" default=\"luxury fashion magazine cover shoot\"} with a sophisticated designer outfit, confident model-like pose, intense yet natural expression, dramatic cinematic studio lighting, sculpted shadows, premium minimalist backdrop, sharp facial details, realistic skin texture, refined grooming, elegant composition, subtle depth of field, sophisticated color grading, ultra-realistic photography, high-end fashion campaign aesthetic, bold visual hierarchy, professional full-frame camera quality, {argument name=\"lens\" default=\"85mm portrait lens\"} look, crisp focus, luxurious, modern, artistic, cinematic, photorealistic, and visually striking",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32988-72-Realistic-DSLR-Selfie-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32912-72-High-Fashion-Magazine-Cover-Identity-Lock.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33182-112",
-      "title": "Korean Fashion Sunset Collage",
-      "prompt": "Ultra realistic lifestyle fashion collage of a beautiful young woman in a {argument name=\"setting\" default=\"wide open green park during golden hour sunset\"}, soft warm sunlight, cinematic natural lighting, aesthetic Korean fashion vibe, wearing a {argument name=\"outfit\" default=\"deep burgundy oversized button-up shirt, light blue wide-leg denim jeans, white sneakers\"}, carrying a dark brown leather shoulder bag. Multi-frame collage layout with 5 candid moments.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33187-112",
+      "title": "Playful Hijab Portrait",
+      "prompt": "ar 9:16 4K A close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman with fair, smooth porcelain skin\"}, wearing a {argument name=\"clothing\" default=\"soft light periwinkle-blue hijab\"} that fully covers her hair and drapes elegantly around her neck and shoulders. The fabric has a fine, slightly textured weave with natural soft folds and gentle wrinkles catching the light. She rests her right hand gently against the side of her face, fingers lightly curled near her cheek and jawline in a relaxed, feminine pose. Her expression is {argument name=\"expression\" default=\"playful and cute: one eye softly squinted in a gentle wink\"}, the other eye partially open with a warm, inviting gaze directed at the camera. Soft rosy pink blush colors her cheeks, long dark eyelashes (natural-looking with slight length), neatly shaped dark eyebrows, a small refined nose, and full lips tinted in a soft natural pink with a subtle glossy finish. Soft, diffused natural lighting from the front and slightly above creates a gentle glow on her skin, with smooth highlights and minimal shadows. The background is a plain, out-of-focus light beige or warm off-white wall. Shallow depth of field keeps the focus sharply on her face and the fabric near her hand. High-resolution, photorealistic style with natural skin texture, realistic fabric detail, and a soft, intimate, slightly dreamy atmosphere. Vertical portrait orientation, tightly framed from the upper chest to the top of the hijab. Shorter / refined version (for tools with length limits): Close-up portrait of a young fair-skinned East Asian woman in a soft light blue hijab, hand gently touching her cheek, playful half-wink expression, soft pink blush and lips, long lashes, natural soft lighting, plain light background, photorealistic, intimate and cute mood. Additional prompt variations you can mix in: “soft cinematic lighting, delicate skin texture, ultra-detailed fabric weave” “gentle smile with slightly pursed lips, coquettish expression” “hijab in muted dusty periwinkle blue, matte soft cotton texture” “high detail face, realistic pores and skin glow, 8k”",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33182-112-Korean-Fashion-Sunset-Collage.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33187-112-Playful-Hijab-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2162-191",
-      "title": "Advanced Two-Step Prompting Strategy for Nano Banana Pro Thumbnails",
-      "prompt": "Actually, there's a trickier way to use this. First, have it systematically summarize the information → Then, based on that, have it create the output/deepen the discussion Just doing this makes the quality of the output completely different. This is because if you first create a blueprint in the AI's mind—including \"terminology,\" \"judgment criteria,\" \"prohibited items,\" \"patterns,\" and \"priorities\"— The next instructions will be output according to that blueprint, making it less likely to deviate. For example, if you want Nano Banana Pro to create a thumbnail: ① First, ask GPT-5.2: \"Thoroughly research and systematize the best practices for creating prompts for YouTube thumbnails using Nano Banana Pro. Include common mistakes as well.\" ② After that, ask: \"Based on the current system, create a prompt for making a YouTube thumbnail on the theme of {argument name=\"theme\" default=\"XX\"} using Nano Banana Pro. The video content is like this, and I want to include {argument name=\"wording\" default=\"this kind of wording\"}.\" Then, input the completed prompt into Nano Banana Pro. It becomes much easier to get the desired output. If you just ask it to \"create\" every time, the AI outputs based on the moment, leading to inconsistent results. But if you create a map (system) first, it's powerful. Moreover, this method works for side business strategies, sales copy, and video scripts. The versatility is insane. I highly recommend having the AI organize how to create good output before having it perform the task, and then having it think based on that organization. By the way, the thumbnail created this time is the third image. Since the first attempt was mediocre, I had it systematize how to create attractive YouTube thumbnails before generating the prompt.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2152-191",
+      "title": "Cognitive Science-Based High-CTR Thumbnail Design Prompt",
+      "prompt": "You are an expert in the \"Adaptive Salience Model,\" creatively integrating knowledge from cognitive science (neuroscience, psychology, behavioral economics), and you are a top-tier art director. Deeply analyze the [Input Text (Article Title or Beginning)] provided at the end, and generate a thumbnail image that maximizes the CTR (Click-Through Rate) for that article. If a reference image is attached, place that character as the \"person presenting the article content\" and maintain consistency. ▼ Instructions for Generation Process (Thinking Process) Use Nano Banana Pro's \"Thinking Mode\" to logically formulate the composition plan in the following steps before drawing: 1. **[Step 1: Content Analysis and Hook Extraction]** * Identify the \"maximum benefit the reader gains\" or the \"risk of loss if they don't know\" from the input text (Application of Prospect Theory). * Select the most intuitive visual metaphor symbolizing the article's theme (e.g., rise, key, lightning, light, darkness, etc.). 2. **[Step 2: Optimization by Adaptive Salience Model]** * **FFA Activation (Face Fusiform Area)**: Maximize the resolution of the character's face, especially the \"eyes,\" and design the composition so that the gaze meets the viewer's (eye contact). Match the expression to the article's tone (surprise, confidence, seriousness, etc.). * **Pop-out Effect**: Use \"vivid colors (neon colors or yellow, etc.)\" that are complementary to the background color for the title text and important icons to create visual prominence. * **Cognitive Load Theory**: Do not overload the information. Limit elements to \"1 face + 1 impactful text + 1 background metaphor.\" 3. **[Step 3: Layout Design]** * Design the layout, considering the Z-pattern or F-pattern, so that the viewer's gaze flows from the \"face\" → \"high jump-rate text\" → \"clickable element.\" ▼ Design and Style Specification * **Composition**: Close-up (bust shot) or medium shot. Place the character in the center or at the intersection of the rule of thirds. * **Taste/Aesthetic**: [Optimize for the genre of the input text. Examples: For business, \"sophisticated, trustworthy\"; for entertainment, \"vibrant, high saturation\"; for technology, \"cyberpunk, futuristic\"] * **Text Rendering (Important)**: * Extract the **most catchy short phrase (recommended 10 characters or less)** from the input text. * **Font**: Use \"**Heavy Serif**\" font. To enhance readability, the text must have a **thick outline** contrasting with the background color. * **Placement (Jump Rate)**: **Set a high \"Jump Rate.\"** Place the main keywords extremely large, and auxiliary words or sub-information small, creating visual rhythm and contrast. * **Character Direction**: If there is a reference character, adjust their attire to match the article's theme (lab coat, suit, explorer, casual, etc.). ▼ Input Text {argument name=\"input text\" default=\"(Article title or content)\"}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2162-191-Advanced-Two-Step-Prompting-Strategy-for-Nano-Banana-Pro-Thumbnails.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2152-191-Cognitive-Science-Based-High-CTR-Thumbnail-Design-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -438,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31567-169",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31567-173",
       "title": "Floral Brain Sculpture",
       "prompt": "A close-up, side-profile view of a human brain sculpture made of {argument name=\"materials\" default=\"dried flowers and feathers\"}. The brain's shape is clearly defined, with the cerebrum and cerebellum visible. The cerebrum is adorned with an arrangement of delicate, dried flowers in various shades of white, cream, peach, and muted red. Some of the flowers appear to be roses and peonies, while smaller, clustered blossoms add texture. The cerebellum is represented by a cluster of blue-green, feather-like elements, and a striking peacock feather is positioned at the base of the cerebellum, its eye-like pattern prominent. The entire sculpture is set against a {argument name=\"background style\" default=\"dark distressed and grainy background\"}, emphasizing the intricate details and textures of the materials used.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31567-169-Floral-Brain-Sculpture.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31567-173-Floral-Brain-Sculpture.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13245-230",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13245-231",
       "title": "TCG style pole-mounted transformer",
       "prompt": "a pole-mounted transformer in the style of a trading card game's card",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13245-230-TCG-style-pole-mounted-transformer.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13245-231-TCG-style-pole-mounted-transformer.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32922-73",
-      "title": "Cozy Bedroom Intimate Portrait",
-      "prompt": "A photorealistic close-up portrait of a young {argument name=\"ethnicity\" default=\"East Asian woman\"} ({argument name=\"age\" default=\"early 20s\"}) with fair, smooth porcelain skin and soft natural makeup. She has large, expressive brown eyes with subtle double eyelids, looking directly at the camera with a gentle, slightly pouty and melancholic expression. Her black hair is styled in a high, messy bun with loose strands and soft bangs framing her face. She is wearing a cozy white ribbed long-sleeve knit sweater and light grey sweatpants, sitting cross-legged or with knees drawn up while tightly hugging a soft, plush beige rectangular pillow against her chest and chin. Soft warm indoor lighting from a bedside lamp on the right creates gentle highlights and a cozy atmosphere. Blurred background shows a bedroom with a beige wall featuring a collage of small polaroid photos on the left, a soft lamp, and neutral home decor. Shallow depth of field, natural skin texture, realistic fabric details, soft bokeh, intimate and serene mood, highly detailed, 8k quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32988-73",
+      "title": "Realistic DSLR Selfie Portrait",
+      "prompt": "Ultra realistic DSLR-style selfie portrait of a {argument name=\"subject\" default=\"girl\"} with similar facial features and body proportion, and same skin tone standing indoors during {argument name=\"lighting\" default=\"golden hour sunlight\"}, camera held slightly above eye level with natural arm extension visible in foreground, centered composition, soft confident smile, direct eye contact with camera, delicate feminine facial structure, oval face shape, smooth glowing skin with visible natural texture and pores, subtle rosy cheeks, natural glossy lips, expressive",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32922-73-Cozy-Bedroom-Intimate-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32988-73-Realistic-DSLR-Selfie-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -533,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33185-113",
-      "title": "Netflix Style Cinematic Portrait",
-      "prompt": "Hyper realistic IMAX level Netflix style cinematic portrait, 9:16 vertical frame, use the uploaded image as the primary facial reference with maximum face consistency, a {argument name=\"gender\" default=\"beautiful young female model\"}. Wearing a {argument name=\"clothing\" default=\"casual, silky taupe button-down collared shirt\"}, accessorized with {argument name=\"accessories\" default=\"classic silver hoop earrings and stylish black wayfarer sunglasses\"}.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33206-113",
+      "title": "Ethereal Mermaid Fantasy Anime Art",
+      "prompt": "Ethereal ocean-fantasy anime illustration of a beautiful young adult woman, vertical 9:16 composition. She has a delicate youthful face, large expressive blue-gray eyes, soft peach-toned skin, a small elegant nose, and a bright gentle smile. Her hair is long, voluminous {argument name=\"hair color\" default=\"aqua-blue and turquoise\"}, flowing dramatically around her body as if carried by underwater currents. Loose curled strands frame her face, with decorative braids and small ocean-inspired ornaments woven into the hair. She wears an elegant flowing {argument name=\"outfit\" default=\"sea-blue fantasy gown\"} inspired by ancient Greek and mermaid aesthetics. The dress has a fitted strapless pale aqua bodice with soft gathered fabric and subtle translucent layers. A wide ornate waist sash wraps around her waist, decorated with golden rope, seashell-like details, pearls, and intricate metallic ornaments. The lower dress is long, flowing, and lightweight, with layered translucent blue fabric sweeping dramatically outward. Accessories Delicate gold forehead ornament Layered pearl and turquoise necklace Small seashell and floral hair ornaments Gold bracelets and thin bangles Elegant decorative earrings Fine gold detailing throughout the outfit Pose She stands gracefully with both arms raised above her head, hands gently overlapping, creating an elegant flowing silhouette. Her body is slightly turned while her face looks toward the viewer. Her long blue hair and dress billow dramatically around her, creating a sense of movement and magical energy. Background A fantasy ocean environment filled with sweeping turquoise waves, foamy white water, floating droplets, soft mist, and flowing ribbons of blue water. The composition should feel as though she is emerging from a magical sea. White negative space and pale aqua tones contrast beautifully with the vivid turquoise elements. Art Style {argument name=\"style\" default=\"High-detail Japanese fantasy illustration\"}, elegant anime character art, watercolor and ink painting, delicate linework, soft cel-shading, painterly textures, luminous highlights, flowing fabric, dynamic hair movement, intricate costume design, magical ocean atmosphere, graceful feminine composition, dreamy fantasy poster aesthetic. Color palette: turquoise, aqua blue, pale cyan, ivory white, soft gold, subtle peach skin tones. Negative prompt: photorealistic, 3D CGI, plastic texture, modern clothing, dull colors, distorted anatomy, extra fingers, malformed hands, asymmetrical eyes, messy facial features, low detail, blurry artwork, heavy outlines, text, watermark, logo.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33185-113-Netflix-Style-Cinematic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33206-113-Ethereal-Mermaid-Fantasy-Anime-Art.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,16 +571,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-1899-192",
-      "title": "Sci-Fi Book Cover with Layered Text",
-      "prompt": "Astronaut floating in space, bold title text '{argument name=\"title text\" default=\"BEYOND THE VOID\"}' layered between character and nebula background, cinematic lighting, dramatic composition",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2162-192",
+      "title": "Advanced Two-Step Prompting Strategy for Nano Banana Pro Thumbnails",
+      "prompt": "Actually, there's a trickier way to use this. First, have it systematically summarize the information → Then, based on that, have it create the output/deepen the discussion Just doing this makes the quality of the output completely different. This is because if you first create a blueprint in the AI's mind—including \"terminology,\" \"judgment criteria,\" \"prohibited items,\" \"patterns,\" and \"priorities\"— The next instructions will be output according to that blueprint, making it less likely to deviate. For example, if you want Nano Banana Pro to create a thumbnail: ① First, ask GPT-5.2: \"Thoroughly research and systematize the best practices for creating prompts for YouTube thumbnails using Nano Banana Pro. Include common mistakes as well.\" ② After that, ask: \"Based on the current system, create a prompt for making a YouTube thumbnail on the theme of {argument name=\"theme\" default=\"XX\"} using Nano Banana Pro. The video content is like this, and I want to include {argument name=\"wording\" default=\"this kind of wording\"}.\" Then, input the completed prompt into Nano Banana Pro. It becomes much easier to get the desired output. If you just ask it to \"create\" every time, the AI outputs based on the moment, leading to inconsistent results. But if you create a map (system) first, it's powerful. Moreover, this method works for side business strategies, sales copy, and video scripts. The versatility is insane. I highly recommend having the AI organize how to create good output before having it perform the task, and then having it think based on that organization. By the way, the thumbnail created this time is the third image. Since the first attempt was mediocre, I had it systematize how to create attractive YouTube thumbnails before generating the prompt.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-1899-192-Sci-Fi-Book-Cover-with-Layered-Text.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2162-192-Advanced-Two-Step-Prompting-Strategy-for-Nano-Banana-Pro-Thumbnails.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -609,12 +609,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31474-175",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31474-179",
       "title": "Cinematic Urban Night Billboard Portrait",
       "prompt": "{\\n\"image_generation_prompt\": {\\n\"subject_details\": {\\n\"description\": \"{argument name=\"subject\" default=\"Young stylish woman with long straight brown hair\"}\",\\n\"expression\": \"Subtle, confident smile\",\\n\"outfit\": {\\n\"top\": \"Soft pink T-shirt under an open black casual jacket\",\\n\"bottom\": \"Fitted dark jeans\",\\n\"shoes\": \"Polished black shoes\"\\n},\\n\"pose\": \"Standing on a street corner facing the camera, pointing with one hand toward a building behind her\"\\n},\\n\"background_scene\": {\\n\"setting\": \"Vibrant modern city at night\",\\n\"key_element\": \"{argument name=\"billboard element\" default=\"Giant digital billboard on a tall glass building\"}\",\\n\"billboard_content\": {\\n\"visual\": \"Portrait of the same woman in the same outfit, posed like a high-fashion magazine cover\",\\n\"text_headline\": \"{argument name=\"billboard text\" default=\"VOUGHT STYLE\"}\",\\n\"text_subheading\": \"Smaller indistinct magazine-style text\"\\n},\\n\"atmosphere\": [\\n\"Neon lights\",\\n\"Glowing billboards\",\\n\"Moving cars with motion blur\",\\n\"Wet pavement with reflections\"\\n]\\n},\\n\"technical_specs\": {\\n\"style\": \"Cinematic, Photorealistic, Urban Night\",\\n\"camera\": \"35mm lens\",\\n\"depth_of_field\": \"Shallow with soft bokeh on city lights\",\\n\"lighting\": \"Mixed neon ambient, directional light from billboard, moody shadows\",\\n\"resolution\": \"8k, high definition\"\\n}\\n}\\n}, Use the reference image as the primary source for the person's facial features, appearance, and identity. Preserve all distinguishing facial characteristics exactly as shown in the reference.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31474-175-Cinematic-Urban-Night-Billboard-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31474-179-Cinematic-Urban-Night-Billboard-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -628,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13221-232",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13221-233",
       "title": "Action Pose Sheet for Cat",
       "prompt": "Character turnaround sheet of the same lanky grey housecat with oversized paws, cream muzzle, amber eyes, expressive black brows, tall triangular ears, slim elastic body, red collar. Show full body front view, side view, back view, and three-quarter view in one clean composition. Keep proportions identical in every angle. Tail fully visible. Neutral standing pose, arms relaxed, readable silhouette. premium stylized 3D family-film animation, rounded appealing shapes, soft groomed fur, clean neutral studio background, no props, no text, no watermark. Character turnaround sheet of the same tiny warm-brown mouse with round ears, quick black eyes, pale belly, tiny pink nose, slim tail, and tiny blue scarf. Show full body front view, side view, back view, and three-quarter view in one clean composition. Keep scarf shape, tail length, ear size, and body proportions identical in every angle. Neutral standing pose, readable silhouette. premium stylized 3D family-film animation, clean neutral studio background, no props, no text, no watermark. Action pose sheet of the same tiny warm-brown mouse with round ears, quick black eyes, pale belly, tiny pink nose, slim tail, and tiny blue scarf. Show full-body poses in one image. Exaggerated but clean slapstick silhouette, consistent anatomy and scarf shape. premium stylized 3D family-film animation, neutral studio background, no text, no watermark. Action pose sheet of the same lanky grey housecat with oversized paws, cream muzzle, amber eyes, expressive black brows, tall triangular ears, slim elastic body, red collar. Show full-body poses in one image: sneaking low, mid-pounce, skidding stop, hanging from one paw, pancake-splat pose, triumphant pose. Exaggerated but clean slapstick silhouette, consistent anatomy, same proportions in every pose. premium stylized 3D family-film animation, neutral studio background, no text, no watermark",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13221-232-Action-Pose-Sheet-for-Cat.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13221-233-Action-Pose-Sheet-for-Cat.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32914-74",
-      "title": "Golden Light Cinematic Portrait",
-      "prompt": "A close-up photographic portrait of {argument name=\"subject description\" default=\"a young East Asian woman with long, wavy dark brown hair\"} illuminated by soft rim lighting. Rays of sunlight pass through foliage, casting delicate intricate leaf shadows across her face and forehead. She has a contemplative expression with one hand softly resting near her lips, wearing a dark navy blue sweater The background is completely dark creating a high-contrast cinematic chiaroscuro effect with warm golden light highlights hyper-realistic, 8k resolution, shot on an 85mm portrait lens with soft depth of field.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32922-74",
+      "title": "Cozy Bedroom Intimate Portrait",
+      "prompt": "A photorealistic close-up portrait of a young {argument name=\"ethnicity\" default=\"East Asian woman\"} ({argument name=\"age\" default=\"early 20s\"}) with fair, smooth porcelain skin and soft natural makeup. She has large, expressive brown eyes with subtle double eyelids, looking directly at the camera with a gentle, slightly pouty and melancholic expression. Her black hair is styled in a high, messy bun with loose strands and soft bangs framing her face. She is wearing a cozy white ribbed long-sleeve knit sweater and light grey sweatpants, sitting cross-legged or with knees drawn up while tightly hugging a soft, plush beige rectangular pillow against her chest and chin. Soft warm indoor lighting from a bedside lamp on the right creates gentle highlights and a cozy atmosphere. Blurred background shows a bedroom with a beige wall featuring a collage of small polaroid photos on the left, a soft lamp, and neutral home decor. Shallow depth of field, natural skin texture, realistic fabric details, soft bokeh, intimate and serene mood, highly detailed, 8k quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32914-74-Golden-Light-Cinematic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32922-74-Cozy-Bedroom-Intimate-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33192-114",
-      "title": "Retro-Futuristic Editorial Portrait with Sunglasses",
-      "prompt": "Stylized retro-futuristic editorial portrait of a beautiful young woman, vertical 9:16 composition. She is shown from the shoulders up, facing the camera with her head slightly tilted upward, creating a confident, dreamy, fashion-forward expression. She has long, naturally flowing dark wavy hair with fine individual strands, slightly tousled around her shoulders. Her skin has a soft warm beige tone with subtle realistic texture.She wears {argument name=\"sunglasses\" default=\"large oversized round sunglasses with deep translucent red-orange lenses and thin metallic frames\"}, covering most of her eyes. Her lips are full, glossy, softly parted, with muted coral-red lipstick. Her facial features are elegant and symmetrical, with a refined editorial beauty aesthetic.She wears a {argument name=\"outfit\" default=\"vibrant orange-red patterned garment, inspired by vintage Japanese textile motifs\"}, visible around the shoulders and neckline.Background & Art Direction A bold warm golden-orange textured background with a large centered red-orange sun circle behind her head. Add subtle hand-drawn abstract lines, delicate scribbles, faint paint marks, grain, and vintage print imperfections around the composition.The overall aesthetic should combine {argument name=\"style\" default=\"1960s–70s retro poster art, Japanese graphic design, contemporary fashion illustration, and cinematic editorial portraiture\"}. Strong orange, red, gold, and muted teal tones create a striking color palette.Texture & Rendering Highly detailed ink-and-paint texture, fine crosshatching, subtle halftone printing, paper grain, slightly imperfect screen-print edges, layered illustration textures, soft atmospheric shading, realistic hair detail, sophisticated facial rendering, artistic imperfections, premium fashion magazine cover aesthetic.Composition: centered subject, symmetrical framing, close-up portrait, large red sunglasses as the main focal point, clean visual hierarchy, minimal clutter, vertical poster composition.Negative prompt: photorealistic-only appearance, 3D CGI, plastic skin, excessive blur, distorted face, malformed glasses, asymmetrical eyes, extra facial features, messy composition, low detail, watermark, logo, text, modern sunglasses shape, dull colors.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33182-114",
+      "title": "Korean Fashion Sunset Collage",
+      "prompt": "Ultra realistic lifestyle fashion collage of a beautiful young woman in a {argument name=\"setting\" default=\"wide open green park during golden hour sunset\"}, soft warm sunlight, cinematic natural lighting, aesthetic Korean fashion vibe, wearing a {argument name=\"outfit\" default=\"deep burgundy oversized button-up shirt, light blue wide-leg denim jeans, white sneakers\"}, carrying a dark brown leather shoulder bag. Multi-frame collage layout with 5 candid moments.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33192-114-Retro-Futuristic-Editorial-Portrait-with-Sunglasses.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33182-114-Korean-Fashion-Sunset-Collage.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-1518-193",
-      "title": "Hyper-Real 16K Documentary Shot: The Sun Flickers Off",
-      "prompt": "A hyper-real 16K documentary shot capturing the exact moment the Sun flickers—turning off for 0.2 seconds. Show real Earth daylight collapsing into instant, impossible darkness. Streetlights half-ignite in mid-boot, car headlights flare weakly, every shadow in the world disappears at the same exact millisecond, leaving a terrifying flat black nothing. In the next heartbeat, daylight detonates back on—shadows snap violently back into existence like razor-sharp cutouts. Birds freeze mid-flight as if gravity paused; cars halt as if inertia hesitated. The far horizon glows a faint, residual red, like an afterimage burned onto the sky. Use natural global lighting physics, atmospheric scattering, documentary realism, handheld news-camera vibration, micro-grain, zero CGI softness, ultra-sharp lensing, real-world color science, and scientific accuracy. Convey global panic but captured with the calm, unfiltered eye of a live news broadcast. Hyper-real, 16K, macro-cinematic documentary detail.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-1899-193",
+      "title": "Sci-Fi Book Cover with Layered Text",
+      "prompt": "Astronaut floating in space, bold title text '{argument name=\"title text\" default=\"BEYOND THE VOID\"}' layered between character and nebula background, cinematic lighting, dramatic composition",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-1518-193-Hyper-Real-16K-Documentary-Shot-The-Sun-Flickers-Off.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-1899-193-Sci-Fi-Book-Cover-with-Layered-Text.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31465-176",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31465-180",
       "title": "Raspberry Shell Product Photography",
       "prompt": "Studio product photo of {argument name=\"product\" default=\"product from uploaded photo\"} encased inside a hyper-realistic, oversized cross-section of a raspberry, split into two halves that wrap around and cradle the product like a protective shell, with the product sitting centered, floating slightly with a soft contact shadow; the raspberry surface shows glossy, dew-covered individual drupelets with visible juice dripping down realistically over the product, fine details like tiny hairs and moisture droplets, hyper-realistic CGI product photography style, high-end commercial advertising look, soft diffused studio lighting with subtle rim light, seamless light grey studio backdrop with subtle gradient, vertical composition, clean and minimal, no text overlays unless part of the product's own packaging.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31465-176-Raspberry-Shell-Product-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31465-180-Raspberry-Shell-Product-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,12 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13207-233",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13207-234",
       "title": "Hyper-Realistic 3D Chess Set for Rivalry Themes",
       "prompt": "Input Variable: [{argument name=\"rivalry theme\" default=\"INSERT RIVALRY HERE\"}] (e.g., Marvel vs. DC) System Instruction: Generate a hyper-realistic, isometric 3D render of a Chess Set. CRITICAL: You must adhere to strict spatial rules regarding Army Placement and Terrain. 1. Container (The Battle-Scarred Board): Geometry: A strict 8x8 Euclidean Grid. The Divide (The Diagonal Morph): The terrain morphs diagonally from the Bottom-Left Corner to the Top-Right Corner . The Foreground Territory (Bottom-Left): [{argument name=\"material A\" default=\"Material A\"}] (e.g., Marvel Tech/Stark Tower Glass). The Background Territory (Top-Right): [{argument name=\"material B\" default=\"Material B\"}] (e.g., Gotham Concrete/Gargoyle Stone). The Seamless Transition: The squares are distinct, but the material morphs diagonally across the board. 2. The Roster (Strict Foreground vs. Background): DO NOT mix the armies. DO NOT split them Left/Right. Army A (The Protagonist - Foreground): Placement: Occupies the Bottom 2 Rows closest to the camera. The Pawns: 8 Identical Units (Row 2). The Elites: King, Queen, Rooks, etc. (Row 1). Identity: MUST be strictly Faction A (e.g., Only Avengers/Iron Man style). Army B (The Antagonist - Background): Placement: Occupies the Top 2 Rows furthest from the camera. The Pawns: 8 Identical Units (Row 7). The Elites: King, Queen, Rooks, etc. (Row 8). Identity: MUST be strictly Faction B (e.g., Only Justice League/Batman style). 3. The Piece Hierarchy : The King: A Single, Tall, Unique Artifact per side (Center of the back row). The Queen: A Single, Sharp/Elegant Artifact per side (Next to King). The Pawns: Uniform, small \"minion\" pieces. 4. Visual : Camera: High-Angle Isometric. Looking down at the board diagonally so the \"Marvel Corner\" is closest to the viewer and \"DC Corner\" is furthest away. Contrast: The Foreground pieces (Marvel) should be illuminated by [{argument name=\"color A\" default=\"Color A\"}] (e.g., Cyan Arc Reactor glow). The Background pieces (DC) should be illuminated by [Color B] (e.g., Amber Streetlight glow). Output: A legal chess setup with armies facing off, 8k resolution, clean composition.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13207-233-Hyper-Realistic-3D-Chess-Set-for-Rivalry-Themes.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13207-234-Hyper-Realistic-3D-Chess-Set-for-Rivalry-Themes.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32926-75",
-      "title": "Faux Fur Hood Beauty Portrait",
-      "prompt": "A highly detailed, photorealistic close-up portrait of a young East Asian woman with fair, porcelain-like skin and a soft natural glow. She has straight, dark brown hair with neat, blunt bangs cut just above her eyebrows, framing her face. Her large, expressive brown eyes are gazing upward and slightly to the side (viewer’s left), with long, natural-looking lashes and subtle eye makeup. Soft pink blush is applied to the apples of her cheeks, creating a flushed, healthy look. Her lips are slightly parted, glossy, and natural pink. A small, subtle beauty mark sits on her left cheek. She is nestled inside a {argument name=\"clothing\" default=\"thick, fluffy, pure white faux-fur hood or parka\"} that completely frames her face, with the soft, dense fur texture surrounding her head and shoulders. Soft, diffused studio lighting highlights the skin texture, the delicate sheen on her lips, and the luxurious volume of the white fur. Shallow depth of field, dreamy and intimate atmosphere, high-resolution beauty photography style, ultra-detailed skin pores and fur strands, clean soft background created entirely by the white fur.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32914-75",
+      "title": "Golden Light Cinematic Portrait",
+      "prompt": "A close-up photographic portrait of {argument name=\"subject description\" default=\"a young East Asian woman with long, wavy dark brown hair\"} illuminated by soft rim lighting. Rays of sunlight pass through foliage, casting delicate intricate leaf shadows across her face and forehead. She has a contemplative expression with one hand softly resting near her lips, wearing a dark navy blue sweater The background is completely dark creating a high-contrast cinematic chiaroscuro effect with warm golden light highlights hyper-realistic, 8k resolution, shot on an 85mm portrait lens with soft depth of field.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32926-75-Faux-Fur-Hood-Beauty-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32914-75-Golden-Light-Cinematic-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33183-117",
-      "title": "Feather Silk Dress Mirror Selfie",
-      "prompt": "{ \"core_content\": { \"main_description\": \"A stylish young woman takes a mirror selfie in a luxury bathroom, wearing an {argument name=\"outfit\" default=\"elegant white silk slip dress with feather trim\"}, accessorized with gold bangles and a blue handbag.\" }, \"subjects\": [ { \"identity\": \"Young woman\", \"spatial_position\": { \"placement\": \"Center frame\", \"scale\": \"Medium shot\" }, \"pose\": { \"body_narrative\": \"Standing upright with a slight tilt, one hand raised to her chin in a thoughtful, poised gesture, while the other hand holds a smartphone to capture the reflection.\", \"hand_gesture\": \"Right hand touching chin, left hand holding a smartphone.\" }, \"eye_gaze\": { \"direction\": \"Towards the mirror reflection\", \"contact\": \"Direct\", \"focus\": \"Sharp\" }, \"appearance\": { \"features\": \"Long brown hair styled in a high ponytail, youthful complexion, natural makeup\", \"expression\": \"Serene and neutral\" }, \"attire\": { \"outer_layer\": \"White satin slip dress with cowl neckline and dramatic feather-trimmed high side-slit\", \"accessories\": \"Multiple layered gold bangles on right wrist, gold ring on left hand, vibrant cobalt blue leather shoulder bag\" } } ], \"environment\": { \"scene\": \"Luxury hotel bathroom\", \"background_elements\": [ { \"object\": \"Walls\", \"description\": \"{argument name=\"wall material\" default=\"Deep forest green marble with white veining\"}\" }, { \"object\": \"Mirror\", \"description\": \"Large circular mirror with a thin gold frame\" } ] }, \"aesthetics\": { \"art_style\": \"High-fashion social media photography, clean aesthetic\", \"lighting\": { \"key_light\": \"Warm indoor vanity lighting, soft and diffuse\", \"shadows\": \"Minimal, soft shadows\" }, \"camera\": { \"angle\": \"Eye level\", \"lens\": \"Smartphone portrait lens\" } } }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33185-115",
+      "title": "Netflix Style Cinematic Portrait",
+      "prompt": "Hyper realistic IMAX level Netflix style cinematic portrait, 9:16 vertical frame, use the uploaded image as the primary facial reference with maximum face consistency, a {argument name=\"gender\" default=\"beautiful young female model\"}. Wearing a {argument name=\"clothing\" default=\"casual, silky taupe button-down collared shirt\"}, accessorized with {argument name=\"accessories\" default=\"classic silver hoop earrings and stylish black wayfarer sunglasses\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33183-117-Feather-Silk-Dress-Mirror-Selfie.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33185-115-Netflix-Style-Cinematic-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-1611-194",
-      "title": "Thumbnail Text Decoration Enhancement Prompt",
-      "prompt": "Using this prompt will dramatically increase the sense of luxury in the thumbnail.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-1518-194",
+      "title": "Hyper-Real 16K Documentary Shot: The Sun Flickers Off",
+      "prompt": "A hyper-real 16K documentary shot capturing the exact moment the Sun flickers—turning off for 0.2 seconds. Show real Earth daylight collapsing into instant, impossible darkness. Streetlights half-ignite in mid-boot, car headlights flare weakly, every shadow in the world disappears at the same exact millisecond, leaving a terrifying flat black nothing. In the next heartbeat, daylight detonates back on—shadows snap violently back into existence like razor-sharp cutouts. Birds freeze mid-flight as if gravity paused; cars halt as if inertia hesitated. The far horizon glows a faint, residual red, like an afterimage burned onto the sky. Use natural global lighting physics, atmospheric scattering, documentary realism, handheld news-camera vibration, micro-grain, zero CGI softness, ultra-sharp lensing, real-world color science, and scientific accuracy. Convey global panic but captured with the calm, unfiltered eye of a live news broadcast. Hyper-real, 16K, macro-cinematic documentary detail.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-1611-194-Thumbnail-Text-Decoration-Enhancement-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-1518-194-Hyper-Real-16K-Documentary-Shot-The-Sun-Flickers-Off.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

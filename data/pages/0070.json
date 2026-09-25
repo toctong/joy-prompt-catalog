@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33568-89",
-      "title": "Red Mesh Glove Studio Portrait",
-      "prompt": "Full-face studio fashion portrait of a woman looking directly into the camera, one hand in a {argument name=\"glove style\" default=\"translucent red mesh glove\"} pressed to her face and partially covering one eye. The composition is symmetrical and centered, cropped to the shoulders. She wears a {argument name=\"clothing\" default=\"bright red structured jacket\"} with defined shoulders, pearl jewelry, and a pearl ring. Her makeup features a matte skin tone, defined eyelashes, and rich burgundy-red lips. The background is a plain, {argument name=\"background color\" default=\"monochromatic red\"}. Lighting is controlled studio soft frontal light with slight side shift. Highly detailed, photorealistic, 50mm lens style, clean digital processing.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33563-88",
+      "title": "Cinematic Rainy Night Car Portrait",
+      "prompt": "{ \"title\": \"Cinematic Rainy Night Portrait\", \"description\": \"An emotional cinematic portrait captured through a fogged and rain-covered car window during a rainy night in a neon-lit city. A beautiful young woman sits alone in the backseat, quietly looking outside with a distant and melancholic expression. She gently draws a small heart on the misted glass while colorful city lights blur behind the raindrops, creating a feeling of loneliness, nostalgia, and quiet reflection.\", \"prompt\": \"A cinematic rainy-night portrait photographed through a fogged and rain-covered car window. A beautiful young woman sits alone in the backseat of a car during heavy rain, gazing outside with a distant, melancholic expression. She gently draws a tiny heart on the misted glass with her finger. Raindrops stream down the window, distorting colorful city lights and neon signs in the background. Soft blue and warm orange neon reflections illuminate her face and the wet glass. Emotional solitude, quiet sadness, cinematic storytelling, realistic skin texture, visible pores, natural makeup, slightly messy hair, expressive eyes, shallow depth of field, dreamy bokeh, soft focus falloff, realistic reflections, atmospheric lighting, analog film grain, cinematic color grading, photorealistic, masterpiece photography, ultra-detailed, 85mm lens, f/1.4, award-winning portrait, emotional visual poetry, 8k.\", \"style\": [ \"cinematic photography\", \"photorealistic\", \"analog film aesthetic\", \"emotional visual storytelling\", \"neo-noir atmosphere\" ], \"negative_prompt\": \"anime, cartoon, CGI, 3D render, low quality, blurry face, extra fingers, bad anatomy, unrealistic skin, oversaturated colors, watermark, text, logo, duplicate person, distorted hands, plastic skin\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33568-89-Red-Mesh-Glove-Studio-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33563-88-Cinematic-Rainy-Night-Car-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4395-146",
-      "title": "Cinematic 12-Panel Timeline of a Subject's Epic Day",
-      "prompt": "\"In the Day of {argument name=\"subject\" default=\"[SUBJECT]\"}\": Design a 12-panel (4x3) cinematic timeline capturing an epic, chaotic, or hilarious day in the life of {argument name=\"subject\" default=\"[SUBJECT]\"}. Add this title in a style that matches the subject to the top of the image. Each panel must be [PHOTOREALISTIC], large, and show: a timestamp (e.g. 06:00, 08:00...) a short, punchy caption in quotes (e.g. \"Potion Mishap\", \"Midnight Bounty Run\") a richly detailed, high-energy scene tailored to that moment of their day. The overall backdrop, panel frames, textures, and visual UI elements must match the subject’s universe — e.g., {argument name=\"theme example\" default=\"leather + studs for rockstars\"}, arcane scrolls for wizards, chrome HUD for cyborgs, jungle vines for pirates, etc. Panels are arranged in a grid or storyboard, with rugged or themed dividers. Final panel (06:00 next day) shows collapse, rest, or post-chaos resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4438-146",
+      "title": "Character Riding Pegasus Fantasy Illustration Prompt",
+      "prompt": "Utilizing the composition, background, and Pegasus from this image, generate a fantasy illustration of a character riding the Pegasus. Character: - A human character naturally riding the Pegasus. - Slightly leaning forward to maintain balance during flight. - Hands holding the reins or in a natural position suitable for riding. - Expression is cool and focused. Pegasus and Direction: - The Pegasus is flying at high speed. - The wings are powerful, conveying the motion of cutting through the wind. - Hair and clothing are flowing in the wind. Visual Representation: - High-quality anime-style illustration. - Cinematic expression with unified lighting, shadows, and color palette. - An aerial scene conveying speed and tension. Constraints: - Do not significantly alter the Pegasus design or the overall composition. - Do not add new characters or unnecessary elements. - Do not include text, logos, or watermarks. - Aspect ratio is 16:9",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4395-146-Cinematic-12-Panel-Timeline-of-a-Subject-s-Epic-Day.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4438-146-Character-Riding-Pegasus-Fantasy-Illustration-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32744-117",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32744-121",
       "title": "Scifi Book Cinematic Diorama",
       "prompt": "Create a photorealistic cinematic diorama emerging physically from an open book. Infer automatically: HERO_ENTITY TITLE WORLD TITLE_MATERIAL FOREGROUND_EVENT MINIATURE_ACTORS PROP_SET LIGHT_DNA FX_DNA Composition: - open hardcover book occupies the lower majority of the frame - book pages physically transform into {argument name=\"topic\" default=\"scifi book\"} rather than remaining clean paper - TITLE becomes massive freestanding 3D typography embedded within the terrain - TITLE material and construction are inferred from TOPIC - HERO_ENTITY rises behind, above, through, or around the typography at monumental relative scale - FOREGROUND_EVENT unfolds across the front page as a miniature narrative scene - miniature actors, vehicles, tools, vegetation, debris, structures, or props are inferred only when semantically useful - page edges remain visible so the illusion of “world emerging from book” is unmistakable Lighting: cinematic practical lighting inferred from TOPIC plus believable environmental illumination. Rendering: macro practical-effects photography, real book fibers, physical miniature materials, contact shadows, dust and surface imperfections, atmospheric depth, high-end handcrafted diorama realism. No hard-coded title, character, environment, material, action, vehicle, or visual effect.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32744-117-Scifi-Book-Cinematic-Diorama.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32744-121-Scifi-Book-Cinematic-Diorama.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-16765-187",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-16765-188",
       "title": "3D Gaming Character Composition",
       "prompt": "use the exact composition of @walk for a highly detailed 3D gaming character of a {argument name=\"subject\" default=\"buddhist monk with a buddha statue strapped to his back\"} walking through a {argument name=\"landscape\" default=\"indian landscape with palmtrees in the back\"}. background landscape is even and does not rise towards the edges",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-16765-187-3D-Gaming-Character-Composition.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-16765-188-3D-Gaming-Character-Composition.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33382-55",
-      "title": "Detailed Maki Zenin Anime Portrait",
-      "prompt": "masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Jujutsu Kaisen, close-up face shot from slightly low angle looking upward, beautiful young woman with fair smooth skin, soft pink blush on cheeks and nose, glossy plump lips with subtle pink gloss, sharp defined jawline, delicate features, long black hair with soft brown highlights, straight bangs covering forehead, hair parted slightly, two small high buns or half-up style with loose strands framing the face, silky shiny hair texture with individual strands visible, piercing bright cyan-blue eyes with detailed irises and catchlights, looking directly at viewer with calm intense expression, slightly narrowed eyes, long dark eyelashes, thin silver rimless glasses resting on the bridge of the nose, glowing neon purple-blue light reflections and soft wavy light trails across both lenses creating a cybernetic or magical effect, soft lens flare and light bloom on the glasses, wearing a black lace choker with delicate ruffled edges, black top with white collar or lace trim visible at the neckline, subtle gothic or elegant details, soft volumetric lighting, cool purple and blue ambient light from the left, warm pink rim light on the right side of the face, gentle subsurface scattering on skin, cinematic soft focus background with abstract purple and white light streaks and bokeh, dreamy ethereal atmosphere, highly detailed face, perfect anatomy, sharp focus on eyes and glasses, intricate hair strands, realistic skin texture mixed with anime style, vibrant yet soft color palette, 8k, ultra high resolution, ar 9:16, 4K, anime style, illustration, digital painting, soft shading, cel shading mixed with realistic lighting, negative prompt: blurry, low quality, deformed eyes, extra fingers, bad anatomy, text, watermark, oversaturated, ugly, duplicate",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33376-55",
+      "title": "Retro-Modern Neon Anime Painting",
+      "prompt": "A retro-modern anime digital painting of a chic young woman in a dramatic low-angle perspective. Tousled dark {argument name=\"hair style\" default=\"shoulder-length wavy\"} hair, straight wispy micro-bangs, silver hoop earrings, subtle warm makeup, looking down toward the camera with a calm, aloof gaze. Wearing a {argument name=\"outfit\" default=\"loose, baggy black oversized turtleneck\"} with draped sleeves tucked into high-waisted black casual trousers, hands in pockets. Atmospheric {argument name=\"lighting color\" default=\"neon split-lighting\"}, warm pink rim light contrasting against deep purple and midnight-blue ambient shadows, clean graphic vector edges, cel-shaded anime style, smooth cobalt blue to hot pink gradient backdrop, synthwave color palette, cinematic lighting, masterpiece.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33382-55-Detailed-Maki-Zenin-Anime-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33376-55-Retro-Modern-Neon-Anime-Painting.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33470-93",
-      "title": "Urban Cinematic Golden Hour Portrait",
-      "prompt": "A medium-shot portrait of a {argument name=\"subject\" default=\"beautiful young woman with long, wavy brown hair\"} illuminated by golden hour sunlight. She is wearing a {argument name=\"top\" default=\"plain black fitted crewneck t-shirt\"} tucked into {argument name=\"bottoms\" default=\"high-waisted, pleated olive-green cargo pants\"}, standing with her hands resting in her pockets. The setting is an urban city balcony or rooftop with soft-focus buildings, street traffic, and overhead utility wires in the background. Natural warm rim lighting highlights her hair, with a dramatic setting sun glowing behind her. Shot on 85mm lens, f/1.8 aperture, realistic texture, cinematic lighting, shallow depth of field, 35mm film photography style.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33566-90",
+      "title": "Family Dinner Cinematic Contact Sheet",
+      "prompt": "{ \"title\": \"Warm Family Dinner Cinematic Contact Sheet\", \"format\": \"3x3 contact sheet collage\", \"subject\": \"{argument name=\"subject\" default=\"A young woman with natural wavy dark hair, wearing a loose brown linen button-up shirt, sitting at a wooden dining table during a cozy family dinner\"}\", \"environment\": \"{argument name=\"environment\" default=\"Traditional family dining room, vintage wallpaper, wooden china cabinet filled with plates and glassware, warm tungsten household lighting, realistic home atmosphere\"}\", \"composition\": { \"grid\": \"3x3 storyboard frames\", \"shots\": [ \"medium shot talking with expressive hands\", \"close-up laughing naturally\", \"side view serving lasagna from casserole dish\", \"close-up listening with chin resting on hand\", \"medium shot eating dinner while looking down\", \"close-up tasting food with playful expression\", \"medium shot telling an animated story\", \"close-up smiling softly while holding a fork\", \"wide shot alone at dining table after conversation\" ] }, \"camera\": { \"lens\": \"50mm and 85mm prime lenses\", \"depth_of_field\": \"shallow\", \"focus\": \"sharp focus on subject, creamy background bokeh\", \"framing\": \"cinematic coverage from multiple angles\" }, \"lighting\": { \"type\": \"warm practical household lighting\", \"color_temperature\": \"3200K\", \"mood\": \"cozy, intimate, nostalgic\", \"shadows\": \"soft natural shadows\" }, \"style\": { \"photorealistic\": true, \"cinematic\": true, \"natural_expressions\": true, \"slice_of_life\": true, \"authentic_human_moments\": true, \"award_winning_film_still\": true }, \"color_grading\": { \"palette\": \"{argument name=\"palette\" default=\"warm amber, brown, cream, beige\"}\", \"contrast\": \"soft cinematic contrast\", \"look\": \"Kodak Vision3 film emulation\" }, \"details\": [ \"genuine laughter\", \"natural eye contact\", \"subtle facial expressions\", \"realistic skin texture\", \"wooden dining furniture\", \"home-cooked meal\", \"candid documentary photography\", \"family gathering atmosphere\" ], \"quality\": { \"resolution\": \"8K\", \"detail\": \"ultra detailed\", \"realism\": \"hyper realistic\" }, \"negative_prompt\": [ \"anime\", \"cartoon\", \"cgi\", \"plastic skin\", \"overprocessed face\", \"low resolution\", \"extra fingers\", \"distorted anatomy\", \"text\", \"watermark\", \"logo\" ] }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33470-93-Urban-Cinematic-Golden-Hour-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33566-90-Family-Dinner-Cinematic-Contact-Sheet.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4091-151",
-      "title": "Youtube Thumbnail Concept: The New Weapon",
-      "prompt": "Youtube thumbnail Concept: Background (Split 50/50): Left Side (War): Grayscale or desaturated sepia tone. Shows a chaotic background of smoke or tanks. Right Side (Fusion): High-saturation, deep blues and glowing purples. Shows a futuristic tokamak reactor core. Subject: A large, shoulder up cutout of Trump placed dead center, acting as the divider between the two worlds. He should look confident/determined, facing slightly toward the \"Fusion\" side. Text (Top, full width): \"{argument name=\"main text\" default=\"THE NEW WEAPON\"}\" (in large, blocky #FFFF00 Yellow font). Note: Add a heavy black drop shadow or a dark gradient vignette at the very top to ensure the yellow text is readable against the glowing background.\"",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4395-147",
+      "title": "Cinematic 12-Panel Timeline of a Subject's Epic Day",
+      "prompt": "\"In the Day of {argument name=\"subject\" default=\"[SUBJECT]\"}\": Design a 12-panel (4x3) cinematic timeline capturing an epic, chaotic, or hilarious day in the life of {argument name=\"subject\" default=\"[SUBJECT]\"}. Add this title in a style that matches the subject to the top of the image. Each panel must be [PHOTOREALISTIC], large, and show: a timestamp (e.g. 06:00, 08:00...) a short, punchy caption in quotes (e.g. \"Potion Mishap\", \"Midnight Bounty Run\") a richly detailed, high-energy scene tailored to that moment of their day. The overall backdrop, panel frames, textures, and visual UI elements must match the subject’s universe — e.g., {argument name=\"theme example\" default=\"leather + studs for rockstars\"}, arcane scrolls for wizards, chrome HUD for cyborgs, jungle vines for pirates, etc. Panels are arranged in a grid or storyboard, with rugged or themed dividers. Final panel (06:00 next day) shows collapse, rest, or post-chaos resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4091-151-Youtube-Thumbnail-Concept-The-New-Weapon.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4395-147-Cinematic-12-Panel-Timeline-of-a-Subject-s-Epic-Day.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32749-118",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32749-122",
       "title": "Gal Gadot Volcanic Portrait",
       "prompt": "{ \"vibe_title_en\": \"Ash and Ecstasy\", \"master_prompt\": \"A hyper-realistic, 90-degree top-down architectural photograph of The Protagonist lying completely flat on a bed of heavily textured, cooling black volcanic coals with faint, glowing red embers buried deep within the cracks. Directly above the crown of the subject's head rests a singular, impossibly pristine, oversized bright red apple, untouched by the extreme heat, serving as a surreal focal point. The Protagonist is in a state of euphoric trance—chin lifted slightly to expose the neck, eyes gently closed in pure passionate release. A subtle thermal updraft acts like a gentle wind, causing dark strands of hair to fan out and float dynamically across the coarse, jagged charcoal surface. The subject wears a high-necked, intricately pleated matte-black avant-garde garment that blends seamlessly into the dark, charred surroundings. Shot on Hasselblad H6D-100c with an HC 100mm f/2.2 lens to capture microscopic details: individual skin pores, the powdery ash on the rocks, and the waxy, reflective sheen of the red fruit. Lighting is a moody, cinematic blend—a soft, ethereal overhead fill (flat but moody diffusion) contrasted by intense, warm, practical under-glow radiating from the heat of the coals, creating localized heat haze and subtle bokeh near the edges of the frame. Kodak Portra 400 film stock, rich crushed shadows, authentic cinematic grain, highly tactile and physically grounded surrealism. NO NEON.\", \"meta\": { \"intent\": \"Photographic Surrealism and Editorial Conceptual Portraiture\", \"priorities\": \"Extreme textural contrast, top-down symmetry, conveying a euphoric trance state, micro-detail retention\", \"device_profile\": \"High-Resolution Editorial Display\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Symmetrical Top-Down Center Alignment\", \"layout\": \"Subject centralized along the vertical axis, with the red fruit acting as a structural anchor directly above the head\", \"camera_angle\": \"Strictly 90-degree top-down (Plan View)\", \"tilt_roll_degrees\": \"0 degrees\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless, striking, ethereal features\", \"face\": \"Symmetrical, flawless skin texture with visible pores, chin tilted up, deeply relaxed musculature\", \"hair\": \"Dark, fine strands blowing dynamically outward as if caught in a thermal updraft, splayed against the black rocks\", \"body\": \"Supine, fully relaxed yet possessing an internal narrative tension of release\", \"expression\": \"The Ecstatic Dreamer: eyes closed in pleasure, a subtle breath escaping parted lips, euphoric trance\", \"pose\": \"Lying completely flat, perfectly aligned with the camera's central axis, head tilted back against the ground\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"High-necked, intricately pleated avant-garde tunic\", \"material\": \"Matte-black raw silk and heavy crepe\", \"color\": \"Pitch Black\", \"fit\": \"Flowing, pooled heavily around the shoulders and neck, merging with the ground\" } ], \"accessories\": [ { \"item\": \"Oversized, flawless whole apple resting on the coals\", \"color\": \"Vibrant Crimson Red\", \"material\": \"Organic waxy skin with high specular reflection\", \"brand_style\": \"Surrealist prop\" } ] }, \"environment\": { \"setting\": \"A barren, claustrophobic expanse of scorched earth and cooling volcanic basalt\", \"surfaces\": \"Highly textured jagged black rocks, powdery grey ash, smooth glowing human skin\", \"depth\": \"Flattened depth of field due to the plan view, isolated by the sudden drop into shadow\", \"atmosphere\": \"Warm, hazy, physically intense, thick with unseen heat\", \"lens_interaction\": \"Subtle optical distortion and heat haze rippling around the red embers\" }, \"lighting\": { \"key\": \"Soft, ethereal, moody overhead diffusion mimicking an overcast twilight sky\", \"fill\": \"Ambient bounce from the dark surfaces, highly controlled to maintain deep shadows\", \"rim\": \"Warm, fiery orange and red under-lighting radiating upward from the cracks in the coal bed\", \"shadows\": \"Deep, rich, high-contrast chiaroscuro, absorbing the black garment entirely\", \"color_temperature\": \"Split: 5600K cool overhead flat light against 2500K intense warm ember glow\", \"sensor_flare\": \"None, pristine contrast\" }, \"camera\": { \"lens_type\": \"Medium Format Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.8\", \"focus\": \"Tack-sharp on the subject's eyelashes, skin pores, and the surface of the apple\", \"sensor_format\": \"Medium Format Digital (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Zero distortion, pure orthographic projection feel\" }, \"post_processing\": { \"color\": \"Deeply saturated, isolated reds against monochromatic charcoals and warm, lifelike skin tones\", \"tonality\": \"High-end editorial, crushed blacks with meticulously retained micro-contrast in the highlights\", \"texture\": \"Hyper-detailed analog feel, authentic Kodak Portra 400 film grain in the shadows\", \"digital_sharpening\": \"None, entirely reliant on organic optical lens sharpness\", \"chromatic_aberration\": \"Virtually zero, pristine edge-to-edge optical quality\" }, \"negative_specifications\": [ \"Neon lights\", \"Cyberpunk aesthetics\", \"Cityscapes\", \"Rooftops\", \"Coffee shops\", \"Minimalist offices\", \"Plastic or airbrushed skin\", \"Cartoonish surrealism\", \"CGI feel\", \"Direct eye contact\", \"Smiling\", \"Cluttered background\" ] }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32749-118-Gal-Gadot-Volcanic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32749-122-Gal-Gadot-Volcanic-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-16188-188",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-16188-189",
       "title": "Chibi Penguin on a Motorcycle",
       "prompt": "Ultra-realistic, cinematic vertical 9:16 shot of Gugo Gaga, a small chibi-style character with short black hair and gray eyes, wearing a {argument name=\"character outfit\" default=\"plush penguin onesie\"} with a giant zipper detail at the neck. The character is in an extremely happy, joyful mood with eyes closed and a wide, laughing mouth. Gugo Gaga is sitting on a {argument name=\"vehicle\" default=\"vintage teal and chrome cruiser motorcycle\"} parked on a {argument name=\"setting\" default=\"winding coastal highway\"}. The lighting is soft golden hour sunset, casting a warm glow over the scene with a blurred ocean and mountain background. 8k resolution, highly detailed textures on the plush fabric and polished chrome, commercial photography style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-16188-188-Chibi-Penguin-on-a-Motorcycle.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-16188-189-Chibi-Penguin-on-a-Motorcycle.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33387-56",
-      "title": "Anime Fine Art Moonlight Mountains",
-      "prompt": "Digital painting of a stunning young {argument name=\"subject\" default=\"East Asian woman\"} with voluminous, wavy black hair windswept around her face, looking directly forward with a calm, ethereal expression. She wears a modern traditional {argument name=\"outfit\" default=\"white robe dress\"} with loose three-quarter sleeves and a deep crossover neckline, tightly cinched at the waist by a wide black sash tied into a ribbon belt. In the background, a large luminous full moon forms a halo behind her head, set against a dramatic backdrop of {argument name=\"background\" default=\"rugged, snow-dusted mountains\"}, autumn-colored trees with red foliage, and drifting clouds. Elegant anime-fine-art hybrid style, cinematic soft lighting, dynamic wind motion, highly detailed fabric folds, masterpiece quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33382-56",
+      "title": "Detailed Maki Zenin Anime Portrait",
+      "prompt": "masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Jujutsu Kaisen, close-up face shot from slightly low angle looking upward, beautiful young woman with fair smooth skin, soft pink blush on cheeks and nose, glossy plump lips with subtle pink gloss, sharp defined jawline, delicate features, long black hair with soft brown highlights, straight bangs covering forehead, hair parted slightly, two small high buns or half-up style with loose strands framing the face, silky shiny hair texture with individual strands visible, piercing bright cyan-blue eyes with detailed irises and catchlights, looking directly at viewer with calm intense expression, slightly narrowed eyes, long dark eyelashes, thin silver rimless glasses resting on the bridge of the nose, glowing neon purple-blue light reflections and soft wavy light trails across both lenses creating a cybernetic or magical effect, soft lens flare and light bloom on the glasses, wearing a black lace choker with delicate ruffled edges, black top with white collar or lace trim visible at the neckline, subtle gothic or elegant details, soft volumetric lighting, cool purple and blue ambient light from the left, warm pink rim light on the right side of the face, gentle subsurface scattering on skin, cinematic soft focus background with abstract purple and white light streaks and bokeh, dreamy ethereal atmosphere, highly detailed face, perfect anatomy, sharp focus on eyes and glasses, intricate hair strands, realistic skin texture mixed with anime style, vibrant yet soft color palette, 8k, ultra high resolution, ar 9:16, 4K, anime style, illustration, digital painting, soft shading, cel shading mixed with realistic lighting, negative prompt: blurry, low quality, deformed eyes, extra fingers, bad anatomy, text, watermark, oversaturated, ugly, duplicate",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33387-56-Anime-Fine-Art-Moonlight-Mountains.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33382-56-Detailed-Maki-Zenin-Anime-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33463-94",
-      "title": "Traditional Red Qipao Portrait",
-      "prompt": "Close-up portrait of a stunning young {argument name=\"ethnicity\" default=\"East Asian\"} woman with delicate facial features, warm brown eyes, subtle freckles across her cheeks, and a small beauty mark below her lower lip. She has an {argument name=\"hair style\" default=\"intricate updo hairstyle with loose, soft tendrils framing her face\"}, adorned with red hair accessories and floral pins. She is wearing an {argument name=\"clothing\" default=\"ornate red Chinese qipao (cheongsam)\"} crafted with sheer embroidered mesh over silk, featuring a high mandarin collar, traditional frog knot buttons, and detailed floral threadwork. The background consists of soft-focus blooming red floral branches and a rich crimson studio backdrop. Cinematic soft studio lighting, ultra-realistic skin texture, shallow depth of field, 85mm lens, f/1.8, 8k resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33568-91",
+      "title": "Red Mesh Glove Studio Portrait",
+      "prompt": "Full-face studio fashion portrait of a woman looking directly into the camera, one hand in a {argument name=\"glove style\" default=\"translucent red mesh glove\"} pressed to her face and partially covering one eye. The composition is symmetrical and centered, cropped to the shoulders. She wears a {argument name=\"clothing\" default=\"bright red structured jacket\"} with defined shoulders, pearl jewelry, and a pearl ring. Her makeup features a matte skin tone, defined eyelashes, and rich burgundy-red lips. The background is a plain, {argument name=\"background color\" default=\"monochromatic red\"}. Lighting is controlled studio soft frontal light with slight side shift. Highly detailed, photorealistic, 50mm lens style, clean digital processing.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33463-94-Traditional-Red-Qipao-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33568-91-Red-Mesh-Glove-Studio-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3920-153",
-      "title": "Yakuza Portrait with Irezumi Tattoos",
-      "prompt": "Extreme close-up intimate portrait of a Japanese yakuza member, late-30s man with intensely piercing cold eyes dominating the frame as the absolute focal point, subtle fierce and calculating expression, unblinking direct gaze into the camera conveying quiet danger and depth, highly detailed irises with sharp reflections, intricate traditional irezumi tattoos prominently visible on neck rising to jawline and partially on lower face/cheeks ({argument name=\"tattoo motifs\" default=\"phoenix, crashing waves, cherry blossoms, dragon coils, and oni mask\"} in vibrant classic tebori style), open collared dark suit revealing tattoo edges, slicked-back black hair, subtle facial scar on cheek, realistic pores and skin texture, dramatic low-key cinematic lighting with rim light highlighting eyes and tattoos, moody tense atmosphere, photorealistic, ultra-detailed",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4091-152",
+      "title": "Youtube Thumbnail Concept: The New Weapon",
+      "prompt": "Youtube thumbnail Concept: Background (Split 50/50): Left Side (War): Grayscale or desaturated sepia tone. Shows a chaotic background of smoke or tanks. Right Side (Fusion): High-saturation, deep blues and glowing purples. Shows a futuristic tokamak reactor core. Subject: A large, shoulder up cutout of Trump placed dead center, acting as the divider between the two worlds. He should look confident/determined, facing slightly toward the \"Fusion\" side. Text (Top, full width): \"{argument name=\"main text\" default=\"THE NEW WEAPON\"}\" (in large, blocky #FFFF00 Yellow font). Note: Add a heavy black drop shadow or a dark gradient vignette at the very top to ensure the yellow text is readable against the glowing background.\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3920-153-Yakuza-Portrait-with-Irezumi-Tattoos.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4091-152-Youtube-Thumbnail-Concept-The-New-Weapon.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32662-120",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32662-124",
       "title": "Nendoroid Style Manga Diorama",
       "prompt": "1. Semantic Inference Engine Input A is a {argument name=\"character\" default=\"Manga/Anime Character or Comic Book Hero\"}. Deconstruct the character to generate 3 Action Assets : The Power (The Effect): Identify the signature attack. (e.g., Fireball, Web-Slinging, Psychic Blast, Lightning). The Sound (The Onomatopoeia): Identify the comic book sound effect text. (e.g., \"BOOM!\", \"SMASH!\", \"THWIP!\", \"KABOOM!\"). The Color (The Aura): Identify the primary energy color. (e.g., Orange, Red, Purple, Green). 2. Container (The Display Stand): Goal: \"Nendoroid\" Style Diorama Photography. The Stage: A simple L-Shaped Display Base (Vertical Back wall + Horizontal Floor). The Backdrop: The vertical wall is covered in a collage of Black & White Manga Panels or Comic Strips, creating a chaotic, ink-heavy background. 3. The Figure (The Chibi Hero): The Style: Chibi / Super-Deformed (SD). Large head, small body, big expressive eyes. The Pose: Dynamic, mid-air action pose (punching towards the camera or casting a spell). The Material: Smooth, matte PVC or Vinyl Plastic (collectible toy aesthetic). 4. The Visual FX (The 2.5D Impact): The Text: The \"Sound\" (Step 1) is rendered as large, jagged, colorful 3D Text Plates (Orange/Red with black outlines) floating in the air around the character. The Debris: 3D shards of rock, glass, or torn paper fly outward from the center, simulating an explosion. The Energy: Translucent, colored plastic parts (representing the \"Power\") swirl around the figure's hands or feet. 5. Lighting & Atmosphere: Lighting: Bright Studio Key Light. Even, shadowless illumination typical of toy photography. Vibe: Energetic, playful, and explosive. Output: ONE image, 1:1 Aspect Ratio, 3D Render, \"Anime Figure\" aesthetic, High Saturation.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32662-120-Nendoroid-Style-Manga-Diorama.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32662-124-Nendoroid-Style-Manga-Diorama.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-15828-189",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-15828-190",
       "title": "PS1 Retro Gaming Style Prompt",
       "prompt": "Transform the entire image into an authentic screenshot captured directly from a {argument name=\"console era\" default=\"late-1990s PlayStation 1 (PS1)\"} video game running on original hardware. Re-render every single element of the scene — every object, character, surface, background, lighting, and detail — as {argument name=\"geometry style\" default=\"low-polygon 3D models\"} with clearly visible triangular facets, flat angular geometry, and no smoothing or subdivision whatsoever. Use extremely low-resolution textures (256×256 pixels or smaller) that are blurry, pixelated, and heavily compressed, with obvious tiling seams, mipmapping artifacts, and poor UV mapping. Apply classic PS1 affine texture mapping across all surfaces so textures visibly stretch, warp, wobble, and distort unnaturally with any change in perspective or camera angle (especially noticeable on floors, walls, and curved objects). Remove all anti-aliasing entirely — every edge must be sharply jagged and aliased with prominent stair-stepping. Use only basic flat shading or simple Gouraud vertex shading with no dynamic lights, no real-time shadows, no specular highlights, and no advanced effects. Simulate the PS1’s 16-bit color depth and 5-5-5 RGB limitations by introducing visible checkerboard or ordered dithering patterns in all color gradients, skies, shadows, and semi-transparent areas to prevent banding. Include typical PS1 graphical quirks: subtle vertex snapping/jitter/wobbling on moving or angled geometry, minor polygon pop-in or Z-fighting where appropriate, and a limited draw distance that may softly fade into a low-detail fog. The overall resolution should feel like a raw {argument name=\"resolution\" default=\"320×240\"} or 640×480 PS1 framebuffer output, giving the whole image a slightly soft yet crunchy retro pixel look when viewed at modern sizes. Preserve the original scene composition and camera angle exactly, but convert everything into this pure PS1 3D style as if the photo itself were modeled and rendered inside an actual PS1 game. No text overlays, no HUD elements, no subtitles, no menu graphics, no scanlines, no CRT curvature, and no modern post-processing of any kind — just a clean, direct screenshot from the console’s video output.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-15828-189-PS1-Retro-Gaming-Style-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-15828-190-PS1-Retro-Gaming-Style-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33282-57",
-      "title": "Cinematic Thoughtful Man Portrait",
-      "prompt": "Pearls in the light. Mind somewhere else [A cinematic close-up film portrait of a {argument name=\"subject\" default=\"young man\"} sitting near a bright window in a cozy study room. He has textured brownish hair, wearing a loose-fit, relaxed {argument name=\"outfit\" default=\"white linen button-down shirt\"}. He is looking thoughtfully off-camera with a gentle, serene expression. Golden hour natural sunlight streams directly from the side window, creating warm highlights on his face and sharp, soft shadows across his shirt fabric.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33387-57",
+      "title": "Anime Fine Art Moonlight Mountains",
+      "prompt": "Digital painting of a stunning young {argument name=\"subject\" default=\"East Asian woman\"} with voluminous, wavy black hair windswept around her face, looking directly forward with a calm, ethereal expression. She wears a modern traditional {argument name=\"outfit\" default=\"white robe dress\"} with loose three-quarter sleeves and a deep crossover neckline, tightly cinched at the waist by a wide black sash tied into a ribbon belt. In the background, a large luminous full moon forms a halo behind her head, set against a dramatic backdrop of {argument name=\"background\" default=\"rugged, snow-dusted mountains\"}, autumn-colored trees with red foliage, and drifting clouds. Elegant anime-fine-art hybrid style, cinematic soft lighting, dynamic wind motion, highly detailed fabric folds, masterpiece quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33282-57-Cinematic-Thoughtful-Man-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33387-57-Anime-Fine-Art-Moonlight-Mountains.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33473-95",
-      "title": "Korean Glass Skin Editorial Portrait",
-      "prompt": "Create a hyper-realistic Editorial Photography featuring {argument name=\"character\" default=\"[PRIMARY_CHARACTER]\"}, take the face 100% from the reference image and do not change the facial identity, porcelain glass skin with {argument name=\"makeup style\" default=\"Korean pinkish glow makeup\"}, radiant smooth complexion, soft pink blush on the cheeks, glossy natural pink lips, luminous youthful glass-skin glow. The character has a {argument name=\"hair style\" default=\"messy high-bun hairstyle with loose, curly tendrils framing the face\"} in a light chestnut brown shade and a pensive, side-glancing expression.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33470-95",
+      "title": "Urban Cinematic Golden Hour Portrait",
+      "prompt": "A medium-shot portrait of a {argument name=\"subject\" default=\"beautiful young woman with long, wavy brown hair\"} illuminated by golden hour sunlight. She is wearing a {argument name=\"top\" default=\"plain black fitted crewneck t-shirt\"} tucked into {argument name=\"bottoms\" default=\"high-waisted, pleated olive-green cargo pants\"}, standing with her hands resting in her pockets. The setting is an urban city balcony or rooftop with soft-focus buildings, street traffic, and overhead utility wires in the background. Natural warm rim lighting highlights her hair, with a dramatic setting sun glowing behind her. Shot on 85mm lens, f/1.8 aperture, realistic texture, cinematic lighting, shallow depth of field, 35mm film photography style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33473-95-Korean-Glass-Skin-Editorial-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33470-95-Urban-Cinematic-Golden-Hour-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +609,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3921-157",
-      "title": "Black and White Cinematic Motion Portrait",
-      "prompt": "Create an ultra-realistic black-and-white cinematic portrait of a young man walking through a busy night-time city - use face reference exactly. He remains sharply in focus while the crowd around him blurs into dynamic motion, creating a striking sense of isolation, depth, and introspection. Soft urban lights form abstract bokeh streaks behind him, enhancing the moody atmosphere. His expression is intense and thoughtful, hair slightly tousled, wearing a dark coat layered over a loosely unbuttoned shirt. High-contrast lighting, shallow depth of field, dramatic motion blur, film-noir aesthetic, and clean poster-style framing with crisp 8K realism.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3920-154",
+      "title": "Yakuza Portrait with Irezumi Tattoos",
+      "prompt": "Extreme close-up intimate portrait of a Japanese yakuza member, late-30s man with intensely piercing cold eyes dominating the frame as the absolute focal point, subtle fierce and calculating expression, unblinking direct gaze into the camera conveying quiet danger and depth, highly detailed irises with sharp reflections, intricate traditional irezumi tattoos prominently visible on neck rising to jawline and partially on lower face/cheeks ({argument name=\"tattoo motifs\" default=\"phoenix, crashing waves, cherry blossoms, dragon coils, and oni mask\"} in vibrant classic tebori style), open collared dark suit revealing tattoo edges, slicked-back black hair, subtle facial scar on cheek, realistic pores and skin texture, dramatic low-key cinematic lighting with rim light highlighting eyes and tattoos, moody tense atmosphere, photorealistic, ultra-detailed",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3921-157-Black-and-White-Cinematic-Motion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3920-154-Yakuza-Portrait-with-Irezumi-Tattoos.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32582-127",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32582-131",
       "title": "Premium Beverage Advertising Photography",
       "prompt": "Create one single photorealistic premium advertising photograph for the fictional beverage {argument name=\"beverage name\" default=\"ENFLAMMER\"}. Use all attached references",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32582-127-Premium-Beverage-Advertising-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32582-131-Premium-Beverage-Advertising-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-14113-204",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-14113-205",
       "title": "Retro 8-Bit Game Aesthetic Prompt",
       "prompt": "low resolution grid, limited color palette, 8-bit aesthetic, clean pixel edges",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-14113-204-Retro-8-Bit-Game-Aesthetic-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-14113-205-Retro-8-Bit-Game-Aesthetic-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33385-58",
-      "title": "Anime Martial Arts Girl Illustration",
-      "prompt": "A stylized digital anime illustration of a young {argument name=\"ethnicity\" default=\"East Asian\"} girl with a serious, determined expression, standing with arms crossed over her chest. She has messy, short black hair tied partially into a loose topknot bun with stray strands framing her face, dark expressive eyes, and fair skin. She wears a loose, oversized {argument name=\"outfit color\" default=\"dark forest-green\"} martial arts kimono robe with light sage inner lining, wide folded cuffs, a black sash (obi) tied at the waist, and striking {argument name=\"pattern\" default=\"yellow-gold lightning bolt\"} patterns across the chest. Dynamic ink splatter background in bold black, white, and vivid warm yellow-orange hues, vector art meets comic book illustration style, cel shading, sharp outlines, painterly brush strokes, dramatic lighting, high contrast, vertical portrait --ar 1:2 --v 6.0",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33282-58",
+      "title": "Cinematic Thoughtful Man Portrait",
+      "prompt": "Pearls in the light. Mind somewhere else [A cinematic close-up film portrait of a {argument name=\"subject\" default=\"young man\"} sitting near a bright window in a cozy study room. He has textured brownish hair, wearing a loose-fit, relaxed {argument name=\"outfit\" default=\"white linen button-down shirt\"}. He is looking thoughtfully off-camera with a gentle, serene expression. Golden hour natural sunlight streams directly from the side window, creating warm highlights on his face and sharp, soft shadows across his shirt fabric.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33385-58-Anime-Martial-Arts-Girl-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33282-58-Cinematic-Thoughtful-Man-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33484-96",
-      "title": "Pop Art Summer Fruit Fashion Illustration",
-      "prompt": "Bright pop art summer illustration, unveiled {argument name=\"ethnicity\" default=\"Middle Eastern woman\"}, wide-leg trousers printed with {argument name=\"trouser print\" default=\"oversized watermelon and lemon slices\"}, embroidered blouse with {argument name=\"blouse motifs\" default=\"cherry and pineapple motifs\"}, thick black outlines, saturated juicy colors, flat aqua blue background with sun rays, playful pose, 3:4",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33463-96",
+      "title": "Traditional Red Qipao Portrait",
+      "prompt": "Close-up portrait of a stunning young {argument name=\"ethnicity\" default=\"East Asian\"} woman with delicate facial features, warm brown eyes, subtle freckles across her cheeks, and a small beauty mark below her lower lip. She has an {argument name=\"hair style\" default=\"intricate updo hairstyle with loose, soft tendrils framing her face\"}, adorned with red hair accessories and floral pins. She is wearing an {argument name=\"clothing\" default=\"ornate red Chinese qipao (cheongsam)\"} crafted with sheer embroidered mesh over silk, featuring a high mandarin collar, traditional frog knot buttons, and detailed floral threadwork. The background consists of soft-focus blooming red floral branches and a rich crimson studio backdrop. Cinematic soft studio lighting, ultra-realistic skin texture, shallow depth of field, 85mm lens, f/1.8, 8k resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33484-96-Pop-Art-Summer-Fruit-Fashion-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33463-96-Traditional-Red-Qipao-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,12 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3927-158",
-      "title": "Existential Cinematic Solitude Film Still",
-      "prompt": "[{argument name=\"subject\" default=\"Subject\"}], profound solitude captured in cinema, hyper-real film still drenched in emotional weight, cold blue hour lighting with dying warmth at the edges, rain-streaked glass creating liquid distortions, shallow depth of field emphasizing loneliness, muted desaturated palette with isolated color accents, slow-motion implied stillness, fine analog grain reminiscent of 1970s existential cinema, lens flares bleeding into darkness, ray-traced reflections in pooling water, breath visible in cold air, negative space dominating the frame, crushing atmospheric pressure, intimate yet distant camera positioning, Vilmos Zsigmond-inspired melancholic cinematography, the weight of unspoken grief.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3921-158",
+      "title": "Black and White Cinematic Motion Portrait",
+      "prompt": "Create an ultra-realistic black-and-white cinematic portrait of a young man walking through a busy night-time city - use face reference exactly. He remains sharply in focus while the crowd around him blurs into dynamic motion, creating a striking sense of isolation, depth, and introspection. Soft urban lights form abstract bokeh streaks behind him, enhancing the moody atmosphere. His expression is intense and thoughtful, hair slightly tousled, wearing a dark coat layered over a loosely unbuttoned shirt. High-contrast lighting, shallow depth of field, dramatic motion blur, film-noir aesthetic, and clean poster-style framing with crisp 8K realism.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3927-158-Existential-Cinematic-Solitude-Film-Still.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3921-158-Black-and-White-Cinematic-Motion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32509-128",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32509-132",
       "title": "Photorealistic Tesla Autonomous Prototype",
       "prompt": "Create a photorealistic prototype {argument name=\"brand\" default=\"Tesla\"} designed exclusively for {argument name=\"occupancy\" default=\"single-occupancy\"} autonomous driving. Extremely compact one-person cabin, no steering wheel or pedals, centered reclining driver seat, {argument name=\"feature\" default=\"futuristic glass canopy\"}, minimalist aerodynamic body, enclosed wheels, and subtle Tesla design language. Make it look like a real experimental concept vehicle photographed at a Tesla engineering facility, not sci-fi fantasy. Ultra-realistic materials, believable engineering, cinematic automotive photography.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32509-128-Photorealistic-Tesla-Autonomous-Prototype.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32509-132-Photorealistic-Tesla-Autonomous-Prototype.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13578-206",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13578-207",
       "title": "King Salmon vs Grizzly Bear Battle",
       "prompt": "{argument name=\"subject one\" default=\"king salmon\"} VS. {argument name=\"subject two\" default=\"grizzly\"}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13578-206-King-Salmon-vs-Grizzly-Bear-Battle.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13578-207-King-Salmon-vs-Grizzly-Bear-Battle.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -932,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33271-59",
-      "title": "High Definition Portrait Transformation",
-      "prompt": "Turn this image into a: Ultra-realistic close-up portrait of a {argument name=\"subject\" default=\"confident man\"}, with {same} expressions on his face & he must watching straightly towards the camera,his body, face & eyes also must be exactly straightly towards the camera. Image must look Premium studio-quality facial details, highly realistic skin texture with visible pores, natural forehead lines, subtle wrinkles, fine facial imperfections, realistic subsurface scattering, detailed beard follicles, sharp beard edges, natural lip texture, realistic eyelashes, and high-definition eyebrows. Warm brown eyes with bright catchlights and crystal-clear iris detail. Cinematic YouTube thumbnail style, extremely sharp focus on face, shallow depth of field, professional key light from front-left, soft rim light around head and shoulders, subtle contrast enhancement, dramatic but clean lighting, premium camera quality, hyper-detailed skin rendering, photorealistic facial anatomy, 8K detail, ultra-clean image quality. (Remove the mic & chain) Preserve the exact facial identity, facial structure, proportions, eye shape, nose shape, beard pattern, hairline, skin tone, and all unique facial features from the reference image. Do not alter the person's face in any way. Maintain 100% likeness and identity accuracy. Show his body from up of his hairs to slightly up from the navel. Bg: {argument name=\"background\" default=\"Pure white\"}.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33385-59",
+      "title": "Anime Martial Arts Girl Illustration",
+      "prompt": "A stylized digital anime illustration of a young {argument name=\"ethnicity\" default=\"East Asian\"} girl with a serious, determined expression, standing with arms crossed over her chest. She has messy, short black hair tied partially into a loose topknot bun with stray strands framing her face, dark expressive eyes, and fair skin. She wears a loose, oversized {argument name=\"outfit color\" default=\"dark forest-green\"} martial arts kimono robe with light sage inner lining, wide folded cuffs, a black sash (obi) tied at the waist, and striking {argument name=\"pattern\" default=\"yellow-gold lightning bolt\"} patterns across the chest. Dynamic ink splatter background in bold black, white, and vivid warm yellow-orange hues, vector art meets comic book illustration style, cel shading, sharp outlines, painterly brush strokes, dramatic lighting, high contrast, vertical portrait --ar 1:2 --v 6.0",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33271-59-High-Definition-Portrait-Transformation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33385-59-Anime-Martial-Arts-Girl-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

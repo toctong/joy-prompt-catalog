@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33468-97",
-      "title": "Lakeside Terrace Luxury Portrait",
-      "prompt": "A {argument name=\"subject\" default=\"young adult male\"} leans casually against a weathered stone balustrade, his relaxed shoulders and shifted weight conveying candid ease. He is dressed in a {argument name=\"suit color\" default=\"light grey\"} tailored suit paired with a deep navy, unbuttoned open-collared shirt. His hair is cleanly slicked back with product, catching a gentle sheen. Behind aviator sunglasses, his gaze is focused sharply off-camera to the left, accompanied by a serious expression with his mouth slightly ajar as if caught mid-breath. His hands are loosely clasped at his waist; the left hand rests with fingers wrapped lightly over the right, its thumb extended forward, displaying a rectangular silver dress watch with a light blue-grey leather strap, while only the thumb and index knuckle of the right hand remain visible beneath. He is positioned in a deeply layered {argument name=\"location\" default=\"outdoor lakeside terrace setting\"}. In the bottom left foreground, vibrant crimson red geraniums and dark foliage burst from a worn black metal planter box on a railing. To his lower right in the midground, the weathered warm off-white plastered stone pillar, detailed with subtle scuffs and matte grey undertones, supports a classic stone urn planter filled with green shrubbery and a solitary white flower. Stretching out behind him, pristine slate blue lake water ripples with choppy surface texture, revealing a small white boat in the far-left distance. Rising steeply in the deep background are mountains densely carpeted in thriving forest green trees, heavily interspersed with small white houses and villas clinging to the hillside. The scene exudes a sophisticated, quiet luxury, bathed in cool, moody natural light from an overcast sky acting as a giant softbox. Diffused lighting pours gently from above, creating a low-contrast illumination that casts faint, soft-edged shadows beneath his suit lapels, under his hands, and provides subtle modeling on the right side of his face. Crisp specular highlights form soft reflections on the aviator lenses and cast a gentle sheen on the watch face. The color palette relies on desaturated cool greys, slate blues, and forest greens, sharply punctuated by the vivid crimson accents. Captured as tack-sharp, grain-free realistic digital editorial photography from a straight-on perspective, utilizing a 50mm to 85mm lens at an aperture between f/4 and f/5.6, creating a medium depth of field that keeps the subject crisply in focus while atmospheric haze slightly softens the distant mountains. Cinematic post-processing applies cool color grading, desaturates the greens and blues, lifts the black point for a matte finish, and selectively enhances the red floral tones, all beautifully framed in a 4:5 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33473-97",
+      "title": "Korean Glass Skin Editorial Portrait",
+      "prompt": "Create a hyper-realistic Editorial Photography featuring {argument name=\"character\" default=\"[PRIMARY_CHARACTER]\"}, take the face 100% from the reference image and do not change the facial identity, porcelain glass skin with {argument name=\"makeup style\" default=\"Korean pinkish glow makeup\"}, radiant smooth complexion, soft pink blush on the cheeks, glossy natural pink lips, luminous youthful glass-skin glow. The character has a {argument name=\"hair style\" default=\"messy high-bun hairstyle with loose, curly tendrils framing the face\"} in a light chestnut brown shade and a pensive, side-glancing expression.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33468-97-Lakeside-Terrace-Luxury-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33473-97-Korean-Glass-Skin-Editorial-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3546-159",
-      "title": "Noir Detective Evidence Board Visualization",
-      "prompt": "A detective's evidence board investigating {argument name=\"subject or mystery\" default=\"[SUBJECT/MYSTERY]\"}. Cork surface covered with pinned items: polaroid photographs with handwritten dates, a street map with circled locations, newspaper clippings with highlighted passages, sticky notes with theories and question marks, and printed documents with redacted black bars. Red string connects related evidence across the board, creating a web of connections. Thumbtacks in primary colors. A single bare bulb casts dramatic shadows. Coffee ring stains on some papers. The atmosphere is obsessive, late-night, noir—someone has been piecing this together for months. A few pins have fallen, suggesting frantic recent activity.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3927-159",
+      "title": "Existential Cinematic Solitude Film Still",
+      "prompt": "[{argument name=\"subject\" default=\"Subject\"}], profound solitude captured in cinema, hyper-real film still drenched in emotional weight, cold blue hour lighting with dying warmth at the edges, rain-streaked glass creating liquid distortions, shallow depth of field emphasizing loneliness, muted desaturated palette with isolated color accents, slow-motion implied stillness, fine analog grain reminiscent of 1970s existential cinema, lens flares bleeding into darkness, ray-traced reflections in pooling water, breath visible in cold air, negative space dominating the frame, crushing atmospheric pressure, intimate yet distant camera positioning, Vilmos Zsigmond-inspired melancholic cinematography, the weight of unspoken grief.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3546-159-Noir-Detective-Evidence-Board-Visualization.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3927-159-Existential-Cinematic-Solitude-Film-Still.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32503-130",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32503-134",
       "title": "Luxurious Retrofuturistic Train Exterior",
       "prompt": "{ \"image_generation_prompt\": { \"shot_type\": \"exterior shot, photo\", \"subject\": \"{argument name=\"subject\" default=\"A luxurious retrofuturistic train\"}\", \"color_palette\": [ \"{argument name=\"primary color\" default=\"pastel pink\"}\", \"{argument name=\"secondary color\" default=\"mint green\"}\" ], \"interior_design\": { \"style\": \"Zaha Hadid\", \"elements\": \"filled with flowers\", \"features\": \"large windows\" }, \"setting\": \"{argument name=\"environment\" default=\"overlooking Paris during cherry blossom season\"}\", \"focus\": \"train exterior\", \"parameters\": { \"aspect_ratio\": \"9:16\", \"version\": 7 } } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32503-130-Luxurious-Retrofuturistic-Train-Exterior.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32503-134-Luxurious-Retrofuturistic-Train-Exterior.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13580-207",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13580-208",
       "title": "Penguins vs Coconut Tree Battle",
       "prompt": "{argument name=\"subject one\" default=\"penguins\"} VS. {argument name=\"subject two\" default=\"coconut tree\"}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13580-207-Penguins-vs-Coconut-Tree-Battle.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13580-208-Penguins-vs-Coconut-Tree-Battle.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33277-60",
-      "title": "Candid Gym Mirror Selfie",
-      "prompt": "Photorealistic candid mirror selfie of two adult women in a modern commercial gym after an intense workout. Vertical smartphone photograph, full-body composition. On the left, a fair-skinned adult woman with long naturally wavy auburn-red hair, wearing a fitted black cropped athletic T-shirt and snug off-white workout shorts. She stands in a relaxed three-quarter pose, looking toward the mirror with a subtle genuine smile. On the right, a tan-skinned adult woman with long dark brown wet-looking hair, wearing a fitted long-sleeve gray athletic top and matching gray workout shorts. She holds a modern smartphone at chest height, taking the mirror selfie, with a relaxed slightly tired post-workout expression. Large wall-to-wall gym mirror, realistic reflection, rows of weight machines, benches, cable machines, dumbbells and workout equipment visible in the background. Dark rubber gym flooring, industrial modern fitness-center interior, muted gray and black color palette, overhead fluorescent lighting. Both women have natural skin texture, slight perspiration from exercising, realistic hair strands, authentic athletic clothing fabric and believable anatomy. Natural smartphone photography, candid unposed feeling, realistic perspective, subtle wide-angle phone lens distortion, detailed mirror reflections, realistic shadows, balanced exposure, slightly imperfect everyday photograph, documentary fitness photography aesthetic, ultra-photorealistic, high detail, no studio lighting, no glamour retouching.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33271-60",
+      "title": "High Definition Portrait Transformation",
+      "prompt": "Turn this image into a: Ultra-realistic close-up portrait of a {argument name=\"subject\" default=\"confident man\"}, with {same} expressions on his face & he must watching straightly towards the camera,his body, face & eyes also must be exactly straightly towards the camera. Image must look Premium studio-quality facial details, highly realistic skin texture with visible pores, natural forehead lines, subtle wrinkles, fine facial imperfections, realistic subsurface scattering, detailed beard follicles, sharp beard edges, natural lip texture, realistic eyelashes, and high-definition eyebrows. Warm brown eyes with bright catchlights and crystal-clear iris detail. Cinematic YouTube thumbnail style, extremely sharp focus on face, shallow depth of field, professional key light from front-left, soft rim light around head and shoulders, subtle contrast enhancement, dramatic but clean lighting, premium camera quality, hyper-detailed skin rendering, photorealistic facial anatomy, 8K detail, ultra-clean image quality. (Remove the mic & chain) Preserve the exact facial identity, facial structure, proportions, eye shape, nose shape, beard pattern, hairline, skin tone, and all unique facial features from the reference image. Do not alter the person's face in any way. Maintain 100% likeness and identity accuracy. Show his body from up of his hairs to slightly up from the navel. Bg: {argument name=\"background\" default=\"Pure white\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33277-60-Candid-Gym-Mirror-Selfie.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33271-60-High-Definition-Portrait-Transformation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33485-98",
-      "title": "Rust Silk Dress Picnic Editorial",
-      "prompt": "Create a {argument name=\"lighting\" default=\"warm late-afternoon\"} fashion editorial built around an abundant picnic spread in a {argument name=\"location\" default=\"quiet grassy field\"} bordered by distant trees. Layer oversized cream and taupe blankets loosely across the grass, rumpled rather than perfectly arranged. An adult woman lies comfortably on her stomach across the center of the blankets, body extending horizontally through the frame. She props herself on both forearms with one hand lightly supporting her chin. Bend both lower legs upward behind her at slightly different angles for a relaxed, spontaneous silhouette. She looks directly toward the camera with calm confidence. Dress her in a {argument name=\"dress style\" default=\"fitted rust-red silk midi dress\"} with a muted botanical print, narrow straps, a softly shaped neckline and a high side slit that allows the fabric to fall naturally around the bent leg. Keep the silhouette close through the waist and hips rather than loose or bohemian. Add layered delicate gold necklaces, bracelets and anklets. Style her hair in a loose low updo with soft curls escaping around the face. Build a substantial picnic around her without making it pristine: an open wicker hamper, small metal serving bowls containing colorful savory dishes, bread, fruit, herbs, drinking cups, folded textiles and a woven basket of dried flowers. Keep the food clustered mostly across the foreground and sides, clearly separate from her body. Shoot vertically from slightly above blanket height with her face sharp and the foreground spread creating depth. Use soft golden natural light, subdued greens, warm rust, cream, silver and wicker tones, gentle film grain and modest depth of field. The final image should feel abundant, languid and quietly glamorous, like an afternoon that has stretched much longer than intended.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33484-98",
+      "title": "Pop Art Summer Fruit Fashion Illustration",
+      "prompt": "Bright pop art summer illustration, unveiled {argument name=\"ethnicity\" default=\"Middle Eastern woman\"}, wide-leg trousers printed with {argument name=\"trouser print\" default=\"oversized watermelon and lemon slices\"}, embroidered blouse with {argument name=\"blouse motifs\" default=\"cherry and pineapple motifs\"}, thick black outlines, saturated juicy colors, flat aqua blue background with sun rays, playful pose, 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33485-98-Rust-Silk-Dress-Picnic-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33484-98-Pop-Art-Summer-Fruit-Fashion-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3545-160",
-      "title": "Product Ad: White Monster Energy Can Submerged in Water",
-      "prompt": "cinematic, ultra realistic, aesthetic wallpaper style image of a White Monster Energy Ultra can dramatically half submerged in crystal clear water with insane sharp details, wild lighting reflections, and intense emotional energy, the top half of the can emerging powerfully above the water while the bottom half sinks beneath the transparent ripples, water splashing with dramatic motion, cold frosty condensation on the can, vibrant high contrast colors, epic viral clickbait mood, ragebait intensity, insane hype energy, breathtaking composition, deeply atmospheric lighting, shallow depth of field, hyper detailed textures, premium advertising look, photorealistic, 8k resolution, cinematic framing, highly polished commercial visual, bold dramatic vibe, visually shocking and attention grabbing, perfect for viral wallpaper",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3546-160",
+      "title": "Noir Detective Evidence Board Visualization",
+      "prompt": "A detective's evidence board investigating {argument name=\"subject or mystery\" default=\"[SUBJECT/MYSTERY]\"}. Cork surface covered with pinned items: polaroid photographs with handwritten dates, a street map with circled locations, newspaper clippings with highlighted passages, sticky notes with theories and question marks, and printed documents with redacted black bars. Red string connects related evidence across the board, creating a web of connections. Thumbtacks in primary colors. A single bare bulb casts dramatic shadows. Coffee ring stains on some papers. The atmosphere is obsessive, late-night, noir—someone has been piecing this together for months. A few pins have fallen, suggesting frantic recent activity.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3545-160-Product-Ad-White-Monster-Energy-Can-Submerged-in-Water.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3546-160-Noir-Detective-Evidence-Board-Visualization.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32325-139",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32325-143",
       "title": "Sunflowers and Cinematic Eye-Lip Portrait",
       "prompt": "A cinematic shot with a film-grain effect. This is an extreme close-up portrait of a {argument name=\"subject description\" default=\"woman, focusing on her eyes and lips\"}. She gazes directly into the camera with a confident look. Her eyes stand out thanks to bold eyeliner—a fine black line that smoothly flares out. She wears a soft matte brown shade on her lips, and freckles are visible on her face and shoulders. {argument name=\"lighting\" default=\"Sunlight falls from one side, casting soft shadows that highlight the contours of her face\"}. She is lying amidst {argument name=\"flower type\" default=\"sunflowers\"}; the flowers partially overlap her face, and there is an abundance of them surrounding her. She holds a sunflower against her cheek with her hand, her lips slightly parted. Her skin is highlighted. Her hair is voluminous, long, and glossy.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32325-139-Sunflowers-and-Cinematic-Eye-Lip-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32325-143-Sunflowers-and-Cinematic-Eye-Lip-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13581-208",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13581-209",
       "title": "Samurai vs Oviraptors",
       "prompt": "{argument name=\"protagonist\" default=\"samurai\"} VS. {argument name=\"antagonist\" default=\"Oviraptors\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13581-208-Samurai-vs-Oviraptors.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13581-209-Samurai-vs-Oviraptors.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33193-61",
-      "title": "Cinematic Urban Twilight Portrait",
-      "prompt": "ar 9:16 4K A highly realistic, cinematic close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman with fair, dewy skin\"}, turning her head to look back over her right shoulder toward the camera. She has shoulder-length messy, windswept dark brown hair that is wet and tousled, with loose strands falling across her face and forehead. Soft natural features, large expressive brown eyes with a subtle gaze, slightly parted full lips, and a gentle, intimate expression. Her bare upper back and right shoulder are prominently visible, glistening with water droplets and catching warm golden light that creates soft highlights and a subtle sheen on her skin. She appears to be in a {argument name=\"setting\" default=\"swimming pool or body of water at dusk\"}, with the water surface gently rippling around her. Background is a softly blurred {argument name=\"background\" default=\"urban cityscape at twilight\"}: modern high-rise buildings with glowing windows and warm artificial lights creating beautiful bokeh orbs in soft yellows, oranges, and whites against a muted blue-gray evening sky. Distant figures faintly visible in the water. Soft, warm golden-hour lighting from the side and behind, mixed with cool ambient evening tones, volumetric light, high detail on skin texture and water droplets, shallow depth of field, photorealistic, ultra-detailed, 8k quality, intimate and atmospheric mood.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33277-61",
+      "title": "Candid Gym Mirror Selfie",
+      "prompt": "Photorealistic candid mirror selfie of two adult women in a modern commercial gym after an intense workout. Vertical smartphone photograph, full-body composition. On the left, a fair-skinned adult woman with long naturally wavy auburn-red hair, wearing a fitted black cropped athletic T-shirt and snug off-white workout shorts. She stands in a relaxed three-quarter pose, looking toward the mirror with a subtle genuine smile. On the right, a tan-skinned adult woman with long dark brown wet-looking hair, wearing a fitted long-sleeve gray athletic top and matching gray workout shorts. She holds a modern smartphone at chest height, taking the mirror selfie, with a relaxed slightly tired post-workout expression. Large wall-to-wall gym mirror, realistic reflection, rows of weight machines, benches, cable machines, dumbbells and workout equipment visible in the background. Dark rubber gym flooring, industrial modern fitness-center interior, muted gray and black color palette, overhead fluorescent lighting. Both women have natural skin texture, slight perspiration from exercising, realistic hair strands, authentic athletic clothing fabric and believable anatomy. Natural smartphone photography, candid unposed feeling, realistic perspective, subtle wide-angle phone lens distortion, detailed mirror reflections, realistic shadows, balanced exposure, slightly imperfect everyday photograph, documentary fitness photography aesthetic, ultra-photorealistic, high detail, no studio lighting, no glamour retouching.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33193-61-Cinematic-Urban-Twilight-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33277-61-Candid-Gym-Mirror-Selfie.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33399-99",
-      "title": "Futuristic Car in Rainy City",
-      "prompt": "Create a futuristic {argument name=\"vehicle\" default=\"car\"} at night near {argument name=\"landmark\" default=\"Tel Aviv’s Azrieli Towers\"} on a {argument name=\"weather\" default=\"rainy evening\"}, with soft light from the surrounding signs. Describe the atmosphere precisely.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33468-99",
+      "title": "Lakeside Terrace Luxury Portrait",
+      "prompt": "A {argument name=\"subject\" default=\"young adult male\"} leans casually against a weathered stone balustrade, his relaxed shoulders and shifted weight conveying candid ease. He is dressed in a {argument name=\"suit color\" default=\"light grey\"} tailored suit paired with a deep navy, unbuttoned open-collared shirt. His hair is cleanly slicked back with product, catching a gentle sheen. Behind aviator sunglasses, his gaze is focused sharply off-camera to the left, accompanied by a serious expression with his mouth slightly ajar as if caught mid-breath. His hands are loosely clasped at his waist; the left hand rests with fingers wrapped lightly over the right, its thumb extended forward, displaying a rectangular silver dress watch with a light blue-grey leather strap, while only the thumb and index knuckle of the right hand remain visible beneath. He is positioned in a deeply layered {argument name=\"location\" default=\"outdoor lakeside terrace setting\"}. In the bottom left foreground, vibrant crimson red geraniums and dark foliage burst from a worn black metal planter box on a railing. To his lower right in the midground, the weathered warm off-white plastered stone pillar, detailed with subtle scuffs and matte grey undertones, supports a classic stone urn planter filled with green shrubbery and a solitary white flower. Stretching out behind him, pristine slate blue lake water ripples with choppy surface texture, revealing a small white boat in the far-left distance. Rising steeply in the deep background are mountains densely carpeted in thriving forest green trees, heavily interspersed with small white houses and villas clinging to the hillside. The scene exudes a sophisticated, quiet luxury, bathed in cool, moody natural light from an overcast sky acting as a giant softbox. Diffused lighting pours gently from above, creating a low-contrast illumination that casts faint, soft-edged shadows beneath his suit lapels, under his hands, and provides subtle modeling on the right side of his face. Crisp specular highlights form soft reflections on the aviator lenses and cast a gentle sheen on the watch face. The color palette relies on desaturated cool greys, slate blues, and forest greens, sharply punctuated by the vivid crimson accents. Captured as tack-sharp, grain-free realistic digital editorial photography from a straight-on perspective, utilizing a 50mm to 85mm lens at an aperture between f/4 and f/5.6, creating a medium depth of field that keeps the subject crisply in focus while atmospheric haze slightly softens the distant mountains. Cinematic post-processing applies cool color grading, desaturates the greens and blues, lifts the black point for a matte finish, and selectively enhances the red floral tones, all beautifully framed in a 4:5 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33399-99-Futuristic-Car-in-Rainy-City.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33468-99-Lakeside-Terrace-Luxury-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3318-163",
-      "title": "Air France ad fix prompt",
-      "prompt": "Air France A380 flying over Paris at night, futuristic neon lights, cinematic, dramatic lighting, high detail, 8k, photorealistic, wide shot, {argument name=\"style\" default=\"cyberpunk\"}, unreal engine, octane render, volumetric lighting, deep shadows, {argument name=\"color scheme\" default=\"blue and orange\"}, high contrast, sharp focus, {argument name=\"mood\" default=\"epic\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3545-161",
+      "title": "Product Ad: White Monster Energy Can Submerged in Water",
+      "prompt": "cinematic, ultra realistic, aesthetic wallpaper style image of a White Monster Energy Ultra can dramatically half submerged in crystal clear water with insane sharp details, wild lighting reflections, and intense emotional energy, the top half of the can emerging powerfully above the water while the bottom half sinks beneath the transparent ripples, water splashing with dramatic motion, cold frosty condensation on the can, vibrant high contrast colors, epic viral clickbait mood, ragebait intensity, insane hype energy, breathtaking composition, deeply atmospheric lighting, shallow depth of field, hyper detailed textures, premium advertising look, photorealistic, 8k resolution, cinematic framing, highly polished commercial visual, bold dramatic vibe, visually shocking and attention grabbing, perfect for viral wallpaper",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3318-163-Air-France-ad-fix-prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3545-161-Product-Ad-White-Monster-Energy-Can-Submerged-in-Water.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32319-140",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32319-144",
       "title": "Mediterranean Male Sun-Drenched Portrait",
       "prompt": "A medium close-up, waist-up portrait of an {argument name=\"subject\" default=\"adult Mediterranean male\"} with warm bronze skin and short stubble, exuding a confident, guarded coolness as he stands with his chest facing the camera and his head turned forty-five degrees to the right. He wears an {argument name=\"clothing\" default=\"off-white, wrinkly linen shirt\"}, deeply unbuttoned to create a natural V-neckline revealing a thin gold chain, paired with clear transparent frame sunglasses featuring dark lenses that obscure his gaze. His dark brown hair is styled with two to three inches of volume on top and tapered sides, treated with a slightly wet, glossy product to define thick natural waves and uneven curls, complete with natural flyaways and loose strands falling gently across his forehead. His posture is relaxed and centered, arms resting naturally out of view, as his level shoulders lean slightly back against a weathered historic structure. The softly out-of-focus background reveals a {argument name=\"background\" default=\"warm, light beige raw-cut limestone environment\"}, featuring a massive, rough-pitted carved stone pillar base dominating the right midground and a historic weathered stone building facade receding on the left. A bright, single-source direct hard sunlight beams from the front-top-left at a forty-five-degree angle, bathing the scene in a sun-drenched, elegant European summer warmth. This highly directional light casts harsh, deep black shadows from his sunglasses onto his cheek, from his collar onto his chest, beneath his jawline, and inside the depths of his hair curls, while striking specular highlights are preserved on his forehead, the tip of his nose, cheekbones, collarbone, and the peaks of his curls. Captured as a high-end editorial digital photograph straight on at eye level using an 85mm lens at f/2.8, the image boasts a shallow depth of field that keeps the subject tack sharp, flawlessly resolving the organic linen weave and fine skin pores while isolating him from the architecture, enhanced by a warm golden color grade and high contrast curve, framed in a 2:3 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32319-140-Mediterranean-Male-Sun-Drenched-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32319-144-Mediterranean-Male-Sun-Drenched-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13422-210",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13422-211",
       "title": "Mushroom Stone Texture Replacement",
       "prompt": "replace the {argument name=\"original texture\" default=\"wood texture on the beer mug and it's handle\"} with the {argument name=\"new texture\" default=\"mossy stone texture @moss with little mushrooms growing on the surface @moss\"} including Bump mapping",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13422-210-Mushroom-Stone-Texture-Replacement.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13422-211-Mushroom-Stone-Texture-Replacement.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -533,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33273-62",
-      "title": "Netflix Style Cinematic Portrait",
-      "prompt": "Hyper realistic IMAX level Netflix style cinematic portrait, 9:16 vertical frame, use the uploaded image as the primary facial reference with maximum face consistency, {argument name=\"subject\" default=\"a beautiful young female model\"}. Wearing a {argument name=\"outfit\" default=\"casual, silky taupe button-down collared shirt\"}, accessorized with {argument name=\"accessories\" default=\"classic silver hoop earrings and stylish black wayfarer sunglasses\"}.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33193-62",
+      "title": "Cinematic Urban Twilight Portrait",
+      "prompt": "ar 9:16 4K A highly realistic, cinematic close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman with fair, dewy skin\"}, turning her head to look back over her right shoulder toward the camera. She has shoulder-length messy, windswept dark brown hair that is wet and tousled, with loose strands falling across her face and forehead. Soft natural features, large expressive brown eyes with a subtle gaze, slightly parted full lips, and a gentle, intimate expression. Her bare upper back and right shoulder are prominently visible, glistening with water droplets and catching warm golden light that creates soft highlights and a subtle sheen on her skin. She appears to be in a {argument name=\"setting\" default=\"swimming pool or body of water at dusk\"}, with the water surface gently rippling around her. Background is a softly blurred {argument name=\"background\" default=\"urban cityscape at twilight\"}: modern high-rise buildings with glowing windows and warm artificial lights creating beautiful bokeh orbs in soft yellows, oranges, and whites against a muted blue-gray evening sky. Distant figures faintly visible in the water. Soft, warm golden-hour lighting from the side and behind, mixed with cool ambient evening tones, volumetric light, high detail on skin texture and water droplets, shallow depth of field, photorealistic, ultra-detailed, 8k quality, intimate and atmospheric mood.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33273-62-Netflix-Style-Cinematic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33193-62-Cinematic-Urban-Twilight-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33278-100",
-      "title": "Mystical Woman by Cascading Waterfall",
-      "prompt": "A cinematic portrait of a beautiful {argument name=\"ethnicity\" default=\"Asian\"} woman standing waist-deep in a clear misty river in front of a majestic cascading waterfall surrounded by dense green forest foliage. She wears an {argument name=\"attire\" default=\"elegant white satin traditional robe\"} with cross-over lapels and a tied sash paired with intricate gold arm cuffs and an ornate gold necklace Her long straight black hair sways dramatically as if caught in a mystical breeze. With an intense, focused expression, she holds her hands open as dynamic splashes and swirls of water magically curve upward around her, {argument name=\"lighting\" default=\"hyper-realistic volumetric sunbeams\"} piercing through the forest canopy, highly detailed water droplets dramatic lighting, fantasy realism, 8k resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33485-100",
+      "title": "Rust Silk Dress Picnic Editorial",
+      "prompt": "Create a {argument name=\"lighting\" default=\"warm late-afternoon\"} fashion editorial built around an abundant picnic spread in a {argument name=\"location\" default=\"quiet grassy field\"} bordered by distant trees. Layer oversized cream and taupe blankets loosely across the grass, rumpled rather than perfectly arranged. An adult woman lies comfortably on her stomach across the center of the blankets, body extending horizontally through the frame. She props herself on both forearms with one hand lightly supporting her chin. Bend both lower legs upward behind her at slightly different angles for a relaxed, spontaneous silhouette. She looks directly toward the camera with calm confidence. Dress her in a {argument name=\"dress style\" default=\"fitted rust-red silk midi dress\"} with a muted botanical print, narrow straps, a softly shaped neckline and a high side slit that allows the fabric to fall naturally around the bent leg. Keep the silhouette close through the waist and hips rather than loose or bohemian. Add layered delicate gold necklaces, bracelets and anklets. Style her hair in a loose low updo with soft curls escaping around the face. Build a substantial picnic around her without making it pristine: an open wicker hamper, small metal serving bowls containing colorful savory dishes, bread, fruit, herbs, drinking cups, folded textiles and a woven basket of dried flowers. Keep the food clustered mostly across the foreground and sides, clearly separate from her body. Shoot vertically from slightly above blanket height with her face sharp and the foreground spread creating depth. Use soft golden natural light, subdued greens, warm rust, cream, silver and wicker tones, gentle film grain and modest depth of field. The final image should feel abundant, languid and quietly glamorous, like an afternoon that has stretched much longer than intended.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33278-100-Mystical-Woman-by-Cascading-Waterfall.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33485-100-Rust-Silk-Dress-Picnic-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,16 +590,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3272-165",
-      "title": "Christmas Angel Design Course Eyecatch Prompt (YAML Structure)",
-      "prompt": "metadata: title: \"Nano Banana Pro Design Course Eyecatch - Christmas Angel Ver.\" model_context: \"Seasonal Christmas Advertisement mixed with Cute Anime aesthetics\" image_structure: composition_type: \"Full Background + Right Character + Left Decorated Text\" visual_flow: \"Left Text (Seasonal Benefit) -> Right Character (AI Generation Result)\" layers: layer_background_full: shape: \"Covers the entire screen.\" content: \"Luxurious Christmas interior scene.\" details: elements: \"Decorated Christmas trees with glowing lights, piles of wrapped presents, warm fireplace glow, bokeh lights in the background.\" atmosphere: \"Warm, magical, festive, with soft falling snow or glitter effect.\" focus: \"Shallow depth of field, blurring the background elements to make the foreground pop.\" layer_visual_right: shape: \"Occupies the right half of the screen.\" content: \"Japanese Kawaii Anime Angel character in Christmas outfit.\" style: \"2D Cel-shaded anime art, high detail, warm and vibrant colors.\" details: subject: \"A cute anime girl with large feathered angel wings.\" appearance: hair: \"Silver or platinum blonde hair.\" eyes: \"Large, sparkling red or green eyes.\" clothing: \"A festive Santa Claus style dress with fur trim, ribbons, and bells. A small halo or Santa hat on her head.\" pose: \"Smiling warmly, making a presenting gesture towards the text on the left.\" vfx: \"Glowing particles and soft light around her wings and halo.\" layer_typography_left: location: \"Left-aligned, positioned in the middle-left area.\" container: \"Elaborate, decorative golden frame or scroll border (Christmas ornament style) around the main text.\" elements: - type: \"Header/Hook\" text: \"{argument name=\"header text\" default=\"AIで彩る、最高の冬。\"}\" style: \"Small gold or white text above the main title.\" - type: \"Main Title\" text: \"{argument name=\"main title\" default=\"Christmas\\nDesign Course\"}\" style: \"Large, ornate, gold or red gradient font with white outline and shadow. Highly decorative.\" - type: \"Sub-Title/Benefit\" text: \"{argument name=\"subtitle\" default=\"With Nano Banana Pro,\\nseasonal materials are freely available!\"}\" style: \"Smaller white or gold text below the main title.\" - type: \"Bottom Tagline\" text: \"{argument name=\"bottom tagline\" default=\"Pro-level brilliance even for beginners\"}\" style: \"Small text at the bottom, maybe on a ribbon banner element.\" style_and_tone: art_style: \"Festive Anime Illustration with Luxurious Background\" color_palette: primary: \"Red, Green, Gold\" secondary: \"White (Snow/Wings), Warm light colors\" quality_tags: - \"High resolution\" - \"Anime key visual\" - \"Detailed background\" - \"Atmospheric lighting\" - \"Festive\"",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3318-164",
+      "title": "Air France ad fix prompt",
+      "prompt": "Air France A380 flying over Paris at night, futuristic neon lights, cinematic, dramatic lighting, high detail, 8k, photorealistic, wide shot, {argument name=\"style\" default=\"cyberpunk\"}, unreal engine, octane render, volumetric lighting, deep shadows, {argument name=\"color scheme\" default=\"blue and orange\"}, high contrast, sharp focus, {argument name=\"mood\" default=\"epic\"}",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3272-165-Christmas-Angel-Design-Course-Eyecatch-Prompt-YAML-Structure.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3318-164-Air-France-ad-fix-prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -628,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32200-142",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32200-146",
       "title": "Elegant Black Organza Ribbon",
       "prompt": "Elegant {argument name=\"color\" default=\"Black\"} {argument name=\"material\" default=\"Organza\"} Ribbon",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32200-142-Elegant-Black-Organza-Ribbon.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32200-146-Elegant-Black-Organza-Ribbon.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13432-211",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13432-212",
       "title": "Jade Texture Application",
       "prompt": "replace the {argument name=\"original texture\" default=\"wood texture\"} on the beer mug and it's handle with the {argument name=\"target texture\" default=\"jade stone texture @jade\"} including Bump mapping",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13432-211-Jade-Texture-Application.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13432-212-Jade-Texture-Application.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33188-63",
-      "title": "Teal Studio Overalls Portrait",
-      "prompt": "A studio portrait of a {argument name=\"subject\" default=\"young East Asian woman with long wavy dark brown hair\"} styled naturally with fine loose flyaway strands framing her face. She is looking directly into the camera with big, expressive dark eyes and a neutral expression. Wearing a {argument name=\"clothing\" default=\"teal-blue ribbed knit turtleneck sweater and blue denim overalls\"}. {argument name=\"background\" default=\"Solid monochrome deep cyan-teal studio background\"}. Soft cinematic studio lighting, shallow depth of field, shot on 85mm lens, high-detail skin texture, soft matte makeup, color-coordinated teal tones",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33273-63",
+      "title": "Netflix Style Cinematic Portrait",
+      "prompt": "Hyper realistic IMAX level Netflix style cinematic portrait, 9:16 vertical frame, use the uploaded image as the primary facial reference with maximum face consistency, {argument name=\"subject\" default=\"a beautiful young female model\"}. Wearing a {argument name=\"outfit\" default=\"casual, silky taupe button-down collared shirt\"}, accessorized with {argument name=\"accessories\" default=\"classic silver hoop earrings and stylish black wayfarer sunglasses\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33188-63-Teal-Studio-Overalls-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33273-63-Netflix-Style-Cinematic-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -723,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33279-101",
-      "title": "Realistic South Asian Fashion Lifestyle",
-      "prompt": "Preserve 100% face ID and expressions, create an ultra-realistic, high-resolution vertical lifestyle fashion photograph matching the reference image as closely as possible in composition, framing, pose, styling, environment, lighting, colors, and photographic realism. A young adult {argument name=\"ethnicity\" default=\"South Asian\"} woman with a naturally feminine, curvy physique is seated elegantly outdoors on a {argument name=\"setting\" default=\"dark charcoal/black stone-tiled ledge\"} in a luxurious modern garden.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33399-101",
+      "title": "Futuristic Car in Rainy City",
+      "prompt": "Create a futuristic {argument name=\"vehicle\" default=\"car\"} at night near {argument name=\"landmark\" default=\"Tel Aviv’s Azrieli Towers\"} on a {argument name=\"weather\" default=\"rainy evening\"}, with soft light from the surrounding signs. Describe the atmosphere precisely.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33279-101-Realistic-South-Asian-Fashion-Lifestyle.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33399-101-Futuristic-Car-in-Rainy-City.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3275-167",
-      "title": "Resort Workcation Eyecatch Prompt (YAML Structure)",
-      "prompt": "metadata: title: \"Nano Banana Pro Design Course Eyecatch - Resort Workcation Style\" model_context: \"Luxury Resort Advertisement mixed with Digital Nomad Anime aesthetics\" image_structure: composition_type: \"Scenic Wide Shot + Integrated Typography + Character Overlay\" visual_flow: \"Background Scenery -> Huge Text -> Character Details\" layers: layer_background: shape: \"Full screen background.\" content: \"Photoreal, Breathtaking tropical beach resort at golden hour (sunset/sunrise).\" details: elements: \"Turquoise ocean, white sandy beach, palm trees swaying, luxury hotel buildings in the distance.\" atmosphere: \"Relaxing, luxurious, open, and inspiring.\" lighting: \"Warm golden sunlight mixed with tropical blue shadows.\" layer_typography_integrated: location: \"Center to Left side, integrated into the sky and horizon.\" elements: - type: \"Background Big Text\" text: \"{argument name=\"large background text\" default=\"Nano Banana Pro\"}\" style: \"Massive, semi-transparent sans-serif font standing behind the hotel/trees or blending with the clouds. White or Cyan color.\" - type: \"Overlay Script Text\" text: \"{argument name=\"overlay script text\" default=\"Creative Life\"}\" style: \"Elegant, red or dark pink handwritten script font overlaying the big text. Adds a luxury touch.\" - type: \"Bottom Banner Text\" text: \"{argument name=\"bottom banner text\" default=\"Let's become a traveling designer\"}\" style: \"Clean sans-serif text in a solid bar at the bottom or floating with a shadow.\" layer_character_foreground: location: \"Right side or Bottom-Right.\" content: \"Japanese Kawaii Anime Girl enjoying workcation.\" style: \"2D Cel-shaded anime art, vibrant and cute.\" details: subject: \"A cute anime girl in resort fashion.\" appearance: hair: \"Bright color (like orange or blonde) swaying in the sea breeze.\" clothing: \"Tropical sundress, straw hat, sunglasses on head.\" props: \"Holding a high-tech tablet or laptop, smiling confidently.\" pose: \"Relaxed but productive pose, maybe sitting on a deck chair or standing on the beach.\" layer_graphic_overlay: location: \"Bottom Left corner.\" shape: \"Abstract wave or curve shape (similar to reference).\" color: \"Translucent Lime Green or Teal gradient.\" purpose: \"Adds a modern graphic design element to frame the text.\" style_and_tone: art_style: \"Travel Magazine Cover Aesthetic\" color_palette: primary: \"Turquoise, Golden Orange, White\" secondary: \"Lime Green (Accent), Pink (Script text)\" quality_tags: - \"Best quality\" - \"Scenery focus\" - \"Cinematic lighting\" - \"Detailed water\" - \"Anime key visual\"",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3272-166",
+      "title": "Christmas Angel Design Course Eyecatch Prompt (YAML Structure)",
+      "prompt": "metadata: title: \"Nano Banana Pro Design Course Eyecatch - Christmas Angel Ver.\" model_context: \"Seasonal Christmas Advertisement mixed with Cute Anime aesthetics\" image_structure: composition_type: \"Full Background + Right Character + Left Decorated Text\" visual_flow: \"Left Text (Seasonal Benefit) -> Right Character (AI Generation Result)\" layers: layer_background_full: shape: \"Covers the entire screen.\" content: \"Luxurious Christmas interior scene.\" details: elements: \"Decorated Christmas trees with glowing lights, piles of wrapped presents, warm fireplace glow, bokeh lights in the background.\" atmosphere: \"Warm, magical, festive, with soft falling snow or glitter effect.\" focus: \"Shallow depth of field, blurring the background elements to make the foreground pop.\" layer_visual_right: shape: \"Occupies the right half of the screen.\" content: \"Japanese Kawaii Anime Angel character in Christmas outfit.\" style: \"2D Cel-shaded anime art, high detail, warm and vibrant colors.\" details: subject: \"A cute anime girl with large feathered angel wings.\" appearance: hair: \"Silver or platinum blonde hair.\" eyes: \"Large, sparkling red or green eyes.\" clothing: \"A festive Santa Claus style dress with fur trim, ribbons, and bells. A small halo or Santa hat on her head.\" pose: \"Smiling warmly, making a presenting gesture towards the text on the left.\" vfx: \"Glowing particles and soft light around her wings and halo.\" layer_typography_left: location: \"Left-aligned, positioned in the middle-left area.\" container: \"Elaborate, decorative golden frame or scroll border (Christmas ornament style) around the main text.\" elements: - type: \"Header/Hook\" text: \"{argument name=\"header text\" default=\"AIで彩る、最高の冬。\"}\" style: \"Small gold or white text above the main title.\" - type: \"Main Title\" text: \"{argument name=\"main title\" default=\"Christmas\\nDesign Course\"}\" style: \"Large, ornate, gold or red gradient font with white outline and shadow. Highly decorative.\" - type: \"Sub-Title/Benefit\" text: \"{argument name=\"subtitle\" default=\"With Nano Banana Pro,\\nseasonal materials are freely available!\"}\" style: \"Smaller white or gold text below the main title.\" - type: \"Bottom Tagline\" text: \"{argument name=\"bottom tagline\" default=\"Pro-level brilliance even for beginners\"}\" style: \"Small text at the bottom, maybe on a ribbon banner element.\" style_and_tone: art_style: \"Festive Anime Illustration with Luxurious Background\" color_palette: primary: \"Red, Green, Gold\" secondary: \"White (Snow/Wings), Warm light colors\" quality_tags: - \"High resolution\" - \"Anime key visual\" - \"Detailed background\" - \"Atmospheric lighting\" - \"Festive\"",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3275-167-Resort-Workcation-Eyecatch-Prompt-YAML-Structure.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3272-166-Christmas-Angel-Design-Course-Eyecatch-Prompt-YAML-Structure.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,12 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32001-150",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32001-154",
       "title": "Multi-Expression Sliced Fashion Poster",
       "prompt": "Create a {argument name=\"style\" default=\"luxury fashion editorial poster\"} based on my reference image. Preserve the exact facial identity, hairstyle, facial structure, skin tone, and overall appearance of the reference person. The portrait is divided into {argument name=\"layout\" default=\"five perfectly aligned vertical slices\"} separated by ultra-thin glowing white lines. The slices must align seamlessly to form one complete face. Each slice represents the exact same person photographed at a different moment with a completely different facial expression. Slice 1: serious, confident, intense eye contact. Slice 2: subtle genuine smile. Slice 3: joyful open-mouth laugh with expressive eyes. Slice 4: thoughtful expression, eyes looking slightly sideways. Slice 5: playful smirk with one eyebrow slightly raised. Every expression must be dramatically different and instantly recognizable. The facial muscles, eyebrows, eyes, mouth shape, smile intensity, and emotional feeling must noticeably change in every slice. Avoid repetitive or identical expressions. Each slice has a unique cinematic color grade: • Slice 1 – Deep Royal Blue • Slice 2 – Emerald Green • Slice 3 – Golden Amber • Slice 4 – Crimson Red • Slice 5 – Purple & Magenta Neon The lighting should also vary subtly between slices while maintaining a premium editorial appearance. {argument name=\"background\" default=\"Dark charcoal minimalist background\"} with no distractions. Luxury magazine cover aesthetic, Vogue fashion campaign, cinematic studio lighting, glossy skin texture, ultra-realistic eyes, razor-sharp focus, HDR, photorealistic, masterpiece, 8K, highly detailed, premium color grading, dramatic contrast, modern fashion photography. Five unique emotional portraits of the same person merged into one sliced composition, each slice appearing as if captured at a different moment during a professional fashion photoshoot. Negative Prompt: black and white, monochrome, grayscale, identical expressions, duplicate face, copied slice, repeated smile, emotionless face, flat lighting, dull colors, low saturation, blurry, distorted face, extra eyes, extra mouth, misaligned slices, low quality, artifacts",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32001-150-Multi-Expression-Sliced-Fashion-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32001-154-Multi-Expression-Sliced-Fashion-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13424-212",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-13424-213",
       "title": "Jade Stone Cube Texture",
       "prompt": "texture of {argument name=\"material\" default=\"dark green polished jade stone\"} on a {argument name=\"object\" default=\"3d cube\"} with bumpmapping",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13424-212-Jade-Stone-Cube-Texture.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-13424-213-Jade-Stone-Cube-Texture.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33084-64",
-      "title": "Painterly Portrait with Teal Hair and Mustard Beanie",
-      "prompt": "A close-up portrait of a serene young woman with closed eyes and a peaceful expression. She has pale skin with soft rosy cheeks, fine freckles across her nose and cheeks, and subtle pink lips. Her long, flowing hair is a vibrant, {argument name=\"hair color\" default=\"rich teal-blue\"} with soft waves framing her face. She is wearing a {argument name=\"accessory\" default=\"cozy, chunky knit mustard-yellow beanie pulled low and a matching thick, textured mustard-yellow woolen scarf\"} wrapped warmly around her neck. {argument name=\"style\" default=\"Dreamy, painterly illustration style\"} with soft colored pencil textures, pastel shading, and fine grain on a dark teal background with delicate specks and flecks of gold and white paint splatter.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33188-64",
+      "title": "Teal Studio Overalls Portrait",
+      "prompt": "A studio portrait of a {argument name=\"subject\" default=\"young East Asian woman with long wavy dark brown hair\"} styled naturally with fine loose flyaway strands framing her face. She is looking directly into the camera with big, expressive dark eyes and a neutral expression. Wearing a {argument name=\"clothing\" default=\"teal-blue ribbed knit turtleneck sweater and blue denim overalls\"}. {argument name=\"background\" default=\"Solid monochrome deep cyan-teal studio background\"}. Soft cinematic studio lighting, shallow depth of field, shot on 85mm lens, high-detail skin texture, soft matte makeup, color-coordinated teal tones",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33084-64-Painterly-Portrait-with-Teal-Hair-and-Mustard-Beanie.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33188-64-Teal-Studio-Overalls-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33281-102",
-      "title": "Golden Hour Slatted Shadow Portrait",
-      "prompt": "A close-up cinematic portrait of a young woman with natural beauty, {argument name=\"eye color\" default=\"hazel\"} eyes, and slightly parted lips. Her wavy, {argument name=\"hair color\" default=\"warm-brown\"} hair is loosely tied back with soft, messy tendrils framing her face. She is wearing a {argument name=\"clothing\" default=\"fitted black ribbed knit mock-neck top\"}. Golden hour sunlight streams through a window, casting sharp, dramatic slatted shadow patterns diagonally across her face and neck. High-contrast chiaroscuro lighting, warm golden tones with deep shadows, visible skin texture and subtle freckles, shot on 85mm f/1.4 lens, shallow depth of field, soft muted background, moody editorial photography.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33278-102",
+      "title": "Mystical Woman by Cascading Waterfall",
+      "prompt": "A cinematic portrait of a beautiful {argument name=\"ethnicity\" default=\"Asian\"} woman standing waist-deep in a clear misty river in front of a majestic cascading waterfall surrounded by dense green forest foliage. She wears an {argument name=\"attire\" default=\"elegant white satin traditional robe\"} with cross-over lapels and a tied sash paired with intricate gold arm cuffs and an ornate gold necklace Her long straight black hair sways dramatically as if caught in a mystical breeze. With an intense, focused expression, she holds her hands open as dynamic splashes and swirls of water magically curve upward around her, {argument name=\"lighting\" default=\"hyper-realistic volumetric sunbeams\"} piercing through the forest canopy, highly detailed water droplets dramatic lighting, fantasy realism, 8k resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33281-102-Golden-Hour-Slatted-Shadow-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33278-102-Mystical-Woman-by-Cascading-Waterfall.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -932,16 +932,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3178-168",
-      "title": "Split-Screen YouTube Thumbnail: JD Vance Political Commentary",
-      "prompt": "Split-screen YouTube thumbnail composition. LEFT SIDE (60%): JD Vance's face, professional warm lighting, determined confident expression with slight smirk, slight low angle shot looking up, high contrast and saturated colors, dark blurred background, heroic and resolute mood. RIGHT SIDE (40%): Shattered fractured glass effect overlaying darkened desaturated images of MAGA supporters and political figures pulling in different directions, visible crack lines and fragmentation throughout, chaotic and divided composition, dark grays and muted reds, broken and unstable visual. TOP OF ENTIRE THUMBNAIL: Bold yellow text with thick black outline reading \"{argument name=\"text\" default=\"JD VANCE DESTROYS THE PLOT\"}\", text spans across both sides at top third.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3275-168",
+      "title": "Resort Workcation Eyecatch Prompt (YAML Structure)",
+      "prompt": "metadata: title: \"Nano Banana Pro Design Course Eyecatch - Resort Workcation Style\" model_context: \"Luxury Resort Advertisement mixed with Digital Nomad Anime aesthetics\" image_structure: composition_type: \"Scenic Wide Shot + Integrated Typography + Character Overlay\" visual_flow: \"Background Scenery -> Huge Text -> Character Details\" layers: layer_background: shape: \"Full screen background.\" content: \"Photoreal, Breathtaking tropical beach resort at golden hour (sunset/sunrise).\" details: elements: \"Turquoise ocean, white sandy beach, palm trees swaying, luxury hotel buildings in the distance.\" atmosphere: \"Relaxing, luxurious, open, and inspiring.\" lighting: \"Warm golden sunlight mixed with tropical blue shadows.\" layer_typography_integrated: location: \"Center to Left side, integrated into the sky and horizon.\" elements: - type: \"Background Big Text\" text: \"{argument name=\"large background text\" default=\"Nano Banana Pro\"}\" style: \"Massive, semi-transparent sans-serif font standing behind the hotel/trees or blending with the clouds. White or Cyan color.\" - type: \"Overlay Script Text\" text: \"{argument name=\"overlay script text\" default=\"Creative Life\"}\" style: \"Elegant, red or dark pink handwritten script font overlaying the big text. Adds a luxury touch.\" - type: \"Bottom Banner Text\" text: \"{argument name=\"bottom banner text\" default=\"Let's become a traveling designer\"}\" style: \"Clean sans-serif text in a solid bar at the bottom or floating with a shadow.\" layer_character_foreground: location: \"Right side or Bottom-Right.\" content: \"Japanese Kawaii Anime Girl enjoying workcation.\" style: \"2D Cel-shaded anime art, vibrant and cute.\" details: subject: \"A cute anime girl in resort fashion.\" appearance: hair: \"Bright color (like orange or blonde) swaying in the sea breeze.\" clothing: \"Tropical sundress, straw hat, sunglasses on head.\" props: \"Holding a high-tech tablet or laptop, smiling confidently.\" pose: \"Relaxed but productive pose, maybe sitting on a deck chair or standing on the beach.\" layer_graphic_overlay: location: \"Bottom Left corner.\" shape: \"Abstract wave or curve shape (similar to reference).\" color: \"Translucent Lime Green or Teal gradient.\" purpose: \"Adds a modern graphic design element to frame the text.\" style_and_tone: art_style: \"Travel Magazine Cover Aesthetic\" color_palette: primary: \"Turquoise, Golden Orange, White\" secondary: \"Lime Green (Accent), Pink (Script text)\" quality_tags: - \"Best quality\" - \"Scenery focus\" - \"Cinematic lighting\" - \"Detailed water\" - \"Anime key visual\"",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3178-168-Split-Screen-YouTube-Thumbnail-JD-Vance-Political-Commentary.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3275-168-Resort-Workcation-Eyecatch-Prompt-YAML-Structure.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",

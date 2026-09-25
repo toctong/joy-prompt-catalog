@@ -1,12 +1,31 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31160-302",
-      "title": "Cozy Morning Bedroom Portrait",
-      "prompt": "An adult woman with {argument name=\"skin details\" default=\"fair, naturally freckled skin\"}, soft facial features, blue-gray eyes, and {argument name=\"hair\" default=\"long wavy copper-red hair parted near the center\"}. A gentle, relaxed closed-lip smile while looking directly into the camera. Seated comfortably on the edge of a bed with one leg crossed over the other, leaning slightly forward and holding a ceramic coffee mug with both hands. A {argument name=\"outfit\" default=\"champagne-ivory satin robe loosely layered over a matching lace-trimmed camisole\"}. Delicate floral lace panels across the shoulders, wide lace cuffs, a softly tied waist, and a fine gold pendant necklace. A cozy, elegant bedroom decorated in warm neutral shades. An unmade cream-colored bed with softly rumpled linens, a pale carved wooden headboard, and a dark wooden dresser blurred in the background. A simple handmade ceramic mug filled with a warm drink. Warm golden morning sunlight entering from the right side of the frame. Soft highlights around her copper hair, gentle illumination across her face and satin robe, warm skin tones, and natural diffused shadows. Peaceful, intimate, cozy, and slow-morning atmosphere. Vertical three-quarter seated portrait framed from above the head to the upper legs. Eye-level camera positioned directly in front of the subject. Approximately 50mm portrait lens with a moderately shallow depth of field. Sharp focus on the eyes, face, hair, lace texture, hands, and mug, with a softly blurred bedroom background. 9:16 aspect ratio, photorealistic, high detail. Natural lifestyle portrait with a polished but authentic editorial appearance. Warm cream, champagne, beige, honey gold, copper, and soft brown palette. Realistic untreated skin with visible pores, subtle freckles, fine facial texture, and natural tonal variation. Soft golden color grading, realistic satin reflections, detailed floral lace, gentle background bokeh, balanced highlights.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-30080-199",
+      "title": "Cinematic Night Meadow Flash Portrait",
+      "prompt": "Do not change the facial features, proportions, hair color, or skin tone. Maintain 100% likeness. Preserve natural knitted fabric texture, correct human anatomy, exactly two arms, exactly two hands, exactly two legs, and exactly two feet. Each hand must have exactly five fingers with no duplicated limbs, extra fingers, extra legs, AI artifacts, or plastic-looking skin. Keep natural human imperfections. The uploaded reference image controls everything except the woman's identity. The camera angle must remain almost perfectly side-on (85–90°), and the composition should match the reference almost exactly. The woman should remain relatively small within the frame, while the meadow dominates the composition. The scene should show a {argument name=\"environment\" default=\"night meadow\"} with a {argument name=\"sky condition\" default=\"dark sky\"} and soft moonlight touching the grass. The blanket should remain barely visible. The overall atmosphere should feel calm, nostalgic, and cinematic, capturing the silence of the night and cool air. The colours should remain muted, slightly dark, and film-like, with a deep nighttime palette and subdued tones. The time of day is deep night, with a dark sky, faint moonlight barely reaching the meadow, and long shadows created by the grass. A camera flash hits directly on the girl, creating sharp directional lighting that pulls her figure out of the darkness, with deep shadows behind her and the background fading into the night. Her skin should reflect the flash with a glassy oil-skin effect, featuring natural highlights on the cheekbones, nose, forehead, and shoulders while preserving realistic skin pores and texture. The girl suddenly turns her head toward the camera, creating motion blur from the movement, with slight blur on the hair and edges of the face while keeping her identity recognizable and her gaze captured mid-motion. Use high ISO settings with realistic digital sensor noise, slight flash overexposure on the figure and nearby grass, and a realistic RAW photography feel. The final image should be almost indistinguishable from a genuine Canon EOS R5 RAW lifestyle photograph captured in a quiet park at night. Ultra photorealistic, cinematic realism. The manicure should be {argument name=\"nails\" default=\"short square-shaped milky French style\"}. --ar 9:16 --style raw --style motion 50",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31160-302-Cozy-Morning-Bedroom-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-30080-199-Cinematic-Night-Meadow-Flash-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31161-301",
+      "title": "Garden Lifestyle Outdoor Portrait",
+      "prompt": "Create a photorealistic, high-resolution outdoor lifestyle portrait of a fictional young woman sitting in a peaceful garden setting, capturing a bright summer atmosphere with a natural, elegant look. Subject description, hair, skin, expression and pose: A fictional young woman with fair skin and subtle natural freckles, featuring {argument name=\"hair color\" default=\"long copper-red hair\"} with soft waves flowing naturally down her back. Her hair has a slightly sunlit texture with a few loose strands around her face. She has light-colored eyes, naturally shaped eyebrows, delicate facial features, and a calm, thoughtful expression as she looks back toward the camera. She is seated comfortably on a large natural stone surface with a relaxed posture, her shoulders slightly turned and her hands resting naturally for a candid outdoor portrait. Maintain realistic anatomy, natural proportions, and an authentic relaxed mood. Clothing and accessories: She wears a simple, {argument name=\"outfit color\" default=\"bright yellow\"} one-piece summer outfit with a clean, minimal design and smooth fabric texture. Add subtle, minimal accessories such as a small bracelet or delicate necklace for a refined casual style. Keep the outfit tasteful, modern, and suitable for a sunny outdoor setting. Avoid visible logos or branding. Environment and lighting: Place her in a {argument name=\"background\" default=\"beautifully landscaped garden with lush green hedges, palm trees, trimmed plants, and a modern outdoor area\"} in the background. The subject sits on a textured natural stone surface surrounded by warm outdoor elements. Use bright natural sunlight with a clear blue sky, soft shadows from nearby trees, and gentle highlights on her hair and clothing. Create a fresh summer atmosphere with realistic colors and natural depth. Camera / photography style: Professional outdoor portrait photography, 85mm lens, medium-full body composition, eye-level perspective, shallow depth of field, realistic background blur, natural sunlight, cinematic color grading, high dynamic range, detailed skin texture, realistic hair strands, sharp focus on the subject, balanced exposure, warm summer tones, editorial lifestyle photography, ultra-high resolution, photorealistic quality. Composition and realism: Emphasize the contrast between the vibrant yellow outfit, green garden surroundings, and blue sky. Keep the image natural and realistic with accurate lighting, realistic fabric folds, detailed stone texture, and authentic facial expression.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31161-301-Garden-Lifestyle-Outdoor-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23151-638",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23151-642",
       "title": "Premium Fitness Editorial Campaign Framework",
       "prompt": "{ \"nano_banana_pro_framework\": { \"version\": \"v4.2_enhanced\", \"global_specifications\": { \"output_quality\": \"4K Ultra-HD, Photorealistic, 8K post-processing\", \"aesthetic\": \"{argument name=\"aesthetic\" default=\"Premium Fitness Editorial, High-Fashion Activewear Campaign\"}\", \"color_palette\": \"Vibrant Cobalt Blue, Deep Slate Gray, Minimalist White, Natural Skin Tones\", \"atmosphere\": \"Clean, professional, athletic, serene\" }, \"subject_manifest\": { \"physical_attributes\": { \"hair\": \"Voluminous blonde hair with soft beach waves, natural highlights, effortless texture\", \"physique\": \"Athletic and toned build, defined muscle structure\", \"skin\": \"Natural skin texture, soft specular highlights, realistic subsurface scattering\" }, \"apparel_specs\": { \"fabric\": \"High-compression performance spandex-nylon blend, matte finish, visible micro-texture\", \"top\": \"{argument name=\"top\" default=\"Cobalt blue high-neck racerback crop top\"}\", \"bottom\": \"High-waisted matching leggings, sculpted fit, full-length silhouette\" } }, \"technical_metadata\": { \"camera_rig\": \"Sony A7R V, Full Frame Sensor\", \"lens_optics\": \"85mm f/1.4 Prime Lens for shallow depth of field and compression\", \"lighting_setup\": [ \"Primary: Large octabox for soft, diffused key light\", \"Secondary: Edge lighting to define the subject silhouette\", \"Ambient: Neutral fill to maintain shadow detail in the creases of the blue fabric\" ], \"post_processing\": \"High-dynamic range (HDR), color grading for punchy blues, noise reduction, sharp focus on eyes\" }, \"pose_architecture\": [ { \"id\": \"NB_POSE_01\", \"description\": \"Tabletop position on a black rubberized yoga mat\", \"coordinates\": \"All-fours, neutral spine, looking directly into the lens\", \"background\": \"Brushed concrete wall with subtle vertical texture\" }, { \"id\": \"NB_POSE_02\", \"description\": \"Seated rest pose, leaning back on hands\", \"coordinates\": \"Knees bent, torso angled 45 degrees, relaxed facial expression\", \"background\": \"Seamless white cyclorama for infinite depth effect\" }, { \"id\": \"NB_POSE_03\", \"description\": \"Prone sphinx variation with leg elevation\", \"coordinates\": \"Lying on stomach, upper body lifted by forearms, knees bent with soles of feet facing skyward\", \"lighting_focus\": \"Emphasis on the arch of the back and fabric tension\" }, { \"id\": \"NB_POSE_04\", \"description\": \"Vertical V-sit stretch / Reclined leg extension\", \"coordinates\": \"Legs fully extended in a wide V, hands gripping ankles for stability\", \"focus_point\": \"Symmetry and balance within the frame\" } ] } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23151-638-Premium-Fitness-Editorial-Campaign-Framework.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23151-642-Premium-Fitness-Editorial-Campaign-Framework.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-9197-451",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-9197-452",
       "title": "Hyperrealistic D&D Female Fire Mage",
       "prompt": "A hyperrealistic, ultra-detailed digital painting of a beautiful blonde female fantasy RPG wizard, casting a volatile magical spell, a brilliant orange fireball effect intensely illuminating her features. Volumetric, cinematic chiaroscuro lighting. Realistic anime aesthetic meets D&D fantasy styling. 8K resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-9197-451-Hyperrealistic-D-D-Female-Fire-Mage.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-9197-452-Hyperrealistic-D-D-Female-Fire-Mage.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29969-200",
-      "title": "Burgundy Hair Cinematic Studio Portrait",
-      "prompt": "A dramatic profile studio portrait of {argument name=\"subject\" default=\"an attractive South Asian woman with long, voluminous layered hair\"} featuring {argument name=\"hair color\" default=\"rich burgundy and mahogany highlights\"}. Her head is tilted slightly upward with her eyes gently closed in a serene expression. Strong golden warm rim lighting illuminates her hair from behind, creating a glowing hair-halo effect with fine strand details. Soft matte makeup with {argument name=\"lip color\" default=\"dusty pink lipstick\"} and a tiny subtle bindi on her forehead. Dark, warm moody background, cinematic studio lighting, shallow depth of field, highly detailed texture, 8k resolution, photorealistic.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29968-200",
+      "title": "High-End Fashion Editorial Studio Portrait",
+      "prompt": "Ultra-realistic, high-end fashion editorial studio portrait of a beautiful young {argument name=\"subject ethnicity\" default=\"Korean woman\"} standing confidently in a {argument name=\"setting\" default=\"luxury photography studio\"}. The scene uses an intentionally minimal lighting setup with a nearly black seamless backdrop, allowing the subject to become the sole focus. A single large softbox positioned slightly to one side creates soft sculpting light across her face, while a subtle rim light gently separates her silhouette from the dark background. No props, no distractions, and no environmental elements. She poses with effortless confidence, maintaining elegant posture and direct eye contact with the camera. She wears a {argument name=\"outfit\" default=\"modern, sophisticated fashion-forward outfit consisting of a tailored black cropped blazer layered over a sleek ivory satin camisole\"}. Her long glossy dark hair falls naturally with a clean center part, complementing natural Korean-inspired makeup featuring flawless luminous skin, soft neutral eyeshadow, defined lashes, subtle eyeliner, and muted rose lips. The composition is clean, premium, and editorial, emphasizing her facial features, outfit, and confident presence. Rich shadows, cinematic contrast, refined skin texture, realistic fabric details, and luxury magazine aesthetics. Captured on a full-frame professional camera with an 85mm portrait lens at f/1.8, shallow depth of field, razor-sharp focus on the eyes, ultra-high resolution, true-to-life colors, Vogue-quality fashion photography, masterpiece, photorealistic, premium commercial studio shoot. Vertical 9:16 composition.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29969-200-Burgundy-Hair-Cinematic-Studio-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29968-200-High-End-Fashion-Editorial-Studio-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31062-303",
-      "title": "Realistic Mountain Silhouette at Midnight",
-      "prompt": "masterpiece, realistic photo, landscape, Ground-level shot, {argument name=\"sky description\" default=\"star-filled sky\"}, {argument name=\"subject\" default=\"mountain silhouette\"}, midnight stillness, faint galactic haze",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31057-302",
+      "title": "Cinematic Theater Event Portrait",
+      "prompt": "Create a high-resolution, photorealistic cinematic portrait of two young women seated together in an elegant theater or private event setting, capturing a candid, natural interaction between them. Subject description: Woman 1: {argument name=\"first woman\" default=\"A young woman with fair-to-light skin and long, naturally wavy dark-brown hair styled loosely around her shoulders, with subtle face-framing strands. She has refined facial features, expressive dark eyes, natural eyebrows, and a calm but slightly skeptical expression, with her lips gently pressed together as she looks sideways toward her companion.\"} Subject description: Woman 2: {argument name=\"second woman\" default=\"A young woman with fair skin, long copper-red hair flowing naturally over her shoulders and down her back, with soft waves and subtle texture. She has light-colored eyes, delicate facial features, and a warm, cheerful expression. She is turned slightly toward the first woman, smiling naturally as if sharing a lighthearted comment.\"} Clothing and accessories: Woman 1 wears an elegant contemporary evening outfit in a muted lavender-gray tone with subtle textured detailing and a sophisticated silhouette. Add delicate silver drop earrings and minimal jewelry. Woman 2 wears a refined satin-inspired evening outfit in a muted rose-plum tone with tasteful tailoring and subtle sheen. Add a simple bracelet and understated accessories. Keep both outfits sophisticated, tasteful, and suitable for an upscale evening event. Environment and lighting: {argument name=\"environment\" default=\"Place them in a sophisticated theater or event venue with deep burgundy curtains in the background. The environment should feel intimate and luxurious without being overly decorated. Use warm theatrical illumination mixed with subtle magenta and amber highlights, creating gentle reflections on their hair and clothing.\"} Camera / photography style: Photorealistic editorial photography, 85mm portrait lens, medium close-up composition, shallow depth of field, natural facial proportions, realistic skin texture, accurate hair strands, subtle fabric detail, soft cinematic bokeh, balanced exposure, gentle rim lighting, professional event photography, realistic color reproduction, cinematic color grading, high dynamic range, crisp facial details, natural expressions, authentic candid atmosphere, ultra-detailed, high resolution. Composition and quality: Frame both women from approximately the waist/chest upward, keeping both faces clearly visible.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31062-303-Realistic-Mountain-Silhouette-at-Midnight.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31057-302-Cinematic-Theater-Event-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23131-640",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23131-644",
       "title": "Hyper-Realistic Character Keychain",
       "prompt": "Create a {argument name=\"character theme\" default=\"anime, video game, movie,...\"} inspired keychain , clean white background, product photography style. soft studio lighting",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23131-640-Hyper-Realistic-Character-Keychain.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23131-644-Hyper-Realistic-Character-Keychain.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-9164-453",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-9164-454",
       "title": "Image Style Transfer Prompt: Viking to Dragon Quest X 'Sage's Breath of God'",
       "prompt": "Take this image (photo of Viking) and make the right side look like the Dragon Quest X Sage's 'Breath of God'!",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-9164-453-Image-Style-Transfer-Prompt-Viking-to-Dragon-Quest-X-Sage-s-Breath-of-God.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-9164-454-Image-Style-Transfer-Prompt-Viking-to-Dragon-Quest-X-Sage-s-Breath-of-God.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +305,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29970-201",
-      "title": "Traditional Masterpiece Sketch Technique",
-      "prompt": "Masterpiece, best quality, 8k, ultra sharp, PURE ART STYLE ONLY, NO SUBJECT, NO POSE, NO CHARACTER: Traditional hand-drawn portrait sketch technique on {argument name=\"paper type\" default=\"aged warm off-white / cream beige kraft paper\"} with subtle visible paper fiber grain texture across the entire surface. Strict monochrome palette only: pure jet black, full rich range of soft gray tones, and the natural cream paper color used as the brightest highlight value — no pure white, no other colors anywhere. LINE TECHNIQUE (EXACT MATCH): - Mix of three mediums in perfect balance: smooth graphite pencil, soft smudged charcoal, and fluid black ink - Hair rendered with extremely dynamic, long, flowing, fast directional brush and pencil strokes, many loose stray wispy lines extending freely outside the main form, highly varied line weight from razor-thin delicate strands to bold thick dark masses, intentionally imperfect and spontaneous - Facial features drawn with refined, soft, subtle contour lines that disappear and reappear naturally, never a harsh continuous outline, gentle pressure variation creating lifelike sensitivity - Clothing and lower areas use bold, rough, angular, broken brush strokes with visible dry-brush texture, many areas intentionally left incomplete and dissolving into the paper - Visible sketch construction lines subtly showing through in lighter areas as part of the aesthetic SHADING & BRUSH WASH TECHNIQUE (EXACT MATCH): - Large shadow areas (hair mass, neck, clothing) built from broad, translucent, layered black ink wash / watered-down charcoal washes with soft bleeding edges - Overlaid on washes: expressive directional hatching and cross-hatching strokes following 3D form curvature - Facial skin rendered with ultra-smooth blended charcoal gradients, extremely subtle hatching, almost invisible soft transitions for realistic volume, no harsh marks on the face - Contrast is strong but soft: deep rich near-black areas balanced by delicate mid-gray gradients, with the cream paper itself acting as the natural highlight - Many hard-edged bold brush strokes placed intentionally next to soft smudged areas for dynamic tension COMPLETION GRADIENT: - Central facial area = highly refined, smooth, realistic, fully rendered with precise detail - Radiating outward and downward = gradually becomes looser, faster, rougher, more abstract, more incomplete, with strokes cutting off abruptly and dissolving naturally into the bare paper background, no hard border to the artwork - Authentic work-in-progress / sketchbook page aesthetic\" OVERALL AESTHETIC: Loose, expressive, emotional, confident, painterly sketch feel, clearly hand-drawn by a master artist, fashion illustration meets fine art academic sketch, elegant movement, dynamic energy, no digital smoothness, no vector perfection, every stroke carries intention --ar 9:16 --style raw --stylize 300 --v 6.0, {argument name=\"clothing accent\" default=\"the clothes are given a soft dark green touch\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29969-201",
+      "title": "Burgundy Hair Cinematic Studio Portrait",
+      "prompt": "A dramatic profile studio portrait of {argument name=\"subject\" default=\"an attractive South Asian woman with long, voluminous layered hair\"} featuring {argument name=\"hair color\" default=\"rich burgundy and mahogany highlights\"}. Her head is tilted slightly upward with her eyes gently closed in a serene expression. Strong golden warm rim lighting illuminates her hair from behind, creating a glowing hair-halo effect with fine strand details. Soft matte makeup with {argument name=\"lip color\" default=\"dusty pink lipstick\"} and a tiny subtle bindi on her forehead. Dark, warm moody background, cinematic studio lighting, shallow depth of field, highly detailed texture, 8k resolution, photorealistic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29970-201-Traditional-Masterpiece-Sketch-Technique.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29969-201-Burgundy-Hair-Cinematic-Studio-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31064-307",
-      "title": "Elegant Swans Heart Formation",
-      "prompt": "A pair of elegant {argument name=\"birds\" default=\"white swans\"} floating on a calm, {argument name=\"setting\" default=\"misty lake\"}, their long necks arched toward each other to form a perfect heart shape, their pristine white feathers creating soft ripples on the glassy, dark blue water which perfectly reflects their forms. The background features a serene, foggy marshland with tall reeds silhouetted against the soft pastel light of a sunrise or sunset. The sun is a pale, glowing orb visible through the haze on the horizon, casting gentle orange and pink hues across the tranquil sky and reflecting faintly on the water's surface. The composition is vertical and symmetrical, emphasizing a romantic, peaceful, and ethereal atmosphere. High-resolution nature photography, cinematic lighting, soft focus, serene mood, hyper-realistic, dreamy aesthetic, intricate textures of water and feathers, wide-angle lens, tranquil morning mist, 8k resolution",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31160-304",
+      "title": "Cozy Morning Bedroom Portrait",
+      "prompt": "An adult woman with {argument name=\"skin details\" default=\"fair, naturally freckled skin\"}, soft facial features, blue-gray eyes, and {argument name=\"hair\" default=\"long wavy copper-red hair parted near the center\"}. A gentle, relaxed closed-lip smile while looking directly into the camera. Seated comfortably on the edge of a bed with one leg crossed over the other, leaning slightly forward and holding a ceramic coffee mug with both hands. A {argument name=\"outfit\" default=\"champagne-ivory satin robe loosely layered over a matching lace-trimmed camisole\"}. Delicate floral lace panels across the shoulders, wide lace cuffs, a softly tied waist, and a fine gold pendant necklace. A cozy, elegant bedroom decorated in warm neutral shades. An unmade cream-colored bed with softly rumpled linens, a pale carved wooden headboard, and a dark wooden dresser blurred in the background. A simple handmade ceramic mug filled with a warm drink. Warm golden morning sunlight entering from the right side of the frame. Soft highlights around her copper hair, gentle illumination across her face and satin robe, warm skin tones, and natural diffused shadows. Peaceful, intimate, cozy, and slow-morning atmosphere. Vertical three-quarter seated portrait framed from above the head to the upper legs. Eye-level camera positioned directly in front of the subject. Approximately 50mm portrait lens with a moderately shallow depth of field. Sharp focus on the eyes, face, hair, lace texture, hands, and mug, with a softly blurred bedroom background. 9:16 aspect ratio, photorealistic, high detail. Natural lifestyle portrait with a polished but authentic editorial appearance. Warm cream, champagne, beige, honey gold, copper, and soft brown palette. Realistic untreated skin with visible pores, subtle freckles, fine facial texture, and natural tonal variation. Soft golden color grading, realistic satin reflections, detailed floral lace, gentle background bokeh, balanced highlights.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31064-307-Elegant-Swans-Heart-Formation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31160-304-Cozy-Morning-Bedroom-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22970-649",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22970-653",
       "title": "Kashmiri Samawar Luxury Photography",
       "prompt": "Ultra detailed luxury product photography of an {argument name=\"product\" default=\"elegant traditional Kashmiri samawar\"}, handcrafted engraved copper body with intricate floral carvings, rich warm metallic reflections, authentic Kashmiri heritage aesthetic, placed on a carved walnut wood table, surrounded by {argument name=\"color tones\" default=\"soft saffron tones\"}, steaming {argument name=\"atmosphere\" default=\"noon chai atmosphere\"}, cinematic winter ambiance, cozy Kashmir interior, glowing lantern light, ultra realistic textures, premium artisan craftsmanship, shallow depth of field, high end commercial product shot, symmetrical composition, soft volumetric lighting, cultural luxury branding aesthetic, 8K hyper realistic, beautifully styled for Nano Banana AI, elegant steam rising naturally, rich maroon and gold color palette, cozy snow season mood, masterpiece photography style.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22970-649-Kashmiri-Samawar-Luxury-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22970-653-Kashmiri-Samawar-Luxury-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-9163-455",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-9163-456",
       "title": "Image Style Transfer Prompt: Viking to Dragon Quest X 'Chamber of Vows'",
       "prompt": "Take this image (photo of Viking) and make the right side look like the 'Chamber of Vows' from Dragon Quest X!",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-9163-455-Image-Style-Transfer-Prompt-Viking-to-Dragon-Quest-X-Chamber-of-Vows.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-9163-456-Image-Style-Transfer-Prompt-Viking-to-Dragon-Quest-X-Chamber-of-Vows.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -438,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-30086-202",
-      "title": "Korean Style Soft-Glam Car Selfie",
-      "prompt": "A woman is posing for a close-up selfie inside a dark, sophisticated car interior. Behind her is a black textured car seat, while soft natural daylight gently streams in through the side window. The overall atmosphere is ultra-HD, aesthetic, soft-glam, clean, and natural. The bright yet gentle lighting makes her skin appear smooth, radiant, and glowing. She is seated inside a tidy, modern vehicle, with the background slightly blurred to keep the focus on her face. The camera angle is positioned slightly above eye level and tilted slightly to the right, creating an intimate, modern, and stylish selfie composition. The framing is a close-up that highlights her face, shoulders, and upper chest. She is wearing a feminine yet chic outfit. A {argument name=\"outfit\" default=\"white knit cardigan with green trim\"} along the collar and button edges creates a soft and lovely appearance, layered over a simple white inner top. Her accessories include elegant {argument name=\"jewelry\" default=\"small pearl earrings and a delicate gold chain necklace with a small black clover-shaped pendant\"}, giving her a sweet, classy, and sophisticated look. Her expression is playful, with a subtle smile on her lips. Her eyes are sharp yet adorable, creating a stylish and cute selfie vibe. Glowing Skin Makeup. Complexion. Smooth semi-matte finish that resembles flawless porcelain skin with no visible pores. Very fair skin tone. Strong highlights along the bridge and tip of the nose create a defined button-nose effect. Eye Makeup. Large, round, expressive doll-like eyes. Upper lashes are extremely long, full, and dramatically curled in a spiky manga/anime style. Lower lashes are individually defined for a dramatic appearance. Wearing {argument name=\"lenses\" default=\"large light-grey circle lenses\"} with a thin black limbal ring. Thin black eyeliner follows the upper lash line, extending into a subtle outward wing. Aegyosal (Under-Eye Puff). Prominent, full aegyosal beneath the eyes for a youthful and adorable appearance. A thin brown shadow beneath the aegyosal adds depth. A shimmering white highlighter in the centre enhances volume and dimension. Blush. Bright pastel pink. Applied in the Igari (drunken blush) style, beginning beneath the eyes, spreading widely across the upper cheeks, and lightly extending over the bridge of the nose. Creates a strong, sweet, naturally flushed look. Lips. Gradient lips with a full, \"blurred lips\" effect. Soft light pink around the outer edges, blending into a deeper strawberry red at the centre. Soft semi-matte finish with a subtle natural sheen. A well-defined Cupid's bow. Her hair is very long, light golden brown, soft, healthy, glossy, and highly realistic. It falls naturally with gentle volume, featuring delicate, luminous texture and a few soft wispy strands framing her face. The overall image should feel luxurious, aesthetic, feminine, fresh, natural, and modern, like a professionally photographed selfie. It should feature high detail, soft colours, sharp focus on the face, glowing skin",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29970-202",
+      "title": "Traditional Masterpiece Sketch Technique",
+      "prompt": "Masterpiece, best quality, 8k, ultra sharp, PURE ART STYLE ONLY, NO SUBJECT, NO POSE, NO CHARACTER: Traditional hand-drawn portrait sketch technique on {argument name=\"paper type\" default=\"aged warm off-white / cream beige kraft paper\"} with subtle visible paper fiber grain texture across the entire surface. Strict monochrome palette only: pure jet black, full rich range of soft gray tones, and the natural cream paper color used as the brightest highlight value — no pure white, no other colors anywhere. LINE TECHNIQUE (EXACT MATCH): - Mix of three mediums in perfect balance: smooth graphite pencil, soft smudged charcoal, and fluid black ink - Hair rendered with extremely dynamic, long, flowing, fast directional brush and pencil strokes, many loose stray wispy lines extending freely outside the main form, highly varied line weight from razor-thin delicate strands to bold thick dark masses, intentionally imperfect and spontaneous - Facial features drawn with refined, soft, subtle contour lines that disappear and reappear naturally, never a harsh continuous outline, gentle pressure variation creating lifelike sensitivity - Clothing and lower areas use bold, rough, angular, broken brush strokes with visible dry-brush texture, many areas intentionally left incomplete and dissolving into the paper - Visible sketch construction lines subtly showing through in lighter areas as part of the aesthetic SHADING & BRUSH WASH TECHNIQUE (EXACT MATCH): - Large shadow areas (hair mass, neck, clothing) built from broad, translucent, layered black ink wash / watered-down charcoal washes with soft bleeding edges - Overlaid on washes: expressive directional hatching and cross-hatching strokes following 3D form curvature - Facial skin rendered with ultra-smooth blended charcoal gradients, extremely subtle hatching, almost invisible soft transitions for realistic volume, no harsh marks on the face - Contrast is strong but soft: deep rich near-black areas balanced by delicate mid-gray gradients, with the cream paper itself acting as the natural highlight - Many hard-edged bold brush strokes placed intentionally next to soft smudged areas for dynamic tension COMPLETION GRADIENT: - Central facial area = highly refined, smooth, realistic, fully rendered with precise detail - Radiating outward and downward = gradually becomes looser, faster, rougher, more abstract, more incomplete, with strokes cutting off abruptly and dissolving naturally into the bare paper background, no hard border to the artwork - Authentic work-in-progress / sketchbook page aesthetic\" OVERALL AESTHETIC: Loose, expressive, emotional, confident, painterly sketch feel, clearly hand-drawn by a master artist, fashion illustration meets fine art academic sketch, elegant movement, dynamic energy, no digital smoothness, no vector perfection, every stroke carries intention --ar 9:16 --style raw --stylize 300 --v 6.0, {argument name=\"clothing accent\" default=\"the clothes are given a soft dark green touch\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-30086-202-Korean-Style-Soft-Glam-Car-Selfie.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29970-202-Traditional-Masterpiece-Sketch-Technique.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30941-311",
-      "title": "Topographic Contour Line Portrait",
-      "prompt": "A highly refined contemporary mixed-media portrait style combining an ethereal high-key fashion aesthetic with intricate concentric contour-line artwork inspired by natural growth rings and fingerprint-like topographic patterns. The human subject should retain an elegant, soft, luminous, almost dreamlike presence while the entire visual structure is organically constructed through hundreds of delicate continuous concentric and flowing contour lines. Replace conventional flat shading and ordinary outlines with dense nested curved lines that follow the anatomy and three-dimensional structure of the human form. The lines should naturally conform to the contours of the face, forehead, cheeks, nose, lips, jaw, neck, shoulders, clothing, and hair, creating the illusion that the entire subject is sculpted from flowing rings and fine engraved contours. The line patterns should behave like organic topographic growth rings rather than geometric circles. Lines continuously expand, contract, bend, merge, separate, and change direction according to the underlying form. Around the eyes, nose, lips, and facial planes, the contours become tightly concentrated and delicately curved; across larger surfaces they gradually spread into wider flowing rings. Hair should be constructed from extremely fine flowing contour strands, with hundreds of elongated curved lines sweeping outward and merging into larger concentric patterns. The hair should feel weightless and fluid, almost dissolving into the surrounding background while maintaining an intricate line-based structure. Preserve the reference's soft luminous skin, delicate facial modeling, subtle blush, translucent highlights, pale neutral tones, and graceful editorial beauty. The human form should remain recognizable and aesthetically refined beneath the contour-line construction rather than becoming an abstract pattern. Introduce selective high-density black and charcoal contour areas to create depth and visual emphasis. Lines become progressively darker and closer together in recessed areas and shadow regions, while highlights contain sparse, extremely fine pale-gray lines and larger areas of negative space. This creates tonal values entirely through line density and spacing, rather than conventional painted shading. Allow portions of the contour lines to extend beyond the silhouette, forming expansive organic rings and flowing arcs around the subject. These external lines should gradually fade, break apart, become thinner, and dissolve into the background, creating an atmospheric transition between the human figure and the surrounding space. Use a predominantly luminous ivory, white, soft gray, pale beige, and subtle natural skin-tone palette, with deep charcoal-black lines providing controlled contrast. Maintain a clean, airy, almost monochromatic elegance while preserving subtle full-color skin undertones. The surface should have a fine tactile paper or archival-art texture",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31062-305",
+      "title": "Realistic Mountain Silhouette at Midnight",
+      "prompt": "masterpiece, realistic photo, landscape, Ground-level shot, {argument name=\"sky description\" default=\"star-filled sky\"}, {argument name=\"subject\" default=\"mountain silhouette\"}, midnight stillness, faint galactic haze",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30941-311-Topographic-Contour-Line-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31062-305-Realistic-Mountain-Silhouette-at-Midnight.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22977-651",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22977-655",
       "title": "Fashion Brand Mood Board Layout",
       "prompt": "A professional fashion brand mood board and style catalog layout titled \"{argument name=\"collection title\" default=\"AMZ COLLECTION - THE LYRA LINE\"}\". The clean, grid-style layout features a beautiful Brazilian-Italian female model with long, wavy dark brown hair and a radiant complexion. The catalog showcases versatile wardrobe options, including a floor-length emerald green velvet evening gown shown in different poses, a professional office look with a {argument name=\"blouse\" default=\"cream-colored silk bow blouse\"} and black wide-leg trousers, a corporate meeting outfit with a black dress and structured grey wool blazer, and a sophisticated draped {argument name=\"dress color\" default=\"plum-purple\"} cocktail dress. The design features elegant sections labeled \"STYLE FLEXIBILITY\", \"FULL LOOK GALLERY\", \"MOOD IMAGES\", and \"ACCESSORY COMPLEMENTS,\" which display minimalist silver jewelry like a geometric necklace, hoop earrings, and a sleek cuff ring. The overall aesthetic is highly editorial, sophisticated, and modern, using a color palette of rich jewel tones, charcoal greys, warm ivories, and minimal metallics set against a clean, neutral beige background.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22977-651-Fashion-Brand-Mood-Board-Layout.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22977-655-Fashion-Brand-Mood-Board-Layout.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -533,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-9092-456",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-9092-457",
       "title": "JSON Prompt for Stylized 3D Character Render (Minimal Cartoon)",
       "prompt": "{ \"task\": \"image_style_transfer_3d_character\", \"input\": { \"source_image\": \"USER_UPLOADED_IMAGE\", \"preserve_identity\": true, \"preserve_pose\": true, \"preserve_composition\": true }, \"style_reference\": { \"render_style\": \"stylized_3d_character\", \"aesthetic\": \"soft_minimal_cartoon_3d\", \"inspiration\": [ \"pixar_like_but_more_minimal\", \"toy_figure_render\", \"clean_product_character_design\" ] }, \"character_design\": { \"skin\": { \"material\": \"smooth_matte_plastic\", \"texture\": \"soft_uniform\", \"subsurface_scattering\": \"gentle\" }, \"facial_features\": { \"eyes\": \"half_closed_bored_expression\", \"eyelids\": \"heavy\", \"nose\": \"rounded_simplified\", \"mouth\": \"flat_neutral\", \"ears\": \"simplified_rounded\" }, \"emotion\": \"unimpressed_calm_bored\" }, \"clothing\": { \"style\": \"minimal_streetwear\", \"details\": \"no_logos_no_patterns\", \"fabric\": \"soft_matte\" }, \"accessories\": { \"headwear\": \"simple_baseball_cap_optional\", \"ear_accessories\": \"wireless_earbuds_optional\" }, \"lighting\": { \"setup\": \"studio_softbox\", \"shadows\": \"very_soft\", \"contrast\": \"low\", \"highlights\": \"subtle\" }, \"background\": { \"type\": \"solid_color\", \"color_palette\": [ \"muted_green\", \"pastel_tone\" ], \"gradient\": \"none\" }, \"camera\": { \"angle\": \"front_facing\", \"framing\": \"medium_close_up\", \"lens\": \"50mm_equivalent\", \"distortion\": \"none\" }, \"render_quality\": { \"resolution\": \"high\", \"edges\": \"clean\", \"noise\": \"none\", \"realism_balance\": \"stylized_over_realistic\" }, \"output\": { \"consistency\": \"high\", \"style_strength\": \"strong\", \"photorealism\": false } }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-9092-456-JSON-Prompt-for-Stylized-3D-Character-Render-Minimal-Cartoon.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-9092-457-JSON-Prompt-for-Stylized-3D-Character-Render-Minimal-Cartoon.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +609,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29963-203",
-      "title": "Dark Cinematic Skin Detail Portrait",
-      "prompt": "Using the exact face from the reference image, generate a {argument name=\"mood\" default=\"dark cinematic skin-detail portrait\"} — same concept and mood, entirely new pose and angle. Angle: Precise 45° three-quarter view (not profile, not front-on). Nose cuts into the lit side; near eye fully lit, far eye sliding into shadow. Far cheekbone catches a sliver of light before vanishing into black. Shadow-side jaw fully consumed by darkness, revealing the face's sculptural planes — nose bridge, brow ridge, cheekbone, jaw. Head position: {argument name=\"head position\" default=\"Chin dropped slightly, eyes lifted toward the lens through the brows\"} — heavy-lidded, intense, vulnerable. Brows faintly raised, producing natural forehead lines. Downward tilt sharpens the jaw and elongates the neck. Expression: {argument name=\"expression\" default=\"Lips parted roughly 3mm\"} — a caught breath, not an emotion. Reads as a stolen private moment rather than a pose. Skin detail: Forensic-level texture on new terrain — nose bridge/wing pores in raking light, under-eye thinness from a new angle, lit-side jaw stubble in sharp relief, forehead topography under overhead light, partial lit ear texture. Neck and collarbone edge just entering frame, dissolving into shadow. Lighting: Single hard, narrow overhead-side light creating a surgical beam across the face. Lit side rendered in cold, precise detail; shadow side a total void. Rim light traces the far cheekbone in a thin blue-white line. Near eye: sharp single catchlight. Far eye: only iris edge and rim-lit white visible. Background: Pure black void, silhouette defined entirely by the new angle. Grade: Crushed blacks, cool neutral skin tones with warm undertone tension, blue-white rim light, 10% Ilford HP5 grain. No retouching — full pore and texture detail preserved. Specs: \"OzairAI\" ghost-cold signature, lower right. Vertical 9:13. Ultra photorealistic, 8K, 150MP skin detail.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-30086-203",
+      "title": "Korean Style Soft-Glam Car Selfie",
+      "prompt": "A woman is posing for a close-up selfie inside a dark, sophisticated car interior. Behind her is a black textured car seat, while soft natural daylight gently streams in through the side window. The overall atmosphere is ultra-HD, aesthetic, soft-glam, clean, and natural. The bright yet gentle lighting makes her skin appear smooth, radiant, and glowing. She is seated inside a tidy, modern vehicle, with the background slightly blurred to keep the focus on her face. The camera angle is positioned slightly above eye level and tilted slightly to the right, creating an intimate, modern, and stylish selfie composition. The framing is a close-up that highlights her face, shoulders, and upper chest. She is wearing a feminine yet chic outfit. A {argument name=\"outfit\" default=\"white knit cardigan with green trim\"} along the collar and button edges creates a soft and lovely appearance, layered over a simple white inner top. Her accessories include elegant {argument name=\"jewelry\" default=\"small pearl earrings and a delicate gold chain necklace with a small black clover-shaped pendant\"}, giving her a sweet, classy, and sophisticated look. Her expression is playful, with a subtle smile on her lips. Her eyes are sharp yet adorable, creating a stylish and cute selfie vibe. Glowing Skin Makeup. Complexion. Smooth semi-matte finish that resembles flawless porcelain skin with no visible pores. Very fair skin tone. Strong highlights along the bridge and tip of the nose create a defined button-nose effect. Eye Makeup. Large, round, expressive doll-like eyes. Upper lashes are extremely long, full, and dramatically curled in a spiky manga/anime style. Lower lashes are individually defined for a dramatic appearance. Wearing {argument name=\"lenses\" default=\"large light-grey circle lenses\"} with a thin black limbal ring. Thin black eyeliner follows the upper lash line, extending into a subtle outward wing. Aegyosal (Under-Eye Puff). Prominent, full aegyosal beneath the eyes for a youthful and adorable appearance. A thin brown shadow beneath the aegyosal adds depth. A shimmering white highlighter in the centre enhances volume and dimension. Blush. Bright pastel pink. Applied in the Igari (drunken blush) style, beginning beneath the eyes, spreading widely across the upper cheeks, and lightly extending over the bridge of the nose. Creates a strong, sweet, naturally flushed look. Lips. Gradient lips with a full, \"blurred lips\" effect. Soft light pink around the outer edges, blending into a deeper strawberry red at the centre. Soft semi-matte finish with a subtle natural sheen. A well-defined Cupid's bow. Her hair is very long, light golden brown, soft, healthy, glossy, and highly realistic. It falls naturally with gentle volume, featuring delicate, luminous texture and a few soft wispy strands framing her face. The overall image should feel luxurious, aesthetic, feminine, fresh, natural, and modern, like a professionally photographed selfie. It should feature high detail, soft colours, sharp focus on the face, glowing skin",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29963-203-Dark-Cinematic-Skin-Detail-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-30086-203-Korean-Style-Soft-Glam-Car-Selfie.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30947-312",
-      "title": "Romantic Black and White Studio Portrait",
-      "prompt": "Create a romantic black-and-white studio portrait of a real skinny, not medium weighed, couple standing in front of a wall with a {argument name=\"light shape\" default=\"heart-shaped\"} light projected behind them. The couple must maintain their real and original faces, preserving all authentic facial features and natural hair colors, with no changes. The man is leaning toward the woman, gently smelling her neck with a soft and loving expression, while holding her hand. The woman smiles slightly, with a romantic and affectionate look. Their outfits remain the same: the man wears a {argument name=\"men's outfit\" default=\"plain fitted white t-shirt and light pants\"}, while the woman wears a {argument name=\"women's outfit\" default=\"sleeveless white top and dark jeans\"}. The lighting is dramatic with strong contrast, highlighting the couple within the glowing heart shape. The image should be ultra-high resolution, with hyper-realistic details and a professional editorial photography style.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31064-309",
+      "title": "Elegant Swans Heart Formation",
+      "prompt": "A pair of elegant {argument name=\"birds\" default=\"white swans\"} floating on a calm, {argument name=\"setting\" default=\"misty lake\"}, their long necks arched toward each other to form a perfect heart shape, their pristine white feathers creating soft ripples on the glassy, dark blue water which perfectly reflects their forms. The background features a serene, foggy marshland with tall reeds silhouetted against the soft pastel light of a sunrise or sunset. The sun is a pale, glowing orb visible through the haze on the horizon, casting gentle orange and pink hues across the tranquil sky and reflecting faintly on the water's surface. The composition is vertical and symmetrical, emphasizing a romantic, peaceful, and ethereal atmosphere. High-resolution nature photography, cinematic lighting, soft focus, serene mood, hyper-realistic, dreamy aesthetic, intricate textures of water and feathers, wide-angle lens, tranquil morning mist, 8k resolution",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30947-312-Romantic-Black-and-White-Studio-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31064-309-Elegant-Swans-Heart-Formation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22795-655",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22795-659",
       "title": "Regal Indian Saree Portrait",
       "prompt": "A richly detailed, high-fashion portrait photograph of an {argument name=\"subject\" default=\"elegant Indian woman\"} in a dynamic pose. She is wearing a {argument name=\"outfit\" default=\"mustard-yellow pleated georgette saree\"}, the texture of which is prominent. Her eyes are closed, showcasing a dramatic and opulent makeup look with deep, dark blue glitter eyeshadow and smoky liner, a structured brow, and a deep mauve-plum lipstick. Her sleek dark hair is styled in a neat bun, adorned with a traditional floral gajra of small white flowers. She wears exquisite, large kundan and gold jewelry set with ruby-red stones and pearls, including an elaborate maang tikka on her forehead and substantial matching cuffs (kangan) on both wrists. Her pose is sculptural: her right arm is raised, with the hand graceful and high, and her left hand is lightly and delicately touching her lower neck, both showing manicured nails. The background is a {argument name=\"background\" default=\"dense, textured deep-green velvet curtain\"} with rich, soft folds, creating a warm, moody atmosphere. Soft, directional studio lighting illuminates her from the front and side, highlighting the metalwork, pearls, and saree pleats, with a shallow depth of field. The overall tone is regal and sophisticated.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22795-655-Regal-Indian-Saree-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22795-659-Regal-Indian-Saree-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-8986-457",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-8986-458",
       "title": "Ultra-Realistic Cinematic Close-up of Tribal Warrior Woman",
       "prompt": "Ultra-realistic cinematic close-up portrait of a fierce tribal warrior woman, icy blue eyes looking upward with determination, wet skin covered in rain droplets and natural freckles, detailed skin texture, soft dramatic lighting, shallow depth of field. She wears primitive tribal headgear made of {argument name=\"headgear materials\" default=\"feathers, bones, stones\"}, and red-blue fabric wraps, braided hair with beads and threads.Cold, moody color grading, dark blurred forest background, hyper-detailed face, 8K resolution, photorealistic, sharp focus on eyes, epic fantasy game character style, cinematic atmosphere, professional photography, volumetric light, film still look.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-8986-457-Ultra-Realistic-Cinematic-Close-up-of-Tribal-Warrior-Woman.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-8986-458-Ultra-Realistic-Cinematic-Close-up-of-Tribal-Warrior-Woman.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29956-204",
-      "title": "Painterly Gold Light Portrait",
-      "prompt": "A dramatic, painterly portrait of {argument name=\"subject\" default=\"a woman with dark hair tied back in an updo\"}, featuring loose strands framing her face. She has striking eyes, defined brows, and bold red lips. Warm, directional light falls across her face and collarbone, creating deep shadows in a chiaroscuro style against a dark, moody background. She is wearing {argument name=\"clothing\" default=\"a delicate gold chain necklace and a black camisole top\"}, captured in an {argument name=\"aesthetic\" default=\"artistic, textured oil-painting aesthetic\"}.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29963-204",
+      "title": "Dark Cinematic Skin Detail Portrait",
+      "prompt": "Using the exact face from the reference image, generate a {argument name=\"mood\" default=\"dark cinematic skin-detail portrait\"} — same concept and mood, entirely new pose and angle. Angle: Precise 45° three-quarter view (not profile, not front-on). Nose cuts into the lit side; near eye fully lit, far eye sliding into shadow. Far cheekbone catches a sliver of light before vanishing into black. Shadow-side jaw fully consumed by darkness, revealing the face's sculptural planes — nose bridge, brow ridge, cheekbone, jaw. Head position: {argument name=\"head position\" default=\"Chin dropped slightly, eyes lifted toward the lens through the brows\"} — heavy-lidded, intense, vulnerable. Brows faintly raised, producing natural forehead lines. Downward tilt sharpens the jaw and elongates the neck. Expression: {argument name=\"expression\" default=\"Lips parted roughly 3mm\"} — a caught breath, not an emotion. Reads as a stolen private moment rather than a pose. Skin detail: Forensic-level texture on new terrain — nose bridge/wing pores in raking light, under-eye thinness from a new angle, lit-side jaw stubble in sharp relief, forehead topography under overhead light, partial lit ear texture. Neck and collarbone edge just entering frame, dissolving into shadow. Lighting: Single hard, narrow overhead-side light creating a surgical beam across the face. Lit side rendered in cold, precise detail; shadow side a total void. Rim light traces the far cheekbone in a thin blue-white line. Near eye: sharp single catchlight. Far eye: only iris edge and rim-lit white visible. Background: Pure black void, silhouette defined entirely by the new angle. Grade: Crushed blacks, cool neutral skin tones with warm undertone tension, blue-white rim light, 10% Ilford HP5 grain. No retouching — full pore and texture detail preserved. Specs: \"OzairAI\" ghost-cold signature, lower right. Vertical 9:13. Ultra photorealistic, 8K, 150MP skin detail.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29956-204-Painterly-Gold-Light-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29963-204-Dark-Cinematic-Skin-Detail-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30938-314",
-      "title": "Cinematic Amateur Fashion Editorial",
-      "prompt": "Cinematic amateur-fashion aesthetic blended with premium luxury realism, emotionally intense portrait photography, raw flash-driven beauty editorial with authentic imperfect atmosphere. A breathtaking woman in her {argument name=\"woman age\" default=\"early 20s\"} and a man sitting on soft green grass. **Woman ({argument name=\"hair color\" default=\"Platinum Blonde\"}):** Athletic yet feminine physique, defined collarbones, elegant neck, long toned legs, naturally sculpted body lines. Deep expressive eyes with realistic iris texture, soft confident gaze, minimal high-end editorial makeup, authentic facial asymmetry and micro skin detail. Messy lived-in {argument name=\"hair color\" default=\"platinum blonde\"} hair. **Man:** Tall masculine build with a strong and confident posture. Calm, intense masculine expression. (Face will be referenced separately.) Clothing: **Man:** Brown linen trousers and a blue silky shirt with sleeves rolled up to the elbows. Soft elegant fabric. Small gold ITOUCH embroidery on the shirt cuff. **Woman:** Fitted denim jeans and a soft pink shirt. Casual yet stylish. Soft gold ITOUCH monogram near the shirt collar. Pose & Composition: **Man:** Sitting on the green grass. One knee raised with the foot planted on the ground, elbow resting on that raised knee close to his chest. The other leg bent and resting on the grass. Strong, masculine and relaxed posture, looking toward the camera with calm intensity. **Woman:** Reclining / lying against his raised knee, upper body resting on his thigh, arms gently wrapped or relaxed around his leg. Chin slightly tilted, looking toward the camera with soft confidence. Natural and intimate connection. Lighting: Soft natural daylight mixed with gentle front flash. Beautiful rim lighting on both, soft specular highlights on skin and fabric, natural outdoor glow. Deep f/8 aperture keeping skin texture, fabric details, ITOUCH branding and grass details razor sharp. Background & Setting: Lush green grass field in a peaceful outdoor location. Soft natural environment, distant trees or open sky, calm and luxurious vacation atmosphere. Skin rendering: Extreme micro-detail realism, visible pores, natural peach fuzz, subtle natural glow with light sheen, subsurface scattering, tiny imperfections. Hair: Woman: Messy lived-in {argument name=\"hair color\" default=\"platinum blonde\"} hair with soft natural movement. Man: Short textured dark hair with slight natural volume. Color grading: Soft pink + blue + brown + fresh green tones + warm natural light, heavy cinematic grain, beautiful skin warmth, analog tonal response. Camera: Canon EOS R5, 50mm lens, direct flash attachment, slightly low amateur-fashion perspective, high-resolution RAW aesthetic. Atmosphere: Relaxed and intimate outdoor editorial. Masculine calm presence with soft feminine energy, natural connection, cinematic realism.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30941-313",
+      "title": "Topographic Contour Line Portrait",
+      "prompt": "A highly refined contemporary mixed-media portrait style combining an ethereal high-key fashion aesthetic with intricate concentric contour-line artwork inspired by natural growth rings and fingerprint-like topographic patterns. The human subject should retain an elegant, soft, luminous, almost dreamlike presence while the entire visual structure is organically constructed through hundreds of delicate continuous concentric and flowing contour lines. Replace conventional flat shading and ordinary outlines with dense nested curved lines that follow the anatomy and three-dimensional structure of the human form. The lines should naturally conform to the contours of the face, forehead, cheeks, nose, lips, jaw, neck, shoulders, clothing, and hair, creating the illusion that the entire subject is sculpted from flowing rings and fine engraved contours. The line patterns should behave like organic topographic growth rings rather than geometric circles. Lines continuously expand, contract, bend, merge, separate, and change direction according to the underlying form. Around the eyes, nose, lips, and facial planes, the contours become tightly concentrated and delicately curved; across larger surfaces they gradually spread into wider flowing rings. Hair should be constructed from extremely fine flowing contour strands, with hundreds of elongated curved lines sweeping outward and merging into larger concentric patterns. The hair should feel weightless and fluid, almost dissolving into the surrounding background while maintaining an intricate line-based structure. Preserve the reference's soft luminous skin, delicate facial modeling, subtle blush, translucent highlights, pale neutral tones, and graceful editorial beauty. The human form should remain recognizable and aesthetically refined beneath the contour-line construction rather than becoming an abstract pattern. Introduce selective high-density black and charcoal contour areas to create depth and visual emphasis. Lines become progressively darker and closer together in recessed areas and shadow regions, while highlights contain sparse, extremely fine pale-gray lines and larger areas of negative space. This creates tonal values entirely through line density and spacing, rather than conventional painted shading. Allow portions of the contour lines to extend beyond the silhouette, forming expansive organic rings and flowing arcs around the subject. These external lines should gradually fade, break apart, become thinner, and dissolve into the background, creating an atmospheric transition between the human figure and the surrounding space. Use a predominantly luminous ivory, white, soft gray, pale beige, and subtle natural skin-tone palette, with deep charcoal-black lines providing controlled contrast. Maintain a clean, airy, almost monochromatic elegance while preserving subtle full-color skin undertones. The surface should have a fine tactile paper or archival-art texture",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30938-314-Cinematic-Amateur-Fashion-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30941-313-Topographic-Contour-Line-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22793-656",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22793-660",
       "title": "Knitted Yarn Space Machine",
       "prompt": "Goal: Transform {argument name=\"input\" default=\"Input A\"} into a \"Knitted Yarn\" version. Rules: - Spatial Fidelity: Reconstruct the input using \"Stitch-Pattern displacement.\" - Materiality: \"Fuzzy Wool\" fibers with \"SSS (Subsurface Scattering).\" Every character is a \"3D-knitted plush.\" - Technical Spec: Blender Hair particles for \"yarn fuzz.\" Material blend: \"Diffused Cotton.\" - Lighting: \"Warm Domestic Softbox\" lighting to emphasize the softness of the fabric. - Rendering: Macro-photography style, very shallow depth of field. Output: ONE image, cozy and tactile.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22793-656-Knitted-Yarn-Space-Machine.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22793-660-Knitted-Yarn-Space-Machine.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-8980-458",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-8980-459",
       "title": "3D Cartoon Character: Hip-Hop Boy in Pixar Style",
       "prompt": "High-quality 3D cartoon character of a young boy in a hip-hop street style, full body pose, confident playful expression. Wearing a {argument name=\"clothing item\" default=\"colorful hoodie\"}, denim jeans, {argument name=\"shoe color\" default=\"red\"} sneakers, baseball cap, and a large microphone chain necklace. Stylized proportions with a big head and expressive eyes, smooth Pixar-style skin, soft rounded facial features. Dynamic pose pointing upward, fun attitude. Clean urban background with graffiti art, music notes, boombox elements. Bright vibrant colors, soft studio lighting, global illumination, shallow depth of field, ultra-detailed 3D render, cinematic composition, toy-like finish, Octane/Unreal Engine quality, 8K resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-8980-458-3D-Cartoon-Character-Hip-Hop-Boy-in-Pixar-Style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-8980-459-3D-Cartoon-Character-Hip-Hop-Boy-in-Pixar-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29955-205",
-      "title": "Executive Corporate Editorial Portrait",
-      "prompt": "A high-fidelity, corporate editorial portrait of {argument name=\"subject name\" default=\"[NAME]\"} with long wavy hair swept to her left side. She has a serene, neutral expression, looking directly into the camera lens. She is sitting in a black executive ergonomic office chair in a modern high-rise executive office, with her body angled slightly to the left while keeping her torso and face turned toward the camera. She has a curvy, hourglass silhouette with a defined waist, wearing a buttoned-up, fitted {argument name=\"shirt color\" default=\"white\"} dress shirt with a structured collar, a slim black necktie, and a high-waisted {argument name=\"skirt color\" default=\"gray\"} pencil miniskirt with a subtle slit. Her legs are crossed at the knees, her right arm rests naturally on the chair's armrest, and her left hand with impeccably manicured nails rests gently over a sleek brushed-aluminum laptop on her well-organized desk. Her wrist features a fine, delicate bracelet, and she wears dangling polished silver geometric earrings. In the background, floor-to-ceiling panoramic windows reveal the New York City skyline under a clear blue sky, alongside neat potted ornamental plants on the desk. Shot at eye level with an 85mm f/2.8 lens on a 61MP full-frame camera (ISO 100, 1/200s), the lighting is soft, indirect natural light from the side windows, creating gentle highlights, smooth catchlights in her eyes, and balanced fill shadows with a shallow depth of field and cream optical bokeh. The mood is calm, confident, focused, and sophisticated, captured with razor-sharp micro-focus on her eyes and clothing textures, wide dynamic range, and a 9:16 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29956-205",
+      "title": "Painterly Gold Light Portrait",
+      "prompt": "A dramatic, painterly portrait of {argument name=\"subject\" default=\"a woman with dark hair tied back in an updo\"}, featuring loose strands framing her face. She has striking eyes, defined brows, and bold red lips. Warm, directional light falls across her face and collarbone, creating deep shadows in a chiaroscuro style against a dark, moody background. She is wearing {argument name=\"clothing\" default=\"a delicate gold chain necklace and a black camisole top\"}, captured in an {argument name=\"aesthetic\" default=\"artistic, textured oil-painting aesthetic\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29955-205-Executive-Corporate-Editorial-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29956-205-Painterly-Gold-Light-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30940-316",
-      "title": "Emerald Evening Dress Fashion Portrait",
-      "prompt": "Subject description: A Young woman with a refined, natural appearance and {argument name=\"skin tone\" default=\"fair-to-light\"} skin tone. She has long, softly wavy light-brown/blonde hair gathered into a relaxed low ponytail, with a few loose strands framing her face. Her complexion has realistic natural texture, subtle makeup, softly defined eyebrows, and a calm, thoughtful expression. She is looking toward her smartphone screen while taking a mirror photograph. Her posture is relaxed and poised, seated gracefully with her shoulders naturally positioned and her body turned slightly toward the mirror. Clothing & accessories: She wears an {argument name=\"dress style\" default=\"elegant emerald-green and ivory patterned evening dress\"} with flowing fabric, intricate curved geometric detailing, and subtle shimmering texture. The dress has a sophisticated floor-length silhouette and tasteful styling suitable for a fashion editorial. She carries a modern dark-colored smartphone while taking the mirror photograph. Add minimal elegant jewelry, such as a delicate bracelet and small understated earrings. Keep the overall styling polished, sophisticated, and fashion-focused. Environment & lighting: A {argument name=\"interior style\" default=\"luxurious contemporary interior\"} featuring large marble-effect wall panels framed by dark architectural trim. A full-length mirror occupies the right side of the composition, creating a realistic reflection. The floor has a subtle wood texture, complementing the cool marble surroundings. Soft diffused indoor lighting illuminates the subject evenly, while gentle highlights emphasize the texture and shimmer of the green-and-ivory fabric. The atmosphere should feel sophisticated, quiet, modern, and editorial. Camera & visual style: Photorealistic luxury fashion photography, 85mm portrait lens, vertical composition, realistic mirror perspective, soft diffused lighting, shallow depth of field, natural skin texture, highly detailed hair strands, realistic fabric texture, accurate reflections, balanced exposure, subtle cinematic color grading, refined neutral tones with emerald-green accents, professional editorial photography, high dynamic range, crisp focus, realistic proportions, ultra-high detail, high-resolution finish.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30947-314",
+      "title": "Romantic Black and White Studio Portrait",
+      "prompt": "Create a romantic black-and-white studio portrait of a real skinny, not medium weighed, couple standing in front of a wall with a {argument name=\"light shape\" default=\"heart-shaped\"} light projected behind them. The couple must maintain their real and original faces, preserving all authentic facial features and natural hair colors, with no changes. The man is leaning toward the woman, gently smelling her neck with a soft and loving expression, while holding her hand. The woman smiles slightly, with a romantic and affectionate look. Their outfits remain the same: the man wears a {argument name=\"men's outfit\" default=\"plain fitted white t-shirt and light pants\"}, while the woman wears a {argument name=\"women's outfit\" default=\"sleeveless white top and dark jeans\"}. The lighting is dramatic with strong contrast, highlighting the couple within the glowing heart shape. The image should be ultra-high resolution, with hyper-realistic details and a professional editorial photography style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30940-316-Emerald-Evening-Dress-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30947-314-Romantic-Black-and-White-Studio-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-7974-235",
-      "title": "Technical Infographic for E-commerce Product Description",
-      "prompt": "Create an infographic image of {argument name=\"object\" default=\"Tudor North Flag\"}, combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top. Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background. Include: •Key component labels •Internal cutaway or exploded-view outlines (where relevant) •Measurements, dimensions, and scale markers •Material callouts and quantities •Arrows indicating function, force, or flow (air, sound, power, pressure, movement) •Simple schematic or sectional diagrams where applicable Place the title {argument name=\"object title\" default=\"[OBJECT]\"} inside a hand-drawn technical annotation box in one corner. Style & layout rules: •The real object remains clearly visible beneath the annotations •Annotations look hand-sketched, technical, and architectural •Clean composition with balanced negative space •Educational, museum-exhibit / engineering-manual vibe Visual style: Minimal technical illustration aesthetic. Black linework layered over realistic imagery. Precise but slightly hand-drawn feel. Color palette: Pure white background. Black annotation lines and text only. No colors. Output: Ultra-crisp Social-feed optimized No watermark",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-7974-235-Technical-Infographic-for-E-commerce-Product-Description.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Infographic / Education"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
       "license": "upstream",
       "createdAt": null
     }

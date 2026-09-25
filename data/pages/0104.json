@@ -1,12 +1,31 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20449-810",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-12671-369",
+      "title": "Four-Panel Manga: Countdown to Disappearance",
+      "prompt": "4-panel manga Title Countdown to Disappearance Apparently, there's a service where you can buy YouTube views Not to brag, But my playlist Has 0 content! (Laugh)",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-12671-369-Four-Panel-Manga-Countdown-to-Disappearance.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20449-814",
       "title": "Minimalist Gold Velvet Portrait",
       "prompt": "A high-fashion, minimalist portrait featuring a woman in a {argument name=\"outfit\" default=\"deep gold velvet off-the-shoulder dress\"}, posed against a matching {argument name=\"background\" default=\"textured mustard yellow backdrop\"}. She wears a wide-brimmed purple felt hat tilted forward to dramatically obscure her eyes, complemented by bold, matte plum lipstick. The composition emphasizes a rich, regal color palette and elegant textures, capturing a sense of mysterious, modern sophistication.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20449-810-Minimalist-Gold-Velvet-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20449-814-Minimalist-Gold-Velvet-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -20,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-5399-558",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-5399-559",
       "title": "Isometric Figurine from Selfie Prompt Template",
       "prompt": "\"Make a miniature, full-body, isometric, realistic figurine of this person, wearing {argument name=\"clothing description\" default=\"ABC\"}, doing {argument name=\"action description\" default=\"XYZ\"}, on a white background, minimal, 4K resolution.\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-5399-558-Isometric-Figurine-from-Selfie-Prompt-Template.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-5399-559-Isometric-Figurine-from-Selfie-Prompt-Template.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-28567-264",
-      "title": "Celebrity Portrait in Sun-Drenched Garden",
-      "prompt": "{ \"subject\": { \"subjects_interaction\": \"Centered portrait, medium shot. {argument name=\"celebrity\" default=\"Sabrina Carpenter\"} is crouching gracefully in a lush, sun-drenched garden setting, holding a white flower near her face, looking directly at the camera.\", \"first_subject\": { \"identity\": { \"biometric_reference\": \"{argument name=\"celebrity\" default=\"Sabrina Carpenter\"}\", \"facial_matrix\": { \"hair_profile\": \"Soft blonde hair with loose waves and bangs, styled naturally.\", \"ocular_biometrics\": \"Bright blue eyes, focused gaze, soft and inviting expression.\", \"maxillofacial_data\": \"Refined facial geometry, soft smile, lips closed.\" } }, \"body\": { \"kinesiology_pose\": \"Crouching low to the ground in a fluid, elegant pose, hands held near the face with a flower. Natural skin texture and posture.\", \"epidermal_physics\": \"Dermis appears healthy and radiant, reflecting natural, soft sunlight, highlighting smooth skin contours.\" }, \"wardrobe\": { \"full_layer\": { \"item\": \"Aesthetic {argument name=\"clothing top\" default=\"white cropped top\"} paired with a flowing, {argument name=\"clothing bottom\" default=\"champagne-colored satin maxi skirt\"}.\", \"material_properties\": \"Soft cotton and luxurious satin, elegant and breezy.\", \"cosmetic_accents\": \"Bare feet, meticulously applied high-gloss white nail polish on all digits, delicate silver ankle bracelet.\" } } } }, \"scene\": { \"configuration\": \"Outdoor garden setting with potted flowers and stone architectural elements.\", \"background_architecture\": { \"surface_properties\": \"Terracotta pots, blooming pink and white flowers, stone flooring, warm natural light.\", \"reflection_integrity_rules\": \"Reflective indices optimized for soft, natural light interaction with floral textures and stone, maintaining an airy garden aesthetic.\" }, \"text_and_logos\": { \"constraints\": \"No text, no watermarks, no skin piercings, no hosiery, no extra limbs.\" } }, \"lighting\": { \"source_profile\": \"Soft, warm, natural afternoon sunlight, engineered for gentle gradients, high-key atmosphere, and rich, natural color rendering.\" }, \"camera\": { \"projection_type\": \"Wide-angle lens, medium-shot depth of field.\", \"optical_profile\": \"35mm focal length, f/2.0, focus lock on the subject's face, soft bokeh background, 4:5 aspect ratio.\" } }",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-28564-264",
+      "title": "Underwater Face Portrait",
+      "prompt": "Hyper-realistic, ultra-detailed close-up portrait showing only the {argument name=\"face section\" default=\"left half\"} of my face submerged in {argument name=\"liquid\" default=\"water\"}, one eye in sharp focus, positioned on the far left of the frame, light rays creating caustic patterns on the skin, suspended water droplets and bubbles adding depth, cinematic lighting with soft shadows and sharp highlights, photorealistic textures including skin pores, wet lips, eyelashes, and subtle subsurface scattering, {argument name=\"mood\" default=\"surreal and dreamlike atmosphere\"}, shallow depth o underwater",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-28567-264-Celebrity-Portrait-in-Sun-Drenched-Garden.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-28564-264-Underwater-Face-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30342-383",
-      "title": "Desert Travel Lifestyle Portrait",
-      "prompt": "A {argument name=\"subject\" default=\"confident young man\"} stands centered in a full-body pose, facing the camera with level shoulders and evenly distributed weight. He wears dark square sunglasses over a direct gaze and relaxed eyebrows, an unsmiling neutral mouth, a {argument name=\"outfit\" default=\"crisp bright white fitted t-shirt, and loose cream linen trousers\"} accessorized with a silver wristwatch. His hair is cut short above the ears in a faded crew cut, featuring a thick, straight, natural imperfect texture with minor flyaways along the crown outline; styled with low-shine pomade, it is pushed slightly forward and up with moderate front volume and no distinct part. His left hand hangs casually at his side in an organic gesture holding a dark mobile phone. He stands on terracotta orange-brown sand marked by rippled wind patterns and natural footsteps. In the bottom right foreground, a dominant seated camel frames the shot with its light beige fur and dark harness rope. To the midground left, a second seated camel rests, draped in a vibrant crimson red and black geometric patterned woven saddle blanket finished with fringe trims. This deep spatial arrangement extends past rolling {argument name=\"setting\" default=\"desert dunes\"} to an upper midground fence line of thin, evenly spaced dark wire posts, meeting a pale blue-gray hazy sky at the horizon. The sunny, wide-open desert expanse establishes a calm, casual atmosphere, bathed in bright, soft, natural golden light originating from a high top-front right direction. This moderately directional light creates preserved highlights on the top of the man's head, shoulders, and the folds of his white shirt, while casting short, soft-edged gray shadows to the left beneath his feet and the resting camels. The complementary color palette balances the striking bright white of the subject against the dominant desert sand background and rich crimson accents. Captured as a realistic digital photograph with a travel lifestyle aesthetic, the image utilizes a 28mm wide-angle lens from a straight-on perspective and an f/4.0 aperture for a deep depth of field, keeping the entire scene tack sharp. The organic visual style is completed by a slightly grainy texture with minimal digital noise, enhanced by post-processing that includes slight shadow lifting, warm highlight color grading, and a subtle saturation boost to the red saddle textures, ultimately framed in a 3:4 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30336-383",
+      "title": "Vibrant European Festival Portrait",
+      "prompt": "A lively and vibrant medium shot of a smiling {argument name=\"subject\" default=\"young woman\"} with dark wavy hair styled with braids and a {argument name=\"hair accessory\" default=\"red floral hair accessory\"}, holding a decorative floral folding fan with red and black accents. She is wearing a traditional red-and-white polka-dot dress trimmed with delicate white lace, accessorized with hoop earrings and layered necklaces. The background is a sunlit, bustling {argument name=\"setting\" default=\"historic European street\"} paved with cobblestones, flanked by traditional buildings with flower boxes on balconies and a blurred crowd of festival-goers enjoying a sunny afternoon celebration.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30342-383-Desert-Travel-Lifestyle-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30336-383-Vibrant-European-Festival-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20432-811",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20432-815",
       "title": "Minimalist Water Commercial Photography",
       "prompt": "Minimalist commercial ad featuring oversized {argument name=\"brand\" default=\"SNOW\"} Water Bottle, ultra-clean luxury design. A young woman in an all-white outfit leans casually against the giant transparent SNOW bottle, relaxed confident pose, eyes closed, also holding the same SNOW water bottle in her hand. Crystal clear water visible inside the bottle with premium condensation droplets, sleek modern label design with icy blue accents. Soft gradient icy-blue background with large bold white “SNOW” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography, clean hydration aesthetic, ultra realistic reflections and shadows, minimal Scandinavian-inspired composition.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20432-811-Minimalist-Water-Commercial-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20432-815-Minimalist-Water-Commercial-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-5342-564",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-5342-565",
       "title": "Generating Siblings Based on a Reference Character",
       "prompt": "This is a Nano Banana Pro prompt for generating siblings of a character based on a reference illustration. It works by simply specifying sister or brother within the prompt. It is likely possible to specify mother or grandfather as well. It allows specifying multiple people, not just one. It also allows specifying individual characteristics. The first image was output with the following: {argument name=\"Siblings to generate\" default=\"One sister (funky), one sister (Jirai-kei), one brother (muscle-head), one sister (shut-in)\"} Sizes can also be customized, such as vertical, horizontal, or square, not just the original.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-5342-564-Generating-Siblings-Based-on-a-Reference-Character.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-5342-565-Generating-Siblings-Based-on-a-Reference-Character.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-28572-265",
-      "title": "Pensive South Asian Man Portrait",
-      "prompt": "Using uploaded face 100 percent same & realistic. A high-quality, photorealistic portrait of a {argument name=\"subject\" default=\"handsome young South Asian man\"} with voluminous, styled dark hair and a neatly trimmed beard. He is sitting thoughtfully cross-legged on an {argument name=\"seating\" default=\"ornate gold wooden chair with bright red velvet upholstery\"}. He is wearing a {argument name=\"clothing\" default=\"traditional textured cream-colored kurta pajama with a dark maroon scarf\"} draped around his neck. He rests his left hand lightly against his chin, looking off-camera in a pensive pose. On his left wrist is a chunky smartwatch with a bright orange band, and on his right wrist is a simple black string bracelet. He is wearing brown leather loafers. The background is a deeply blurred, festive setting featuring warm, glowing bokeh fairy lights and vibrant, softly draped fabrics in pink, blue, green, and yellow. Cinematic lighting, shallow depth of field, vibrant colors, highly detailed, 8k resolution. keep original face and hairstyle 100% reference Ratio 9:16",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-28567-265",
+      "title": "Celebrity Portrait in Sun-Drenched Garden",
+      "prompt": "{ \"subject\": { \"subjects_interaction\": \"Centered portrait, medium shot. {argument name=\"celebrity\" default=\"Sabrina Carpenter\"} is crouching gracefully in a lush, sun-drenched garden setting, holding a white flower near her face, looking directly at the camera.\", \"first_subject\": { \"identity\": { \"biometric_reference\": \"{argument name=\"celebrity\" default=\"Sabrina Carpenter\"}\", \"facial_matrix\": { \"hair_profile\": \"Soft blonde hair with loose waves and bangs, styled naturally.\", \"ocular_biometrics\": \"Bright blue eyes, focused gaze, soft and inviting expression.\", \"maxillofacial_data\": \"Refined facial geometry, soft smile, lips closed.\" } }, \"body\": { \"kinesiology_pose\": \"Crouching low to the ground in a fluid, elegant pose, hands held near the face with a flower. Natural skin texture and posture.\", \"epidermal_physics\": \"Dermis appears healthy and radiant, reflecting natural, soft sunlight, highlighting smooth skin contours.\" }, \"wardrobe\": { \"full_layer\": { \"item\": \"Aesthetic {argument name=\"clothing top\" default=\"white cropped top\"} paired with a flowing, {argument name=\"clothing bottom\" default=\"champagne-colored satin maxi skirt\"}.\", \"material_properties\": \"Soft cotton and luxurious satin, elegant and breezy.\", \"cosmetic_accents\": \"Bare feet, meticulously applied high-gloss white nail polish on all digits, delicate silver ankle bracelet.\" } } } }, \"scene\": { \"configuration\": \"Outdoor garden setting with potted flowers and stone architectural elements.\", \"background_architecture\": { \"surface_properties\": \"Terracotta pots, blooming pink and white flowers, stone flooring, warm natural light.\", \"reflection_integrity_rules\": \"Reflective indices optimized for soft, natural light interaction with floral textures and stone, maintaining an airy garden aesthetic.\" }, \"text_and_logos\": { \"constraints\": \"No text, no watermarks, no skin piercings, no hosiery, no extra limbs.\" } }, \"lighting\": { \"source_profile\": \"Soft, warm, natural afternoon sunlight, engineered for gentle gradients, high-key atmosphere, and rich, natural color rendering.\" }, \"camera\": { \"projection_type\": \"Wide-angle lens, medium-shot depth of field.\", \"optical_profile\": \"35mm focal length, f/2.0, focus lock on the subject's face, soft bokeh background, 4:5 aspect ratio.\" } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-28572-265-Pensive-South-Asian-Man-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-28567-265-Celebrity-Portrait-in-Sun-Drenched-Garden.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30205-384",
-      "title": "East Asian Woman at Outdoor Café",
-      "prompt": "A beautiful {argument name=\"subject\" default=\"young East Asian woman\"} with fair skin and soft makeup, long black hair styled in a side braid cascading over her left shoulder, gentle closed-mouth smile looking at the camera. She is wearing a {argument name=\"outfit\" default=\"tight black off-the-shoulder mini dress\"} with ruffled short sleeves, standing in a slight three-quarter pose with her left hand lightly touching her braid. Delicate thin necklace with a small pendant. Soft natural daylight. Background: {argument name=\"setting\" default=\"beige textured wall, blue-framed window, wooden wall sign with a cartoon dog illustration\"} and text “with best friend pet friendly zone”, hanging industrial light bulb, light wooden table with a small white handbag featuring a pink bow and pearl-beaded handle, blue metal folding chairs. Outdoor café patio setting, realistic photography, sharp details, natural skin texture, cinematic lighting.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30335-384",
+      "title": "Serene Garden Literary Portrait",
+      "prompt": "A serene literary escape amidst blooming garden ruins, where quiet pages meet timeless daydreams. Set within a {argument name=\"setting\" default=\"sunlit, ivy-covered stone archway\"}, a {argument name=\"subject\" default=\"young woman with short dark hair\"} immerses herself in a rustic journal and classic literature. Dressed in a {argument name=\"outfit\" default=\"floral patterned vintage slip dress paired with brown leather boots\"}, she is surrounded by lush green foliage and delicate pink roses. Whimsical illustrated thought bubbles drift overhead, symbolizing imagination and storytelling. Golden hour lighting filters through the ancient trees, casting a warm, magical glow over the cobblestone path.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30205-384-East-Asian-Woman-at-Outdoor-Caf.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30335-384-Serene-Garden-Literary-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -263,25 +282,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20168-814",
-      "title": "Surreal Food Ad: Saudi Lamb Kabsa",
-      "prompt": "A massive saudi lamb Kabsa floating in mid-air with rice flowing over the sides. Salad and Pepsi rotate around the lamb Kabsa in dramatic slow motion. Steam rises intensely from the hot patty. Dark cinematic background, glossy commercial lighting, ultra-realistic fast-food advertisement style, high-detail textures, smooth spinning effect --ar 2:3",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20168-814-Surreal-Food-Ad-Saudi-Lamb-Kabsa.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Product Marketing"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
       "license": "upstream",
       "createdAt": null
     },
