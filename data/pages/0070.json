@@ -1,25 +1,6 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33794-87",
-      "title": "London Skyline Background Edit",
-      "prompt": "Replace the far background city lights into {argument name=\"city\" default=\"London's skyline\"} with several iconic {argument name=\"details\" default=\"landmarks\"}",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33794-87-London-Skyline-Background-Edit.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Social Media Post"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
       "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-19182-61",
       "title": "Lagos Cafe Realism Study",
       "prompt": "Side-by-side comparative AI-generated visual study showing two variations of the same {argument name=\"subject\" default=\"African woman\"} in {argument name=\"location\" default=\"Lagos café environment\"}. Both images simulate different generation styles: one highly polished commercial fashion realism, the other raw iPhone candid realism with imperfections. Subject wears {argument name=\"outfit\" default=\"elegant neutral dress\"}, gold jewelry, seated at outdoor restaurant table. Include iced drink, phone, sunglasses, and subtle background crowd blur. Lighting is bright afternoon sunlight with realistic exposure variation between both images. Skin detail must include pores, natural texture, slight blemishes, sweat shine. Composition intentionally tests realism perception for educational purposes in AI content creation. Designed to demonstrate prompt control differences, not character storytelling.",
@@ -77,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32744-124",
-      "title": "Scifi Book Cinematic Diorama",
-      "prompt": "Create a photorealistic cinematic diorama emerging physically from an open book. Infer automatically: HERO_ENTITY TITLE WORLD TITLE_MATERIAL FOREGROUND_EVENT MINIATURE_ACTORS PROP_SET LIGHT_DNA FX_DNA Composition: - open hardcover book occupies the lower majority of the frame - book pages physically transform into {argument name=\"topic\" default=\"scifi book\"} rather than remaining clean paper - TITLE becomes massive freestanding 3D typography embedded within the terrain - TITLE material and construction are inferred from TOPIC - HERO_ENTITY rises behind, above, through, or around the typography at monumental relative scale - FOREGROUND_EVENT unfolds across the front page as a miniature narrative scene - miniature actors, vehicles, tools, vegetation, debris, structures, or props are inferred only when semantically useful - page edges remain visible so the illusion of “world emerging from book” is unmistakable Lighting: cinematic practical lighting inferred from TOPIC plus believable environmental illumination. Rendering: macro practical-effects photography, real book fibers, physical miniature materials, contact shadows, dust and surface imperfections, atmospheric depth, high-end handcrafted diorama realism. No hard-coded title, character, environment, material, action, vehicle, or visual effect.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32840-120",
+      "title": "Surrealist Nike Sportswear Poster",
+      "prompt": "A high-fashion surrealist advertising poster for {argument name=\"brand\" default=\"Nike\"}. A minimalist monochrome cool grey studio with a semi-reflective floor. A giant white Nike sneaker is positioned diagonally, suspended slightly above the ground. A male model in an {argument name=\"outfit\" default=\"all-white athletic techwear outfit\"} leans back against the floating shoe mid-stretch, one leg extended, wearing standard Nike sneakers. In the background, massive bold “NIKE” typography in condensed sans-serif is partially obscured by the shoe and model. Bottom center tagline: \"{argument name=\"tagline\" default=\"Engineered for motion. Built for every version of you.\"}\" Soft directional lighting, subtle shadows, premium sportswear editorial aesthetic. Aspect ratio: 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32744-124-Scifi-Book-Cinematic-Diorama.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32840-120-Surrealist-Nike-Sportswear-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22459-242",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22459-243",
       "title": "Melancholic Nature Archive Editorial Photo",
       "prompt": "{ \"vibe_title_en\": \"Melancholic Nature Archive\", \"master_prompt\": \"A cinematic medium shot of {argument name=\"protagonist\" default=\"The Protagonist\"} standing in a densely cluttered, dust-moted Taxidermy & Restoration Atelier. The room is a chaotic masterpiece of 'Busy Environment' aesthetics: floor-to-ceiling wooden shelves overflowing with antique glass jars, spools of copper wire, dried autumn hydrangeas, stacks of yellowing anatomy encyclopedias, and loose bird feathers. The Protagonist wears a structured, high-neck gown of raw beige silk and intricate lace, mirroring the texture of the surroundings. In a moment of surreal tenderness, they are nose-to-nose with a hyper-realistic {argument name=\"animal\" default=\"Red Fox\"} that is perched precariously on a stack of books. The surreal twist: the boundaries of the room are dissolving; the back wall is fading into a foggy, bare-branch forest, with crisp brown oak leaves frozen in mid-air around the subject, defying gravity. Lighting is moody and volumetric, streaming through dirty workshop windows. Shot on a Hasselblad H6D-100c with an 80mm f/1.9 lens. Emphasize organic textures: the coarse fur of the fox, the fraying lace, the dust on the glass, and realistic skin pores. Kodak Portra 400 film stock simulation with soft grain. NO neon. NO plastic textures.\", \"meta\": { \"intent\": \"High-End Editorial / Surreal Narrative\", \"priorities\": \"Texture, Atmospheric Depth, Emotional Connection\", \"device_profile\": \"Hasselblad H6D-100c, Medium Format\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Rule of Thirds, centering on the connection between subject and animal\", \"layout\": \"Dense foreground and background framing the subject\", \"camera_angle\": \"Eye-level, intimate proximity\", \"tilt_roll_degrees\": \"0 degrees\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist (Universal Template)\", \"demographics\": \"Ageless, Ethereal\", \"face\": \"Neutral but deeply connected gaze, soft interaction\", \"hair\": \"Textured, slightly undone, adorned with subtle organic matter\", \"body\": \"Elegant posture, holding or leaning towards the animal\", \"expression\": \"Serene, mystical, focused on the creature\", \"pose\": \"Profile or three-quarter turn, intimate interaction with the fox\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"High-neck Gown\", \"material\": \"Raw Silk and Antique Lace\", \"color\": \"Champagne / Muted Beige\", \"fit\": \"Structured Bodice, Flowing Skirt\" } ], \"accessories\": [ { \"item\": \"Choker\", \"color\": \"Bronze / Aged Gold\", \"material\": \"Metal and Velvet\", \"brand_style\": \"Victorian Heirloom\" } ] }, \"environment\": { \"setting\": \"Overgrown Taxidermy Atelier / Antique Study\", \"surfaces\": \"Aged wood, dusty glass, scattered paper, dry leaves\", \"depth\": \"High depth of field fall-off, background dissolving into fog\", \"atmosphere\": \"Hazy, dust-fil\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22459-242-Melancholic-Nature-Archive-Editorial-Photo.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22459-243-Melancholic-Nature-Archive-Editorial-Photo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33392-55",
-      "title": "Realistic Slavic Woman Studio Portrait",
-      "prompt": "A portrait of a beautiful {argument name=\"ethnicity\" default=\"Slavic/russian\"} woman with caucasian skin, naturally luminous with a soft sheen, visible pores, fine texture, very subtle freckles and NO faint hyperpigmentation around the eyes and lips, realistic skin variation across face, neck, shoulders, and chest. She has an oblong face shape, high cheekbones, a smooth yet defined jawline, a straight medium-width nose with gentle highlights, full well- heart shaped pink plum lips with natural lines, and large almond-shaped {argument name=\"eye color\" default=\"whitish grey\"} eyes framed by long natural lashes and neatly groomed sharp arched full brows. Her hair is styled in natural, detailed long-length glossy and {argument name=\"hair color\" default=\"black\"} thick hair with clean but slightly imperfect parts, and brushed hair edges. and flowing over her shoulders. Slim–curvy build, elegant neck, defined collarbones, relaxed confident posture. Studio photography, flash lit, plain white background, 50mm lens, shallow depth of field, ultra high-realism, 8K, sharp focus capturing every skin pore, texture, and natural imperfection.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33482-55",
+      "title": "East Asian Woman with Gerbera Flowers",
+      "prompt": "Photorealistic close-up portrait of a young {argument name=\"ethnicity\" default=\"East Asian woman\"} with long straight dark brown hair and wispy bangs falling across her forehead, looking directly into the camera with large dark brown eyes, sharp winged eyeliner, and full lips painted in {argument name=\"lipstick color\" default=\"muted berry-red lipstick\"}. Warm golden-hour sunlight streams from the upper left, casting strong rim light and deep shadows across her face, highlighting the texture of her skin and creating a cinematic, sun-kissed glow. In the foreground, several {argument name=\"flowers\" default=\"vibrant red and orange gerbera daisies\"} (slightly out of focus) frame the lower half of her face, with green stems visible at the bottom. Soft bokeh, shallow depth of field, rich warm color grading, high detail, 8k, shot on 85mm lens.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33392-55-Realistic-Slavic-Woman-Studio-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33482-55-East-Asian-Woman-with-Gerbera-Flowers.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33782-89",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33782-92",
       "title": "Slim Aarons Boat Lifestyle Photography",
       "prompt": "A confident young handsome male sits upright with a slight lean forward, angled forty-five degrees to the left in the pristine white leather seat of a classic wooden boat. He wears a highly textured warm brown linen double-breasted suit jacket over a crisp white collared shirt with exposed cuffs, accessorized with classic dark round tortoiseshell sunglasses masking a neutral, serious expression with firmly closed lips as he gazes off-camera. His medium-length wavy brown hair is pushed back with a windblown, unstructured texture, showcasing natural imperfections, distinct flyaways, and organic volume without a defined part. His left hand firmly grips the ten o'clock position of a pristine, glossy mahogany steering wheel featuring rivet details and chrome spokes, fingers wrapped securely around the rim with knuckles slightly visible, while his relaxed right hand rests casually on a chrome and black throttle lever beside him with fingers gently draped. He is navigating deep turquoise-blue lake water characterized by choppy white wakes, surrounded by the boat's luxurious interior featuring pristine white leather seating with visible piping and stitching. In the deep background, large sloping green mountains are softened by atmospheric blue haze and distance under a clear, expansive sky blue horizon. The energetic, luxurious scene is bathed in bright, highly directional mid-day natural sunlight hitting from the front-top-left, creating a highly saturated, high-contrast palette of warm browns and cool blues. Harsh, deeply defined black shadows carve into the fabric folds, under his jaw, across the right side of his face and neck, beneath his arms, and deep inside the boat cockpit, while brilliant specular highlights punch bright reflections onto his hair, nose, the wooden steering wheel rim, chrome fittings, and the water surface. Captured from a straight-on perspective from the adjacent passenger seat using a full-frame digital camera with a 35mm lens, an aperture of f/5.6 for a medium depth of field that keeps the subject and boat tack sharp while smoothly falling off toward the distant alpine mountains, and a fast shutter speed to freeze the motion. This hyperrealistic, Slim Aarons-inspired editorial lifestyle photograph features an enhanced contrast S-curve, a slight warming filter to emphasize the sunlit atmosphere, boosted clarity on the clothing and wood textures, and is perfectly framed in a 3:4 vertical aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33782-89-Slim-Aarons-Boat-Lifestyle-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33782-92-Slim-Aarons-Boat-Lifestyle-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32749-125",
-      "title": "Gal Gadot Volcanic Portrait",
-      "prompt": "{ \"vibe_title_en\": \"Ash and Ecstasy\", \"master_prompt\": \"A hyper-realistic, 90-degree top-down architectural photograph of The Protagonist lying completely flat on a bed of heavily textured, cooling black volcanic coals with faint, glowing red embers buried deep within the cracks. Directly above the crown of the subject's head rests a singular, impossibly pristine, oversized bright red apple, untouched by the extreme heat, serving as a surreal focal point. The Protagonist is in a state of euphoric trance—chin lifted slightly to expose the neck, eyes gently closed in pure passionate release. A subtle thermal updraft acts like a gentle wind, causing dark strands of hair to fan out and float dynamically across the coarse, jagged charcoal surface. The subject wears a high-necked, intricately pleated matte-black avant-garde garment that blends seamlessly into the dark, charred surroundings. Shot on Hasselblad H6D-100c with an HC 100mm f/2.2 lens to capture microscopic details: individual skin pores, the powdery ash on the rocks, and the waxy, reflective sheen of the red fruit. Lighting is a moody, cinematic blend—a soft, ethereal overhead fill (flat but moody diffusion) contrasted by intense, warm, practical under-glow radiating from the heat of the coals, creating localized heat haze and subtle bokeh near the edges of the frame. Kodak Portra 400 film stock, rich crushed shadows, authentic cinematic grain, highly tactile and physically grounded surrealism. NO NEON.\", \"meta\": { \"intent\": \"Photographic Surrealism and Editorial Conceptual Portraiture\", \"priorities\": \"Extreme textural contrast, top-down symmetry, conveying a euphoric trance state, micro-detail retention\", \"device_profile\": \"High-Resolution Editorial Display\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Symmetrical Top-Down Center Alignment\", \"layout\": \"Subject centralized along the vertical axis, with the red fruit acting as a structural anchor directly above the head\", \"camera_angle\": \"Strictly 90-degree top-down (Plan View)\", \"tilt_roll_degrees\": \"0 degrees\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless, striking, ethereal features\", \"face\": \"Symmetrical, flawless skin texture with visible pores, chin tilted up, deeply relaxed musculature\", \"hair\": \"Dark, fine strands blowing dynamically outward as if caught in a thermal updraft, splayed against the black rocks\", \"body\": \"Supine, fully relaxed yet possessing an internal narrative tension of release\", \"expression\": \"The Ecstatic Dreamer: eyes closed in pleasure, a subtle breath escaping parted lips, euphoric trance\", \"pose\": \"Lying completely flat, perfectly aligned with the camera's central axis, head tilted back against the ground\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"High-necked, intricately pleated avant-garde tunic\", \"material\": \"Matte-black raw silk and heavy crepe\", \"color\": \"Pitch Black\", \"fit\": \"Flowing, pooled heavily around the shoulders and neck, merging with the ground\" } ], \"accessories\": [ { \"item\": \"Oversized, flawless whole apple resting on the coals\", \"color\": \"Vibrant Crimson Red\", \"material\": \"Organic waxy skin with high specular reflection\", \"brand_style\": \"Surrealist prop\" } ] }, \"environment\": { \"setting\": \"A barren, claustrophobic expanse of scorched earth and cooling volcanic basalt\", \"surfaces\": \"Highly textured jagged black rocks, powdery grey ash, smooth glowing human skin\", \"depth\": \"Flattened depth of field due to the plan view, isolated by the sudden drop into shadow\", \"atmosphere\": \"Warm, hazy, physically intense, thick with unseen heat\", \"lens_interaction\": \"Subtle optical distortion and heat haze rippling around the red embers\" }, \"lighting\": { \"key\": \"Soft, ethereal, moody overhead diffusion mimicking an overcast twilight sky\", \"fill\": \"Ambient bounce from the dark surfaces, highly controlled to maintain deep shadows\", \"rim\": \"Warm, fiery orange and red under-lighting radiating upward from the cracks in the coal bed\", \"shadows\": \"Deep, rich, high-contrast chiaroscuro, absorbing the black garment entirely\", \"color_temperature\": \"Split: 5600K cool overhead flat light against 2500K intense warm ember glow\", \"sensor_flare\": \"None, pristine contrast\" }, \"camera\": { \"lens_type\": \"Medium Format Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.8\", \"focus\": \"Tack-sharp on the subject's eyelashes, skin pores, and the surface of the apple\", \"sensor_format\": \"Medium Format Digital (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Zero distortion, pure orthographic projection feel\" }, \"post_processing\": { \"color\": \"Deeply saturated, isolated reds against monochromatic charcoals and warm, lifelike skin tones\", \"tonality\": \"High-end editorial, crushed blacks with meticulously retained micro-contrast in the highlights\", \"texture\": \"Hyper-detailed analog feel, authentic Kodak Portra 400 film grain in the shadows\", \"digital_sharpening\": \"None, entirely reliant on organic optical lens sharpness\", \"chromatic_aberration\": \"Virtually zero, pristine edge-to-edge optical quality\" }, \"negative_specifications\": [ \"Neon lights\", \"Cyberpunk aesthetics\", \"Cityscapes\", \"Rooftops\", \"Coffee shops\", \"Minimalist offices\", \"Plastic or airbrushed skin\", \"Cartoonish surrealism\", \"CGI feel\", \"Direct eye contact\", \"Smiling\", \"Cluttered background\" ] }",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32744-125",
+      "title": "Scifi Book Cinematic Diorama",
+      "prompt": "Create a photorealistic cinematic diorama emerging physically from an open book. Infer automatically: HERO_ENTITY TITLE WORLD TITLE_MATERIAL FOREGROUND_EVENT MINIATURE_ACTORS PROP_SET LIGHT_DNA FX_DNA Composition: - open hardcover book occupies the lower majority of the frame - book pages physically transform into {argument name=\"topic\" default=\"scifi book\"} rather than remaining clean paper - TITLE becomes massive freestanding 3D typography embedded within the terrain - TITLE material and construction are inferred from TOPIC - HERO_ENTITY rises behind, above, through, or around the typography at monumental relative scale - FOREGROUND_EVENT unfolds across the front page as a miniature narrative scene - miniature actors, vehicles, tools, vegetation, debris, structures, or props are inferred only when semantically useful - page edges remain visible so the illusion of “world emerging from book” is unmistakable Lighting: cinematic practical lighting inferred from TOPIC plus believable environmental illumination. Rendering: macro practical-effects photography, real book fibers, physical miniature materials, contact shadows, dust and surface imperfections, atmospheric depth, high-end handcrafted diorama realism. No hard-coded title, character, environment, material, action, vehicle, or visual effect.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32749-125-Gal-Gadot-Volcanic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32744-125-Scifi-Book-Cinematic-Diorama.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22483-245",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22483-246",
       "title": "Cristiano Ronaldo Victory Poster",
       "prompt": "A high-energy, cinematic sports celebration poster featuring multiple depictions of {argument name=\"athlete\" default=\"Cristiano Ronaldo\"} wearing a vibrant {argument name=\"kit colors\" default=\"yellow and blue\"} football kit. At the top, a massive, detailed close-up profile of Ronaldo screaming in passionate victory dominates the frame, set against a backdrop of glowing stadium lights and a roaring crowd. Below him, an inverted glowing neon triangle frames several dynamic action poses: one standing confidently with arms crossed and a smile, another sprinting forward dribbling a football, one mid-air executing a volley kick, and another sliding on his knees in intense celebration. In the bottom right corner, he is shown kneeling with his eyes closed, reverently holding a gleaming golden trophy, while another identical large golden trophy sits prominently on a pedestal in the foreground. The entire composition has a dramatic, golden-hour glow, covered in sparkling golden dust and confetti, with the bold, metallic gold word \"{argument name=\"headline\" default=\"VICTORY\"}\" stretching across the very top.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22483-245-Cristiano-Ronaldo-Victory-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22483-246-Cristiano-Ronaldo-Victory-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33376-56",
-      "title": "Retro-Modern Neon Anime Painting",
-      "prompt": "A retro-modern anime digital painting of a chic young woman in a dramatic low-angle perspective. Tousled dark {argument name=\"hair style\" default=\"shoulder-length wavy\"} hair, straight wispy micro-bangs, silver hoop earrings, subtle warm makeup, looking down toward the camera with a calm, aloof gaze. Wearing a {argument name=\"outfit\" default=\"loose, baggy black oversized turtleneck\"} with draped sleeves tucked into high-waisted black casual trousers, hands in pockets. Atmospheric {argument name=\"lighting color\" default=\"neon split-lighting\"}, warm pink rim light contrasting against deep purple and midnight-blue ambient shadows, clean graphic vector edges, cel-shaded anime style, smooth cobalt blue to hot pink gradient backdrop, synthwave color palette, cinematic lighting, masterpiece.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33480-56",
+      "title": "Black and White Chiaroscuro Portrait",
+      "prompt": "Portrait of a woman with {argument name=\"hair style\" default=\"long, wavy hair\"}, looking up and to the side. {argument name=\"color scheme\" default=\"Black and white\"} with strong chiaroscuro accentuating facial features. Dramatic lighting, focused on the face, with a dark, blurred background. The expression is {argument name=\"expression\" default=\"pensive\"}, with the mouth slightly open. A high-resolution, fashion aesthetic with fine detail.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33376-56-Retro-Modern-Neon-Anime-Painting.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33480-56-Black-and-White-Chiaroscuro-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33657-90",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33657-93",
       "title": "Minimalist Oversized Suit Editorial Portrait",
       "prompt": "Use facial feature of attached photo. A poised woman captured in a minimalist indoor studio with soft beige lighting and a clean, neutral background. She is dressed in a deep rust-colored oversized suit with structured shoulders and wide-leg trousers made from a smooth, matte fabric that drapes naturally with subtle folds. The blazer is tailored yet loose, worn open at the front for a confident aesthetic. Her pose is dynamic, one leg bent and resting on a sleek chrome and black leather chair, with her body leaning slightly forward, conveying strength and elegance. Her hair is styled in a sleek, tight ponytail cascading smoothly down her back, adding definition to her refined facial features. Her makeup is balanced, featuring soft matte skin, contoured cheekbones, deep beige lipstick, and dramatic eyeliner that highlights her almond-shaped eyes. She wears sculptural silver statement earrings that catch the studio light and subtly accent her profile. The lighting setup emphasizes soft, diffused highlights on her face, suit, and the chrome elements of the chair, creating a refined and modern editorial atmosphere. The background is plain and evenly illuminated, ensuring full focus on the subject’s posture and styling. Scale Ratio: 1:1.35 Camera Angle: Eye-level, medium-full shot with the subject slightly off-center, straight-on composition Lens: 85mm prime lens Aperture: f/2.8 for moderate depth of field and soft background separation ISO: 200 Shutter Speed: 1/160 sec White Balance: 5000K (neutral daylight tone) Lighting Setup: One soft key light from front-left at 45°, fill light from right for smooth shadow balance, subtle rim light behind for depth Focus: Sharp focus on the subject’s face and upper body, gradual falloff across the lower frame Color Tone: Warm-neutral palette with deep rust tones and soft beige highlights Environment: Indoor minimalist studio with smooth beige backdrop and polished chrome furniture.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33657-90-Minimalist-Oversized-Suit-Editorial-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33657-93-Minimalist-Oversized-Suit-Editorial-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32662-127",
-      "title": "Nendoroid Style Manga Diorama",
-      "prompt": "1. Semantic Inference Engine Input A is a {argument name=\"character\" default=\"Manga/Anime Character or Comic Book Hero\"}. Deconstruct the character to generate 3 Action Assets : The Power (The Effect): Identify the signature attack. (e.g., Fireball, Web-Slinging, Psychic Blast, Lightning). The Sound (The Onomatopoeia): Identify the comic book sound effect text. (e.g., \"BOOM!\", \"SMASH!\", \"THWIP!\", \"KABOOM!\"). The Color (The Aura): Identify the primary energy color. (e.g., Orange, Red, Purple, Green). 2. Container (The Display Stand): Goal: \"Nendoroid\" Style Diorama Photography. The Stage: A simple L-Shaped Display Base (Vertical Back wall + Horizontal Floor). The Backdrop: The vertical wall is covered in a collage of Black & White Manga Panels or Comic Strips, creating a chaotic, ink-heavy background. 3. The Figure (The Chibi Hero): The Style: Chibi / Super-Deformed (SD). Large head, small body, big expressive eyes. The Pose: Dynamic, mid-air action pose (punching towards the camera or casting a spell). The Material: Smooth, matte PVC or Vinyl Plastic (collectible toy aesthetic). 4. The Visual FX (The 2.5D Impact): The Text: The \"Sound\" (Step 1) is rendered as large, jagged, colorful 3D Text Plates (Orange/Red with black outlines) floating in the air around the character. The Debris: 3D shards of rock, glass, or torn paper fly outward from the center, simulating an explosion. The Energy: Translucent, colored plastic parts (representing the \"Power\") swirl around the figure's hands or feet. 5. Lighting & Atmosphere: Lighting: Bright Studio Key Light. Even, shadowless illumination typical of toy photography. Vibe: Energetic, playful, and explosive. Output: ONE image, 1:1 Aspect Ratio, 3D Render, \"Anime Figure\" aesthetic, High Saturation.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32749-126",
+      "title": "Gal Gadot Volcanic Portrait",
+      "prompt": "{ \"vibe_title_en\": \"Ash and Ecstasy\", \"master_prompt\": \"A hyper-realistic, 90-degree top-down architectural photograph of The Protagonist lying completely flat on a bed of heavily textured, cooling black volcanic coals with faint, glowing red embers buried deep within the cracks. Directly above the crown of the subject's head rests a singular, impossibly pristine, oversized bright red apple, untouched by the extreme heat, serving as a surreal focal point. The Protagonist is in a state of euphoric trance—chin lifted slightly to expose the neck, eyes gently closed in pure passionate release. A subtle thermal updraft acts like a gentle wind, causing dark strands of hair to fan out and float dynamically across the coarse, jagged charcoal surface. The subject wears a high-necked, intricately pleated matte-black avant-garde garment that blends seamlessly into the dark, charred surroundings. Shot on Hasselblad H6D-100c with an HC 100mm f/2.2 lens to capture microscopic details: individual skin pores, the powdery ash on the rocks, and the waxy, reflective sheen of the red fruit. Lighting is a moody, cinematic blend—a soft, ethereal overhead fill (flat but moody diffusion) contrasted by intense, warm, practical under-glow radiating from the heat of the coals, creating localized heat haze and subtle bokeh near the edges of the frame. Kodak Portra 400 film stock, rich crushed shadows, authentic cinematic grain, highly tactile and physically grounded surrealism. NO NEON.\", \"meta\": { \"intent\": \"Photographic Surrealism and Editorial Conceptual Portraiture\", \"priorities\": \"Extreme textural contrast, top-down symmetry, conveying a euphoric trance state, micro-detail retention\", \"device_profile\": \"High-Resolution Editorial Display\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Symmetrical Top-Down Center Alignment\", \"layout\": \"Subject centralized along the vertical axis, with the red fruit acting as a structural anchor directly above the head\", \"camera_angle\": \"Strictly 90-degree top-down (Plan View)\", \"tilt_roll_degrees\": \"0 degrees\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless, striking, ethereal features\", \"face\": \"Symmetrical, flawless skin texture with visible pores, chin tilted up, deeply relaxed musculature\", \"hair\": \"Dark, fine strands blowing dynamically outward as if caught in a thermal updraft, splayed against the black rocks\", \"body\": \"Supine, fully relaxed yet possessing an internal narrative tension of release\", \"expression\": \"The Ecstatic Dreamer: eyes closed in pleasure, a subtle breath escaping parted lips, euphoric trance\", \"pose\": \"Lying completely flat, perfectly aligned with the camera's central axis, head tilted back against the ground\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"High-necked, intricately pleated avant-garde tunic\", \"material\": \"Matte-black raw silk and heavy crepe\", \"color\": \"Pitch Black\", \"fit\": \"Flowing, pooled heavily around the shoulders and neck, merging with the ground\" } ], \"accessories\": [ { \"item\": \"Oversized, flawless whole apple resting on the coals\", \"color\": \"Vibrant Crimson Red\", \"material\": \"Organic waxy skin with high specular reflection\", \"brand_style\": \"Surrealist prop\" } ] }, \"environment\": { \"setting\": \"A barren, claustrophobic expanse of scorched earth and cooling volcanic basalt\", \"surfaces\": \"Highly textured jagged black rocks, powdery grey ash, smooth glowing human skin\", \"depth\": \"Flattened depth of field due to the plan view, isolated by the sudden drop into shadow\", \"atmosphere\": \"Warm, hazy, physically intense, thick with unseen heat\", \"lens_interaction\": \"Subtle optical distortion and heat haze rippling around the red embers\" }, \"lighting\": { \"key\": \"Soft, ethereal, moody overhead diffusion mimicking an overcast twilight sky\", \"fill\": \"Ambient bounce from the dark surfaces, highly controlled to maintain deep shadows\", \"rim\": \"Warm, fiery orange and red under-lighting radiating upward from the cracks in the coal bed\", \"shadows\": \"Deep, rich, high-contrast chiaroscuro, absorbing the black garment entirely\", \"color_temperature\": \"Split: 5600K cool overhead flat light against 2500K intense warm ember glow\", \"sensor_flare\": \"None, pristine contrast\" }, \"camera\": { \"lens_type\": \"Medium Format Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.8\", \"focus\": \"Tack-sharp on the subject's eyelashes, skin pores, and the surface of the apple\", \"sensor_format\": \"Medium Format Digital (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Zero distortion, pure orthographic projection feel\" }, \"post_processing\": { \"color\": \"Deeply saturated, isolated reds against monochromatic charcoals and warm, lifelike skin tones\", \"tonality\": \"High-end editorial, crushed blacks with meticulously retained micro-contrast in the highlights\", \"texture\": \"Hyper-detailed analog feel, authentic Kodak Portra 400 film grain in the shadows\", \"digital_sharpening\": \"None, entirely reliant on organic optical lens sharpness\", \"chromatic_aberration\": \"Virtually zero, pristine edge-to-edge optical quality\" }, \"negative_specifications\": [ \"Neon lights\", \"Cyberpunk aesthetics\", \"Cityscapes\", \"Rooftops\", \"Coffee shops\", \"Minimalist offices\", \"Plastic or airbrushed skin\", \"Cartoonish surrealism\", \"CGI feel\", \"Direct eye contact\", \"Smiling\", \"Cluttered background\" ] }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32662-127-Nendoroid-Style-Manga-Diorama.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32749-126-Gal-Gadot-Volcanic-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22463-246",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22463-247",
       "title": "1970s Psychedelic Cat UFO Abduction",
       "prompt": "A vintage-style illustration depicts a surreal scene of a {argument name=\"animal\" default=\"cat\"} being abducted by a {argument name=\"spacecraft\" default=\"UFO\"}. The UFO, a classic silver disc with a dome, hovers in the sky, emitting a bright pink and yellow beam of light. A tabby cat stands in the beam, its paws outstretched as if in surprise or surrender. The background is a vibrant, psychedelic landscape with lush green trees and purple foliage, set against a sky filled with swirling pink and blue clouds and radiating yellow sunbeams. The overall aesthetic is reminiscent of 1970s psychedelic art.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22463-246-1970s-Psychedelic-Cat-UFO-Abduction.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22463-247-1970s-Psychedelic-Cat-UFO-Abduction.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33382-57",
-      "title": "Detailed Maki Zenin Anime Portrait",
-      "prompt": "masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Jujutsu Kaisen, close-up face shot from slightly low angle looking upward, beautiful young woman with fair smooth skin, soft pink blush on cheeks and nose, glossy plump lips with subtle pink gloss, sharp defined jawline, delicate features, long black hair with soft brown highlights, straight bangs covering forehead, hair parted slightly, two small high buns or half-up style with loose strands framing the face, silky shiny hair texture with individual strands visible, piercing bright cyan-blue eyes with detailed irises and catchlights, looking directly at viewer with calm intense expression, slightly narrowed eyes, long dark eyelashes, thin silver rimless glasses resting on the bridge of the nose, glowing neon purple-blue light reflections and soft wavy light trails across both lenses creating a cybernetic or magical effect, soft lens flare and light bloom on the glasses, wearing a black lace choker with delicate ruffled edges, black top with white collar or lace trim visible at the neckline, subtle gothic or elegant details, soft volumetric lighting, cool purple and blue ambient light from the left, warm pink rim light on the right side of the face, gentle subsurface scattering on skin, cinematic soft focus background with abstract purple and white light streaks and bokeh, dreamy ethereal atmosphere, highly detailed face, perfect anatomy, sharp focus on eyes and glasses, intricate hair strands, realistic skin texture mixed with anime style, vibrant yet soft color palette, 8k, ultra high resolution, ar 9:16, 4K, anime style, illustration, digital painting, soft shading, cel shading mixed with realistic lighting, negative prompt: blurry, low quality, deformed eyes, extra fingers, bad anatomy, text, watermark, oversaturated, ugly, duplicate",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33476-57",
+      "title": "Sketch-Style Portrait Illustration",
+      "prompt": "a captivating digital illustration of a young woman with a {argument name=\"skin tone\" default=\"sun-kissed complexion and prominent freckles scattered across her nose and cheeks\"}. she has {argument name=\"eyes and expression\" default=\"warm brown eyes and a charming smile\"}. her voluminous, textured brown hair is casually styled in a messy, swept-up bun, with soft, face-framing strands catching the light. she is wearing a {argument name=\"outfit\" default=\"light-blue and white layered top, potentially a v-neck shirt or tunic\"}, with visible sketch-like brushstrokes. a thin gold chain necklace with a subtle pendant is visible around her neck, and she wears a single gold hoop earring. the background is a simple, neutral light grey, allowing the subject to stand out. the art style is a blend of painting and dynamic sketching, with clear lines and rich, warm tones.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33382-57-Detailed-Maki-Zenin-Anime-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33476-57-Sketch-Style-Portrait-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33559-92",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33559-95",
       "title": "Absurd Sans Serif Meme",
       "prompt": "absurd meme with the caption: {argument name=\"caption\" default=\"sans serif\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33559-92-Absurd-Sans-Serif-Meme.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33559-95-Absurd-Sans-Serif-Meme.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32582-134",
-      "title": "Premium Beverage Advertising Photography",
-      "prompt": "Create one single photorealistic premium advertising photograph for the fictional beverage {argument name=\"beverage name\" default=\"ENFLAMMER\"}. Use all attached references",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32662-128",
+      "title": "Nendoroid Style Manga Diorama",
+      "prompt": "1. Semantic Inference Engine Input A is a {argument name=\"character\" default=\"Manga/Anime Character or Comic Book Hero\"}. Deconstruct the character to generate 3 Action Assets : The Power (The Effect): Identify the signature attack. (e.g., Fireball, Web-Slinging, Psychic Blast, Lightning). The Sound (The Onomatopoeia): Identify the comic book sound effect text. (e.g., \"BOOM!\", \"SMASH!\", \"THWIP!\", \"KABOOM!\"). The Color (The Aura): Identify the primary energy color. (e.g., Orange, Red, Purple, Green). 2. Container (The Display Stand): Goal: \"Nendoroid\" Style Diorama Photography. The Stage: A simple L-Shaped Display Base (Vertical Back wall + Horizontal Floor). The Backdrop: The vertical wall is covered in a collage of Black & White Manga Panels or Comic Strips, creating a chaotic, ink-heavy background. 3. The Figure (The Chibi Hero): The Style: Chibi / Super-Deformed (SD). Large head, small body, big expressive eyes. The Pose: Dynamic, mid-air action pose (punching towards the camera or casting a spell). The Material: Smooth, matte PVC or Vinyl Plastic (collectible toy aesthetic). 4. The Visual FX (The 2.5D Impact): The Text: The \"Sound\" (Step 1) is rendered as large, jagged, colorful 3D Text Plates (Orange/Red with black outlines) floating in the air around the character. The Debris: 3D shards of rock, glass, or torn paper fly outward from the center, simulating an explosion. The Energy: Translucent, colored plastic parts (representing the \"Power\") swirl around the figure's hands or feet. 5. Lighting & Atmosphere: Lighting: Bright Studio Key Light. Even, shadowless illumination typical of toy photography. Vibe: Energetic, playful, and explosive. Output: ONE image, 1:1 Aspect Ratio, 3D Render, \"Anime Figure\" aesthetic, High Saturation.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32582-134-Premium-Beverage-Advertising-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32662-128-Nendoroid-Style-Manga-Diorama.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22250-247",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22250-248",
       "title": "Futurist Retro Vehicle Illustration",
       "prompt": "Futurist retro-serigraph illustration of a {argument name=\"brand\" default=\"[BRAND]\"}-inspired {argument name=\"vehicle\" default=\"[VEHICLE]\"} concept speeding through giant flowing graphic curves and abstract high-speed road forms, dynamic 3/4 perspective, aerodynamic bodywork, aggressive stance and retro motorsport aesthetic, stylized motion trails integrated into the environment, sensation of high speed without realistic motion blur. Minimal but dramatic composition made from layered curved bands and negative space. Vintage modernist poster aesthetic, smooth airbrushed gradients, crisp vector-like surfaces, subtle print grain, soft paper texture. Color palette restricted to {argument name=\"color palette\" default=\"[COLOR 1], [COLOR 2], [COLOR 3] and [COLOR 4]\"} only. Elegant screenprint finish, vertical composition 4:5",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22250-247-Futurist-Retro-Vehicle-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22250-248-Futurist-Retro-Vehicle-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33387-58",
-      "title": "Anime Fine Art Moonlight Mountains",
-      "prompt": "Digital painting of a stunning young {argument name=\"subject\" default=\"East Asian woman\"} with voluminous, wavy black hair windswept around her face, looking directly forward with a calm, ethereal expression. She wears a modern traditional {argument name=\"outfit\" default=\"white robe dress\"} with loose three-quarter sleeves and a deep crossover neckline, tightly cinched at the waist by a wide black sash tied into a ribbon belt. In the background, a large luminous full moon forms a halo behind her head, set against a dramatic backdrop of {argument name=\"background\" default=\"rugged, snow-dusted mountains\"}, autumn-colored trees with red foliage, and drifting clouds. Elegant anime-fine-art hybrid style, cinematic soft lighting, dynamic wind motion, highly detailed fabric folds, masterpiece quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33392-58",
+      "title": "Realistic Slavic Woman Studio Portrait",
+      "prompt": "A portrait of a beautiful {argument name=\"ethnicity\" default=\"Slavic/russian\"} woman with caucasian skin, naturally luminous with a soft sheen, visible pores, fine texture, very subtle freckles and NO faint hyperpigmentation around the eyes and lips, realistic skin variation across face, neck, shoulders, and chest. She has an oblong face shape, high cheekbones, a smooth yet defined jawline, a straight medium-width nose with gentle highlights, full well- heart shaped pink plum lips with natural lines, and large almond-shaped {argument name=\"eye color\" default=\"whitish grey\"} eyes framed by long natural lashes and neatly groomed sharp arched full brows. Her hair is styled in natural, detailed long-length glossy and {argument name=\"hair color\" default=\"black\"} thick hair with clean but slightly imperfect parts, and brushed hair edges. and flowing over her shoulders. Slim–curvy build, elegant neck, defined collarbones, relaxed confident posture. Studio photography, flash lit, plain white background, 50mm lens, shallow depth of field, ultra high-realism, 8K, sharp focus capturing every skin pore, texture, and natural imperfection.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33387-58-Anime-Fine-Art-Moonlight-Mountains.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33392-58-Realistic-Slavic-Woman-Studio-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33563-93",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33563-96",
       "title": "Cinematic Rainy Night Car Portrait",
       "prompt": "{ \"title\": \"Cinematic Rainy Night Portrait\", \"description\": \"An emotional cinematic portrait captured through a fogged and rain-covered car window during a rainy night in a neon-lit city. A beautiful young woman sits alone in the backseat, quietly looking outside with a distant and melancholic expression. She gently draws a small heart on the misted glass while colorful city lights blur behind the raindrops, creating a feeling of loneliness, nostalgia, and quiet reflection.\", \"prompt\": \"A cinematic rainy-night portrait photographed through a fogged and rain-covered car window. A beautiful young woman sits alone in the backseat of a car during heavy rain, gazing outside with a distant, melancholic expression. She gently draws a tiny heart on the misted glass with her finger. Raindrops stream down the window, distorting colorful city lights and neon signs in the background. Soft blue and warm orange neon reflections illuminate her face and the wet glass. Emotional solitude, quiet sadness, cinematic storytelling, realistic skin texture, visible pores, natural makeup, slightly messy hair, expressive eyes, shallow depth of field, dreamy bokeh, soft focus falloff, realistic reflections, atmospheric lighting, analog film grain, cinematic color grading, photorealistic, masterpiece photography, ultra-detailed, 85mm lens, f/1.4, award-winning portrait, emotional visual poetry, 8k.\", \"style\": [ \"cinematic photography\", \"photorealistic\", \"analog film aesthetic\", \"emotional visual storytelling\", \"neo-noir atmosphere\" ], \"negative_prompt\": \"anime, cartoon, CGI, 3D render, low quality, blurry face, extra fingers, bad anatomy, unrealistic skin, oversaturated colors, watermark, text, logo, duplicate person, distorted hands, plastic skin\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33563-93-Cinematic-Rainy-Night-Car-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33563-96-Cinematic-Rainy-Night-Car-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32509-135",
-      "title": "Photorealistic Tesla Autonomous Prototype",
-      "prompt": "Create a photorealistic prototype {argument name=\"brand\" default=\"Tesla\"} designed exclusively for {argument name=\"occupancy\" default=\"single-occupancy\"} autonomous driving. Extremely compact one-person cabin, no steering wheel or pedals, centered reclining driver seat, {argument name=\"feature\" default=\"futuristic glass canopy\"}, minimalist aerodynamic body, enclosed wheels, and subtle Tesla design language. Make it look like a real experimental concept vehicle photographed at a Tesla engineering facility, not sci-fi fantasy. Ultra-realistic materials, believable engineering, cinematic automotive photography.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32582-135",
+      "title": "Premium Beverage Advertising Photography",
+      "prompt": "Create one single photorealistic premium advertising photograph for the fictional beverage {argument name=\"beverage name\" default=\"ENFLAMMER\"}. Use all attached references",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32509-135-Photorealistic-Tesla-Autonomous-Prototype.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32582-135-Premium-Beverage-Advertising-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22265-249",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22265-250",
       "title": "Charcoal and Pencil Couple Drawings",
       "prompt": "A series of black-and-white, highly detailed {argument name=\"style\" default=\"charcoal and pencil\"} portrait drawings capturing intimate, affectionate moments between three different couples. ​The first portrait shows a young couple smiling warmly; a man with light, wavy hair and a slight beard wraps his arm around a woman with her hair pulled up into a loose bun as she leans happily into his chest. ​The second portrait features a close-up, high-contrast ink and charcoal drawing of a smiling man and woman looking toward the viewer, highlighted by dramatic, bright lighting cast across their faces against a dark, shadowed background. ​The third portrait depicts a deeply tender moment between a couple with {argument name=\"hair type\" default=\"dark, wavy hair\"}, shown with their eyes softly closed as the man gently presses his forehead against the woman's hair while she rests serenely in his embrace, all rendered with rich texture and deep, moody shading.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22265-249-Charcoal-and-Pencil-Couple-Drawings.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22265-250-Charcoal-and-Pencil-Couple-Drawings.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -932,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33282-59",
-      "title": "Cinematic Thoughtful Man Portrait",
-      "prompt": "Pearls in the light. Mind somewhere else [A cinematic close-up film portrait of a {argument name=\"subject\" default=\"young man\"} sitting near a bright window in a cozy study room. He has textured brownish hair, wearing a loose-fit, relaxed {argument name=\"outfit\" default=\"white linen button-down shirt\"}. He is looking thoughtfully off-camera with a gentle, serene expression. Golden hour natural sunlight streams directly from the side window, creating warm highlights on his face and sharp, soft shadows across his shirt fabric.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-33376-59",
+      "title": "Retro-Modern Neon Anime Painting",
+      "prompt": "A retro-modern anime digital painting of a chic young woman in a dramatic low-angle perspective. Tousled dark {argument name=\"hair style\" default=\"shoulder-length wavy\"} hair, straight wispy micro-bangs, silver hoop earrings, subtle warm makeup, looking down toward the camera with a calm, aloof gaze. Wearing a {argument name=\"outfit\" default=\"loose, baggy black oversized turtleneck\"} with draped sleeves tucked into high-waisted black casual trousers, hands in pockets. Atmospheric {argument name=\"lighting color\" default=\"neon split-lighting\"}, warm pink rim light contrasting against deep purple and midnight-blue ambient shadows, clean graphic vector edges, cel-shaded anime style, smooth cobalt blue to hot pink gradient backdrop, synthwave color palette, cinematic lighting, masterpiece.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33282-59-Cinematic-Thoughtful-Man-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-33376-59-Retro-Modern-Neon-Anime-Painting.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -947,6 +928,25 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33566-98",
+      "title": "Family Dinner Cinematic Contact Sheet",
+      "prompt": "{ \"title\": \"Warm Family Dinner Cinematic Contact Sheet\", \"format\": \"3x3 contact sheet collage\", \"subject\": \"{argument name=\"subject\" default=\"A young woman with natural wavy dark hair, wearing a loose brown linen button-up shirt, sitting at a wooden dining table during a cozy family dinner\"}\", \"environment\": \"{argument name=\"environment\" default=\"Traditional family dining room, vintage wallpaper, wooden china cabinet filled with plates and glassware, warm tungsten household lighting, realistic home atmosphere\"}\", \"composition\": { \"grid\": \"3x3 storyboard frames\", \"shots\": [ \"medium shot talking with expressive hands\", \"close-up laughing naturally\", \"side view serving lasagna from casserole dish\", \"close-up listening with chin resting on hand\", \"medium shot eating dinner while looking down\", \"close-up tasting food with playful expression\", \"medium shot telling an animated story\", \"close-up smiling softly while holding a fork\", \"wide shot alone at dining table after conversation\" ] }, \"camera\": { \"lens\": \"50mm and 85mm prime lenses\", \"depth_of_field\": \"shallow\", \"focus\": \"sharp focus on subject, creamy background bokeh\", \"framing\": \"cinematic coverage from multiple angles\" }, \"lighting\": { \"type\": \"warm practical household lighting\", \"color_temperature\": \"3200K\", \"mood\": \"cozy, intimate, nostalgic\", \"shadows\": \"soft natural shadows\" }, \"style\": { \"photorealistic\": true, \"cinematic\": true, \"natural_expressions\": true, \"slice_of_life\": true, \"authentic_human_moments\": true, \"award_winning_film_still\": true }, \"color_grading\": { \"palette\": \"{argument name=\"palette\" default=\"warm amber, brown, cream, beige\"}\", \"contrast\": \"soft cinematic contrast\", \"look\": \"Kodak Vision3 film emulation\" }, \"details\": [ \"genuine laughter\", \"natural eye contact\", \"subtle facial expressions\", \"realistic skin texture\", \"wooden dining furniture\", \"home-cooked meal\", \"candid documentary photography\", \"family gathering atmosphere\" ], \"quality\": { \"resolution\": \"8K\", \"detail\": \"ultra detailed\", \"realism\": \"hyper realistic\" }, \"negative_prompt\": [ \"anime\", \"cartoon\", \"cgi\", \"plastic skin\", \"overprocessed face\", \"low resolution\", \"extra fingers\", \"distorted anatomy\", \"text\", \"watermark\", \"logo\" ] }",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33566-98-Family-Dinner-Cinematic-Contact-Sheet.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
       "license": "upstream",
       "createdAt": null
     }
