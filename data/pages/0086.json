@@ -1,12 +1,31 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32193-225",
-      "title": "Identity-Preserving Tulle Dress Portrait",
-      "prompt": "Create an ultra-realistic portrait using the reference image as the identity source. Preserve the subject's exact identity with absolute fidelity, including facial features, bone structure, facial proportions, skin tone, facial asymmetry, and unique characteristics. Do not beautify, reshape, retouch, age, rejuvenate, or modify any facial feature. Maintain authentic facial geometry, natural likeness, and complete identity consistency throughout the entire image. Subject & Pose: Shoulders relaxed and bare, body angled slightly forward, head tilted downward and to the right. Expression: Soft, melancholic, serene, gazing downward. Wardrobe & Styling: Voluminous {argument name=\"dress color\" default=\"pale grey/icy-blue\"} tulle dress. Dangling transparent crystal floral earrings. Large {argument name=\"bouquet theme\" default=\"winter-themed\"} bouquet (white blooms, silver foliage). Hair & Makeup: Messy dark brown updo with loose, wispy tendrils. Fair skin with soft pink blush, glossed pink lips, and subtle peach/pink eye contour. Setting: {argument name=\"background\" default=\"Abstract, mottled grey-white textured studio wall\"}. Lighting: Diffused, cool-toned window light originating from the right, casting a soft, ethereal glow and gentle shadows on the left. Camera & Optical: 85mm portrait lens, f/1.4 aperture, shallow depth of field focusing on the face and earrings. Realism Enhancers: Cinematic lighting, 32k resolution, subsurface scattering for skin, highly detailed fabric texture, volumetric glow.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-31337-149",
+      "title": "Cinematic Photographer Studio Portrait",
+      "prompt": "A medium close-up cinematic portrait of a {argument name=\"subject\" default=\"young handsome man\"} with {argument name=\"glasses\" default=\"round dark glasses\"} and messy dark hair with a neatly trimmed beard, holding a {argument name=\"camera\" default=\"black DSLR camera\"} with both hands. He wears an open black button-down shirt over a neutral grey-beige t-shirt, standing in a dark, atmospheric photography studio. Soft, natural side-lighting enters from a window on the right, illuminating his face and camera with gentle highlights and deep shadows. In the softly blurred background, studio softboxes and camera equipment add depth. Shot on a 50mm lens, shallow depth of field, muted color palette, high editorial fashion portrait quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32193-225-Identity-Preserving-Tulle-Dress-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-31337-149-Cinematic-Photographer-Studio-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32188-221",
+      "title": "Classic Man at Azadi Square",
+      "prompt": "a man stand {argument name=\"location\" default=\"azadi square tehran\"} in {argument name=\"era\" default=\"70s\"} like a {argument name=\"style\" default=\"real and classic man\"}",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32188-221-Classic-Man-at-Azadi-Square.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26568-423",
-      "title": "3D Footballer Wall Sculpture Poster",
-      "prompt": "Professional luxury football poster, 4:5 ratio. Entire frame filled with a premium luxury paper textured wall. Large number \"{argument name=\"jersey number\" default=\"[Player Jersey Number]\"}\" precisely carved in the wall with visible depth and realistic inner shadows. Inside the number: colorful balloons, golden confetti, subtle white flowers, elegant celebration arrangement, premium styling. {argument name=\"player name\" default=\"[Name Of Player]\"} with preserved reference facial features, wearing {argument name=\"national team\" default=\"[National Team Name]\"} national team jersey number [Player Jersey Number], celebrating naturally with football. Face, shoulder, one hand and one foot extend outside the number creating a realistic 3D effect. Dramatic cinematic golden sunlight from one side, sharp rim light, photorealistic skin, premium studio photography, ultra realistic, sharp focus. Typography on wall: [Name Of Player], [National Team Name], [Your Caption Here]. Clean minimalist layout, luxury sports magazine cover aesthetic, high end art direction, realistic shadows, natural colors, no fake lighting, no AI artifacts.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25975-426",
+      "title": "Luxury Lemon Skincare Product Photography",
+      "prompt": "Elegant {argument name=\"bottle color\" default=\"yellow\"} skincare bottle with crystal pump, surrounded by sliced {argument name=\"ingredient\" default=\"lemons\"}, sparkling water droplets and transparent bubbles, minimal luxury background with {argument name=\"lighting\" default=\"soft sunlight rays\"}, glossy podium, fresh summer mood, hyper realistic beauty advertising, premium commercial photography, 8K.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26568-423-3D-Footballer-Wall-Sculpture-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25975-426-Luxury-Lemon-Skincare-Product-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32100-226",
-      "title": "Solar Eclipse Romantic Silhouette",
-      "prompt": "A {argument name=\"subject\" default=\"romantic digital art scene featuring a couple in silhouette\"} standing close together on a {argument name=\"location\" default=\"rocky shoreline at twilight\"}, their bodies forming a heart-shaped space between them that glows with a bright, warm light. In the background, a small, cozy cabin with glowing windows sits atop a rocky island surrounded by dark, reflective water. Above the island, a massive, golden {argument name=\"event\" default=\"solar eclipse\"} dominates the night sky, casting a radiant, ethereal ring of light and shimmering golden reflections across the calm lake surface. The atmosphere is serene, magical, and deeply intimate, with a rich color palette of deep blues, warm ambers, and glowing golden highlights.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32196-222",
+      "title": "Traditional Southeast Asian Portrait",
+      "prompt": "ar 9:16 High A beautiful {argument name=\"subject\" default=\"young Southeast Asian woman (Indonesian features)\"} sitting gracefully on a {argument name=\"furniture\" default=\"soft cream-colored bouclé sofa\"}, looking directly at the camera with a soft, elegant smile and gentle eye contact. She has fair skin with soft pink blush on her cheeks, defined winged eyeliner, long lashes, and glossy rose-pink lips. Her dark black hair is styled in a neat, polished updo with a braided crown and a few delicate loose strands framing her face. She is wearing a {argument name=\"clothing\" default=\"delicate light powder-blue kebaya\"} made of intricate floral lace with sheer long sleeves, pearl buttons running down the front, and a fitted silhouette. The kebaya is paired with a traditional dark batik kain with intricate gold and cream geometric patterns. Layered jewelry includes a strand of white pearls, multiple delicate gold necklaces with small pendants, pearl stud earrings, gold rings, and a thin gold bracelet. A light blue quilted shoulder bag with a gold clasp rests on her left side. Her right hand is raised near her face in a soft, elegant pose with one finger lightly touching near her cheek, while her left arm rests naturally. Soft natural lighting highlights her features and the lace texture. Background features vertical beige-and-cream striped wallpaper and a large green leafy plant in a white ceramic pot on a gold stand to the left. Elegant, refined, traditional-modern fusion style, high detail, photorealistic, soft glam makeup, studio portrait quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32100-226-Solar-Eclipse-Romantic-Silhouette.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32196-222-Traditional-Southeast-Asian-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25975-424",
-      "title": "Luxury Lemon Skincare Product Photography",
-      "prompt": "Elegant {argument name=\"bottle color\" default=\"yellow\"} skincare bottle with crystal pump, surrounded by sliced {argument name=\"ingredient\" default=\"lemons\"}, sparkling water droplets and transparent bubbles, minimal luxury background with {argument name=\"lighting\" default=\"soft sunlight rays\"}, glossy podium, fresh summer mood, hyper realistic beauty advertising, premium commercial photography, 8K.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25871-430",
+      "title": "Vacuum Sealed Toy Photography",
+      "prompt": "a rectangular shaped vacuum sealed transparent plastic bag, studio product shot, filled tightly with {argument name=\"object\" default=\"soft squishy neoprene kitten-shaped toys\"}, on a {argument name=\"background\" default=\"solid black background\"}, some kitten toys clearly visible and pressed against the plastic while others are distorted and squished deeper inside the bag, subtle reflections and highlights on the plastic surface, high detail, sharp focus, dramatic softbox lighting emphasizing textures and depth",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25975-424-Luxury-Lemon-Skincare-Product-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25871-430-Vacuum-Sealed-Toy-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32103-228",
-      "title": "Luxury LED Architectural Portrait",
-      "prompt": "Use the uploaded reference image. Preserve exact identity. Create a {argument name=\"aesthetic\" default=\"luxury portrait\"} beside a {argument name=\"setting\" default=\"glowing vertical LED installation inside a dark architectural space\"}. The subject wears a {argument name=\"clothing\" default=\"fitted black suit with an open black shirt and tailored trousers\"}. Thin smoke creates soft diffusion around the light while rim lighting outlines the body. High-end fragrance campaign aesthetic, cinematic realism, deep blacks, elegant composition, luxury fashion editorial.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32199-223",
+      "title": "Koshien Baseball Broadcast Screen",
+      "prompt": "A screenshot of the 2026 Koshien high school baseball finals broadcast. High school baseball broadcast, with the score \"{argument name=\"score\" default=\"Bottom of the 8th, Chiben Wakayama 2-2 Kenadai Takasaki\"}\" in the corner, 2 outs, bases loaded, and inning display. Features the transparent overlays characteristic of NHK terrestrial broadcasting.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32103-228-Luxury-LED-Architectural-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32199-223-Koshien-Baseball-Broadcast-Screen.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25871-428",
-      "title": "Vacuum Sealed Toy Photography",
-      "prompt": "a rectangular shaped vacuum sealed transparent plastic bag, studio product shot, filled tightly with {argument name=\"object\" default=\"soft squishy neoprene kitten-shaped toys\"}, on a {argument name=\"background\" default=\"solid black background\"}, some kitten toys clearly visible and pressed against the plastic while others are distorted and squished deeper inside the bag, subtle reflections and highlights on the plastic surface, high detail, sharp focus, dramatic softbox lighting emphasizing textures and depth",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25750-434",
+      "title": "Urban Summer Streetwear Fashion Portrait",
+      "prompt": "Ultra-realistic street fashion portrait of a young woman with {argument name=\"hair color\" default=\"long straight copper-red hair\"} standing on a city sidewalk in front of a modern boutique storefront. She wears {argument name=\"summer outfit\" default=\"a black baseball cap, a fitted white ribbed tank top layered over a pastel mint-and-cream striped camisole, and relaxed striped summer shorts in soft pastel tones\"}. Holding a pair of blue-tinted sunglasses in both hands while carrying a {argument name=\"bag description\" default=\"cream-and-forest-green designer duffel bag\"}. Natural makeup, luminous skin, soft pink lips, and a calm confident expression. Contemporary lifestyle aesthetic, casual summer fashion, clean girl style, premium streetwear lookbook. Behind her is a stylish design store with large glass windows, warm interior lighting, minimalist home decor displays, clothing racks, and modern retail architecture. Soft natural daylight, realistic reflections on glass, authentic urban atmosphere, photorealistic skin texture, editorial fashion photography, premium lifestyle campaign, highly detailed, luxury shopping district aesthetic, 8K quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25871-428-Vacuum-Sealed-Toy-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25750-434-Urban-Summer-Streetwear-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32104-229",
-      "title": "Quicksilver Kinetic Fashion Editorial",
-      "prompt": "{ \"vibe_title_en\": \"Voyeuristic Rebel in a Quicksilver Sea\", \"master_prompt\": \"A voyeuristic glimpse of {argument name=\"subject\" default=\"The Protagonist\"} in a {argument name=\"environment\" default=\"surreal, high-density kinetic quicksilver archive\"}. Shot through heavy foreground occlusion of jagged, floating chrome debris and dripping liquid metal stalactites. The Protagonist wears a structural, organic silver gown resembling hardened mercury. Raw editorial look: perfect, sweaty skin with specular highlights, a challenging direct stare, and a slight smirk. Lighting is a harsh, direct ring-flash popping the facial features against the deep, ambient twilight and reflective chrome chaos. The environment is overwhelmingly busy, filled with layers of rippling liquid metal cascades, suspended mirrored shards, and dense, swirling metallic dust motes reflecting a sunset sky. Shot on {argument name=\"camera\" default=\"Hasselblad H6D-100c, 200mm f/2.8 telephoto lens\"}, Kodak Portra 800. Hyper-realistic, practical effects feel, authentic skin pores, intense depth of field compression, NO NEON.\", \"meta\": { \"intent\": \"Create a surreal, high-fashion editorial portrait using a voyeuristic, densely layered metallic environment.\", \"priorities\": \"Subject engagement via High-Gloss Rebel aesthetic, heavy environmental density, voyeuristic telephoto framing, and practical surrealism.\", \"device_profile\": \"Medium Format Digital Hasselblad H6D-100c\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Voyeuristic telephoto compression with heavy foreground occlusion framing the subject's face.\", \"layout\": \"Center-weighted subject surrounded by a chaotic, layered border of out-of-focus foreground metal.\", \"camera_angle\": \"Eye-level, distant observer peeking through dense metallic debris.\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist, a high-gloss rebel\", \"demographics\": \"Androgynous high-fashion archetype, 20s-30s\", \"face\": \"Symmetrical, dewy sweaty skin, perfect pores, specular highlights from direct flash\", \"hair\": \"Slicked back, wet-look, catching sharp metallic highlights\", \"body\": \"Strong posture, shoulders squared, wearing an avant-garde structural metallic garment\", \"expression\": \"Challenging direct stare, slight rebellious smirk\", \"pose\": \"Static but loaded with kinetic tension, staring straight through the chaotic foreground\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Structural sculptural gown\", \"material\": \"Liquid Chrome and Hardened Mercury\", \"color\": \"Iridescent Silver\", \"fit\": \"Avant-garde, rigid yet organically flowing\" } ], \"accessories\": [ { \"item\": \"Heavy biomechanical neck cuff\", \"color\": \"Polished Chrome\", \"material\": \"Metal\", \"brand_style\": \"High-end futuristic editorial\" } ] }, \"environment\": { \"setting\": \"Kinetic quicksilver archive, an overwhelming chaotic space o",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32105-228",
+      "title": "Summer Cottage Cherry Garden Portrait",
+      "prompt": "A cinematic, grainy close-up portrait of a {argument name=\"subject\" default=\"young woman\"}. She is standing in a summer cottage garden near trees laden with large red cherries. She holds a large enamel basin filled with red cherries against her hip with one hand, while the other hand holds a cherry-laden branch up to her mouth. She is wearing a {argument name=\"outfit\" default=\"form-fitting pink romper with thin straps and a small cherry print\"}. She wears a {argument name=\"accessory\" default=\"white lace headscarf\"}. Her very long, wavy hair is worn loose, with a few strands framing her face. Daylight with a moody, shadowed quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32104-229-Quicksilver-Kinetic-Fashion-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32105-228-Summer-Cottage-Cherry-Garden-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25750-432",
-      "title": "Urban Summer Streetwear Fashion Portrait",
-      "prompt": "Ultra-realistic street fashion portrait of a young woman with {argument name=\"hair color\" default=\"long straight copper-red hair\"} standing on a city sidewalk in front of a modern boutique storefront. She wears {argument name=\"summer outfit\" default=\"a black baseball cap, a fitted white ribbed tank top layered over a pastel mint-and-cream striped camisole, and relaxed striped summer shorts in soft pastel tones\"}. Holding a pair of blue-tinted sunglasses in both hands while carrying a {argument name=\"bag description\" default=\"cream-and-forest-green designer duffel bag\"}. Natural makeup, luminous skin, soft pink lips, and a calm confident expression. Contemporary lifestyle aesthetic, casual summer fashion, clean girl style, premium streetwear lookbook. Behind her is a stylish design store with large glass windows, warm interior lighting, minimalist home decor displays, clothing racks, and modern retail architecture. Soft natural daylight, realistic reflections on glass, authentic urban atmosphere, photorealistic skin texture, editorial fashion photography, premium lifestyle campaign, highly detailed, luxury shopping district aesthetic, 8K quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25743-435",
+      "title": "Steampunk Pastel Pink Portrait",
+      "prompt": "A meticulously detailed steampunk portrait of a {argument name=\"subject\" default=\"young woman\"} shown from the chest up, centered in a vertical composition. She has pale porcelain skin with subtle freckles, striking turquoise-blue eyes, and soft natural makeup. Her hair is a voluminous {argument name=\"hair color\" default=\"pastel pink\"} updo, loosely gathered into an intricate messy bun with wispy strands escaping around her face, creating a delicate yet rebellious appearance. She wears an elaborate brass and bronze mechanical headpiece fused with industrial engineering and Victorian aesthetics. The headgear features polished gears, rivets, miniature lenses, pressure valves, copper tubing, metallic spikes, and a large circular glowing optical device positioned above her forehead, emitting a cool cyan light. A smaller illuminated lens and precision-crafted mechanical components add complexity and realism. A delicate metallic heart-shaped ornament with filigree detailing decorates her cheek. Her outfit consists of a richly textured burgundy leather jacket with a dramatic raised collar, visible stitching, metal studs, buckles, straps, and layered steampunk machinery attached to the shoulder. Brass mechanisms, articulated joints, cables, and engraved metallic plates merge seamlessly with the garment. The lighting is cinematic and atmospheric, combining cool teal ambient illumination with warm copper highlights, emphasizing textures, depth, and reflective surfaces. The background is softly blurred, suggesting the interior of an advanced retro-futuristic airship or industrial laboratory with circular metallic structures and faint machinery silhouettes. Ultra-realistic rendering, extraordinary craftsmanship, razor-sharp focus on the face, shallow depth of field, highly detailed skin texture, premium materials, volumetric lighting, subtle particles floating in the air, masterpiece quality, dramatic mood, luxury steampunk fashion, photorealistic, 8K, HDR, flawless composition",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25750-432-Urban-Summer-Streetwear-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25743-435-Steampunk-Pastel-Pink-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32108-233",
-      "title": "Italian Neorealism Moped Portrait",
-      "prompt": "A young adult male exudes confident masculinity, positioned centrally and leaning slightly to his right at a 45-degree angle against a vintage {argument name=\"moped color\" default=\"navy blue\"} moped. He features dark, slicked-back hair catching subtle specular highlights from styling product, and his expression is fixed in a calm, closed-mouth neutral state, his gaze directed off-camera to the left from behind dark rectangular sunglasses. He is dressed in a {argument name=\"outfit top\" default=\"fitted light grey short-sleeve t-shirt\"} and dark brown high-waisted pleated trousers. His left hand is casually tucked into his trouser pocket, exposing only his wrist and forearm resting against his hip, while his right hand rests lightly on the moped left handlebar, his relaxed fingers draped gently over the grip to reveal silver rings. In the immediate foreground, the navy blue Piaggio moped features a chrome headlight casing. Behind him unfolds a medium-depth vintage European cobblestone street, framed asymmetrically to balance his visual weight against the left side of the scene. To the left in the midground, there is a dominant vintage dark carved wood window frame, while two worn dark wood chairs with woven rush seats sit stacked beneath it. To the right, a worn dark brown paneled wooden door features a circular brass knocker and silver handle, adjacent to a weathered off-white matte plaster wall with patchy warm grey undertones, faded peach borders, and minor dirt accumulation, bearing an aged black cast iron wall-mounted post box with a crest emblem, all grounded by a dark charcoal grey concrete and cobblestone floor. The atmosphere is quiet, moody, and sophisticated, bathed in soft, diffused natural lighting spilling from a single large overcast sky source above. This neutral-temperature, low-contrast lighting casts short, soft-edged shadows beneath his chin, under the moped chassis, and lightly along the textured wall, while leaving subtle specular highlights on his left shoulder and the moped chrome details. The desaturated, cool-toned color profile heavily emphasizes dark warm browns, off-whites, and charcoal contrasted against the cool navy blue. Shot straight-on as a medium editorial portrait drawing from Italian Neorealism cinema, captured with a 50mm lens at f/4.0, ISO 400, and a 1/250s shutter speed to maintain a tack-sharp subject alongside medium depth of field. The final image undergoes post-processing with a desaturated color grade pulling down greens and blues, a lifted black point, and a subtle film grain overlay to achieve a faded cinematic tonality, framed in a 4:5 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32102-229",
+      "title": "Stylized Donkey Face Painting",
+      "prompt": "A close-up, stylized painting of a donkey's face. The donkey is {argument name=\"donkey color\" default=\"gray\"} with large, expressive ears and dark, round eyes. Its snout is prominent and painted in shades of white and gray, with black nostrils. A single, stylized {argument name=\"flower color\" default=\"white\"} flower with a dark red center is held delicately in the donkey's mouth, its stem extending to the lower right. The overall style is whimsical and painterly, with visible brushstrokes.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32108-233-Italian-Neorealism-Moped-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32102-229-Stylized-Donkey-Face-Painting.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,16 +685,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25743-433",
-      "title": "Steampunk Pastel Pink Portrait",
-      "prompt": "A meticulously detailed steampunk portrait of a {argument name=\"subject\" default=\"young woman\"} shown from the chest up, centered in a vertical composition. She has pale porcelain skin with subtle freckles, striking turquoise-blue eyes, and soft natural makeup. Her hair is a voluminous {argument name=\"hair color\" default=\"pastel pink\"} updo, loosely gathered into an intricate messy bun with wispy strands escaping around her face, creating a delicate yet rebellious appearance. She wears an elaborate brass and bronze mechanical headpiece fused with industrial engineering and Victorian aesthetics. The headgear features polished gears, rivets, miniature lenses, pressure valves, copper tubing, metallic spikes, and a large circular glowing optical device positioned above her forehead, emitting a cool cyan light. A smaller illuminated lens and precision-crafted mechanical components add complexity and realism. A delicate metallic heart-shaped ornament with filigree detailing decorates her cheek. Her outfit consists of a richly textured burgundy leather jacket with a dramatic raised collar, visible stitching, metal studs, buckles, straps, and layered steampunk machinery attached to the shoulder. Brass mechanisms, articulated joints, cables, and engraved metallic plates merge seamlessly with the garment. The lighting is cinematic and atmospheric, combining cool teal ambient illumination with warm copper highlights, emphasizing textures, depth, and reflective surfaces. The background is softly blurred, suggesting the interior of an advanced retro-futuristic airship or industrial laboratory with circular metallic structures and faint machinery silhouettes. Ultra-realistic rendering, extraordinary craftsmanship, razor-sharp focus on the face, shallow depth of field, highly detailed skin texture, premium materials, volumetric lighting, subtle particles floating in the air, masterpiece quality, dramatic mood, luxury steampunk fashion, photorealistic, 8K, HDR, flawless composition",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25740-436",
+      "title": "Luxury Golden Tea Cup Mountain Stream",
+      "prompt": "An ultra-premium cinematic advertisement for {argument name=\"brand\" default=\"Nano Banana Pro\"}. A luxurious golden tea cup sits elegantly beneath a flowing river-fed water tap in a pristine mountain stream. Crystal-clear water pours into the cup in slow motion, creating mesmerizing splashes and sparkling droplets. The {argument name=\"logo\" default=\"Nano Banana Pro logo\"} is subtly engraved on the cup, glowing with a warm golden light. Surrounded by smooth river stones, lush greenery, and misty morning atmosphere. Dramatic cinematic lighting, volumetric sun rays, hyper-realistic water physics, macro details, luxury product-commercial style, shallow depth of field, 8K HDR, photorealistic textures, high-end brand campaign, slow-motion splash effects, reflections on polished metal, award-winning advertising photography, cinematic color grading, masterpiece quality, ultra-detailed.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25743-433-Steampunk-Pastel-Pink-Portrait.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25740-436-Luxury-Golden-Tea-Cup-Mountain-Stream.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Product Marketing"
       ],
       "author": "YouMind OpenLab",
@@ -761,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31986-236",
-      "title": "Mountain Viewpoint Athletic Portrait",
-      "prompt": "A {argument name=\"subject\" default=\"young woman with fair skin and naturally soft facial features\"}, standing on a scenic elevated viewing platform surrounded by lush mountain vegetation. She has long blonde hair styled in a relaxed low ponytail, with a few loose strands framing her face and gently catching the outdoor breeze. She is turned slightly away from the camera while looking back over her shoulder with a warm, natural smile and a calm, cheerful expression. Her posture is relaxed, with both forearms resting comfortably on the wooden railing as she takes in the panoramic landscape. She is wearing a {argument name=\"outfit\" default=\"coordinated deep burgundy athletic-style outfit\"} consisting of a fitted sleeveless crop top with thin shoulder straps and subtle horizontal strap detailing across the upper back, paired with matching high-waisted fitted shorts. The clothing has a clean sporty aesthetic with realistic stretch fabric, fine texture, natural folds, and subtle highlights. Keep accessories minimal and understated, with no distracting jewelry. The setting is a wooden observation deck overlooking a vast mountainous landscape covered with layers of green forest and drifting clouds. A dark metal and wooden safety railing runs across the viewpoint, while a green informational sign is positioned toward the left side of the frame. Tall trees surround the platform, creating a natural foreground and framing the distant scenery. The background contains {argument name=\"landscape details\" default=\"layered blue-green mountains partially covered by soft white clouds\"} beneath an expansive overcast sky. Use soft diffused outdoor daylight filtered through the cloud cover, producing gentle shadows, realistic skin tones, subtle highlights in the blonde hair, and atmospheric depth across the distant mountains. Capture the peaceful feeling of a cool mountain morning with natural colors and a slightly cinematic atmosphere. Shot on an 85mm lens, natural outdoor daylight, moderate shallow depth of field, realistic perspective, cinematic color grading, soft atmospheric contrast, high dynamic range, detailed skin and hair texture, realistic fabric texture, natural environmental detail, photorealistic travel photography, documentary-inspired composition, balanced framing, crisp subject detail, softly layered mountain background, high resolution, authentic candid lifestyle photography aesthetic.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32107-230",
+      "title": "Moody Hotel Bedroom Fashion Portrait",
+      "prompt": "{ \"overall_style\": \"Moody cinematic fashion portrait photography, high-end editorial aesthetic, dramatic low-key lighting with soft shadows and subtle highlights, luxurious intimate hotel-room atmosphere, shallow depth of field, rich contrast, elegant and slightly sensual tone\", \"composition\": { \"framing\": \"Vertical portrait orientation, subject positioned slightly left of center, leaning against the right side of the bed frame\", \"camera_angle\": \"Slightly elevated eye-level, looking down gently toward the subject\", \"pose\": \"Woman seated on the floor with legs bent and knees raised, body twisted slightly toward camera, torso leaning back against the side of the bed, right arm resting along the bed edge with hand dangling loosely, left arm partially hidden under the fur coat, head tilted to her right resting against her raised right shoulder\", \"depth\": \"Shallow depth of field – sharp focus on the subject’s face, upper body and legs; soft gradual blur on the background wall, lamp, and far side of the bed\", \"negative_space\": \"Dark textured wall and upper headboard occupy the top third; empty carpeted floor in the lower left creates breathing room\" }, \"character\": { \"gender_age\": \"{argument name=\"subject\" default=\"Young woman, early-to-mid 20s\"}\", \"face\": \"Soft oval face, fair porcelain skin with natural flush, full lips in matte deep berry-red lipstick, subtle contoured cheekbones, defined but natural eyebrows, soft smoky eye makeup with neutral tones, direct yet slightly sultry gaze looking straight into the camera\", \"hair\": \"Light ash-brown hair pulled back into a sleek low updo/bun, with a few soft face-framing strands and a small elegant black hair accessory (clip or pin) visible on the left side\", \"body\": \"Slim, elongated legs, graceful posture\", \"clothing\": { \"outer\": \"{argument name=\"clothing\" default=\"Oversized black faux-fur or feather-textured coat/dress\"} with dense, fluffy, high-volume texture covering the torso and cascading down the sides\", \"legs\": \"Sheer black pantyhose / stockings that catch subtle light reflections\", \"footwear\": \"Black pointed-toe high-heeled slingback pumps with thin stiletto heels and metallic gold/bronze toe caps\" }, \"accessories\": \"Small gold ring on the right ring finger, delicate gold hoop earring visible on the left ear\" }, \"setting\": { \"location\": \"{argument name=\"setting\" default=\"Modern upscale hotel bedroom\"}\", \"furniture\": { \"bed\": \"Large bed with dark charcoal-grey upholstered headboard featuring horizontal channel tufting, crisp white sheets and duvet slightly rumpled\", \"nightstand\": \"Dark wood bedside table with a single drawer, placed to the left of the subject\", \"lamp\": \"Contemporary table lamp with a tall cylindrical black pleated fabric shade and a clear or metallic base\" }, \"floor\": \"Neutral taupe-brown wall-to-wall carpet with short pile texture\", \"wall\": \"Dark chocolate-brown textured wallpaper or paint with subtle vertical grain\" },",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31986-236-Mountain-Viewpoint-Athletic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32107-230-Moody-Hotel-Bedroom-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,16 +837,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25740-434",
-      "title": "Luxury Golden Tea Cup Mountain Stream",
-      "prompt": "An ultra-premium cinematic advertisement for {argument name=\"brand\" default=\"Nano Banana Pro\"}. A luxurious golden tea cup sits elegantly beneath a flowing river-fed water tap in a pristine mountain stream. Crystal-clear water pours into the cup in slow motion, creating mesmerizing splashes and sparkling droplets. The {argument name=\"logo\" default=\"Nano Banana Pro logo\"} is subtly engraved on the cup, glowing with a warm golden light. Surrounded by smooth river stones, lush greenery, and misty morning atmosphere. Dramatic cinematic lighting, volumetric sun rays, hyper-realistic water physics, macro details, luxury product-commercial style, shallow depth of field, 8K HDR, photorealistic textures, high-end brand campaign, slow-motion splash effects, reflections on polished metal, award-winning advertising photography, cinematic color grading, masterpiece quality, ultra-detailed.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25738-437",
+      "title": "Exploding Molten Caramel Confectionery",
+      "prompt": "A premium {argument name=\"confectionery\" default=\"golden toffee\"} suspended in mid air above a mirror polished black surface, the moment of impact creating an enormous explosion of {argument name=\"liquid\" default=\"molten caramel, liquid gold splashing outward in slow motion\"}, thousands of sparkling sugar crystals floating through the air like diamonds, {argument name=\"lighting\" default=\"dramatic studio lighting\"}, ultra realistic textures, luxury confectionery advertisement, cinematic depth of field, macro photography, hyper detailed reflections, 16K masterpiece, food photography award winner.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25740-434-Luxury-Golden-Tea-Cup-Mountain-Stream.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25738-437-Exploding-Molten-Caramel-Confectionery.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Product Marketing"
       ],
       "author": "YouMind OpenLab",
@@ -913,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31998-239",
-      "title": "Whimsical Ferret Ball Pit Illustration",
-      "prompt": "a {argument name=\"animal\" default=\"curious ferret\"} joyfully playing in a {argument name=\"object\" default=\"colorful plastic ballpit\"}, dozens of bright red, blue, yellow, and green balls surrounding it, low angle view, soft even lighting, sharp focus on the ferret’s face, vibrant playful atmosphere, high detail, {argument name=\"style\" default=\"whimsical illustration style\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32193-231",
+      "title": "Identity-Preserving Tulle Dress Portrait",
+      "prompt": "Create an ultra-realistic portrait using the reference image as the identity source. Preserve the subject's exact identity with absolute fidelity, including facial features, bone structure, facial proportions, skin tone, facial asymmetry, and unique characteristics. Do not beautify, reshape, retouch, age, rejuvenate, or modify any facial feature. Maintain authentic facial geometry, natural likeness, and complete identity consistency throughout the entire image. Subject & Pose: Shoulders relaxed and bare, body angled slightly forward, head tilted downward and to the right. Expression: Soft, melancholic, serene, gazing downward. Wardrobe & Styling: Voluminous {argument name=\"dress color\" default=\"pale grey/icy-blue\"} tulle dress. Dangling transparent crystal floral earrings. Large {argument name=\"bouquet theme\" default=\"winter-themed\"} bouquet (white blooms, silver foliage). Hair & Makeup: Messy dark brown updo with loose, wispy tendrils. Fair skin with soft pink blush, glossed pink lips, and subtle peach/pink eye contour. Setting: {argument name=\"background\" default=\"Abstract, mottled grey-white textured studio wall\"}. Lighting: Diffused, cool-toned window light originating from the right, casting a soft, ethereal glow and gentle shadows on the left. Camera & Optical: 85mm portrait lens, f/1.4 aperture, shallow depth of field focusing on the face and earrings. Realism Enhancers: Cinematic lighting, 32k resolution, subsurface scattering for skin, highly detailed fabric texture, volumetric glow.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31998-239-Whimsical-Ferret-Ball-Pit-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32193-231-Identity-Preserving-Tulle-Dress-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-10191-177",
-      "title": "Ho Chi Minh Trail Vietnam War Scene Prompt",
-      "prompt": "A hyper-realistic 3D view of a section of the Ho Chi Minh Trail deep within the Truong Son mountains at twilight. The dense triple-canopy jungle filters the fading light into a gloom of deep greens and indigos. A narrow, beaten dirt track winds through giant fern fronds and ancient teak trees. In the foreground, a heavily laden, reinforced bicycle leans against a mossy rock, half-hidden by foliage. A concealed tunnel entrance is barely visible beneath a tangle of roots. The atmosphere is heavy with humidity, mist rising from the forest floor, capturing the silent, hidden endurance of the logistical network.",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-10191-177-Ho-Chi-Minh-Trail-Vietnam-War-Scene-Prompt.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Infographic / Education"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
       "license": "upstream",
       "createdAt": null
     }

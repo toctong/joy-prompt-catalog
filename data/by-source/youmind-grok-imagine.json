@@ -58,6 +58,25 @@
       "createdAt": null
     },
     {
+      "id": "youmind-grok-imagine:11503",
+      "title": "Grok Imagine 网格图像转舞蹈视频",
+      "prompt": "选取 6x6 网格图像中的一帧作为起始帧，按从左上到右下的顺序依次引用，生成一段流畅的动漫角色舞蹈视频。生成的视频中不要包含网格图像本身，仅展示单个角色跳舞的场景。",
+      "media": "image",
+      "model": "grok-imagine",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790582287198_1nfbdj_HTOeO6AbQAAAA0Y.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-grok-imagine",
+        "grok",
+        "youmind"
+      ],
+      "author": "YouMind Grok Imagine",
+      "source": "youmind-grok-imagine",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "youmind-grok-imagine:11436",
       "title": "月光下起舞提示词",
       "prompt": "安然无恙地待在家中，在新秋月光下的后院里翩翩起舞",
@@ -1926,25 +1945,6 @@
       "media": "image",
       "model": "grok-imagine",
       "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099197834855653377/img/07VTigKKGdxzujtB.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-grok-imagine",
-        "grok",
-        "youmind"
-      ],
-      "author": "YouMind Grok Imagine",
-      "source": "youmind-grok-imagine",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-grok-imagine:10818",
-      "title": "玻璃折射测试",
-      "prompt": "一颗透明水晶玻璃球，内部充满旋转的虹彩油液，悬浮于玻璃水族箱中。阳光穿透双层介质，在深色大理石台面上投射出错综复杂的彩色焦散光影图案，微距摄影，光线追踪渲染。",
-      "media": "image",
-      "model": "grok-imagine",
-      "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099107970668015616/img/j7SQlIYHEJ894W3R.jpg",
       "videoUrl": null,
       "tags": [
         "youmind-grok-imagine",

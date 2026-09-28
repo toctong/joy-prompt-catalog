@@ -1,12 +1,31 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32925-149",
-      "title": "Abandoned Greenhouse Cinematic Portrait",
-      "prompt": "A dreamy cinematic portrait of a young woman walking alone through an {argument name=\"setting\" default=\"abandoned greenhouse\"} completely overgrown with {argument name=\"flowers\" default=\"flowers and vines\"}. Soft sunlight streams through broken glass panels creating magical light rays. She gently touches the flowers while looking away from the camera, mysterious atmosphere, fairytale realism, cinematic storytelling, ultra-detailed environment, soft haze, dreamy bokeh, masterpiece composition, photorealistic.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32505-99",
+      "title": "Urban Selfie Superhero Fashion",
+      "prompt": "Create a photorealistic urban portrait of a young woman taking a casual selfie outdoors on a city sidewalk during the evening. She has {argument name=\"hair\" default=\"long dark brown hair\"} styled in a loose ponytail with soft natural strands around her face. Her complexion is warm and natural with realistic skin texture, subtle facial details, and soft highlights from nearby street lighting. She has expressive eyes, neatly shaped eyebrows, and a gentle confident smile with a relaxed and friendly expression. Her head is slightly tilted toward the camera, creating an authentic candid selfie composition. The subject is standing on a city street with one arm extended naturally toward the camera as if capturing a selfie. Her posture is relaxed and confident, with a natural stance and realistic body proportions. Maintain accurate anatomy, natural hands, and an everyday lifestyle photography feel. She is wearing a {argument name=\"outfit\" default=\"fitted superhero-inspired red and blue full-body athletic suit\"} with a textured fabric pattern, subtle web-like surface details, and a stylized spider emblem on the front area. The costume should appear as a fictional fantasy outfit with realistic stitching, fabric texture, and professional costume design. Add minimal accessories and keep the overall appearance clean, modern, and polished. The {argument name=\"environment\" default=\"environment is a lively urban neighborhood street\"} with sidewalks, parked cars, trees, apartment buildings, storefront walls, and warm street lamps in the background. The scene should feel like a real city evening with natural surroundings and realistic architectural details. Include soft reflections from nearby lights and a slightly blurred background to emphasize the subject. Use warm evening lighting with a mix of fading natural twilight and golden street illumination. Create soft highlights on the face and costume, gentle shadows for depth, and realistic ambient city light. The background should have subtle bokeh from streetlights and distant buildings while maintaining a believable outdoor atmosphere. Photograph the scene with an 85mm portrait lens at approximately f/1.8, using a close selfie-style perspective with natural depth of field. Keep the subject's face and eyes sharply focused while allowing the background to softly blur. Use realistic camera optics, detailed hair strands, natural skin texture, accurate fabric rendering, high dynamic range, and professional editorial photography quality. Apply a cinematic color grade with balanced reds and blues, warm skin tones, soft contrast, realistic saturation, and smooth highlight transitions. The final image should look like a high-quality cinematic street portrait with authentic lighting, realistic detail, and a natural photographic style",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32925-149-Abandoned-Greenhouse-Cinematic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32505-99-Urban-Selfie-Superhero-Fashion.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33079-146",
+      "title": "Dapper Dog Restaurant Photograph",
+      "prompt": "A {argument name=\"style\" default=\"black and white, vintage and grainy\"} medium shot photograph shows a {argument name=\"subject\" default=\"great dane\"} wearing {argument name=\"outfit\" default=\"sunglasses, a pinstripe suit, a white shirt, and a tie\"}. The great dane is seated at a table in a restaurant, holding a cigar in its right hand and a glass of red wine in its left. In front of the great dane is a plate of spaghetti and a bottle of wine. The restaurant appears to be a trattoria, with a sign that reads \"Tortellini Twisters\" in the background. The overall mood of the image is sophisticated and humorous.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33079-146-Dapper-Dog-Restaurant-Photograph.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29964-260",
-      "title": "Miniature Pop-up Book City Diorama",
-      "prompt": "2x2 grid, do this for 4 important Asian cities: Generate a photoreal miniature pop-up book diorama for {argument name=\"subject\" default=\"[SUBJECT]\"}.Rules:- infer SUBJECT_DNA automatically- use {argument name=\"base document\" default=\"BASE_DOCUMENT\"} as the physical foundation- the subject must rise from the page as a paper-engineered 3D world- include inferred landmarks, architecture, terrain, infrastructure, cultural motifs, and small scale cues- show folded platforms, stairs, slots, hinges, support struts, and hidden paper mechanics- integrate the subject name or symbolic typography as raised paper letters or structural forms- the base page should contain an inferred map, diagram, blueprint, or printed context relevant to SUBJECT- everything must feel crafted from paper, cardstock, ink, miniature model materials, and precise pop-up engineering- no hard-coded city, landmark, tower, temple, map, color, or text unless supplied",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29846-269",
+      "title": "3D Model to Photorealistic Product Render",
+      "prompt": "Create a studio-quality photo realistic render of the exact modern table design and structure from the first image. Apply the {argument name=\"material\" default=\"rich jarrah timber material\"} from the second image to all the grey legs and the teal tabletop sections, ensuring the natural wood grain runs longitudinally along the length of the legs exactly as shown in the second image. Change the dark blue structural beams, curved supports, and conical connectors to {argument name=\"finish\" default=\"brushed stainless steel\"} with a subtle metallic sheen. Use professional studio lighting with soft key lights and gentle highlights that make the table the clear hero of the scene, set against a clean {argument name=\"background\" default=\"neutral light-gray background\"}. Preserve the precise three-quarter viewpoint, proportions, and faceted geometry of the original table design.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29964-260-Miniature-Pop-up-Book-City-Diorama.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29846-269-3D-Model-to-Photorealistic-Product-Render.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32917-150",
-      "title": "Misty Mountain Hiking Portrait",
-      "prompt": "photorealistic vertical outdoor hiking portrait of a {argument name=\"subject\" default=\"young woman\"} walking along a narrow mountain trail surrounded by tall lush green grass in a {argument name=\"weather\" default=\"misty, fog-covered landscape\"}. She wears a navy-blue baseball cap with the word “ADVENTURE” embroidered on the front, a {argument name=\"outfit\" default=\"simple dusty-pink short-sleeve T-shirt, black hiking shorts\"}, a black jacket tied casually around her waist, and a black backpack. She gently holds the brim of her cap with one hand while walking toward the camera, eyes softly closed and smiling naturally. Another hiker follows slightly behind her, partially obscured by the mist and tall grass. The background fades into dense white fog, creating a peaceful mountain atmosphere. Soft overcast natural lighting, muted earthy tones, realistic skin texture, detailed grass and fabric, subtle atmospheric haze, shallow depth of field, candid travel photography, natural proportions, cinematic composition, highly photorealistic, vertical.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33101-148",
+      "title": "Hyper-Realistic Desert Portrait with Planet",
+      "prompt": "Ultra-realistic portrait, HD, 8K, high definition, rich in professional photographic detail and hyper-realistic textures. Photograph of a {argument name=\"subject\" default=\"slender, fair-skinned woman\"} with long dark hair, wearing an {argument name=\"clothing\" default=\"oversized white sweater\"}, barefoot, beautiful feet, 5 toes for feet, walk in a desert with a big planet in the sky",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32917-150-Misty-Mountain-Hiking-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33101-148-Hyper-Realistic-Desert-Portrait-with-Planet.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29846-267",
-      "title": "3D Model to Photorealistic Product Render",
-      "prompt": "Create a studio-quality photo realistic render of the exact modern table design and structure from the first image. Apply the {argument name=\"material\" default=\"rich jarrah timber material\"} from the second image to all the grey legs and the teal tabletop sections, ensuring the natural wood grain runs longitudinally along the length of the legs exactly as shown in the second image. Change the dark blue structural beams, curved supports, and conical connectors to {argument name=\"finish\" default=\"brushed stainless steel\"} with a subtle metallic sheen. Use professional studio lighting with soft key lights and gentle highlights that make the table the clear hero of the scene, set against a clean {argument name=\"background\" default=\"neutral light-gray background\"}. Preserve the precise three-quarter viewpoint, proportions, and faceted geometry of the original table design.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29751-271",
+      "title": "Surrealist Voyeur Fashion JSON",
+      "prompt": "{\"vibe_title_en\": \"Surrealist Voyeur\", \"master_prompt\": \"A hyper-realistic, voyeuristic 200mm telephoto shot of The Protagonist as an Avant-Garde Visionary, captured with a Hasselblad H6D-100c on Kodak Portra 400 film. The subject is sitting on a massive, perforated pumice-stone sphere in the center of a highly dense, chaotic sculptor's archive. The environment is overwhelmingly busy, filled to the brim with hanging geometric wireframes, shattered plaster molds, and stacked ceramic lattices creating extreme foreground occlusion. The camera shoots through a narrow gap between cracked, frosted glass and overlapping hanging perforated metal sheets, heavily blurring the foreground. The Protagonist wears an impossible, high-budget practical effect garment: a rigid, 3D-printed ivory lattice dress that extends upward into a massive, spiked sun-burst halo framing their head. Inside the halo is a concealed, glowing tungsten ring light. The subject has wet-look, slicked-back hair and flawlessly textured skin with visible pores, wearing round orange-tinted sunglasses pushed slightly down to reveal a direct, calm, unwavering gaze piercing through the chaotic foreground. Bright, natural sunlight streams through the dust-heavy air from an unseen skylight, creating sparkling, intricate highlights on the lattice adornments and casting complex, fragmented shadows. Cinematic depth of field, macro-level tactile realism, volumetric dust motes, absolute photorealism, no neon.\", \"meta\": { \"intent\": \"To create a high-fashion, surrealist editorial photograph using a voyeuristic perspective and intense environmental density.\", \"priorities\": \"Photographic realism of surreal elements, heavy foreground occlusion, telephoto compression, tactile material textures.\", \"device_profile\": \"High-end Medium Format Digital/Film emulation\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Voyeuristic long-lens compression, framed through heavy foreground clutter\", \"layout\": \"Center-weighted subject framed tightly by deeply blurred foreground architectural elements\", \"camera_angle\": \"Eye-level, distant observer perspective\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist / Avant-Garde Visionary\", \"demographics\": \"Androgynous, ageless, high-fashion editorial archetype\", \"face\": \"Flawless skin texture, visible pores, calm, striking bone structure\", \"hair\": \"Wet-look, slicked back tightly\", \"body\": \"Erect posture, confident and statuesque\", \"expression\": \"Calm, self-assured, with a direct and unwavering gaze\", \"pose\": \"Sitting upright on a massive textured sphere, holding a book but looking up directly into the distant lens\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Avant-garde structural dress and collar\", \"material\": \"Rigid 3D-printed ivory-colored ceramic lattice\", \"color\": \"Ivory/Bone white\", \"fit\": \"Architectural, flared, completely defying gravity\" }, { \"item\": \"Massive spiked sun-burst halo\", \"material\": \"Laser-cut resin and integrated tungsten lighting\", \"color\": \"Ivory with a warm glowing center\", \"fit\": \"Framing the entire head and shoulders\" } ], \"accessories\": [ { \"item\": \"Round oversized sunglasses\", \"color\": \"Orange-tinted lenses, white frames\", \"material\": \"Acetate and glass\", \"brand_style\": \"Retro-futuristic\" } ] }, \"environment\": { \"setting\": \"A dense, chaotic sculptor's archive and architectural salvage warehouse\", \"surfaces\": \"Perforated metal, frosted glass, carved pumice stone, shattered plaster\", \"depth\": \"Extreme depth compression, very shallow depth of field, heavy foreground and background layering\", \"atmosphere\": \"Volumetric dust motes suspended in the air, thick atmospheric haze\", \"lens_interaction\": \"Foreground elements heavily blurred (bokeh), sparkling specular highlights on the ceramic lattice\" }, \"lighting\": { \"key\": \"Bright natural sunlight streaming from a top-angle skylight\", \"fill\": \"Concealed warm tungsten ring light built into the practical halo\", \"rim\": \"Sunlight catching the edges of the spiked halo and slicked hair\", \"shadows\": \"Complex, fragmented, geometric shadows cast by the dense lattice and hanging wires\", \"color_temperature\": \"Mixed lighting (5600K daylight mixed with 3200K practical tungsten glow)\", \"sensor_flare\": \"Subtle, organic light bleed around the edge of the physical halo\" }, \"camera\": { \"lens_type\": \"Telephoto Prime\", \"focal_length\": \"200mm\", \"aperture\": \"f/2.8\", \"focus\": \"Pin-sharp on the subject's eyes, dropping off immediately before and after\", \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Telephoto compression, flattening the space and pulling the background closer\" }, \"post_processing\": { \"color\": \"Kodak Portra 400 film emulation, rich warm tones, true-to-life skin tones\", \"tonality\": \"High contrast with a soft, cinematic roll-off in the extreme highlights\", \"texture\": \"Subtle analog film grain, hyper-detailed skin and material textures\", \"digital_sharpening\": \"None, relying purely on high-end optical sharpness\", \"chromatic_aberration\": \"Minimal, only visible on extreme blurred foreground edges\" }, \"negative_specifications\": [ \"No neon lights\", \"No digital art look\", \"No simple backgrounds\", \"No empty space\", \"No flat lighting\", \"No CGI smoothness\", \"No illustration\", \"No wide-angle distortion\" ] }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29846-267-3D-Model-to-Photorealistic-Product-Render.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29751-271-Surrealist-Voyeur-Fashion-JSON.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32915-151",
-      "title": "Nostalgic Rainy Window Portrait",
-      "prompt": "Photorealistic close-up of a {argument name=\"subject\" default=\"young woman\"} sitting beside a rainy window, her {argument name=\"hair style\" default=\"long dark hair\"} falling over one side of her face and partially hiding one eye. Wearing an {argument name=\"clothing\" default=\"oversized cream sweater\"}, chin resting on her folded arms, dreamy emotional gaze. Rainy reflections, warm indoor light, soft focus, VHS grain, nostalgic 2000s camcorder aesthetic, vertical 9:16.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33087-149",
+      "title": "Mediterranean Riviera Editorial",
+      "prompt": "A ruggedly handsome man sits casually facing the camera in the bottom left quadrant, exuding a candid, serious expression with neutral lips and his gaze directed off-camera to the left, hidden behind {argument name=\"accessory\" default=\"classic dark wayfarer sunglasses\"}. He is dressed in a crisp yet slightly rumpled {argument name=\"clothing\" default=\"white linen suit\"}, unbuttoned at the top to reveal warm, realistic skin textures, completely barefoot with his legs crossed. His relaxed shoulders center his weight as his left hand drapes naturally over his raised right shin, while his right forearm rests comfortably on the armrest of his chair, fingers pointing down and softly obscured by shadow. He is seated in a weathered, thick branch-like rustic wooden armchair featuring a white cushion and distinct orange rope bindings on the front leg, resting on large pale grey square floor tiles separated by prominent dark grout lines. To his immediate left in the midground, a vintage, tall dark metal lantern with intricate cutouts sits atop a square table edged in dark iron with a black, white, and grey geometric tile top, all positioned in front of a dominant, thriving wall of rough, matte stone entirely consumed by deeply shadowed, lush dark green ivy. To the right, the deep spatial depth opens up to a pristine background where steep rocky cliffs drop into a sweeping expanse of calm, dark blue-grey ocean waters beneath a slightly hazy sky, creating an asymmetrical balance that draws the eye from the man across to the sea. The scene is illuminated by a single, highly directional source of bright, warm golden natural sunlight from the front, producing a dramatic, dappled effect that casts harsh, defined, deep black shadows under the subject and against the foliage. This hard light generates a split-complementary color palette of moderate saturation, striking high contrast by intentionally blowing out the highlights on the linen white clothing without any ambient fill, perfectly capturing a sophisticated, luxurious {argument name=\"setting\" default=\"Mediterranean summer afternoon\"} of effortless Old Money elegance. Captured as a tack-sharp, grain-free digital editorial photograph shot straight on with a 50mm lens at f/8, 1/500s, and ISO 100 to maintain a deep depth of field from the structured foreground to the distant cliffs, the image channels Classic Hollywood Riviera styling, enhanced in post-processing with deepened shadows, pushed highlights on the linen to emphasize the harsh sunlight, and a slight desaturation of the oceanic blues for a vintage cinematic feel, all perfectly framed in a 2:3 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32915-151-Nostalgic-Rainy-Window-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33087-149-Mediterranean-Riviera-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29751-269",
-      "title": "Surrealist Voyeur Fashion JSON",
-      "prompt": "{\"vibe_title_en\": \"Surrealist Voyeur\", \"master_prompt\": \"A hyper-realistic, voyeuristic 200mm telephoto shot of The Protagonist as an Avant-Garde Visionary, captured with a Hasselblad H6D-100c on Kodak Portra 400 film. The subject is sitting on a massive, perforated pumice-stone sphere in the center of a highly dense, chaotic sculptor's archive. The environment is overwhelmingly busy, filled to the brim with hanging geometric wireframes, shattered plaster molds, and stacked ceramic lattices creating extreme foreground occlusion. The camera shoots through a narrow gap between cracked, frosted glass and overlapping hanging perforated metal sheets, heavily blurring the foreground. The Protagonist wears an impossible, high-budget practical effect garment: a rigid, 3D-printed ivory lattice dress that extends upward into a massive, spiked sun-burst halo framing their head. Inside the halo is a concealed, glowing tungsten ring light. The subject has wet-look, slicked-back hair and flawlessly textured skin with visible pores, wearing round orange-tinted sunglasses pushed slightly down to reveal a direct, calm, unwavering gaze piercing through the chaotic foreground. Bright, natural sunlight streams through the dust-heavy air from an unseen skylight, creating sparkling, intricate highlights on the lattice adornments and casting complex, fragmented shadows. Cinematic depth of field, macro-level tactile realism, volumetric dust motes, absolute photorealism, no neon.\", \"meta\": { \"intent\": \"To create a high-fashion, surrealist editorial photograph using a voyeuristic perspective and intense environmental density.\", \"priorities\": \"Photographic realism of surreal elements, heavy foreground occlusion, telephoto compression, tactile material textures.\", \"device_profile\": \"High-end Medium Format Digital/Film emulation\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Voyeuristic long-lens compression, framed through heavy foreground clutter\", \"layout\": \"Center-weighted subject framed tightly by deeply blurred foreground architectural elements\", \"camera_angle\": \"Eye-level, distant observer perspective\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist / Avant-Garde Visionary\", \"demographics\": \"Androgynous, ageless, high-fashion editorial archetype\", \"face\": \"Flawless skin texture, visible pores, calm, striking bone structure\", \"hair\": \"Wet-look, slicked back tightly\", \"body\": \"Erect posture, confident and statuesque\", \"expression\": \"Calm, self-assured, with a direct and unwavering gaze\", \"pose\": \"Sitting upright on a massive textured sphere, holding a book but looking up directly into the distant lens\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Avant-garde structural dress and collar\", \"material\": \"Rigid 3D-printed ivory-colored ceramic lattice\", \"color\": \"Ivory/Bone white\", \"fit\": \"Architectural, flared, completely defying gravity\" }, { \"item\": \"Massive spiked sun-burst halo\", \"material\": \"Laser-cut resin and integrated tungsten lighting\", \"color\": \"Ivory with a warm glowing center\", \"fit\": \"Framing the entire head and shoulders\" } ], \"accessories\": [ { \"item\": \"Round oversized sunglasses\", \"color\": \"Orange-tinted lenses, white frames\", \"material\": \"Acetate and glass\", \"brand_style\": \"Retro-futuristic\" } ] }, \"environment\": { \"setting\": \"A dense, chaotic sculptor's archive and architectural salvage warehouse\", \"surfaces\": \"Perforated metal, frosted glass, carved pumice stone, shattered plaster\", \"depth\": \"Extreme depth compression, very shallow depth of field, heavy foreground and background layering\", \"atmosphere\": \"Volumetric dust motes suspended in the air, thick atmospheric haze\", \"lens_interaction\": \"Foreground elements heavily blurred (bokeh), sparkling specular highlights on the ceramic lattice\" }, \"lighting\": { \"key\": \"Bright natural sunlight streaming from a top-angle skylight\", \"fill\": \"Concealed warm tungsten ring light built into the practical halo\", \"rim\": \"Sunlight catching the edges of the spiked halo and slicked hair\", \"shadows\": \"Complex, fragmented, geometric shadows cast by the dense lattice and hanging wires\", \"color_temperature\": \"Mixed lighting (5600K daylight mixed with 3200K practical tungsten glow)\", \"sensor_flare\": \"Subtle, organic light bleed around the edge of the physical halo\" }, \"camera\": { \"lens_type\": \"Telephoto Prime\", \"focal_length\": \"200mm\", \"aperture\": \"f/2.8\", \"focus\": \"Pin-sharp on the subject's eyes, dropping off immediately before and after\", \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Telephoto compression, flattening the space and pulling the background closer\" }, \"post_processing\": { \"color\": \"Kodak Portra 400 film emulation, rich warm tones, true-to-life skin tones\", \"tonality\": \"High contrast with a soft, cinematic roll-off in the extreme highlights\", \"texture\": \"Subtle analog film grain, hyper-detailed skin and material textures\", \"digital_sharpening\": \"None, relying purely on high-end optical sharpness\", \"chromatic_aberration\": \"Minimal, only visible on extreme blurred foreground edges\" }, \"negative_specifications\": [ \"No neon lights\", \"No digital art look\", \"No simple backgrounds\", \"No empty space\", \"No flat lighting\", \"No CGI smoothness\", \"No illustration\", \"No wide-angle distortion\" ] }",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29658-272",
+      "title": "Summer Fashion Editorial Portrait",
+      "prompt": "A vibrant summer fashion editorial portrait featuring a young woman with a {argument name=\"hair style\" default=\"purple bob cut\"}, freckles, and feathered earrings. She wears an {argument name=\"clothing\" default=\"embroidered white crop top\"} and tropical leaf-print shorts with a dynamic hand-in-pocket pose. The composition is a full-body three-quarter view set against a {argument name=\"background\" default=\"pastel pink and yellow color-blocked studio background\"}. A gold console table holds a bonsai plant, with a large potted palm to the right and decorative stones. Textured \"SUMMER STYLES\" text in gold is at the top with pearl details. A \"50% OFF\" sale notice and a round \"SHOP NOW\" tag are integrated. The lighting is bright and summery with warm gradients.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29751-269-Surrealist-Voyeur-Fashion-JSON.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29658-272-Summer-Fashion-Editorial-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32846-152",
-      "title": "Nostalgic Cafe Film Portrait",
-      "prompt": "Create {argument name=\"mood\" default=\"moody golden hour\"} cafe portrait of a young woman sitting inside a {argument name=\"location\" default=\"dim restaurant booth\"}, turning her head over her shoulder toward the camera, soft serious expression, face partially lit by warm window glow, dark interior shadows, blurred figures in the background, glowing red and amber bokeh lights, large bright window behind her, cinematic low-light atmosphere, nostalgic 35mm film photography, heavy grain, soft focus, muted green shadows, warm orange highlights, intimate candid framing, emotional quiet moment, slightly underexposed vintage editorial look --ar {argument name=\"aspect ratio\" default=\"4:5\"} --raw --profile f7ca75c --stylize 120 --weird 3 --hd --preview",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32984-150",
+      "title": "Voluminous Ginger Hair Forest Portrait",
+      "prompt": "A photorealistic vertical portrait photograph of a young woman with {argument name=\"skin type\" default=\"pale, freckled skin\"} and long, voluminous, wavy {argument name=\"hair color\" default=\"ginger\"} hair standing in a sunlit forest clearing. She is positioned with her back mostly to the viewer, turning her head to look over her left shoulder with a soft, direct gaze. Her eyes are a {argument name=\"eye color\" default=\"pale blue-grey\"}, her face is dusted with freckles across the nose and cheeks, and her lips are slightly parted in a neutral, ethereal expression.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32846-152-Nostalgic-Cafe-Film-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32984-150-Voluminous-Ginger-Hair-Forest-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29658-270",
-      "title": "Summer Fashion Editorial Portrait",
-      "prompt": "A vibrant summer fashion editorial portrait featuring a young woman with a {argument name=\"hair style\" default=\"purple bob cut\"}, freckles, and feathered earrings. She wears an {argument name=\"clothing\" default=\"embroidered white crop top\"} and tropical leaf-print shorts with a dynamic hand-in-pocket pose. The composition is a full-body three-quarter view set against a {argument name=\"background\" default=\"pastel pink and yellow color-blocked studio background\"}. A gold console table holds a bonsai plant, with a large potted palm to the right and decorative stones. Textured \"SUMMER STYLES\" text in gold is at the top with pearl details. A \"50% OFF\" sale notice and a round \"SHOP NOW\" tag are integrated. The lighting is bright and summery with warm gradients.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29661-274",
+      "title": "Vacant Property Real Estate Visualization",
+      "prompt": "Store type: {argument name=\"shop type\" default=\"General goods\"}, Status: {argument name=\"status\" default=\"Grand opening\"}, Parking: {argument name=\"parking\" default=\"Delivery truck\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29658-270-Summer-Fashion-Editorial-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29661-274-Vacant-Property-Real-Estate-Visualization.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32842-153",
-      "title": "European Cafe Street Photography",
-      "prompt": "An ultra realistic candid street photo during golden hour. A beautiful young blonde woman with long messy wavy hair walks outside a {argument name=\"location\" default=\"European café\"} while casually eating gelato from a small paper cup using a tiny spoon. She wears a {argument name=\"outfit\" default=\"fitted baby blue ribbed camisole, low-rise grey plaid trousers\"}, a black studded leather belt, and a black quilted shoulder bag. She looks away naturally instead of looking at the camera, with a calm, thoughtful expression. The background shows outdoor café seating, people chatting, city sidewalks, warm summer sunshine, and a relaxed European atmosphere. Nothing feels posed. Captured like paparazzi photography with a medium telephoto lens. Warm golden sunlight, soft shadows, realistic skin texture, subtle film grain, {argument name=\"style\" default=\"early 2000s Y2K fashion, McBling, indie sleaze aesthetic\"}, authentic street photography, editorial realism, masterpiece, ultra detailed, 8K.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32990-151",
+      "title": "Golden Hour Lifestyle Fashion Collage",
+      "prompt": "Ultra realistic lifestyle fashion collage of a {argument name=\"subject\" default=\"beautiful young woman\"} in a {argument name=\"setting\" default=\"wide open green park\"} during golden hour sunset, soft warm sunlight, cinematic natural lighting, aesthetic Korean fashion vibe, wearing a {argument name=\"outfit\" default=\"deep burgundy oversized button-up shirt\"}, light blue wide-leg denim jeans, white sneakers, carrying a dark brown leather shoulder bag. Multi-frame collage layout with 5 candid moments.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32842-153-European-Cafe-Street-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32990-151-Golden-Hour-Lifestyle-Fashion-Collage.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29661-272",
-      "title": "Vacant Property Real Estate Visualization",
-      "prompt": "Store type: {argument name=\"shop type\" default=\"General goods\"}, Status: {argument name=\"status\" default=\"Grand opening\"}, Parking: {argument name=\"parking\" default=\"Delivery truck\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29562-276",
+      "title": "Futuristic Latex Fashion Editorial",
+      "prompt": "Reference image: uploaded photo Face: preserve the same face, with intense expression and bold dark lips. Keep realistic proportions, sharp contour, and natural texture. Pose: close-up portrait with body slightly turned to the side, one arm raised near the face, the other bent across the chest, emphasizing sculptural posture. Clothes: {argument name=\"clothing\" default=\"fitted black high-neck top made of shiny latex material\"}, long sleeves; body positioned dynamically, accentuating reflections on the fabric. Accessories: oversized futuristic sunglasses, geometric gold earrings, bold chain bracelet. Background: {argument name=\"background\" default=\"smooth solid red backdrop with clean gradient\"} — no visible details or distractions. Lighting: directional studio light from above-left, strong contrast emphasizing cheekbones, latex reflections, and glossy lips. Atmosphere: high-gloss editorial power — futuristic dominance, mystery, and confidence with fashion precision. Format: 2:3 Do not replace face; keep the same person with realistic light and proportions from the uploaded reference.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29661-272-Vacant-Property-Real-Estate-Visualization.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29562-276-Futuristic-Latex-Fashion-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,16 +780,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32908-154",
-      "title": "Monochrome Silver Halide Photography",
-      "prompt": "The image is {argument name=\"style\" default=\"high-contrast monochrome photography\"} with {argument name=\"grain type\" default=\"silver halide grain\"} and {argument name=\"saturation\" default=\"zero color saturation\"}.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32923-153",
+      "title": "Elegant Traditional Garden Portrait",
+      "prompt": "A young woman with fair skin and soft natural features, {argument name=\"hair style\" default=\"warm blonde hair styled in a loose ponytail\"} with a few strands framing her face, calm expression with a gentle confident gaze toward the camera, relaxed outdoor pose with one hand near her face and the other resting gracefully across her outfit. She wears an elegant {argument name=\"outfit color\" default=\"peach-orange\"} traditional-inspired outfit with a flowing draped fabric, delicate layered bangles on both wrists, and a subtle minimalist necklace. The fabric has a soft lightweight texture that moves naturally, creating a graceful and refined appearance. The scene takes place in a {argument name=\"setting\" default=\"peaceful garden courtyard\"} with lush green plants, stone steps, and natural outdoor surroundings. Bright daytime sunlight filters through trees, creating soft shadows and warm highlights on the subject and background. The atmosphere feels serene, fresh, and elegant with a natural lifestyle photography aesthetic. Shot on an 85mm lens, shallow depth of field, soft natural sunlight, realistic skin texture, cinematic color grading, high detail, professional portrait photography, balanced composition, natural colors, crisp focus on the subject, gentle background blur, realistic photography style.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32908-154-Monochrome-Silver-Halide-Photography.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32923-153-Elegant-Traditional-Garden-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -818,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29562-274",
-      "title": "Futuristic Latex Fashion Editorial",
-      "prompt": "Reference image: uploaded photo Face: preserve the same face, with intense expression and bold dark lips. Keep realistic proportions, sharp contour, and natural texture. Pose: close-up portrait with body slightly turned to the side, one arm raised near the face, the other bent across the chest, emphasizing sculptural posture. Clothes: {argument name=\"clothing\" default=\"fitted black high-neck top made of shiny latex material\"}, long sleeves; body positioned dynamically, accentuating reflections on the fabric. Accessories: oversized futuristic sunglasses, geometric gold earrings, bold chain bracelet. Background: {argument name=\"background\" default=\"smooth solid red backdrop with clean gradient\"} — no visible details or distractions. Lighting: directional studio light from above-left, strong contrast emphasizing cheekbones, latex reflections, and glossy lips. Atmosphere: high-gloss editorial power — futuristic dominance, mystery, and confidence with fashion precision. Format: 2:3 Do not replace face; keep the same person with realistic light and proportions from the uploaded reference.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29560-277",
+      "title": "Mecha Suit and Woolen Drapery Macro",
+      "prompt": "An elegant, minimal macro photograph showcasing the fusion of a {argument name=\"mecha element\" default=\"pristine white polymer mecha-suit collar\"} with {argument name=\"fabric element\" default=\"heavy, dark-folded woolen drapery\"}. Simple, powerful composition. {argument name=\"lighting\" default=\"Cinematic side-lighting\"} reveals the fine details of the high-tech seams and the deep, shadowy folds of the protective veil.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29562-274-Futuristic-Latex-Fashion-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29560-277-Mecha-Suit-and-Woolen-Drapery-Macro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32748-156",
-      "title": "Modern Luxury Lakeside Fashion",
-      "prompt": "woman, head tilted back slightly, eyes closed or gazing into distance, calm expression. Hair: styled in sleek bun. Pose: standing near wooden railing by water, one arm resting on railing, the other slightly behind; confident posture emphasizing silhouette. Outfit: {argument name=\"top\" default=\"cropped yellow shirt with asymmetrical design\"}, {argument name=\"skirt\" default=\"high-waisted white pencil skirt\"}, white shoulder bag; sunglasses for modern flair. Lighting: natural daylight with slightly cloudy sky, soft contrast emphasizing tones. Background: {argument name=\"location\" default=\"lakeside view with calm water and minimalist buildings\"}. Mood: modern luxury — confident, cinematic serenity.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32925-155",
+      "title": "Abandoned Greenhouse Cinematic Portrait",
+      "prompt": "A dreamy cinematic portrait of a young woman walking alone through an {argument name=\"setting\" default=\"abandoned greenhouse\"} completely overgrown with {argument name=\"flowers\" default=\"flowers and vines\"}. Soft sunlight streams through broken glass panels creating magical light rays. She gently touches the flowers while looking away from the camera, mysterious atmosphere, fairytale realism, cinematic storytelling, ultra-detailed environment, soft haze, dreamy bokeh, masterpiece composition, photorealistic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32748-156-Modern-Luxury-Lakeside-Fashion.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32925-155-Abandoned-Greenhouse-Cinematic-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-12134-121",
-      "title": "Prompt for a modern villa layout",
-      "prompt": "Create an image layout of a modern villa with sketchy analysis renders",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-12134-121-Prompt-for-a-modern-villa-layout.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Infographic / Education"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
       "license": "upstream",
       "createdAt": null
     }

@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34298-78",
+      "title": "Confident Urban Street Portrait",
+      "prompt": "A stunning woman with {argument name=\"hair style\" default=\"long, wavy black hair\"} and {argument name=\"eye color\" default=\"piercing blue\"} eyes sits confidently on a {argument name=\"setting\" default=\"wet urban street\"}.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34298-78-Confident-Urban-Street-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-19621-56",
       "title": "3D Character Design Infographic",
       "prompt": "{ \"project\": \"professional 3D female character design sheet infographic\", \"style\": { \"aesthetic\": [\"elegant\", \"cinematic\", \"modern\", \"polished\", \"luxury editorial\"], \"render\": \"high-end 3D animated film style\", \"lighting\": \"soft warm cinematic lighting\", \"textures\": \"smooth realistic skin, glossy hair, detailed strands\", \"composition\": \"clean infographic layout, organized, premium concept art sheet\" }, \"character\": { \"gender\": \"female\", \"features\": { \"hair\": \"{argument name=\"hair style\" default=\"dark sleek bob, blunt bangs above eyes, glossy strands\"}\", \"face\": \"plump soft shape, rosy cheeks, small button nose\", \"eyes\": \"very large dark expressive eyes, long lashes, glossy reflections\", \"skin\": \"fair smooth skin with warm undertones\", \"proportions\": \"soft feminine, doll-like aesthetic\" } }, \"sections\": { \"turnaround\": { \"title\": \"THREE-VIEW CHARACTER TURNAROUND\", \"views\": [\"front\", \"side\", \"back\"], \"extras\": [\"height scale\", \"neutral pose\", \"full body proportions\", \"studio background\"] }, \"palette\": { \"title\": \"OVERALL COLOR PALETTE\", \"colors\": [\"{argument name=\"color palette\" default=\"cream, beige, warm brown, black, burgundy, soft gold\"}\"] }, \"outfit\": { \"title\": \"OUTFIT & ACCESSORY DETAILS\", \"style\": [\"{argument name=\"outfit style\" default=\"oversized blazer, tailored bottoms, luxury handbag, leather shoes, minimal jewelry\"}\"], \"vibe\": [\"old money\", \"minimalist luxury\", \"modern professional\"] } } }",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33082-112",
-      "title": "Luxury Fashion Editorial Magazine Cover",
-      "prompt": "Create a premium, hyper-realistic fashion editorial magazine cover using my uploaded face as the ONLY identity reference for the main model. Preserve my exact facial identity, facial structure, skin tone, eyes, eyebrows, nose, lips, face shape, hair characteristics, and natural features. Keep me instantly recognizable and do not beautify, reshape, or alter my facial proportions. Recreate the overall composition and sophisticated editorial mood of the reference: a stylish woman seated confidently in a large sculptural luxury armchair, relaxed yet powerful posture, one arm resting naturally on the chair and the other resting elegantly near the lap, legs positioned naturally, looking directly toward the camera with a calm, confident expression. Full-body fashion portrait with the chair and model clearly visible. Replace all branding and typography from the reference with a completely new visual identity: Large elegant “A” as the dominant oversized background letter “{argument name=\"model name\" default=\"ANIYA\"}” as the main name Small text: “VISUAL IDENTITY” Small editorial text: “FASHION • LIFESTYLE” Year: “2026” Vertical side text: “A NEW CHAPTER OF CREATIVITY AND IDENTITY” Keep the typography minimal, refined, luxury-magazine inspired, with clean modern spacing. New outfit Replace the original olive suit with a much more attractive {argument name=\"outfit\" default=\"deep burgundy and champagne luxury fashion ensemble\"}: a tailored burgundy velvet blazer with subtle satin lapels, fitted champagne silk camisole underneath, high-waisted wide-leg burgundy trousers with elegant flowing fabric, delicate gold jewelry, and sophisticated pointed-toe metallic champagne heels. Make the clothing extremely realistic with visible velvet texture, silk highlights, natural folds, stitching, and premium tailoring. Color & atmosphere Use a sophisticated deep burgundy, warm champagne-gold, and dark espresso color palette instead of the original green tones. Create a dramatic luxury studio environment with a warm champagne spotlight behind the oversized “A”, subtle golden rim lighting around the hair and shoulders, soft cinematic shadows, gentle highlights on the face, and a dark burgundy gradient background. The {argument name=\"chair\" default=\"armchair should be a large sculptural contemporary chair in deep wine-burgundy velvet\"}, with realistic fabric texture and elegant architectural curves. Ultra-photorealistic skin texture, realistic pores, individual hair strands, natural facial expression, realistic hands and fingers, physically accurate fabric, premium jewelry reflections, cinematic depth of field, subtle film grain, sophisticated color grading, high dynamic range, luxury fashion campaign photography, Vogue-inspired editorial aesthetic, elegant and expensive visual language. Vertical 4:5 composition, full-body portrait, model and chair centered slightly toward the lower-middle of the frame, oversized “A” dominating the background without obscuring the subject, balanced negative space for typography, extremely polished commercial photo",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32987-115",
+      "title": "Scenic Lake Lifestyle Photography",
+      "prompt": "A realistic editorial lifestyle photograph capturing a {argument name=\"subject\" default=\"young muscular man with a center-parted wavy brown hairstyle\"}, wearing a {argument name=\"clothing\" default=\"long-sleeve navy blue polo shirt, wide-leg pleated khaki beige trousers, and grey-blue trail running shoes\"}. He bears a serious, candidly authentic expression with relaxed eyebrows, his eyes looking away to the right of the frame. He leans heavily backward and to the right against a waist-high structure, his body turned forty-five degrees relative to the support, with legs casually crossed and shoulders subtly tilted downward on the leaning side. His right hand rests naturally atop the rounded edge of the structure, fingers draped loosely over the dark metal. He is positioned on a grey and brown loose gravel pathway bounded by a flat grey stone border in the foreground. He leans against an ornate, weathered dark brown and black cast-iron railing featuring vertical bars and decorative central medallions, accented by bright green climbing ivy intertwining near its base. Beyond the railing unfolds a {argument name=\"location\" default=\"deep, scenic European lake vista\"}, featuring calm, pristine, dark greenish-blue waters in the lower right. The expansive background reveals towering dark green Mediterranean cypress columns, lush forested hills, and classic vintage stucco villas painted in warm pale yellow and peach, topped with terracotta orange tiled roofs and shuttered windows, including a boathouse nestled directly on the shoreline. The mood is serene, calm, and sophisticated, bathed in soft, diffused natural daylight filtering from an overcast sky above. This low-contrast, moderate-intensity light casts short, gradual grey shadows beneath his shoes and subtle shading under the railing, while gently pulling a soft sheen from his hair and natural highlights from his skin. The split-complementary color palette elegantly balances the navy and khaki wardrobe against the deep forest greens and terracotta architectural accents. Captured with an 85mm lens at an aperture between f/4.0 and f/5.6 at ISO 100, the straight-on shot features a tack-sharp subject isolated against a slightly soft yet fully recognizable background, finished with a subtle color grade leaning toward classic film tones that slightly desaturates bright colors for an organic, clean aesthetic, all framed in a 3:4 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33082-112-Luxury-Fashion-Editorial-Magazine-Cover.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32987-115-Scenic-Lake-Lifestyle-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33785-85",
-      "title": "East Asian Lookbook Crimson Studio Portrait",
-      "prompt": "High-fashion studio portrait of a stylish young East Asian woman posing dynamically with one hand touching her hair. She is wearing an oversized beige crewneck sweatshirt tucked into high-waisted olive green cargo joggers with a drawstring waistband and large flap pockets. Accessorized with a black buckled choker necklace, silver hoop earrings, and subtle rings. Her hair is styled in a messy half-up bun with wavy strands framing her face, featuring soft, sultry makeup and glossy lips. Dramatic monochromatic deep red and crimson studio lighting casting soft shadows and vibrant red rim highlights, solid warm red backdrop, 85mm portrait photography, editorial lookbook style, high detail, photorealistic, 8k resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34299-79",
+      "title": "Editorial Denim Fashion Portrait",
+      "prompt": "Create an ultra-realistic editorial fashion portrait of a young woman standing casually against a wall completely covered with {argument name=\"background wall\" default=\"vintage newspaper pages\"}. She has {argument name=\"hair style\" default=\"long, voluminous wavy dark-brown hair\"}, subtle natural makeup, defined brows, soft skin texture, and deep red lipstick. She wears silver hoop earrings, a {argument name=\"top wear\" default=\"strapless denim corset-style top\"}, high-waisted light-blue denim jeans, and an oversized blue denim jacket draped loosely off her shoulders. She holds an open vintage newspaper naturally in both hands, looking slightly to the side with a calm, confident expression. Full-body composition, relaxed pose, realistic hands and anatomy, detailed denim texture, natural skin pores, soft facial features. The background is a collage of aged newspapers in warm beige and brown tones, with visible motivational headlines and vintage photographs. Warm soft studio lighting, subtle film grain, nostalgic editorial aesthetic, realistic shadows, shallow depth of field, premium fashion photography, highly detailed, photorealistic, 8K, vertical 2:3 composition, no watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33785-85-East-Asian-Lookbook-Crimson-Studio-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34299-79-Editorial-Denim-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32987-113",
-      "title": "Scenic Lake Lifestyle Photography",
-      "prompt": "A realistic editorial lifestyle photograph capturing a {argument name=\"subject\" default=\"young muscular man with a center-parted wavy brown hairstyle\"}, wearing a {argument name=\"clothing\" default=\"long-sleeve navy blue polo shirt, wide-leg pleated khaki beige trousers, and grey-blue trail running shoes\"}. He bears a serious, candidly authentic expression with relaxed eyebrows, his eyes looking away to the right of the frame. He leans heavily backward and to the right against a waist-high structure, his body turned forty-five degrees relative to the support, with legs casually crossed and shoulders subtly tilted downward on the leaning side. His right hand rests naturally atop the rounded edge of the structure, fingers draped loosely over the dark metal. He is positioned on a grey and brown loose gravel pathway bounded by a flat grey stone border in the foreground. He leans against an ornate, weathered dark brown and black cast-iron railing featuring vertical bars and decorative central medallions, accented by bright green climbing ivy intertwining near its base. Beyond the railing unfolds a {argument name=\"location\" default=\"deep, scenic European lake vista\"}, featuring calm, pristine, dark greenish-blue waters in the lower right. The expansive background reveals towering dark green Mediterranean cypress columns, lush forested hills, and classic vintage stucco villas painted in warm pale yellow and peach, topped with terracotta orange tiled roofs and shuttered windows, including a boathouse nestled directly on the shoreline. The mood is serene, calm, and sophisticated, bathed in soft, diffused natural daylight filtering from an overcast sky above. This low-contrast, moderate-intensity light casts short, gradual grey shadows beneath his shoes and subtle shading under the railing, while gently pulling a soft sheen from his hair and natural highlights from his skin. The split-complementary color palette elegantly balances the navy and khaki wardrobe against the deep forest greens and terracotta architectural accents. Captured with an 85mm lens at an aperture between f/4.0 and f/5.6 at ISO 100, the straight-on shot features a tack-sharp subject isolated against a slightly soft yet fully recognizable background, finished with a subtle color grade leaning toward classic film tones that slightly desaturates bright colors for an organic, clean aesthetic, all framed in a 3:4 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32980-116",
+      "title": "South Asian Woman in Floral Traditional Attire",
+      "prompt": "A full-length vertical portrait of a {argument name=\"subject\" default=\"young South Asian woman\"} posing in a {argument name=\"setting\" default=\"modern interior setting\"}. She is wearing a {argument name=\"outfit\" default=\"light green traditional two-piece outfit\"} featuring a long-sleeved tunic (kurti) and matching wide-leg trousers (palazzo pants), both adorned with vibrant pink, white, and soft green tropical floral patterns.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32987-113-Scenic-Lake-Lifestyle-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32980-116-South-Asian-Woman-in-Floral-Traditional-Attire.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33788-86",
-      "title": "Full Body Red Fitted Dress Portrait",
-      "prompt": "Create image A 20-year-old fit Russian woman stands confidently in a stylish red fitted v-cut dress. Urban background, soft natural lighting, over-the-knee-high boots, minimalistic jewelry, and leather handbag complete her look. standing at full height, full-body shot, head-to-toe view, entire outfit visible",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34300-81",
+      "title": "Old Money Automotive Lifestyle Portrait",
+      "prompt": "A portrait of a confident handsome male with a strong jawline and light stubble, sitting directly facing the camera with level shoulders and an authoritative, serious expression, maintaining a direct gaze with relaxed, slightly narrowed lids and a closed neutral mouth. His short hair features a tapered fade on the sides and two to three inches on top, styled upward and back into a textured quiff with a matte finish, revealing natural strand separation, slight uneven wave patterns, and a few minor flyaways catching the light against the background. He is dressed in a highly textured, semi-sheer bright white button-down shirt with a smooth white sweater tied effortlessly over his shoulders. He is seated inside a dark luxury vehicle, positioned against a pristine, light gray matte contoured sports seat with an integrated headrest. The dark car interior frames the composition asymmetrically, showing a pristine black fabric headliner and a rectangular black grab handle recessed in the top right, while the passenger window reveals a medium depth of field view of a clear blue sky and a weathered exterior wall constructed of rough-hewn light brown and tan stones stacked with thick mortar lines. Bright, highly directional golden natural sunlight beams in from the front-left at a forty-five-degree angle, bathing the scene in a warm, energetic, and luxurious glow. This hard light with slight atmospheric diffusion creates a high-contrast cinematic atmosphere, casting harsh, short, and deep black shadows under his chin, on the right side of his nose, and along his right cheek, while placing preserved, bright highlights across his left cheek, nose bridge, forehead, and the crisp white shirt collar. The striking complementary color palette beautifully balances the bright whites of his clothing and warm peach skin tones against the deep black interior and clear blue sky. Captured as a photorealistic digital photograph reminiscent of high-end old money automotive lifestyle content, the tack-sharp image utilizes a full-frame camera with an 85mm lens at f/2.8 and a fast shutter speed to isolate the subject from the slightly softened stone background, enhanced with crisp post-processing to deepen the contrast and sharpen facial hair and fabric textures, beautifully framed in a 1:1 square aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33788-86-Full-Body-Red-Fitted-Dress-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34300-81-Old-Money-Automotive-Lifestyle-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -438,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32980-114",
-      "title": "South Asian Woman in Floral Traditional Attire",
-      "prompt": "A full-length vertical portrait of a {argument name=\"subject\" default=\"young South Asian woman\"} posing in a {argument name=\"setting\" default=\"modern interior setting\"}. She is wearing a {argument name=\"outfit\" default=\"light green traditional two-piece outfit\"} featuring a long-sleeved tunic (kurti) and matching wide-leg trousers (palazzo pants), both adorned with vibrant pink, white, and soft green tropical floral patterns.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32911-118",
+      "title": "Luxury Surrealist Automotive Poster",
+      "prompt": "A high-fashion surrealist poster for a luxury automotive brand. A {argument name=\"color\" default=\"deep crimson red\"} minimalist studio with a polished reflective floor. A massive {argument name=\"vehicle\" default=\"glossy red sports car\"} stands dramatically like a sculptural monument. A stylish male model in a perfectly tailored black suit leans casually against the front hood, wearing sleek black sunglasses and luxury accessories.\\n\\nIn the background, bold elegant automotive-inspired typography appears in large sophisticated serif type, partially occluded by the car.\\n\\nBottom center tagline: “{argument name=\"tagline\" default=\"Power, perfected. Presence, defined.\"}”\\n\\nMoody luxury lighting, deep red tones, cinematic reflections, dramatic shadows, ultra-premium editorial photography, photorealistic details.\\nAspect ratio: 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32980-114-South-Asian-Woman-in-Floral-Traditional-Attire.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32911-118-Luxury-Surrealist-Automotive-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33786-88",
-      "title": "iPhone Street Style Autumn Hoodie Portrait",
-      "prompt": "Create a **photorealistic autumn street-style photograph** captured from an extremely low, ground-level angle, looking upward toward the girl. She is standing naturally and facing the camera, with her face turned directly toward the lens. Her expression is calm and effortless, with a subtle genuine smile. She is wearing an **oversized black hoodie**, with the loose hood naturally pulled over her head. Her long hair flows freely from beneath the hood, falling naturally across her chest and shoulders on both sides. Individual strands move slightly in a gentle autumn breeze. In one hand, she holds a **Starbucks coffee cup extremely close to her face at eye level**, creating a natural foreground element. The cup partially covers one eye, while her other eye remains completely visible and looks directly into the camera. Keep the cup realistic in size, texture, lighting, and perspective. Position her slightly toward the **right third of the composition**, leaving more visual space toward the left side. Her body should feel naturally close to the camera, with parts of her figure subtly extending beyond the frame for an immersive, candid composition. Directly overhead is a **large mature tree covered in rich autumn foliage**, featuring deep red, orange, amber, and warm golden leaves. Sunlight streams naturally through gaps in the branches and leaves, creating bright scattered highlights and realistic patches of light across the scene. Small fragments of clear blue sky are visible between the branches. Maintain **maximum depth of field**. The girl, face, visible eye, coffee cup, hoodie, hood, individual strands of hair, tree trunk, branches, leaves, and distant surroundings must all remain **perfectly sharp and highly detailed from foreground to infinity**. Absolutely **no bokeh, no portrait blur, no artificial background separation, and no shallow depth of field**. The perspective should feel like a real photograph captured on an **iPhone 16 Pro**, using a 24mm equivalent wide-angle lens, f/8, 1/500s, ISO 50. Vertical 9:16 composition, extreme low-angle perspective, realistic wide-angle geometry, natural skin texture, accurate proportions, realistic sunlight, authentic shadows, subtle lens characteristics, natural color science, crisp micro-details, and documentary-style realism. **Style:** authentic iPhone photography, cinematic but completely natural, realistic autumn atmosphere, high dynamic range, true-to-life colors, physically accurate lighting, realistic textures, no artificial beauty retouching, no plastic skin, no CGI appearance, no illustration, no painting, **absolute photorealism**.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34125-82",
+      "title": "South Asian Woman Studio Fashion Portrait",
+      "prompt": "A medium portrait of a young South Asian woman posing candidly, looking slightly off-camera with a gentle smile. She has dark hair tied back in a low ponytail with loose strands framing her face, refined features, and bright pink lips. She is wearing a modern designer outfit featuring a sleeveless black top layered under a {argument name=\"dress pattern\" default=\"beige-and-black abstract typography/patterned collared dress\"} with thin shoulder straps. Accessorized with a delicate gold chain necklace, small stud earrings, and a slim gold bracelet on her wrist. Her hand rests gently under her chin. Warm indoor studio lighting highlighting soft skin tones, set against a smooth dark wood panel background. Photographed with a prime 85mm lens, sharp focus, shallow depth of field, 8K resolution, elegant fashion portrait aesthetic.9.16 same face as reference image.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33786-88-iPhone-Street-Style-Autumn-Hoodie-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34125-82-South-Asian-Woman-Studio-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -628,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32911-116",
-      "title": "Luxury Surrealist Automotive Poster",
-      "prompt": "A high-fashion surrealist poster for a luxury automotive brand. A {argument name=\"color\" default=\"deep crimson red\"} minimalist studio with a polished reflective floor. A massive {argument name=\"vehicle\" default=\"glossy red sports car\"} stands dramatically like a sculptural monument. A stylish male model in a perfectly tailored black suit leans casually against the front hood, wearing sleek black sunglasses and luxury accessories.\\n\\nIn the background, bold elegant automotive-inspired typography appears in large sophisticated serif type, partially occluded by the car.\\n\\nBottom center tagline: “{argument name=\"tagline\" default=\"Power, perfected. Presence, defined.\"}”\\n\\nMoody luxury lighting, deep red tones, cinematic reflections, dramatic shadows, ultra-premium editorial photography, photorealistic details.\\nAspect ratio: 3:4",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32916-119",
+      "title": "Surrealist Rolex Brand Poster",
+      "prompt": "A high-fashion surrealist poster for {argument name=\"brand\" default=\"Rolex\"}. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex. In the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded. Bottom center tagline: “{argument name=\"tagline\" default=\"Time, perfected. Presence, defined.\"}” Moody luxury lighting, rich tones, cinematic reflections. Aspect ratio: 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32911-116-Luxury-Surrealist-Automotive-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32916-119-Surrealist-Rolex-Brand-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33790-89",
-      "title": "Lifestyle Fashion Bouquet Portrait",
-      "prompt": "ultra-detailed lifestyle fashion portrait of a woman holding a bouquet outdoors. Camera angle: medium close-up portrait framing from mid-thigh upward with shallow depth of field. Pose: standing slightly angled toward camera while holding a large bouquet of white flowers close to the chest with both arms. Shoulders relaxed and body leaning slightly forward creating a warm approachable composition. Expression: joyful open smile showing teeth, head tilted slightly to the side, eyes softly closed in a carefree moment. Outfit: light pastel blue oversized dress with long sleeves and soft ruffle details on the shoulders. The dress has a cinched waist and flared skirt creating feminine volume. Accessories: quilted white mini crossbody bag with chain strap worn across the waist, delicate gold chain necklace. Hair: voluminous shoulder-length blowout with soft waves framing the face, styled with dramatic lift at the crown. Props: large bouquet wrapped in white paper containing small white flowers and greenery with a visible label card attached. Environment: outdoor urban entrance area with dark architectural background creating contrast with the soft pastel outfit. Lighting: soft natural daylight illuminating the face evenly with gentle highlights on hair and fabric texture",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34119-83",
+      "title": "Neon Bokeh Romantic Night Portrait",
+      "prompt": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. A medium shot of a {argument name=\"subjects\" default=\"young South Asian couple\"} posing together, leaning against a silver metal railing at night. On the left, a man with a neatly groomed beard, dark hair, and a lean build wears a dark maroon button-up shirt and a wristwatch, resting his chin on his right hand. Beside him, a young woman with a slender build, soft facial features, and long dark hair, wears a beige floral-patterned traditional tunic, also resting her chin on her hands. Both are looking directly at the viewer with gentle smiles. They are centered in the frame against a blurred background of vibrant green foliage illuminated by {argument name=\"background lighting\" default=\"colorful, bokeh-style neon lights in pink, blue, and yellow hues\"}. The {argument name=\"lighting atmosphere\" default=\"lighting is soft and warm\"}, highlighting their faces and creating a romantic, inviting atmosphere. The composition is well-balanced, utilizing the railing as a foreground element to create depth. The style is that of a professional portrait, characterized by clear focus on the subjects and a creamy, out-of-focus background.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33790-89-Lifestyle-Fashion-Bouquet-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34119-83-Neon-Bokeh-Romantic-Night-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32916-117",
-      "title": "Surrealist Rolex Brand Poster",
-      "prompt": "A high-fashion surrealist poster for {argument name=\"brand\" default=\"Rolex\"}. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex. In the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded. Bottom center tagline: “{argument name=\"tagline\" default=\"Time, perfected. Presence, defined.\"}” Moody luxury lighting, rich tones, cinematic reflections. Aspect ratio: 3:4",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-32840-122",
+      "title": "Surrealist Nike Sportswear Poster",
+      "prompt": "A high-fashion surrealist advertising poster for {argument name=\"brand\" default=\"Nike\"}. A minimalist monochrome cool grey studio with a semi-reflective floor. A giant white Nike sneaker is positioned diagonally, suspended slightly above the ground. A male model in an {argument name=\"outfit\" default=\"all-white athletic techwear outfit\"} leans back against the floating shoe mid-stretch, one leg extended, wearing standard Nike sneakers. In the background, massive bold “NIKE” typography in condensed sans-serif is partially obscured by the shoe and model. Bottom center tagline: \"{argument name=\"tagline\" default=\"Engineered for motion. Built for every version of you.\"}\" Soft directional lighting, subtle shadows, premium sportswear editorial aesthetic. Aspect ratio: 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32916-117-Surrealist-Rolex-Brand-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-32840-122-Surrealist-Nike-Sportswear-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33794-90",
-      "title": "London Skyline Background Edit",
-      "prompt": "Replace the far background city lights into {argument name=\"city\" default=\"London's skyline\"} with several iconic {argument name=\"details\" default=\"landmarks\"}",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33794-90-London-Skyline-Background-Edit.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Social Media Post"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
       "license": "upstream",
       "createdAt": null
     }
