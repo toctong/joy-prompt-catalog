@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-11083-148",
+      "title": "Infographic Creation with Simple Text Prompt",
+      "prompt": "Create an info graphic about the 1969 Woodstock Festival",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-11083-148-Infographic-Creation-with-Simple-Text-Prompt.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22820-182",
       "title": "Kung Fu Character Storyboard Sheet",
       "prompt": "Create a {argument name=\"aspect ratio\" default=\"16:9\"} STORYBOARD SHEET image. Use the two provided reference images for character identity only. Image A is {argument name=\"character A\" default=\"Whoking, the monkey kung fu master\"}. Image B is {argument name=\"character B\" default=\"Dao Wang, the serpent kung fu master\"}. [PROJECT CARD] Create a designed",
@@ -20,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-27526-369",
-      "title": "Arabian Cobra Stapler Hybrid",
-      "prompt": "a photo of an {argument name=\"animal\" default=\"arabian cobra\"}, but the head is replaced with a {argument name=\"object\" default=\"stapler\"}, seamless, perfect animal-object combination, the object matches the animal coloring, and they feel naturally together, aspects of the object cleverly form the face like a pareidolia (none of the original animal face is visible), seamless and perfectly integrated",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-27398-367",
+      "title": "Luxury Skincare Commercial Photography",
+      "prompt": "Ultra-realistic luxury skincare commercial. A {argument name=\"model description\" default=\"beautiful female model\"} with naturally glowing, healthy skin holds an {argument name=\"product\" default=\"elegant premium skincare cream jar\"} beside her face while looking confidently at the camera. Minimal {argument name=\"studio color\" default=\"white and beige\"} luxury studio with soft daylight, clean aesthetic, subtle marble textures, fresh green botanical accents, smooth skin texture without over-retouching, premium beauty photography, cinematic lighting, soft shadows, shallow depth of field, luxury cosmetic branding, editorial beauty campaign, photorealistic, ultra-detailed, 8K, high-end commercial quality. Ultra-realistic luxury skincare campaign featuring the same female model in the same elegant white outfit and the same premium skincare cream jar inside the same minimalist white and beige studio. The model gently applies the cream to her cheek with a soft smile while looking naturally toward the camera. Matching daylight, identical color grading, marble countertop, botanical accents, glowing healthy skin, premium beauty photography, cinematic soft lighting, shallow depth of field, editorial cosmetic advertisement, photorealistic, ultra-detailed, 8K. Maintain perfect visual consistency with the previous image, including the same model, outfit, hairstyle, makeup, product, environment, lighting, and luxury aesthetic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-27526-369-Arabian-Cobra-Stapler-Hybrid.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-27398-367-Luxury-Skincare-Commercial-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11202-537",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11202-540",
       "title": "Distressed License Plate Sign",
       "prompt": "A horizontal, rectangular metal sign created out of cut up license plates displays the words \"{argument name=\"sign text\" default=\"ENJOY THE NOW\"}\" in large, raised letters. Each letter is on a different colored background, resembling a collage of license plates. The sign has a distressed, rusty appearance around the edges and a slightly weathered texture overall. It is hanging on a distressed wooden wall.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11202-537-Distressed-License-Plate-Sign.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11202-540-Distressed-License-Plate-Sign.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32507-198",
-      "title": "1980s Retro Salon Portrait",
-      "prompt": "{ \"subject\": \"{argument name=\"subject description\" default=\"Woman in her late twenties, auburn-chestnut hair cut short and swept up and back off the face with sculpted 1980s volume at the crown and sides, finished with a black grosgrain bow pinned at the back. Fair skin with a warm peachy tone. Period makeup: soft bronze-mauve shadow blended to the brow bone, strong arched brows, sculpted blusher high on the cheekbone, glossy brick-red lip. Slender build, elegant long neck. Chin lifted, gaze angled off toward the light, composed and aloof.\"}\", \"outfit\": { \"dress\": \"{argument name=\"dress style\" default=\"Cobalt-blue metallic brocade cocktail dress with an allover shifting lamé sheen, strongly padded shoulders tapering to a narrow waist, gathered blouson bodice with a rounded yoke, long full sleeves, slim knee-length skirt\"}\", \"hosiery\": \"Sheer smoke-grey tights with a soft period sheen\", \"shoes\": \"Black suede pointed-toe pumps with a slim stiletto heel and a small bow at the vamp\", \"jewellery\": \"Stacked wide gold bangles on both wrists, gold drop earrings\", \"props\": \"A slim crystal champagne flute held loosely in one hand\" }, \"pose\": \"Seated in a clear lucite armchair, torso upright and turned three-quarters to the camera. Legs crossed high at the knee and extended long toward the floor, toes pointed, feet angled together. One arm resting along the chair arm holding the champagne flute out at chest height; the other hand relaxed on the thigh. Shoulders squared back, spine straight, head tilted slightly away.\", \"setting\": \"{argument name=\"interior style\" default=\"A pale 1980s salon interior. A transparent lucite armchair with a woven cream cushion, a matching lucite side table, and a low cream boucle sofa behind. Soft beige-grey walls, a sheer curtained window casting a broad wash of light, warm oak flooring beneath.\"} Sparse and elegant — nothing else in frame. Absolutely no text, lettering or signage anywhere.\", \"camera\": \"35mm crisp direct flash. Hard frontal light throwing a defined shadow behind the chair, fierce specular blowout across the metallic brocade so the dress ignites, hot glints on the gold bangles and champagne glass. Warm saturated period grade, cobalt pushed rich against neutral cream. Lifted blacks, medium-high contrast, fine 35mm grain, gentle halation, corner vignette.\", \"framing\": \"Vertical 2:3. ANGLE — low view from the subject's left, lens near seat height and tilted up. The crossed legs foreshorten toward the camera and read longer, the lucite chair reads at a three-quarter turn with its transparent frame catching flash, and more wall and ceiling opens above her head.\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32504-198",
+      "title": "South Asian Couple Skardu Travel Photo",
+      "prompt": "Use my pic face Create an ultra-realistic full-body photograph of a {argument name=\"subject\" default=\"young South Asian Couple\"} (use uploaded reference face exactly) enjoying a trip in {argument name=\"location\" default=\"Skardu, Pakistan\"}. The image should look like a genuine tourist photo captured on a modern smartphone. Style: Natural smartphone camera photography, ultra realistic, real travel photo, NOT cinematic, NOT studio lighting, NOT AI-looking. SKARDU ADVENTURE (ULTRA REALISTIC, FULL BODY, 8K CAMERA • Full body visible • Natural handheld phone camera shot • Slight perspective imperfections • Realistic depth of field • Ultra HD 8K quality • Sharp facial details • Natural color tones • No filters MALE • Use uploaded reference face exactly • Same hairstyle as reference image • Light beard • Wearing traditional white Korton Kurta pajama with stylish shoes. FEMALE • Elegant traditional purple traditional Pakistani dress. • Natural makeup • Realistic facial features • Warm smile • Natural hair movement POSE • Man Catch the selfie Own girlfriend. • Genuine candid travel moment • Happy and relaxed expressions • Authentic tourist vibes LOCATION — SKARDU • Beautiful Skardu Valley • Massive mountains in background • Crystal-clear lake nearby • Green meadows • Rocky landscapes • Famous Skardu scenery • Natural tourism atmosphere CROWD • Tourists visible in background • Families taking photos • People enjoying the scenery • Natural crowd blur LIGHTING • Bright natural daylight • Soft mountain sunlight • Realistic shadows • Natural exposure • No flash REALISM • Hyper-realistic photography • Natural skin pores • Real fabric textures • Authentic human anatomy • Smartphone camera quality • Travel photography realism • Ultra HD 8K NEGATIVE PROMPT: cartoon, anime, CGI, 3D render, fake skin, AI face, plastic face, blurry image, low quality, watermark, text, logo, bad anatomy, extra fingers, unrealistic eyes, HDR glow, cinematic grading, studio lighting, oversaturated colors ratio size 9 16.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32507-198-1980s-Retro-Salon-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32504-198-South-Asian-Couple-Skardu-Travel-Photo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26930-374",
-      "title": "Cinematic Aurora Heart Lovers Photography",
-      "prompt": "Ultra-realistic cinematic photography. {argument name=\"subject\" default=\"Two lovers\"} reach toward each other while a luminous heart formed from {argument name=\"light effect\" default=\"flowing aurora light\"} floats between their hands. Purple, cyan, and emerald colors softly illuminate their faces. {argument name=\"time of day\" default=\"Twilight sky\"}, distant city skyline blurred in the background, emotional eye contact, dreamy atmosphere, natural skin texture, volumetric lighting, 8K HDR, luxury fashion editorial style.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-27526-370",
+      "title": "Arabian Cobra Stapler Hybrid",
+      "prompt": "a photo of an {argument name=\"animal\" default=\"arabian cobra\"}, but the head is replaced with a {argument name=\"object\" default=\"stapler\"}, seamless, perfect animal-object combination, the object matches the animal coloring, and they feel naturally together, aspects of the object cleverly form the face like a pareidolia (none of the original animal face is visible), seamless and perfectly integrated",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26930-374-Cinematic-Aurora-Heart-Lovers-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-27526-370-Arabian-Cobra-Stapler-Hybrid.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11162-539",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11162-542",
       "title": "Dramatic Digital Painting Portrait Prompt",
       "prompt": "Create a dramatic digital painting style portrait of a young woman (based on a reference image) looking upward with a strong, determined expression.The artwork should feel bold and textured, with energetic brush strokes and a limited color palette of black, white, red, and yellow. The background is split vertically with abstract red and yellow paint streaks, creating a powerful and intense mood. Focus on ambition and confidence in her gaze, capturing strength and resilience in her facial expression. The design should be clean with no text, no slogan, and no logo anywhere in the frame. The composition should feel motivational and poster-ready, high detail, 8K resolution, image aspect ratio 4:5.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11162-539-Dramatic-Digital-Painting-Portrait-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11162-542-Dramatic-Digital-Painting-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32511-200",
-      "title": "Hyperrealistic Macro Eye Detail",
-      "prompt": "Extreme macro close-up of the same woman from the reference image, keeping her exact identity, {argument name=\"eye color\" default=\"pale blue eyes\"}, {argument name=\"skin type\" default=\"warm aged skin\"} and {argument name=\"hair color\" default=\"silver hair\"}. Tight crop on one eye and eyebrow, straight-on eye-level angle, serene expression. Hyperrealistic detail: pale blue iris with fine striations and a soft catchlight, natural sparse lashes, fine crepey eyelid texture, deep natural wrinkles and age spots, a soft silver brow. Soft even studio beauty light, pale gray background, 100mm macro, razor sharp, photorealistic, not airbrushed, no text.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32507-199",
+      "title": "1980s Retro Salon Portrait",
+      "prompt": "{ \"subject\": \"{argument name=\"subject description\" default=\"Woman in her late twenties, auburn-chestnut hair cut short and swept up and back off the face with sculpted 1980s volume at the crown and sides, finished with a black grosgrain bow pinned at the back. Fair skin with a warm peachy tone. Period makeup: soft bronze-mauve shadow blended to the brow bone, strong arched brows, sculpted blusher high on the cheekbone, glossy brick-red lip. Slender build, elegant long neck. Chin lifted, gaze angled off toward the light, composed and aloof.\"}\", \"outfit\": { \"dress\": \"{argument name=\"dress style\" default=\"Cobalt-blue metallic brocade cocktail dress with an allover shifting lamé sheen, strongly padded shoulders tapering to a narrow waist, gathered blouson bodice with a rounded yoke, long full sleeves, slim knee-length skirt\"}\", \"hosiery\": \"Sheer smoke-grey tights with a soft period sheen\", \"shoes\": \"Black suede pointed-toe pumps with a slim stiletto heel and a small bow at the vamp\", \"jewellery\": \"Stacked wide gold bangles on both wrists, gold drop earrings\", \"props\": \"A slim crystal champagne flute held loosely in one hand\" }, \"pose\": \"Seated in a clear lucite armchair, torso upright and turned three-quarters to the camera. Legs crossed high at the knee and extended long toward the floor, toes pointed, feet angled together. One arm resting along the chair arm holding the champagne flute out at chest height; the other hand relaxed on the thigh. Shoulders squared back, spine straight, head tilted slightly away.\", \"setting\": \"{argument name=\"interior style\" default=\"A pale 1980s salon interior. A transparent lucite armchair with a woven cream cushion, a matching lucite side table, and a low cream boucle sofa behind. Soft beige-grey walls, a sheer curtained window casting a broad wash of light, warm oak flooring beneath.\"} Sparse and elegant — nothing else in frame. Absolutely no text, lettering or signage anywhere.\", \"camera\": \"35mm crisp direct flash. Hard frontal light throwing a defined shadow behind the chair, fierce specular blowout across the metallic brocade so the dress ignites, hot glints on the gold bangles and champagne glass. Warm saturated period grade, cobalt pushed rich against neutral cream. Lifted blacks, medium-high contrast, fine 35mm grain, gentle halation, corner vignette.\", \"framing\": \"Vertical 2:3. ANGLE — low view from the subject's left, lens near seat height and tilted up. The crossed legs foreshorten toward the camera and read longer, the lucite chair reads at a three-quarter turn with its transparent frame catching flash, and more wall and ceiling opens above her head.\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32511-200-Hyperrealistic-Macro-Eye-Detail.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32507-199-1980s-Retro-Salon-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26932-375",
-      "title": "Streetwear Editorial Fashion Poster",
-      "prompt": "Create a high-fashion streetwear editorial poster featuring a stylish {argument name=\"ethnicity\" default=\"Korean woman\"} (early 20s) with a confident, powerful attitude. She is standing in a relaxed, dominant pose with hands in pockets, looking directly at the camera with a calm, fearless expression. She is wearing modern urban streetwear: oversized varsity or bomber jacket, cropped top, baggy cargo pants, and chunky sneakers. The outfit should feel premium, trendy, and runway-inspired. The background is a bold, graphic design in a {argument name=\"color theme\" default=\"deep purple\"} aesthetic with large oversized typography reading “{argument name=\"text\" default=\"RULE BREAKER\"}” or similar motivational street-style text. Add layered collage elements like torn paper textures, stickers, scribbles, stamps, barcode graphics, and handwritten motivational phrases such as “BE LIMITLESS”, “NO RULES”, “STAY BOLD”. Lighting should be studio-quality with soft shadows, fashion editorial style, ultra-sharp details, and high contrast. The composition should feel like a modern magazine cover / streetwear brand campaign, combining luxury fashion with rebellious street culture. Color theme: purple, white, black accents, with subtle grunge texture. Ultra-realistic, 8K, high detail, fashion photography, editorial composition, centered framing, full-body shot, cinematic clarity. Aspect ratio: 4:5",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26930-375",
+      "title": "Cinematic Aurora Heart Lovers Photography",
+      "prompt": "Ultra-realistic cinematic photography. {argument name=\"subject\" default=\"Two lovers\"} reach toward each other while a luminous heart formed from {argument name=\"light effect\" default=\"flowing aurora light\"} floats between their hands. Purple, cyan, and emerald colors softly illuminate their faces. {argument name=\"time of day\" default=\"Twilight sky\"}, distant city skyline blurred in the background, emotional eye contact, dreamy atmosphere, natural skin texture, volumetric lighting, 8K HDR, luxury fashion editorial style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26932-375-Streetwear-Editorial-Fashion-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26930-375-Cinematic-Aurora-Heart-Lovers-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11027-544",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11027-547",
       "title": "Luxury Travel Magazine Layout Prompt",
       "prompt": "A luxury travel magazine. Theme: Early autumn travel. Feature: Pilgrimage to sacred sites. Display the title and description of the feature article in English across the entire screen.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11027-544-Luxury-Travel-Magazine-Layout-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11027-547-Luxury-Travel-Magazine-Layout-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32508-202",
-      "title": "Cinematic Golden Hour Cocktail Portrait",
-      "prompt": "Ultra-realistic 8K cinematic portraits, 3:4 vertical, uploaded reference for 100% face alignment. A confident man in a {argument name=\"clothing\" default=\"cream double-breasted linen suit\"}, open-collar white shirt, and tortoiseshell sunglasses {argument name=\"action\" default=\"pours cocktails behind a wooden bar\"} at {argument name=\"lighting\" default=\"golden hour\"}. Warm, cinematic key light from the left sculpts rich highlights and creamy shadows, evoking timeless luxury Camera: Leica SL2-S 85 mm f/1.4, ISO 100, f/1.8, 1/250 s. Shallow depth, high dynamic range, lomography grain, golden diffusion.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32511-201",
+      "title": "Hyperrealistic Macro Eye Detail",
+      "prompt": "Extreme macro close-up of the same woman from the reference image, keeping her exact identity, {argument name=\"eye color\" default=\"pale blue eyes\"}, {argument name=\"skin type\" default=\"warm aged skin\"} and {argument name=\"hair color\" default=\"silver hair\"}. Tight crop on one eye and eyebrow, straight-on eye-level angle, serene expression. Hyperrealistic detail: pale blue iris with fine striations and a soft catchlight, natural sparse lashes, fine crepey eyelid texture, deep natural wrinkles and age spots, a soft silver brow. Soft even studio beauty light, pale gray background, 100mm macro, razor sharp, photorealistic, not airbrushed, no text.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32508-202-Cinematic-Golden-Hour-Cocktail-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32511-201-Hyperrealistic-Macro-Eye-Detail.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26931-376",
-      "title": "Formal Menswear Coastal Editorial",
-      "prompt": "A {argument name=\"subject clothing\" default=\"handsome man in a sharp, pitch-black double-breasted suit layered over a crisp white shirt\"} stands perfectly centered in a medium-scale shot, exuding a sophisticated menswear aesthetic in a sharp, pitch-black double-breasted suit layered over a crisp white shirt with a defined V-neckline and a stark black tie. His posture is upright with level shoulders, facing the camera directly, while his head is turned sharply to the left in a strict profile. His sleek, slicked-back hair reflects the intense light, and vintage sunglasses obscure his eyes as he looks away with a serious, deliberately posed expression, his mouth resting in a closed, neutral line. Both of his hands are tucked away, resting relaxed in his suit pockets as he stands isolated against a {argument name=\"background\" default=\"deeply spacious, minimal coastal background\"}. The top and midground are dominated by a pristine, sky blue expanse completely devoid of clouds, meeting a dark ocean blue at the bottom of the frame that is subtly textured with gentle waves along a perfectly clear horizon line. The scene conveys a confident, formal isolation driven by {argument name=\"lighting style\" default=\"harsh, highly directional natural sunlight striking from the top right\"}. This bright, hard light establishes a dramatic, cool, and high-contrast color palette, casting deep black, harshly defined short shadows directly under his chin, beneath his nose, and across the left side of his face. Conversely, crisp specular highlights are meticulously preserved on the right side of his face, his hair, and his right shoulder, with absolutely no ambient fill to soften the intense blacks and vibrant blues. Captured on an 85mm lens as a realistic digital editorial photograph from a straight-on perspective, the tack-sharp image features a medium depth of field with zero grain, utilizing camera settings of ISO 100, f/5.6, and 1/1000s. The classic fashion photography influence is finalized by post-processing that applies a high contrast curve, a blue channel saturation boost, and crisp sharpening to highlight the subtle warm skin tones, with the entire composition gracefully framed in a 4:5 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26932-376",
+      "title": "Streetwear Editorial Fashion Poster",
+      "prompt": "Create a high-fashion streetwear editorial poster featuring a stylish {argument name=\"ethnicity\" default=\"Korean woman\"} (early 20s) with a confident, powerful attitude. She is standing in a relaxed, dominant pose with hands in pockets, looking directly at the camera with a calm, fearless expression. She is wearing modern urban streetwear: oversized varsity or bomber jacket, cropped top, baggy cargo pants, and chunky sneakers. The outfit should feel premium, trendy, and runway-inspired. The background is a bold, graphic design in a {argument name=\"color theme\" default=\"deep purple\"} aesthetic with large oversized typography reading “{argument name=\"text\" default=\"RULE BREAKER\"}” or similar motivational street-style text. Add layered collage elements like torn paper textures, stickers, scribbles, stamps, barcode graphics, and handwritten motivational phrases such as “BE LIMITLESS”, “NO RULES”, “STAY BOLD”. Lighting should be studio-quality with soft shadows, fashion editorial style, ultra-sharp details, and high contrast. The composition should feel like a modern magazine cover / streetwear brand campaign, combining luxury fashion with rebellious street culture. Color theme: purple, white, black accents, with subtle grunge texture. Ultra-realistic, 8K, high detail, fashion photography, editorial composition, centered framing, full-body shot, cinematic clarity. Aspect ratio: 4:5",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26931-376-Formal-Menswear-Coastal-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26932-376-Streetwear-Editorial-Fashion-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11054-545",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11054-548",
       "title": "High-End Digital Painting Portrait",
       "prompt": "Create a high-end stylized artistic portrait of the same person in a modern digital painting / illustrated poster style. The face must remain 100% identical to the reference photo — preserve exact facial structure, proportions, skin tone, facial features, age, hairstyle, and identity. No modification, beautification, reshaping, or enhancement of the face is allowed. Absolute identity accuracy required. The subject is shown in a half-body or close-up framing, looking slightly upward with a confident and calm expression. Maintain realistic proportions and natural anatomy while rendering in a detailed illustration style. The face must be ultra-detailed and sharply focused, with realistic skin texture translated into a refined digital painting finish — not cartoonish, not exaggerated, not distorted. Surround the portrait with dynamic colorful paint splashes and expressive ink strokes, blending organically into the composition. Use bold yet controlled blue and orange tones for contrast and energy. Background: layered vintage newspaper collage texture with subtle typography fragments, distressed paper details, and abstract paint splashes integrated naturally into the layout. The collage should feel artistic but clean, not cluttered. Lighting: cinematic high-contrast lighting with dramatic highlights and controlled shadows, enhancing depth while maintaining natural facial realism. Color grading: vibrant but balanced, strong blue and orange contrast, modern poster aesthetic. Output: ultra-detailed, 4K resolution, clean edges, sharp rendering, professional poster art quality, modern digital illustration with realistic depth and premium finish",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11054-545-High-End-Digital-Painting-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11054-548-High-End-Digital-Painting-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,16 +590,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32515-203",
-      "title": "AI Shaved Ice Texture Correction",
-      "prompt": "Reduce the unpleasantness of the {argument name=\"dish name\" default=\"shaved ice\"} and correct it to a natural shape. The grain is coarse and looks unappetizingly weird, so do not change anything else, including the color tone.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32508-203",
+      "title": "Cinematic Golden Hour Cocktail Portrait",
+      "prompt": "Ultra-realistic 8K cinematic portraits, 3:4 vertical, uploaded reference for 100% face alignment. A confident man in a {argument name=\"clothing\" default=\"cream double-breasted linen suit\"}, open-collar white shirt, and tortoiseshell sunglasses {argument name=\"action\" default=\"pours cocktails behind a wooden bar\"} at {argument name=\"lighting\" default=\"golden hour\"}. Warm, cinematic key light from the left sculpts rich highlights and creamy shadows, evoking timeless luxury Camera: Leica SL2-S 85 mm f/1.4, ISO 100, f/1.8, 1/250 s. Shallow depth, high dynamic range, lomography grain, golden diffusion.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32515-203-AI-Shaved-Ice-Texture-Correction.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32508-203-Cinematic-Golden-Hour-Cocktail-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -628,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26929-377",
-      "title": "High Contrast Monochrome Male Portrait",
-      "prompt": "A cinematic high-contrast black-and-white portrait captured from a three-quarter side angle, featuring a {argument name=\"subject\" default=\"confident man\"} turning his face toward the camera while maintaining intense eye contact. His thick, textured dark hair is naturally tousled, complemented by a neatly groomed beard and mustache. Instead of lowering his sunglasses straight down, he lightly grips one temple of his {argument name=\"accessory\" default=\"classic double-bridge aviator sunglasses\"} with his right hand as if about to remove them, revealing one eye more prominently than the other. A bold square signet ring with a dark onyx inlay is visible on his right ring finger. He wears a fitted black button-up shirt with the top buttons undone and sleeves slightly rolled, adding a relaxed yet refined look. {argument name=\"lighting\" default=\"Soft directional lighting from behind and to the side\"} creates a dramatic rim light along his hairline, cheek, and hand while a gentle fill illuminates his eyes and facial texture. The background is a dark, softly blurred industrial wall with subtle texture and deep shadows. Ultra-realistic, editorial fashion photography, moody monochrome tones, fine film grain, shallow depth of field, 85mm lens, premium luxury campaign aesthetic, photorealistic, 8K",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26931-377",
+      "title": "Formal Menswear Coastal Editorial",
+      "prompt": "A {argument name=\"subject clothing\" default=\"handsome man in a sharp, pitch-black double-breasted suit layered over a crisp white shirt\"} stands perfectly centered in a medium-scale shot, exuding a sophisticated menswear aesthetic in a sharp, pitch-black double-breasted suit layered over a crisp white shirt with a defined V-neckline and a stark black tie. His posture is upright with level shoulders, facing the camera directly, while his head is turned sharply to the left in a strict profile. His sleek, slicked-back hair reflects the intense light, and vintage sunglasses obscure his eyes as he looks away with a serious, deliberately posed expression, his mouth resting in a closed, neutral line. Both of his hands are tucked away, resting relaxed in his suit pockets as he stands isolated against a {argument name=\"background\" default=\"deeply spacious, minimal coastal background\"}. The top and midground are dominated by a pristine, sky blue expanse completely devoid of clouds, meeting a dark ocean blue at the bottom of the frame that is subtly textured with gentle waves along a perfectly clear horizon line. The scene conveys a confident, formal isolation driven by {argument name=\"lighting style\" default=\"harsh, highly directional natural sunlight striking from the top right\"}. This bright, hard light establishes a dramatic, cool, and high-contrast color palette, casting deep black, harshly defined short shadows directly under his chin, beneath his nose, and across the left side of his face. Conversely, crisp specular highlights are meticulously preserved on the right side of his face, his hair, and his right shoulder, with absolutely no ambient fill to soften the intense blacks and vibrant blues. Captured on an 85mm lens as a realistic digital editorial photograph from a straight-on perspective, the tack-sharp image features a medium depth of field with zero grain, utilizing camera settings of ISO 100, f/5.6, and 1/1000s. The classic fashion photography influence is finalized by post-processing that applies a high contrast curve, a blue channel saturation boost, and crisp sharpening to highlight the subtle warm skin tones, with the entire composition gracefully framed in a 4:5 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26929-377-High-Contrast-Monochrome-Male-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26931-377-Formal-Menswear-Coastal-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11039-546",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11039-549",
       "title": "Detailed Ancient Martial Arts Movie Poster Prompt",
       "prompt": "Style 32: Ancient Martial Arts Brick Well Wall Low-Angle Style Complete Creation Guide [Style Overview] Style Name: Ancient Martial Arts Brick Well Wall Low-Angle Style Style Number: 32 Style Type: Ancient Martial Arts Movie Poster Core Aesthetics: Brick well wall inner courtyard low-angle shot, circular enclosed structure, multiple people surrounding, blood-red calligraphy, cold gray-blue tone, confined and oppressive [Core Features] Key Elements: ✅ Extremely low-angle shot (looking up from the ground of the brick well wall inner courtyard) ✅ Circular brick well wall structure background (not Tulou, not stone well, not dungeon, strictly adhering to reference image) ✅ Central protagonist (Reference Image 1) in the lower middle of the frame ✅ Four enemies surrounding (top left, top right, bottom left, bottom right) ✅ Bottom left character uses the appearance of Reference Image 2 ✅ Faded blue-gray ancient Hanfu clothing ✅ Top white light halo + blood-red calligraphy title ✅ Rough brick and wooden beam texture (strictly adhering to reference image) ✅ Cold gray-blue main color tone (desaturated, not pure blue) ✅ Rainy and humid atmosphere Atmosphere Positioning: Core Emotions: Tension, confinement, fatalism, confrontation, imprisonment, betrayal Visual Tone: Oppressive, severe, martial arts epic Cultural Context: Ancient martial arts, power struggle, desperate situation Color Scheme (Strictly referencing Reference Image 3, desaturated neutral cold gray-blue): Main Color: Desaturated cold gray-blue (#2A3038, #445058, #7A8890, #B0BEC5) Accent Color: Blood Red (#9D1A1A) - Only for the title Contrast: 60-70% (medium-high contrast) Saturation: 20-35% (low saturation, close to the desaturated feel of the reference image, avoid pure blue) Color Temperature: 3800-4200K (slightly cool tone, with a gray-brown base) [Core Instructions] As a world-class ancient martial arts movie poster photographer, create an ancient martial arts poster featuring a brick well wall inner courtyard low-angle shot for **[{argument name=\"protagonist character\" default=\"Reference Image 1 Character\"}] (Central Protagonist) and [{argument name=\"enemy character\" default=\"Reference Image 2 Character\"}] (Bottom Left Enemy)**. Five Core Requirements: 100% strict restoration of Reference Image 1 character as the central protagonist 100% strict restoration of Reference Image 2 character as the bottom left enemy Convert the temperament to ancient martial arts confrontation Fully capture the visual DNA of the reference image (brick well wall inner courtyard low-angle shot, circular enclosure, multiple people surrounding, cold gray-blue, blood-red title) Allow creative minor adjustments [I. Character Appearance Restoration] A. Central Protagonist (Reference Image 1) - Absolute Core Appearance Restoration: ✅ 100% restoration of Reference Image 1 Face shape, features, age, and physique are completely consistent Hair style: strictly according to Reference Image 1 No presets Expression: ✅ Determined, sharp, unyielding Eyes looking down Looking directly at the camera (low-angle perspective) Tight jawline Conveying \"determination in desperation\" Posture: ✅ Standing, leaning forward Facing the camera Right hand naturally hanging by the side Left hand partially visible Body slightly leaning forward, conveying confrontation B. Bottom Left Enemy (Reference Image 2) Appearance Restoration: ✅ 100% restoration of Reference Image 2 Face shape, features, and age are completely consistent Hair style: strictly according to Reference Image 2 No presets Attire: ✅ Gray-blue armor ✅ Dark helmet ✅ Arm guards, leather straps Posture: ✅ Crouching, holding a weapon Located in the bottom left of the frame Looking down at the central protagonist Aggressive posture Expression: ✅ Highly aggressive, full of confrontation C. Other Three Enemies (Non-Reference Images) Top Left Enemy: Attire: Gray-blue armor, dark helmet Posture: Leaning over the wooden beam of the brick well wall, gazing down Expression: Fierce, predatory Top Right Enemy: Attire: Gray-blue armor, dark helmet Posture: Leaning over the wooden beam of the brick well wall, gazing down Expression: Fierce, predatory Bottom Right Enemy: Attire: Green armor, dark helmet Posture: Standing, holding a sword Expression: Scornful, disdainful [II. Costume Design - Ancient Hanfu + Armor] Central Protagonist Costume (Reference Image 1): Ancient Hanfu (Core): ✅ Single-layer long robe Type: Ancient Hanfu long robe Color: Faded blue-gray (#4A6B73 - #8B9A9F) Fabric: Rough linen texture Wide sleeves, floor-length robe ✅ Dark brown belt Leather or cloth Tied around the waist ✅ Black leather wrist guards Both wrists Leather texture ✅ Sword at the waist Scabbard visible Ancient long sword Overall Style: \"Rough, simple, battle-damaged feel\" \"Faded, weathered\" \"Ancient martial arts hero\" Enemy Costumes: Gray-blue armor (Top Left, Top Right, Bottom Left): ✅ Metal or leather plates ✅ Dark helmet ✅ Leather straps, arm guards ✅ Weapons: Stone hammer, sword Green armor (Bottom Right): ✅ Green metal plates ✅ Dark helmet ✅ Holding a sword [III. Core Composition - Extremely Low-Angle Brick Well Wall Inner Courtyard Shot] Shooting Perspective (Absolute Core): Extremely low-angle shot, referencing Reference Image 3 angle (most crucial): ✅ Lens Type: Standard wide-angle lens, 16-24mm equivalent Not fisheye, no barrel distortion Architectural vertical lines naturally converge towards the circular skylight at the top ✅ Lens Position: Located on the ground of the brick well wall inner courtyard Extremely low position Looking upward (-60 degrees to -80 degrees) ✅ Perspective Effect: Central protagonist appears tall when viewed from below Surrounding brick well wall structure naturally converges towards the circular skylight at the top Circular well opening at the top, allowing diffused white light from the sky Conveying \"trapped beast fight\" / \"desperate counterattack\" Character Placement Layout: Central Protagonist (Reference Image 1): ✅ Position: Lower middle of the frame ✅ Proportion: Occupies 30-40% of the frame ✅ Gaze: Looking down, directly at the camera Four Enemies Surrounding: ✅ Top Left: Leaning over the upper wooden beam of the brick well wall, gazing down ✅ Top Right: Leaning over the upper wooden beam of the brick well wall, gazing down ✅ Bottom Left (Reference Image 2): Crouching on the courtyard ground, holding a weapon ✅ Bottom Right: Standing on the courtyard ground, holding a sword Visual Enclosure: ✅ Four enemies form a \"cage\"-like enclosure ✅ Asymmetrical layout ✅ Increases sense of oppression [IV. Background Design - Circular Brick Well Wall Inner Courtyard] Core Background (Absolute Core): Circular brick well wall inner courtyard (strictly adhering to reference image, not Tulou, not stone well, not dungeon): ✅ Structure: Circular brick well wall inner courtyard Surrounded by rough brick walls and multi-layered wooden beam structures The well wall narrows layer by layer upwards, converging to the circular well opening at the top Diameter approximately 15-20 meters, strong sense of depth ✅ Material: Rough brick wall surface, dark gray-brown, rough texture Wooden beams and structure, old and mottled Completely consistent with the reference image architecture material ✅ Texture Details: Layered brick texture, clear mortar joints Wood is old and weathered Water stains, moss Cracks, mottling ✅ Top Opening: Circular well opening Allows diffused white light from the overcast sky Creates a soft halo effect Atmosphere Effect: ✅ Confined, oppressive ✅ Rainy feel, humid ✅ Conveying \"cage\" / \"desperation\" [V. Lighting Design - Top Light + Cool Tone] Main Light - Top Opening Light (Core): Light Source Setting: ✅ Natural light from the top Coming from the circular opening of the well Shining from top to bottom Diffused white light from an overcast day, soft and not harsh Forms a halo effect Lighting Effect: Central Protagonist: ✅ Top light illuminates the head and shoulders ✅ Face is lit ✅ Lower body is slightly darker Enemies: ✅ Backlight or side light ✅ Clear rim light Brick Well Wall and Beams: ✅ Circular light and shadow ✅ Clear brick and wood texture ✅ Cold gray-blue tone Overall Atmosphere: ✅ Cool tone, gloomy ✅ Rainy weather feel ✅ Wet brick and wood surfaces [VI. Color Scheme - Cold Gray-Blue + Blood Red] Main Color Tone (Strictly referencing reference image, desaturated neutral cool tone): Cold gray-blue tone (not pure blue, with a gray-brown base): ✅ Dark gray-blue (#2A3038) - Shadows, armor ✅ Gray-blue (#445058) - Brick, wood ✅ Medium gray-blue (#7A8890) - Mid-tones ✅ Light gray-blue (#B0BEC5) - Highlights, sky light Accent Color: ✅ Blood Red (#9D1A1A) Only used for the title text High saturation (80-90%) The only warm color in the frame Overall Processing: Contrast: 60-70% (medium-high contrast) Saturation: 20-35% (low saturation, close to the desaturated feel of the reference image) Color Temperature: 3800-4200K (slightly cool tone, with a gray-brown base, not pure cold blue) Color Grading: Cold gray-blue + blood red accent [VII. Texture and Post-Processing - Humid Weathering] Skin Texture: ✅ No smoothing at all ✅ Realistic texture ✅ Slightly moist (rainwater",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11039-546-Detailed-Ancient-Martial-Arts-Movie-Poster-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11039-549-Detailed-Ancient-Martial-Arts-Movie-Poster-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -723,16 +742,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32512-204",
-      "title": "Spring Street Portrait with Tulips",
-      "prompt": "A woman stands on a city street, her body slightly turned three-quarters, shoulders relaxed, holding a {argument name=\"flowers\" default=\"large bouquet of tulips\"} to her chest with one hand and touching her neck with the other. Her head is slightly tilted, looking directly at the camera. A medium-shot portrait, chest-length, eye-level perspective. The composition is centered with a soft background blur and a distinct separation of the figure from the background. Skin with an even undertone, cool-pink eyeshadow, softly blended eyeshadow, a thin line of eyeliner along the lash line, elongated lashes, a subtle shimmer in the center of the lid, and lips with a creamy pink lipstick with a moderate sheen. Hair is styled in loose, voluminous waves with pronounced texture and a natural, diffused shine, strands softly framing the face and falling onto the shoulders. She is wearing a {argument name=\"accessory\" default=\"rich raspberry-colored wool beret\"}, a straight-cut coat of thick, matte blue fabric with defined shoulders, a knitted raspberry turtleneck, and a long, soft scarf matching the beret. She holds a dense bouquet of fresh tulips with closed, deep pink buds and dense green leaves, the stems gathered at the bottom and tied. The background is a {argument name=\"location\" default=\"Russian city street\"} with light-colored stone architecture. The building facades are blurred by the depth of field, the wall surface has a distinct texture, and the background fades gently into bokeh without sharp details. It's spring, wet asphalt with a small amount of nearly melted snow. The lighting is natural street lighting, diffused daylight from the front and side. Shot with an 85mm portrait lens. Shallow depth of field with sharp focus on the eyes and face.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32515-204",
+      "title": "AI Shaved Ice Texture Correction",
+      "prompt": "Reduce the unpleasantness of the {argument name=\"dish name\" default=\"shaved ice\"} and correct it to a natural shape. The grain is coarse and looks unappetizingly weird, so do not change anything else, including the color tone.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32512-204-Spring-Street-Portrait-with-Tulips.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32515-204-AI-Shaved-Ice-Texture-Correction.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -780,12 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26928-378",
-      "title": "South Asian Woman in Vibrant Bazaar",
-      "prompt": "\"subject\": {\"person\": {\"appearance\": \"{argument name=\"person appearance\" default=\"Young South Asian woman with a warm smile, featuring a slightly different facial structure compared to previous iterations, hair styled in an elegant updo bun tied at the back.\"}\",\"attire\": \"Wearing a deep maroon (burgundy) long-sleeved dress, intricately embroidered with golden traditional patterns along the neckline, sleeves, and hem.\"},\"animal\": {\"type\": \"{argument name=\"cat breed\" default=\"Fluffy, long-haired white Persian cat\"}\",\"action\": \"Being held gently in the woman's arms\"}},\"setting\": {\"location\": \"{argument name=\"market location\" default=\"Traditional Middle Eastern or South Asian outdoor market (bazaar) with a narrow stone-paved pathway.\"}\",\"background_elements\": [\"Overhead fabric canopies providing shade\",\"Stalls lined with vibrant textiles, rugs, and tapestries\",\"Tables displaying various colorful spices in bowls and traditional brass/copper metalware\",\"Blurred figures of people walking in the distance\"],\"lighting\": \"Warm, atmospheric golden-hour sunlight filtering through the market overheads, creating soft highlights and a rich, inviting mood.\"},\"technical_specifications\": {\"style\": \"Cinematic portrait photography\",\"quality\": \"4k resolution, highly detailed textures\",\"focus\": \"Sharp focus on the subject, shallow depth of field with a softly blurred background\",\"composition\": \"Full-length shot showing the subject seated on a wooden bench\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26929-378",
+      "title": "High Contrast Monochrome Male Portrait",
+      "prompt": "A cinematic high-contrast black-and-white portrait captured from a three-quarter side angle, featuring a {argument name=\"subject\" default=\"confident man\"} turning his face toward the camera while maintaining intense eye contact. His thick, textured dark hair is naturally tousled, complemented by a neatly groomed beard and mustache. Instead of lowering his sunglasses straight down, he lightly grips one temple of his {argument name=\"accessory\" default=\"classic double-bridge aviator sunglasses\"} with his right hand as if about to remove them, revealing one eye more prominently than the other. A bold square signet ring with a dark onyx inlay is visible on his right ring finger. He wears a fitted black button-up shirt with the top buttons undone and sleeves slightly rolled, adding a relaxed yet refined look. {argument name=\"lighting\" default=\"Soft directional lighting from behind and to the side\"} creates a dramatic rim light along his hairline, cheek, and hand while a gentle fill illuminates his eyes and facial texture. The background is a dark, softly blurred industrial wall with subtle texture and deep shadows. Ultra-realistic, editorial fashion photography, moody monochrome tones, fine film grain, shallow depth of field, 85mm lens, premium luxury campaign aesthetic, photorealistic, 8K",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26928-378-South-Asian-Woman-in-Vibrant-Bazaar.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26929-378-High-Contrast-Monochrome-Male-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11038-547",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-11038-550",
       "title": "Panoramic Cityscape in Qingming Festival Scroll Style (8:1 Aspect Ratio)",
       "prompt": "In the style of 'Along the River During the Qingming Festival,' draw a genre painting of a modern [{argument name=\"city\" default=\"city\"}], 8:1 aspect ratio, 2K.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11038-547-Panoramic-Cityscape-in-Qingming-Festival-Scroll-Style-8-1-Aspect-Ratio.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-11038-550-Panoramic-Cityscape-in-Qingming-Festival-Scroll-Style-8-1-Aspect-Ratio.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32513-205",
-      "title": "Mediterranean Yacht Club Editorial",
-      "prompt": "A young adult male with dark curly hair sits casually at a 45-degree angle towards the right, gazing downward through geometric sunglasses with a serious, focused, and candid expression. He is dressed in a fitted warm gray long-sleeve crewneck shirt, maintaining relaxed, perfectly level shoulders. His right hand holds the top right edge of a dark open menu, his thumb resting naturally on the front cover pointing slightly upward while his fingers remain organically tucked behind. The scene unfolds on a waterfront restaurant patio, where he sits straight on at eye level behind a wooden table in the immediate foreground. This table arrangement features an empty pristine clear wine glass catching bright light reflections, a small worn light-wood traditional pepper grinder, a new clear glass olive oil bottle containing dark golden oil, a white plate with a cloth napkin, a vintage woven wicker chair back exhibiting a light tan and pale blue-green pattern, and a smooth dark olive-green pot blooming with vibrant white Kalanchoe flower clusters. Behind him, a worn silver metallic patio umbrella pole extends vertically out of frame, giving way to a deep, gently soft background revealing a Mediterranean seaside environment with distant landmasses under a cloudy blue summer sky, alongside massive multi-deck white luxury motor yachts featuring dark tinted windows and radar domes resting on deep ocean blue waters. The atmosphere is illuminated by bright, highly directional hard natural sunlight striking from the front and top right at a 45-degree angle, bathing the scene in a warm golden light with absolutely no ambient fill. This intense single light source creates an energetic, highly saturated, and high-contrast environment, casting short, deep black, harsh-edged shadows under his chin, onto his cheeks from his sunglasses, and beneath the foreground objects, while preserving crisp specular highlights on his textured hair, shoulders, the rims of the glassware, and the brilliant white yachts. The luxurious, breezy seaside dining aesthetic is captured as a medium-shot editorial digital photograph with a clean, structured visual style and a complementary palette emphasizing deep ocean blue, warm gray, crisp white, and warm wood tones. Shot with a 35mm lens at f/4 and a fast 1/1000s shutter speed at ISO 100 to ensure tack-sharp focus on the subject while retaining context in the distinct but naturally blurred background, the image utilizes post-processing that enhances blue and white saturation, slightly lifts shadows to maintain the dark shirt's detail, and warms the overall white balance to emphasize the sunny Mediterranean atmosphere, all perfectly framed in a 4:5 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32512-205",
+      "title": "Spring Street Portrait with Tulips",
+      "prompt": "A woman stands on a city street, her body slightly turned three-quarters, shoulders relaxed, holding a {argument name=\"flowers\" default=\"large bouquet of tulips\"} to her chest with one hand and touching her neck with the other. Her head is slightly tilted, looking directly at the camera. A medium-shot portrait, chest-length, eye-level perspective. The composition is centered with a soft background blur and a distinct separation of the figure from the background. Skin with an even undertone, cool-pink eyeshadow, softly blended eyeshadow, a thin line of eyeliner along the lash line, elongated lashes, a subtle shimmer in the center of the lid, and lips with a creamy pink lipstick with a moderate sheen. Hair is styled in loose, voluminous waves with pronounced texture and a natural, diffused shine, strands softly framing the face and falling onto the shoulders. She is wearing a {argument name=\"accessory\" default=\"rich raspberry-colored wool beret\"}, a straight-cut coat of thick, matte blue fabric with defined shoulders, a knitted raspberry turtleneck, and a long, soft scarf matching the beret. She holds a dense bouquet of fresh tulips with closed, deep pink buds and dense green leaves, the stems gathered at the bottom and tied. The background is a {argument name=\"location\" default=\"Russian city street\"} with light-colored stone architecture. The building facades are blurred by the depth of field, the wall surface has a distinct texture, and the background fades gently into bokeh without sharp details. It's spring, wet asphalt with a small amount of nearly melted snow. The lighting is natural street lighting, diffused daylight from the front and side. Shot with an 85mm portrait lens. Shallow depth of field with sharp focus on the eyes and face.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32513-205-Mediterranean-Yacht-Club-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32512-205-Spring-Street-Portrait-with-Tulips.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26824-379",
-      "title": "Cyberpunk Urban Fashion Portrait",
-      "prompt": "A {argument name=\"subject\" default=\"confident young woman with shoulder-length wavy brown hair\"} wearing a {argument name=\"clothing\" default=\"plain white oversized t-shirt and small gold hoop earrings\"}, standing in the middle of a busy urban street surrounded by tall skyscrapers, low-angle portrait, cinematic composition. {argument name=\"aesthetic style\" default=\"Vibrant cyberpunk aesthetic with neon magenta, lime green, and cyan graffiti-style hand-drawn scribbles\"} outlining her silhouette and clothing. Abstract holographic chrome floating objects, translucent geometric shapes, RGB glitch effect, chromatic aberration, dreamy haze, analog film grain, light leaks, vibrant color grading, surreal digital art mixed with realistic photography, editorial fashion campaign, ultra-detailed, sharp facial features, shallow depth of field, high contrast, 8K, premium magazine cover, futuristic streetwear vibe.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26824-379-Cyberpunk-Urban-Fashion-Portrait.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Product Marketing"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
       "license": "upstream",
       "createdAt": null
     }

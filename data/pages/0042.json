@@ -2,11 +2,30 @@
   "items": [
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-13",
+      "title": "Profile / Avatar - Cafe Portrait Prompt for GPT Image 2",
+      "prompt": "A high-resolution photorealistic eye level portrait of a young East Asian woman with soft natural makeup, glowing skin subtle blush and glossy pink lipstick resting her chin gently on her hand while sitting at an outdoor cafe She has dark brown hair styled in a messy high bun with face framing strands. She is wearing a relaxed-fit unbuttoned white linen button-down shirt over a white tank top, light blue denim jeans a delicate gold pendant necklace, small stud earrings, and a smartwatch with a maroon strap Bright warm, natural sunlight casts dappled shadows from leafy trees in the background, creating a cozy and aesthetic lifestyle aesthetic Depth of field with a softly blurred outdoor cafe setting. Shot on 85mm lens, f/1.8, 8k resolution.",
+      "media": "image",
+      "model": "GPT Image 2",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-13-Profile-Avatar-Cafe-Portrait-Prompt-for-GPT-Image-2.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 2",
+        "Portrait"
+      ],
+      "author": "Lavinia",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-14",
       "title": "Profile / Avatar - Realistic Outdoor Selfie Streetwear",
       "prompt": "A realistic outdoor selfie of a young woman with long, straight light-brown hair, standing on a city street in bright natural daylight. She wears a stylish red-and-black striped oversized top with graphic lettering, black shoulder straps, and a casual streetwear aesthetic. She holds the camera at arm’s length for a close-up selfie, slightly tilting her head toward the camera, making a playful duck-face expression while raising one arm and lightly flexing her fist. Natural makeup, defined eyes, soft skin texture, detailed hair strands, confident playful pose. Background features a parked vintage beige car, paved street, greenery, modern buildings, and a pink storefront edge. Warm daylight, candid social-media photography, realistic proportions, sharp facial details, shallow depth of field, high-resolution smartphone camera look, vertical 4:5 composition.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-13-Profile-Avatar-Realistic-Outdoor-Selfie-Streetwear.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-14-Profile-Avatar-Realistic-Outdoor-Selfie-Streetwear.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -20,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-14",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-15",
       "title": "Profile / Avatar - GPT Image 2 Prompt: Cafe Outfit Portrait",
       "prompt": "Subject:\nBraided hair at coffee shop.\n\nMain Subject:\nWoman sitting before cake and coffee at wooden cafe seat is the protagonist, centered.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, well-defined nose, glossy pale peach lips. Face turned slightly left, looking at camera with modest smile. Dark brown hair gathered high, leaving large clip and loose strands.\n\nClothing & Pose:\nBeige gathered halter-neck top and dark grey wide cargo pants. Sitting on chair with legs crossed diagonally, hands lightly overlapped near thighs.\n\nBackground & Light:\nSmall cafe with wooden walls and shelves, round table in foreground with cake on white plate and dark coffee. Warm natural light from front-left softly illuminates cheeks and top.\n\nComposition & Camera:\n3:4 vertical composition, diagonal frontal camera slightly lower than seat capturing full body from head to near feet. Character placed largely in right half. Chair and table naturally cropped at edges, focus on face and gathered top, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin, hair, clothing materials, and surrounding props; maintain calm colors of wood tone, beige, dark grey.\n\nNegative:\nChange halter top; omit cake and coffee.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-14-Profile-Avatar-GPT-Image-2-Prompt-Cafe-Outfit-Portrait.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-15-Profile-Avatar-GPT-Image-2-Prompt-Cafe-Outfit-Portrait.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-15",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-16",
       "title": "Profile / Avatar - GPT Image 2 Identity Replacement Template",
       "prompt": "{\n  \"prompt_type\": \"reference_template_identity_replacement\",\n\n  \"CORE_RULE\": \"Use the supplied image as a locked photographic template. Preserve the photograph as closely as possible, but replace the woman's facial identity with a completely different fictional adult woman.\",\n\n  \"PRESERVE\": [\n    \"exact pose and body position\",\n    \"head angle and gaze direction\",\n    \"camera angle, height, perspective and framing\",\n    \"subject scale and crop\",\n    \"background and environment\",\n    \"lighting and shadows\",\n    \"hairstyle, hair length and placement\",\n    \"ALL clothing exactly as shown in the reference\",\n    \"ALL accessories and jewelry exactly as shown in the reference\",\n    \"glasses, if present\",\n    \"clothing colors, materials, patterns, fit and silhouette\",\n    \"jewelry type, placement and appearance\",\n    \"overall smartphone photography aesthetic\"\n  ],\n\n  \"IDENTITY_CHANGE\": {\n    \"instruction\": \"Create a completely different fictional adult woman. Do not preserve the reference woman's recognizable identity or facial structure.\",\n    \"change\": [\n      \"face shape\",\n      \"eyes and eye spacing\",\n      \"eyebrows\",\n      \"nose\",\n      \"cheekbones\",\n      \"jawline\",\n      \"chin\",\n      \"lips\",\n      \"overall facial proportions\"\n    ],\n    \"rule\": \"The new woman must clearly look like a different person while keeping the same photograph composition.\"\n  },\n\n  \"CLOTHING_AND_ACCESSORIES\": {\n    \"instruction\": \"Do not invent, redesign or recolor the wardrobe. Automatically copy the clothing and accessories visible in the supplied reference image.\",\n    \"preserve\": [\n      \"top or shirt\",\n      \"bottoms\",\n      \"dress or outerwear if present\",\n      \"shoes if visible\",\n      \"glasses if present\",\n      \"necklaces\",\n      \"earrings\",\n      \"rings\",\n      \"bracelets\",\n      \"watches\",\n      \"all other visible accessories\"\n    ],\n    \"important\": \"Whatever the woman is wearing or carrying in the reference must remain visually consistent in the generated image.\"\n  },\n\n  \"PHOTOGRAPHY\": {\n    \"style\": \"authentic candid smartphone photograph\",\n    \"realism\": \"extreme photorealism\",\n    \"skin\": \"natural pores and realistic imperfections\",\n    \"processing\": \"natural smartphone HDR\",\n    \"retouching\": \"minimal and believable\"\n  },\n\n  \"CLEANUP\": [\n    \"remove text\",\n    \"remove watermarks\",\n    \"remove logos\",\n    \"remove captions\",\n    \"remove UI elements\",\n    \"remove screen borders\",\n    \"remove black strips or borders\"\n  ],\n\n  \"NEGATIVE_PROMPT\": [\n    \"same woman\",\n    \"same face\",\n    \"facial duplicate\",\n    \"recognizable identity\",\n    \"different pose\",\n    \"different camera angle\",\n    \"different framing\",\n    \"different background\",\n    \"different clothing\",\n    \"different accessories\",\n    \"invented jewelry\",\n    \"invented clothing\",\n    \"changed clothing color\",\n    \"missing accessories\",\n    \"missing glasses\",\n    \"CGI\",\n    \"3D render\",\n    \"plastic skin\",\n    \"airbrushed skin\",\n    \"anime\",\n    \"illustration\",\n    \"extr\"\n}",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-15-Profile-Avatar-GPT-Image-2-Identity-Replacement-Template.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-16-Profile-Avatar-GPT-Image-2-Identity-Replacement-Template.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-16",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-17",
       "title": "Profile / Avatar - Realistic Travel Photo Prompt",
       "prompt": "Create an ultra-photorealistic candid smartphone travel photograph based closely on the uploaded reference image.\nA young woman is sitting naturally on the edge of an ancient weathered stone fortress wall beside a narrow historic cobblestone street. She is positioned on the right side of the frame, sitting sideways on the stone ledge while looking toward the camera with a warm, natural smile.\nShe has long dark brown-black hair, softly styled with loose natural strands around her face and shoulders, and is wearing a wide leopard-print headband. Her face has natural realistic skin texture, subtle pores, tiny imperfections, minimal makeup, natural eyebrows, realistic eyes and lips. Preserve a believable real-person appearance rather than a polished AI-model look.\nShe is wearing an elegant cream-white long-sleeve fitted top with subtle vertical ribbed texture and a long flowing cream-white skirt. The clothing should have realistic fabric fibers, natural folds, wrinkles and weight. She is wearing casual black-and-white sneakers, with the shoes and feet positioned naturally on the lower stone wall.\nHer hands are resting naturally together in her lap. Her posture is relaxed and slightly leaning toward the stone wall, with realistic body proportions and anatomy.\nThe environment is an authentic old European/Mediterranean historic district. Behind her is a massive ancient stone fortress wall made from irregular weathered beige and gray stone blocks, with visible rough texture, cracks, age marks and uneven mortar. The wall extends deep into the background and creates strong natural perspective.\nOn the left side, a narrow steep cobblestone street descends into the distance. The street contains small distant pedestrians and a dark vehicle, with historic buildings partially visible farther down the hill. A leafy green tree rises beside the old wall. The distant buildings should remain naturally detailed but slightly softer due to depth.\nLighting: warm late-afternoon golden sunlight coming from the left, softly illuminating the woman's face, cream clothing and ancient stone wall. Realistic warm highlights and natural cool shadows. The atmosphere should feel like a genuine travel photograph taken during golden hour.\nCamera: modern smartphone camera, vertical 4:3 composition, approximately 26mm equivalent lens, camera positioned at standing eye level slightly across from the woman, natural wide-angle perspective, realistic smartphone HDR, subtle exposure variation, authentic handheld framing, natural depth of field.\nThe image should retain the casual imperfections of real smartphone photography: tiny exposure inconsistencies, realistic digital detail, subtle lens softness, natural shadows, imperfect framing and believable perspective.\nExtremely realistic skin, individual hair strands, realistic stone texture, authentic fabric fibers, physically accurate shadows, natural shoe texture, realistic hands and fingers, believable architecture and a",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-16-Profile-Avatar-Realistic-Travel-Photo-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-17-Profile-Avatar-Realistic-Travel-Photo-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-17",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-18",
       "title": "Profile / Avatar - Anime Girl in Cross-Leg Fashion Pose",
       "prompt": "A full-body anime-style illustration of a young woman standing in a minimalist, bright indoor space with large windows casting soft shadows on the floor. She has shoulder-length pink hair with teal-blue tips and blue eyes, looking back over her shoulder toward the viewer with a calm expression. She wears a crisp white button-up shirt tucked into high-waisted black wide-leg trousers with a side slit, paired with chunky black heeled ankle boots. One hand rests casually in her pocket while the other hangs relaxed at her side. The lighting is natural and diffused, creating a clean, modern fashion aesthetic.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-17-Profile-Avatar-Anime-Girl-in-Cross-Leg-Fashion-Pose.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-18-Profile-Avatar-Anime-Girl-in-Cross-Leg-Fashion-Pose.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,31 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-18",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-19",
       "title": "Profile / Avatar - GPT Image 2 Prompt: Gray Gym Rest",
       "prompt": "Subject:\nGray Gym Rest\n\nMain Subject:\nFrom center to right of frame, a woman lying prone on an inorganic gym floor, looking at camera over a barbell.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, neat nose, glossy pale pink lips. Face forward, gaze meeting camera in calm serious expression. Long dark brown hair loosely disheveled, wearing large black headphones.\n\nClothing & Pose:\nPale gray sports bra top and high-waist leggings pants, white sneakers. Both elbows on floor, upper body raised, legs extended back behind black barbell crossing foreground.\n\nBackground & Light:\nDark concrete-style gym with black racks, weights, benches. Soft white lighting from top-left illuminates cheeks and shoulders.\n\nComposition & Camera:\n3:4 vertical composition, low frontal camera near floor capturing full body from top of head to shoes. Person placed largely diagonally in right half. Barbell cropped at side edges, focus on face and upper body, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin and hair, costume materials, surrounding props, maintaining low saturation of gray, black, and skin tone.\n\nNegative:\nChange to standing pose; omit barbell and headphones",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-18-Profile-Avatar-GPT-Image-2-Prompt-Gray-Gym-Rest.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "GPT Image 2",
-        "Portrait"
-      ],
-      "author": "Prompt アトリエ｜AI画像プロンプト",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-19",
-      "title": "Profile / Avatar - GPT Image 2 Prompt: Dryer Circular Echo",
-      "prompt": "Subject:\nDryer's Circular Echo\n\nMain Subject:\nCenter of the frame, full body of a woman sitting on a wooden bench visible through multiple opened circular doors of large dryers.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, neat nose, glossy pale pink lips. Profile facing lower right, gaze dropped to floor in melancholy quiet expression. Dark brown hair in casual bun on top, thin bangs and stray hairs along cheeks.\n\nClothing & Pose:\nBeige thin-strap rib camisole top, black loose wide pants, black thick-heel sandals with ankle straps. Sitting sideways on wooden bench, left leg crossed over right, right hand on thigh, left arm lowered behind body.\n\nBackground & Light:\nForeground with triple large metal circular doors, notices and wooden bench on left, white dryers and Japanese signboard on right. Hard fluorescent light from above and soft light from back window illuminate person and metal rings.\n\nComposition & Camera:\n2:3 vertical composition, portrait capturing full body from top of head to sole of shoes through circular doors. Person placed small in lower center. Large circular frames cropped at screen edges, focus on person and concentric doors, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin and hair, costume materials, surrounding props, maintaining retro indoor light of silver, white, black, and wood.\n\nNegative:\nOmit dryer concentric circles; change bench sitting or black pants",
-      "media": "image",
-      "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-19-Profile-Avatar-GPT-Image-2-Prompt-Dryer-Circular-Echo.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-19-Profile-Avatar-GPT-Image-2-Prompt-Gray-Gym-Rest.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -135,11 +135,30 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-20",
+      "title": "Profile / Avatar - GPT Image 2 Prompt: Dryer Circular Echo",
+      "prompt": "Subject:\nDryer's Circular Echo\n\nMain Subject:\nCenter of the frame, full body of a woman sitting on a wooden bench visible through multiple opened circular doors of large dryers.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, neat nose, glossy pale pink lips. Profile facing lower right, gaze dropped to floor in melancholy quiet expression. Dark brown hair in casual bun on top, thin bangs and stray hairs along cheeks.\n\nClothing & Pose:\nBeige thin-strap rib camisole top, black loose wide pants, black thick-heel sandals with ankle straps. Sitting sideways on wooden bench, left leg crossed over right, right hand on thigh, left arm lowered behind body.\n\nBackground & Light:\nForeground with triple large metal circular doors, notices and wooden bench on left, white dryers and Japanese signboard on right. Hard fluorescent light from above and soft light from back window illuminate person and metal rings.\n\nComposition & Camera:\n2:3 vertical composition, portrait capturing full body from top of head to sole of shoes through circular doors. Person placed small in lower center. Large circular frames cropped at screen edges, focus on person and concentric doors, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin and hair, costume materials, surrounding props, maintaining retro indoor light of silver, white, black, and wood.\n\nNegative:\nOmit dryer concentric circles; change bench sitting or black pants",
+      "media": "image",
+      "model": "GPT Image 2",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-20-Profile-Avatar-GPT-Image-2-Prompt-Dryer-Circular-Echo.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 2",
+        "Portrait"
+      ],
+      "author": "Prompt アトリエ｜AI画像プロンプト",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-21",
       "title": "Profile / Avatar - Portrait of Woman in Pink Saree",
       "prompt": "A photorealistic portrait of a beautiful young South Asian woman with long, voluminous dark brown wavy hair cascading over her right shoulder. She has fair skin, expressive brown eyes looking slightly off-camera to the left, and soft pink lips. She is wearing a delicate light pink saree with intricate silver embroidery along the border and scattered embellishments on the fabric. Her accessories include large, ornate silver jhumka earrings, a heavy statement silver necklace with detailed filigree work, and a stack of silver bangles on her wrist. The lighting is dramatic, with a warm reddish glow illuminating her face from the side against a dark, blurred background, creating an elegant and moody atmosphere.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-20-Profile-Avatar-Portrait-of-Woman-in-Pink-Saree.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-21-Profile-Avatar-Portrait-of-Woman-in-Pink-Saree.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-21",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-22",
       "title": "Profile / Avatar - Bottle Mouth Night Selfie Prompt",
       "prompt": "Subject:\nBottle mouth night selfie\n\nMain Subject:\nA close-up selfie of a woman leaning over a wooden table, lips touching the mouth of a transparent beverage bottle, is the main subject in the center of the screen.\n\nCharacter & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, well-defined nose, glossy pale peach lips. Face turned forward, gaze strongly meeting the camera, playful expression with lips resting on the bottle mouth. Long straight dark brown hair hangs onto the desk with thin bangs and strands framing the face.\n\nClothing & Pose:\nPlain black short-sleeved T-shirt. Upper body leaning over the wooden table, both arms extended forward, supporting the mouth of the upright transparent bottle with lips.\n\nBackground & Light:\nGlass bottle with cloudy drink in the foreground center, metal appliance in the background right, wood-grain desk in the lower half. Hard indoor light from the upper left creates bright reflections on the face, hair, bottle, and desk.\n\nComposition & Camera:\n3:4 vertical composition, close-up frontal selfie camera just above the table surface capturing a chest-up close-up from crown to shoulders and bottle bottom. Portrait with person placed largely in the center. Arms cropped at left and right edges, focus on both eyes and bottle mouth, background slightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High definition of natural skin, hair, clothing materials, and surrounding props, maintaining natural indoor colors of wood tone, black, and transparent glass.\n\nNegative:\nChange of lips touching bottle mouth; omission of wooden desk or black T-shirt",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-21-Profile-Avatar-Bottle-Mouth-Night-Selfie-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-22-Profile-Avatar-Bottle-Mouth-Night-Selfie-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-22",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-23",
       "title": "Profile / Avatar - Photorealistic Bedroom Selfie Prompt",
       "prompt": "A photorealistic close-up lifestyle selfie of a young woman relaxing indoors on a bed. She has long, thick, naturally wavy dark brown hair spread loosely around her shoulders, with soft face-framing strands. She has natural fair skin, subtle rosy cheeks, softly defined eyes, and glossy natural lips. She looks directly into the camera with a calm, slightly dreamy expression.\nShe is wearing a dark forest-green fitted graphic T-shirt with a vintage-style cream printed design and lettering. Her pose is relaxed and casual, leaning comfortably on the bed while taking the selfie from a slightly elevated angle. The image has a spontaneous, intimate everyday-photo feeling rather than a formal portrait.\nThe background is a bright, cozy modern bedroom with a neatly made bed, large windows covered by sheer white curtains, a wall-mounted black television, white shelving with books and small decorative objects, and a glass vase filled with small yellow flowers. Warm natural daylight enters through the curtains, creating soft highlights across her hair and face.\nComposition: vertical portrait, close-up to medium framing, slightly tilted camera angle, face and upper body dominant in the frame, natural smartphone selfie perspective.\nLighting: soft window daylight, gentle warm highlights, realistic shadows, subtle indoor ambient light, natural skin tones.\nPhotography style: ultra-realistic smartphone photography, authentic candid selfie aesthetic, detailed skin texture, individual hair strands, realistic fabric texture, shallow depth of field, natural color grading, subtle film grain, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, artificial hair, over-smoothed skin, oversaturated colors, excessive blur, low resolution, text, watermark, logo.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-22-Profile-Avatar-Photorealistic-Bedroom-Selfie-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-23-Profile-Avatar-Photorealistic-Bedroom-Selfie-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-23",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-24",
       "title": "Profile / Avatar - Analog Film Portrait Style",
       "prompt": "Vertical 2:3 analog portrait—intimate and spontaneous—shot in close proximity to the model using a 35mm point-and-shoot film camera. A close-up of the face and shoulders; the camera is positioned slightly above eye level, creating a tight, natural composition.\n\nLit by a direct, in-camera flash positioned frontally near the optical axis; the skin appears very fair and luminous, with soft highlights on the nose, cheeks, and lips. The shoulder is slightly overexposed, set against a dark indoor background with a rapid light fall-off.\n\nAesthetic reminiscent of Japanese film photography from the late 90s and early 2000s: fine-to-medium analog grain, slightly soft definition, organic micro-blur, and an absence of excessive digital sharpness. Blacks are slightly lifted, contrast is moderate, and highlights are compressed and creamy, featuring a very subtle bloom and slight halation around the brightest areas.\n\nAnalog color grading featuring cream, pale pink, and peach highlights; slightly warm porcelain skin tones; very soft yellowish midtones; and teal and muted cyan shadows. Moderately reduced saturation, a slight aged-film cast, and the look of a scanned negative.\n\nCreate strong, layered depth. In the extreme foreground—partially framing the edges of the photo—include the skull shown in the reference, cropped at the margins and heavily blurred due to the shallow depth of field; some white elements catch the flash and appear partially overexposed. In the upper background, include more blurred decorative skull motifs and diffuse warm light.\n\nThe face remains the primary focal point; the eyes are relatively defined yet retain a soft, analog photographic quality, set against a background of diffuse bokeh and deep shadows. The image has the look of an authentic, imperfect, and personal snapshot, evoking a nostalgic, dreamy, *kawaii*, and slightly melancholic atmosphere. Simulation of a compact 35–45mm equivalent lens, approximate f/2.8–f/4 aperture, close focusing distance, direct flash, ISO 400–800 film, slightly aged scan, authentic photographic texture; no CGI look, no plastic-looking skin, no HDR, no digital sharpening, no professional studio lighting, no perfectly clean background, no overly saturated colors.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-23-Profile-Avatar-Analog-Film-Portrait-Style.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-24-Profile-Avatar-Analog-Film-Portrait-Style.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-24",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-25",
       "title": "Profile / Avatar - Pakistani Shalwar Kameez Garden Portrait",
       "prompt": "Create a photorealistic full-body portrait of a young South Asian woman standing gracefully in a beautiful lush green garden. She is wearing an elegant ivory-white traditional Pakistani 3-piece shalwar kameez with delicate mustard-yellow floral block prints and subtle green leaf patterns. The long straight-cut kameez has detailed floral motifs and embroidered borders, paired with matching trousers. A lightweight sheer white dupatta with beautiful mustard floral prints and an intricate decorative border is draped naturally over both shoulders and held gracefully in her hands. She has long, soft wavy dark-brown hair, center-parted, natural makeup, defined eyebrows, soft pink lips, small traditional jhumka earrings, and a delicate necklace. Natural relaxed expression, graceful standing pose, hands gently clasped in front. Beige open-toe heels. Beautiful garden pathway surrounded by colorful flowers, green bushes and large trees in the background. Soft natural daylight, warm tones, realistic skin texture, shallow depth of field, creamy background bokeh, professional fashion photography, 85mm lens, high detail, photorealistic, elegant Pakistani fashion editorial, vertical 4:5 composition. Preserve natural facial proportions and realistic fabric texture, no artificial or plastic skin, no text, no watermark.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-24-Profile-Avatar-Pakistani-Shalwar-Kameez-Garden-Portrait.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-25-Profile-Avatar-Pakistani-Shalwar-Kameez-Garden-Portrait.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-25",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-26",
       "title": "Profile / Avatar - Oversized Head Cartoon Caricature Prompt",
       "prompt": "UPLOAD A REFERENCE IMAGE BEFORE GENERATING.\n\nMAIN PROMPT\nUsing the uploaded photo as the primary reference, transform ONLY the main subject into a charming oversized-head hand-drawn cartoon caricature. The head must be dramatically exaggerated, approximately 45–60% of the character’s visual height, with a compact, much smaller body. Preserve the subject’s recognizable identity and defining characteristics while keeping the original photograph and environment fully recognizable.\n\nFORMAT LOCK\nVertical 3:4. Preserve the original framing, camera angle, perspective, depth, subject placement, pose, orientation, and composition. Keep the photographic environment unchanged.\n\nSTYLE TRANSFER\nCreate a naïve children’s-book caricature with a deliberately huge, subject-specific head, enlarged forehead and cheeks, tiny simplified body, short limbs, small hands and feet, and a cute humorous proportion. Adapt the head shape, silhouette, hairstyle, hairline, facial hair, ears, beak, hat, helmet, or other defining features specifically to the original subject. Never use a generic circular head.\n\nDETAIL & COLOR\nPreserve facial structure, expression, skin tone, hairstyle, facial hair, clothing, accessories, patterns, logos, shoes, jewelry, and distinctive details. Use simple dot/oval eyes, tiny simplified nose, curved mouth, subtle cheeks when appropriate, soft natural colors, visible colored-pencil strokes, rough hatching, cross-hatching, uneven fills, overlapping strokes, imperfect edges, and subtle paper texture.\n\nCOMPOSITION LOCK\nTransform ONLY the main subject. Keep the entire background photorealistic, including architecture, landscape, furniture, vehicles, scenery, lighting, depth, perspective, and atmosphere. Integrate the illustrated character naturally into the original scene with matching position, perspective, lighting direction, and subtle grounding shadows.\n\nSTYLE\nLoose hand-drawn ink and colored-pencil caricature, charming, whimsical, naïve, expressive, handmade, slightly imperfect. Thin-to-medium organic black outlines, rough pencil texture, spontaneous sketch marks, simplified clothing, exaggerated oversized head, tiny body. The contrast between the realistic photograph and illustrated subject should be intentional and visually striking.\n\nNEGATIVE PROMPT\nNormal head proportions, small head, generic head shape, generic cartoon character, identical head shape across subjects, photorealistic subject, cartoonized background, fully illustrated scene, anime, vector art, 3D CGI, Pixar, Disney, glossy digital rendering, plastic texture, smooth gradients, polished graphics, altered identity, changed hairstyle, changed clothing, changed pose, distorted facial features, excessive facial detail, oversized body, realistic anatomy, unnecessary background changes.\n\nASPECT RATIO: 3:4",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-25-Profile-Avatar-Oversized-Head-Cartoon-Caricature-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-26-Profile-Avatar-Oversized-Head-Cartoon-Caricature-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -242,25 +261,6 @@
         "Product"
       ],
       "author": "Visual AI Club",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-26",
-      "title": "Profile / Avatar - Greenhouse Cafe Portrait Prompt",
-      "prompt": "Subject:\nGreenhouse Green Knit\n\nMain Subject:\nCenter of the screen, a young woman standing in a glass greenhouse with flowers and a fountain. The main focus is on her dusty green deep V-neck knit top, white long skirt, and white shoulder bag.\n\nCharacter & Expression:\nSlim oval face, small chin, large light brown eyes, thin eyebrows, well-defined nose, glossy pale pink lips. Face tilted slightly left, gentle smile with gaze directed at the front camera. Long wavy bright brown hair with thin bangs and strands framing the face.\n\nClothing & Pose:\nDusty sage green vertical ribbed knit top with thick shoulder straps, deep crossed V-neck, and three gold buttons on the right side. White long flare skirt made of light fabric with a thin belt, white shoulder bag. Standing, holding the bag strap with left hand, right arm lowered naturally.\n\nBackground & Light:\nWhite flowers and greenery on left and right, stone fountain on right, background features large black-framed arched windows and greenhouse structure, blurred customers and tables. Soft sunlight enters from the large window at top right onto hair, face, and clothes, creating circular light points on leaves and water.\n\nComposition & Camera:\n3:4 vertical composition, front camera at waist height capturing three-quarter portrait from head to below knees. Person placed largely in center, flowers on left, fountain on right. Hem cut off at bottom edge, focus on face and eyes, background heavily blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High definition for natural skin, ribbed knit, white fabric, leather bag, flowers, leaves, and water reflections, with warm greenhouse light in sage, white, and gold tones.\n\nNegative:\nChange green knit and white skirt; omit greenhouse flower scene",
-      "media": "image",
-      "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-26-Profile-Avatar-Greenhouse-Cafe-Portrait-Prompt.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "GPT Image 2",
-        "Portrait"
-      ],
-      "author": "Prompt アトリエ｜AI画像プロンプト",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -287,11 +287,30 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-28",
+      "title": "Social Media Post - Photorealistic Meal Prep Jars Food Photography",
+      "prompt": "Create a photorealistic lifestyle food photography scene featuring four clear glass meal-prep jars arranged on a clean light-colored kitchen countertop. Each jar has a natural bamboo wooden lid with a white sealing ring.\n\nThe jars contain beautifully layered Mexican-inspired chicken salads, with clearly separated colorful layers from bottom to top: diced cucumber, cherry tomatoes, red onion, red bell pepper, sweet corn, black beans, crumbled Cotija cheese, fresh chopped romaine lettuce, and shredded cooked chicken. Keep every ingredient fresh, vibrant, crisp, and visibly distinct through the transparent glass.\n\nPlace two jars in the foreground and two slightly behind them for depth and composition. Warm modern kitchen background with subtle wooden cabinets, soft natural daylight coming from a window, shallow depth of field, realistic reflections on the glass, soft shadows, premium food photography, natural colors, high detail, realistic textures, 4K, editorial meal-prep aesthetic.\n\nOn the right side, include a neat handwritten-style ingredient list reading:\n“Shredded Chicken\nRomaine\nCojita\nBlack beans\nCorn\nRed pepper\nRed onion\nCherry tomatoes\nCucumber”\n\nVertical composition, realistic proportions, clean and appetizing presentation, professional commercial food photography.",
+      "media": "image",
+      "model": "GPT Image 2",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-28-Social-Media-Post-Photorealistic-Meal-Prep-Jars-Food-Photography.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 2",
+        "Creative"
+      ],
+      "author": "Dua Fatima",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-29",
       "title": "Social Media Post - High-Fashion Summer Editorial with GPT Image 2",
       "prompt": "Create a photorealistic high-fashion summer editorial using the uploaded reference image as the strict character reference.\n\nCHARACTER:\nUse the exact same Wareen character from the reference image. Preserve her recognizable facial features, facial structure, purple wavy bob haircut, purple bangs, freckles across the cheeks and nose, skin tone, body proportions, and overall visual identity. Do not redesign or replace the character. Only change her outfit, pose, accessories, and environment according to the scene below.\n\nPOSE & COMPOSITION:\nFull-body low-angle fashion photograph of Wareen lounging horizontally across a minimalist cobalt-blue architectural ledge. She is reclining comfortably with her back supported by the structure, knees raised and legs crossed naturally. Her head is slightly tilted back while she looks upward toward the camera with a calm, confident expression.\n\nOne arm rests casually beside her near the handbag, while the other arm is relaxed along the ledge. The nearest leg and white sandal are slightly closer to the camera, creating a dramatic low-angle perspective.\n\nOUTFIT:\n- Tailored bright cobalt-blue blazer worn open\n- Plain fitted white crew-neck top underneath\n- Matching high-waisted bright cobalt-blue tailored trousers\n- Relaxed but elegant wide-leg silhouette\n- Clean white casual strap sandals with chunky grey-white soles\n- Oversized retro white-framed sunglasses\n\nACCESSORIES:\n- Structured vibrant red leather tote handbag placed beside Wareen on the blue ledge\n- Minimal jewelry\n- Keep accessories stylish and understated\n\nBACKGROUND & ENVIRONMENT:\nSurreal minimalist 3D tropical fashion setting.\n- Clear vivid blue sky\n- Stylized palm trees with blue-painted trunks\n- Green palm leaves\n- Geometric white and blue modern architectural buildings\n- Clean cobalt-blue platforms and ledges\n- Strong color-blocked architectural shapes\n- Minimal clutter\n- Luxury summer campaign atmosphere\n\nLIGHTING:\nBright natural summer sunlight.\nHard directional sunlight with crisp, clean shadows.\nHigh contrast between cobalt blue, white and red.\nBright vibrant exposure with realistic skin highlights.\nClear blue-sky atmosphere.\n\nCAMERA:\nLow-angle wide-lens fashion photography.\nFull-body framing.\nDramatic perspective with the foreground sandal slightly larger due to lens perspective.\nStrong geometric composition.\nProfessional luxury fashion campaign photography.\nSharp focus on Wareen with subtle depth of field.\n\nSTYLE:\nPhotorealistic high-end fashion editorial.\nPop-art inspired summer aesthetic.\nBold blue-and-white color-block style with a contrasting red handbag.\nClean, sophisticated, vibrant and modern.\nPremium commercial fashion photography.\n\nQUALITY:\nUltra-realistic, high resolution, realistic skin texture, natural anatomy, realistic hands and fingers, detailed fabric textures, accurate clothing folds, realistic sunglasses and handbag materials, natural shadows, cinematic depth, professional photography.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-28-Social-Media-Post-High-Fashion-Summer-Editorial-with-GPT-Image-2.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-29-Social-Media-Post-High-Fashion-Summer-Editorial-with-GPT-Image-2.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-29",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-30",
       "title": "Social Media Post - New Year Transformation Poster",
       "prompt": "Create an ultra-realistic cinematic New Year transformation poster in vertical 9:16 format, inspired closely by the provided reference image.\nA beautiful young woman wearing an elegant all-white modest outfit stands in the exact center of the composition. She wears a white hijab, long white outer jacket, flowing long white pleated skirt with dramatic volume, and clean white platform sneakers. Her pose is graceful and confident, body slightly turned sideways while her face looks toward the camera, one arm naturally hanging down. Full-body composition, realistic anatomy and proportions.\nSTRICT FACE PRESERVATION: use the uploaded face reference as the primary identity reference. Preserve the person's facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, forehead, skin tone, age and natural facial proportions. Do not create a different person. Do not beautify or alter the facial identity. Natural realistic skin texture, subtle pores, realistic eyes and lips.\nLEFT SIDE — GOODBYE 2026\nThe left half represents the past and transformation:\ndark black/navy cinematic atmosphere\nsmoky dramatic clouds\nlarge metallic “2026” appearing cracked and shattered\nhundreds of realistic glass fragments exploding outward around the woman\nbroken pieces gradually dissolving into particles\nfloating dark labels representing things being left behind: “DAMAGES”, “PAINS”, “OVERTHINKING”, “REGRESSION”, “OLD USUALS”, “FAKE PEOPLE”, “WHAT IF”\nsophisticated black, silver and dark bronze color palette\ndramatic cinematic lighting\nsubtle broken-glass reflections on wet pavement\nAt the upper left, elegant widely spaced typography: “GOODBYE”\nBelow it: “THANK YOU\nFOR THE LESSONS”\nRIGHT SIDE — WELCOME 2027\nThe right half represents a bright new future:\nspectacular golden sunrise\nwarm orange and golden clouds\nglowing city skyline in the distance\nfuturistic luxury urban atmosphere\nwet reflective asphalt reflecting the golden light\na luxurious black SUV parked on the right side\ndramatic golden rim light surrounding the woman\nstrong contrast between the dark past and bright future\nAt the upper right, elegant luxury typography: “WELCOME”\nHuge glowing metallic gold numbers: “2027”\nUnderneath: “BIGGER DREAMS\nBOLDER MOVES\nBETTER ME”\nNear the middle-right, handwritten elegant text: “NEW CHAPTER\nLOADING...”\nwith a small elegant crown symbol above it.\nBelow: “poppy virgo ♡”\nVISUAL STYLE\nUltra-photorealistic luxury editorial photography, cinematic New Year poster, high-end fashion campaign, dramatic environmental storytelling, realistic glass particles, realistic fabric folds, realistic skin texture, volumetric lighting, golden-hour atmosphere, deep shadows, HDR, high dynamic range, realistic reflections, sharp details, sophisticated composition, premium magazine advertising aesthetic, 8K detail, natural proportions, realistic photography, no cartoon, no illustration, no plastic skin, no AI-looking face.\nComposition: symmetrical visual s",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-29-Social-Media-Post-New-Year-Transformation-Poster.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-30-Social-Media-Post-New-Year-Transformation-Poster.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-30",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-31",
       "title": "Social Media Post - Surreal Food Storybook Illustration",
       "prompt": "Use the uploaded image as the primary reference and transform it into a vertical 3:4 surreal editorial artwork that seamlessly combines photorealistic food/object photography with a whimsical hand-drawn storybook illustration.\n\nPreserve the main subject, composition, colors, textures, and recognizable details of the original photograph. Keep the upper portion highly photorealistic and naturally lit, with realistic materials, shadows, reflections, depth of field, and authentic photographic detail.\n\nCreate a seamless visual transition from the photographed subject into an imaginative illustrated world below. Identify the most visually meaningful element in the photograph—such as a liquid, food ingredient, object, pattern, trail, shadow, or texture—and organically extend it downward into the illustration, transforming it into a river, pathway, landscape, trail, or other creative scene.\n\nThe illustrated section should appear on a warm off-white textured paper background, using delicate black ink/pencil linework, subtle watercolor and gouache textures, imperfect handmade details, soft muted colors, and a charming vintage storybook aesthetic. Add small environmental details appropriate to the subject, such as tiny people, plants, rocks, objects, or landscape elements.\n\nInclude a short handwritten phrase that naturally relates to the concept and the transformation, positioned subtly within the illustrated area. The typography should look genuinely handwritten, imperfect, minimal, and artistic.\n\nThe photograph and illustration must feel like one continuous visual story, not two separate images. Avoid a hard horizontal split, borders, frames, arrows, labels, or obvious digital compositing. The photographed element should physically appear to flow, fall, extend, or transform into the illustrated world.\n\nAesthetic: poetic, whimsical, clever, minimalist, premium editorial magazine art, surreal but believable, tactile paper texture, natural imperfections, sophisticated visual storytelling.\n\nComposition: vertical 3:4, balanced negative space, strong focal point, seamless transition, high detail, realistic photography + delicate hand-drawn illustration, no unnecessary elements.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-30-Social-Media-Post-Surreal-Food-Storybook-Illustration.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-31-Social-Media-Post-Surreal-Food-Storybook-Illustration.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-31",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-32",
       "title": "Social Media Post - GPT Image 2 Prompt for Sunset Sofa Portrait",
       "prompt": "Subject:\nSunset light on the sofa backrest.\n\nMain Subject:\nCenter frame, full body of a woman sitting sideways on the backrest of a beige sofa. She wears a white short top and floral frill shorts as the main focus.\n\nCharacter & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, neat nose, glossy pale pink lips. Profile facing right, calm expression with gaze drifting into the distance. Very long dark brown hair in a small half-bun, with thin bangs and loose strands.\n\nClothing & Pose:\nWhite fine-ribbed short-sleeve top tied at the front with frill hem, white shorts with small floral pattern and tiered frills, white loose leg warmers, heels with transparent straps. Sitting sideways on the sofa back, hands behind, arching back, knees bent to the right, one foot placed on the seat.\n\nBackground & Light:\nBeige sofa and knitted blanket at bottom, wooden shelf, frames, plants on left background, white wall and potted plant on right. Hard sunset light from window on right hits face, torso, legs, casting long plant shadows on wall.\n\nComposition & Camera:\n3:4 vertical composition, low-angle camera from left side slightly below seat height capturing full body from head to toes. Large placement of person in center. Toes within frame, focus on profile and white outfit, slight blur on background.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin, hair, fabric textures, surrounding props, maintaining warm sunset tones of beige, white, and wood colors.\n\nNegative:\nChange sitting position on backrest; omit white outfit and transparent heels",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-31-Social-Media-Post-GPT-Image-2-Prompt-for-Sunset-Sofa-Portrait.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-32-Social-Media-Post-GPT-Image-2-Prompt-for-Sunset-Sofa-Portrait.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-32",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-33",
       "title": "Social Media Post - Cinematic Memory Portrait with Sketch",
       "prompt": "Use the uploaded image as the primary visual reference. Recreate the same composition and cinematic storytelling: a young curly-haired man wearing rectangular glasses, a dark jacket over a light shirt, sitting in the lower-right foreground with a quiet, emotionally distant expression. Behind him, on an aged textured wall, is a large hand-drawn pencil-sketch version of the same person, appearing younger and holding/removing his glasses while covering one eye, creating a visual contrast between his present self and his memories.\n\nA single warm vintage Edison bulb hangs from the ceiling exactly between the real subject and the sketch, acting as the main practical light source. The bulb casts warm amber illumination across the face and wall while creating a large, soft, haunting shadow on the right side.\n\nCamera position: eye-level camera positioned slightly in front of and to the right of the subject, medium-close portrait framing, with the subject occupying the lower-right third and the sketch dominating the left background. Keep the hanging bulb near the central vertical axis. Slightly compressed perspective, natural depth, subtle foreground/background separation.\n\nAtmosphere: melancholic, nostalgic, mysterious, introspective, slightly surreal. Photorealistic subject combined with hand-drawn graphite artwork, making the sketch feel physically integrated into the old wall rather than digitally pasted on.\n\nLighting: low-key cinematic lighting, warm tungsten glow from the bulb, deep surrounding shadows, subtle falloff, realistic skin highlights, detailed curly hair, natural reflections on glasses.\n\nColor palette: muted olive-brown, aged beige, charcoal black, warm amber and subtle skin tones. Add realistic wall cracks, stains, pencil texture, film grain and gentle atmospheric imperfections.\n\nComposition must closely preserve the reference image, including the subject placement, sketch placement, hanging bulb, shadow, lighting direction, and emotional contrast. Vertical 9:16, cinematic editorial photography, ultra-detailed, photorealistic, 4K.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-32-Social-Media-Post-Cinematic-Memory-Portrait-with-Sketch.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-33-Social-Media-Post-Cinematic-Memory-Portrait-with-Sketch.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-33",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-34",
       "title": "Social Media Post - Cinematic Winter Portrait Man",
       "prompt": "Ultra-realistic cinematic winter close-up portrait of a strikingly handsome young man in his early 20s, captured in an intimate high-fashion editorial photograph. He has thick naturally wavy jet-black hair, slightly tousled by the cold wind, with delicate snowflakes resting naturally across his hair and eyelashes. His deep dark-brown eyes stare intensely and directly into the camera, creating a captivating, calm expression. Defined sculpted jawline, strong eyebrows, subtle natural stubble, refined masculine facial features, realistic skin texture and visible pores.\nHis cheeks and nose have a subtle natural flush from the freezing temperature. A soft plume of cold breath is visibly escaping from his lips, adding realism to the icy atmosphere. Tiny snow crystals cling naturally to individual strands of hair and eyelashes. Fine snowflakes gently fall around his face, with a few melting slightly against his warm skin.\nHe wears a luxurious dark wool coat with a high collar, barely visible in the tight composition. Background is softly blurred with a snowy winter landscape, atmospheric fog, distant frosted trees, and subtle falling snow. Moody cinematic lighting, cool natural daylight mixed with soft diffused highlights, shallow depth of field, creamy bokeh, realistic winter atmosphere, sophisticated luxury fashion editorial aesthetic.\nExtreme facial detail, photorealistic skin, natural pores, realistic snow texture, authentic condensation, sharp focus on the eyes and eyelashes, 85mm portrait lens, f/1.4, HDR, cinematic color grading, ultra-detailed, 8K, masterpiece, no text, no watermark, no artificial-looking face.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-33-Social-Media-Post-Cinematic-Winter-Portrait-Man.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-34-Social-Media-Post-Cinematic-Winter-Portrait-Man.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-34",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-35",
       "title": "Social Media Post - Street Style Portrait with Headphones",
       "prompt": "A photorealistic candid street-style portrait of a young woman sitting casually on the concrete steps outside a small urban storefront. She has long dark hair tied back in a low ponytail with loose face-framing strands, natural makeup, fair skin, and a soft thoughtful expression as she looks slightly to the side.\nShe is wearing large white over-ear headphones and a cropped white knit sweater with bold black graphic lettering across the front and sleeves. The sweater has a relaxed oversized fit. She pairs it with loose dark navy or black wide-leg trousers and clean white sneakers. A structured black leather handbag rests beside her, with a small cute plush keychain hanging from the handle.\nShe sits in a relaxed pose with one leg bent and crossed slightly forward, one hand resting near her lap and the other holding the handbag strap. The storefront behind her has a glass door and windows covered with numerous colorful stickers, small decals, and street-style graphics. A yellow caution sign is attached to the glass, while reflections of parked cars and the surrounding street appear in the window.\nComposition: vertical 4:5 portrait, full-body framing, subject centered, slightly low eye-level perspective, authentic candid street photography, storefront filling the background.\nLighting: soft natural daylight, slightly cool urban tones, realistic shadows, subtle reflections on the glass, balanced exposure.\nPhotography style: ultra-realistic smartphone street photography, Korean-inspired casual fashion aesthetic, natural skin texture, detailed knit fabric, realistic hair strands, authentic storefront textures, subtle depth of field, slightly grainy everyday-photo look, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped clothing, distorted headphones, unrealistic handbag, fake reflections, oversaturated colors, excessive blur, low resolution, text, watermark, logo.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-34-Social-Media-Post-Street-Style-Portrait-with-Headphones.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-35-Social-Media-Post-Street-Style-Portrait-with-Headphones.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-35",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-36",
       "title": "Social Media Post - Pink Satin Floral Robe Night Prompt",
       "prompt": "Subject:\nPeach satin flower night.\n\nMain Subject:\nIn the center of the frame, a woman sitting diagonally on a white bed, wearing a peach satin floral robe, with chest area exposed as shoulder slips down.\n\nCharacter & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, well-defined nose, glossy pale peach lips. Face turned forward, quiet expression with lips slightly parted looking at camera. Long dark brown hair flowing down back, leaving thin bangs and side strands.\n\nClothing & Pose:\nLong-sleeve robe dress made of pale peach glossy satin depicting cherry blossom branches and flowers, wide collar, matching belt at waist, worn with right shoulder slipped off. Sitting diagonally on bed, left hand supporting on bedding, fingertips of right hand touching chin, both thighs flowing to lower right.\n\nBackground & Light:\nWhite bedding at bottom, beige curtains in background, wooden stand, peach vase, warm-colored lamp on right. Lamp from rear right and soft frontal light illuminate face and peach satin.\n\nComposition & Camera:\n3:4 vertical portrait, frontal camera at seat height capturing three-quarter body from head to mid-thighs. Person centered. Legs cropped at bottom edge, focus on face and floral satin, background slightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High detail on natural skin, hair, clothing materials, surrounding props. Maintain warm night light of peach, white, and wood tones.\n\nNegative:\nChange peach floral satin robe; omit slipped shoulder and sitting posture.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-35-Social-Media-Post-Pink-Satin-Floral-Robe-Night-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-36-Social-Media-Post-Pink-Satin-Floral-Robe-Night-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -438,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-36",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-37",
       "title": "Social Media Post - Korean Girl on Vintage Car in Misty Mountains",
       "prompt": "Created a Korean girl with long, straight, jet-black hair sitting gracefully on the hood of a classic vintage black car on a misty mountain road. She has delicate natural features, fair skin, soft expressive eyes, and a calm gentle expression, looking directly at the camera. She is wearing an elegant full-length royal-blue floral dress with long sleeves, a fitted bodice, subtle floral patterns, and a flowing skirt draping naturally over the car and wet road. Her pose is relaxed and graceful, with one hand resting gently on the car hood and the other near her lap. The classic black car has beautiful rounded vintage styling, chrome details, and a warm glowing headlight shining through the fog. The road is wet from rain with realistic water droplets and reflections. Tall dense evergreen trees surround the winding mountain road, covered in thick atmospheric mist. Soft overcast lighting, cinematic mood, realistic skin texture, detailed fabric, natural proportions, realistic shadows and reflections, shallow depth of field, atmospheric perspective, cinematic color grading, ultra-photorealistic photography, 85mm lens, vertical composition, highly detailed 8K quality.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-36-Social-Media-Post-Korean-Girl-on-Vintage-Car-in-Misty-Mountains.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-37-Social-Media-Post-Korean-Girl-on-Vintage-Car-in-Misty-Mountains.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -451,25 +470,6 @@
         "Video"
       ],
       "author": "Maha",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-37",
-      "title": "Infographic / Edu Visual - Photorealistic Meal Prep Jars with Ingredient List",
-      "prompt": "Create a photorealistic lifestyle food photography scene featuring four clear glass meal-prep jars arranged on a clean light-colored kitchen countertop. Each jar has a natural bamboo wooden lid with a white sealing ring.\n\nThe jars contain beautifully layered {argument name=\"dish type\" default=\"Mexican-inspired chicken salads\"}, with clearly separated colorful layers from bottom to top: diced cucumber, cherry tomatoes, red onion, red bell pepper, sweet corn, black beans, crumbled Cotija cheese, fresh chopped romaine lettuce, and shredded cooked chicken. Keep every ingredient fresh, vibrant, crisp, and visibly distinct through the transparent glass.\n\nPlace two jars in the foreground and two slightly behind them for depth and composition. Warm modern kitchen background with subtle wooden cabinets, soft natural daylight coming from a window, shallow depth of field, realistic reflections on the glass, soft shadows, premium food photography, natural colors, high detail, realistic textures, 4K, editorial meal-prep aesthetic.\n\nOn the right side, include a neat handwritten-style ingredient list reading:\n“Shredded Chicken\nRomaine\nCojita\nBlack beans\nCorn\nRed pepper\nRed onion\nCherry tomatoes\nCucumber”\n\nVertical composition, realistic proportions, clean and appetizing presentation, professional commercial food photography.",
-      "media": "image",
-      "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-37-Infographic-Edu-Visual-Photorealistic-Meal-Prep-Jars-with-Ingredient-List.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "GPT Image 2",
-        "Infographic"
-      ],
-      "author": "Dua Fatima",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -762,11 +762,30 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-53",
+      "title": "Infographic / Edu Visual - Japanese Corridor Window Detail Sheet",
+      "prompt": "Using REFERENCE_0 as the architectural source, reorganize it into a cleaner, more focused Japanese technical drawing sheet for the corridor window assembly. Keep the same subject and hand-drafted architectural illustration style, but simplify the page and redraw the construction details as an inferred measured detail rather than a broad explanatory board.\n\nGoal: Create a detailed drawing titled {argument name=\"main title\" default=\"廊下 窓まわり詳細図\"} with subtitle {argument name=\"subtitle\" default=\"(断面図・展開図・部分詳細図)\"}. Treat all dimensions as estimates from the reference/photo and note that the unit is {argument name=\"unit note\" default=\"mm\"}.\n\nLayout: Use exactly 4 drawing areas: 1 large A-A section detail on the left, 1 interior elevation view at the upper right, and 2 small partial detail diagrams at the lower right. Make the left section the dominant focus and include a small key plan/section marker at the top of it.\n\nLeft main section: Redraw the corridor window section at S=1/10 with clearer construction layers and orange dimension lines. Show exterior planting and exterior ground on the left, the tall wood sash/glass opening in the center, and the interior corridor side on the right. Include labels for exterior side, interior side, ceiling, steel column, wood sash, double glass, brick sill/window base, brick exterior wall, steel angle/bracket, floor build-up, existing RC slab/foundation, GL ±0 and FL ±0. Emphasize estimated dimensions including opening height about 2100, window base about 300, brick rise 180, brick ledge width 350, exterior passage about 600, wall 100, sill/bench 350, and corridor width about 1200.\n\nUpper-right drawing: Create an interior elevation view labeled {argument name=\"elevation label\" default=\"内観立面図（廊下側） S=1/50\"}. Show the corridor-side window wall with repeated vertical wooden frames, glass panes, brick/bench base, steel columns, exterior planting visible through the glass, and orange A-A section markers.\n\nLower-right details: Add exactly 2 partial detail diagrams labeled a and b: a. upper/head detail showing ceiling, PB substrate/paint finish, wood sash, and double glass; b. lower/sill detail showing brick finish, mortar substrate, brick support, and steel angle plus bracket, with orange dimensions 350, about 300, and 180.\n\nStyle and constraints: Maintain the reference’s clean Japanese architectural presentation: thin black linework, light gray hatching, muted wood and brick tones, orange dimensions, white background, precise leader lines, and a professional measured-drawing look. Use Japanese technical labels where shown, but avoid overcrowding. Add a bottom caution note {argument name=\"caution note\" default=\"※寸法は写真からの推定です。実施設計時は現地調査のうえ決定してください。\"}. Do not add unrelated photos, people in the interior, decorative icons, or extra drawing panels.",
+      "media": "image",
+      "model": "GPT Image 2",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-53-Infographic-Edu-Visual-Japanese-Corridor-Window-Detail-Sheet.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 2",
+        "Infographic"
+      ],
+      "author": "KOBATAKA｜Vibe Modeling",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-54",
       "title": "YouTube Thumbnail - Tokyo Police Giant Robot Checkpoint",
       "prompt": "A hyper-realistic, wide-angle shot of a massive bipedal police robot standing in the middle of a busy Tokyo highway checkpoint. The robot is towering over the cars, featuring a complex mechanical design with black and white armor plating, exposed hydraulic joints, and red emergency lights on its shoulders. It has a rectangular head unit with multiple camera lenses instead of a face. The text '警視庁 MPD' (Metropolitan Police Department) is printed in white on its chest and shoulder plates. One of its large mechanical hands is raised in a 'stop' gesture. In the foreground, human police officers wearing dark blue uniforms and white helmets are directing traffic; one officer holds a glowing red baton. A white vertical sign stands near them with Japanese text reading '検問実施中' (Checkpoint in progress). Orange traffic cones line the road. To the right, a black van and other vehicles are stopped for inspection. The background features a clear blue sky, modern city skyscrapers, overhead green highway signs indicating directions to 'Shutoko Expwy', 'Ginza', and 'Ueno', and the iconic Tokyo Skytree visible in the distance.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-53-YouTube-Thumbnail-Tokyo-Police-Giant-Robot-Checkpoint.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-54-YouTube-Thumbnail-Tokyo-Police-Giant-Robot-Checkpoint.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,31 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-54",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-55",
       "title": "YouTube Thumbnail - Gothic Cathedral Dark Fantasy Portrait Prompt",
       "prompt": "Ultra-realistic cinematic dark-fantasy photograph of a strikingly handsome young man in his early 20s standing alone beneath enormous Gothic cathedral arches. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features.\nHe wears an elegant long black tailored coat over a dark high-neck shirt, giving him a mysterious, powerful presence. Towering Gothic arches rise dramatically above him, decorated with intricate stone carvings, weathered columns, and enormous shadowy vaulted ceilings. Sharp beams of golden-white light pierce through dense atmospheric smoke and mist, illuminating parts of his face and shoulders while the rest of the cathedral disappears into deep darkness.\nAncient stone floor slightly wet and reflective, faint dust particles floating through the light, subtle candlelight in the distant background, dramatic volumetric lighting, deep shadows, strong chiaroscuro, gothic architecture, mysterious sacred atmosphere, cinematic composition, realistic proportions, natural expression, highly detailed stone textures, photorealistic skin, HDR, 85mm lens, shallow depth of field, dramatic perspective, dark luxury editorial photography, ultra-detailed, 8K, no women, no text, no watermark, no AI-looking face, vertical 9:16.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-54-YouTube-Thumbnail-Gothic-Cathedral-Dark-Fantasy-Portrait-Prompt.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "GPT Image 2",
-        "Portrait"
-      ],
-      "author": "HeisenLegacy",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-55",
-      "title": "YouTube Thumbnail - GPT Image 2 Surreal Time Split Portrait",
-      "prompt": "Ultra-realistic cinematic surreal photograph of a strikingly handsome young man in his early 20s standing exactly at the boundary between two centuries, creating a seamless visual split between 1920 and 2120.\n\nHe has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features.\n\nThe LEFT side of the image represents the 1920s: an elegant vintage city street with Art Deco architecture, classic automobiles, old brick buildings, warm amber street lamps, vintage shop signs, pedestrians in 1920s suits and coats, subtle film grain, sepia tones, and authentic period atmosphere. The young man wears a perfectly tailored 1920s three-piece suit, pocket watch, polished leather shoes, and vintage hairstyle details.\n\nThe RIGHT side represents the year 2120: a breathtaking futuristic metropolis filled with towering glass-and-metal skyscrapers, holographic advertisements, autonomous flying vehicles, glowing neon architecture, futuristic pedestrians, advanced technology, floating transportation systems, and subtle atmospheric mist. The young man wears an elegant futuristic black tailored suit with sophisticated metallic details and subtle glowing accents.\n\nThe center of the composition shows the two eras merging around him, with a luminous temporal distortion, floating clock fragments, particles, and ripples in reality connecting 1920 to 2120. His body subtly transitions between both eras while his face remains identical and perfectly realistic, symbolizing a man caught between past and future.\n\nEpic cinematic composition, symmetrical split-world concept, dramatic perspective, realistic environmental reflections, volumetric lighting, atmospheric depth, physically accurate materials, highly detailed skin, natural facial expression, photorealistic, 8K HDR, ultra-sharp focus, cinematic color grading, 35mm photography, masterpiece, no text, no watermark.",
-      "media": "image",
-      "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-55-YouTube-Thumbnail-GPT-Image-2-Surreal-Time-Split-Portrait.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-55-YouTube-Thumbnail-Gothic-Cathedral-Dark-Fantasy-Portrait-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -819,30 +819,11 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-56",
-      "title": "YouTube Thumbnail - Fighter Jet Cockpit View Banking Turn",
-      "prompt": "A hyper-realistic, first-person perspective shot from inside a fighter jet cockpit during an intense aerial maneuver. The camera is positioned behind the pilot's gloved hand gripping the control stick in the lower left foreground. Through the curved canopy glass, a second fighter jet is visible flying ahead and slightly above, banking hard to the right with its afterburner glowing bright orange. The scene captures a high-speed turn, creating significant motion blur on the clouds and landscape below. The sky is a vibrant blue filled with streaking white cumulus clouds that warp around the edges due to the speed and G-force. A green digital Heads-Up Display (HUD) overlay is projected onto the canopy glass on the left side, showing flight data such as 'G 7.6', 'M 0.92', and heading numbers like '320'. The lighting is bright daylight, casting realistic reflections on the canopy frame and instruments.",
+      "title": "YouTube Thumbnail - GPT Image 2 Surreal Time Split Portrait",
+      "prompt": "Ultra-realistic cinematic surreal photograph of a strikingly handsome young man in his early 20s standing exactly at the boundary between two centuries, creating a seamless visual split between 1920 and 2120.\n\nHe has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features.\n\nThe LEFT side of the image represents the 1920s: an elegant vintage city street with Art Deco architecture, classic automobiles, old brick buildings, warm amber street lamps, vintage shop signs, pedestrians in 1920s suits and coats, subtle film grain, sepia tones, and authentic period atmosphere. The young man wears a perfectly tailored 1920s three-piece suit, pocket watch, polished leather shoes, and vintage hairstyle details.\n\nThe RIGHT side represents the year 2120: a breathtaking futuristic metropolis filled with towering glass-and-metal skyscrapers, holographic advertisements, autonomous flying vehicles, glowing neon architecture, futuristic pedestrians, advanced technology, floating transportation systems, and subtle atmospheric mist. The young man wears an elegant futuristic black tailored suit with sophisticated metallic details and subtle glowing accents.\n\nThe center of the composition shows the two eras merging around him, with a luminous temporal distortion, floating clock fragments, particles, and ripples in reality connecting 1920 to 2120. His body subtly transitions between both eras while his face remains identical and perfectly realistic, symbolizing a man caught between past and future.\n\nEpic cinematic composition, symmetrical split-world concept, dramatic perspective, realistic environmental reflections, volumetric lighting, atmospheric depth, physically accurate materials, highly detailed skin, natural facial expression, photorealistic, 8K HDR, ultra-sharp focus, cinematic color grading, 35mm photography, masterpiece, no text, no watermark.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-56-YouTube-Thumbnail-Fighter-Jet-Cockpit-View-Banking-Turn.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "GPT Image 2",
-        "Creative"
-      ],
-      "author": "あいぼりー",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-57",
-      "title": "YouTube Thumbnail - Noir Telephone Booth Portrait",
-      "prompt": "Ultra-realistic cinematic night photograph of a strikingly handsome young man in his early 20s sitting inside a vintage red telephone booth on a deserted city street at midnight. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features. He holds an old black telephone receiver close to his ear, with a mysterious, thoughtful expression as he looks slightly toward the rain-covered glass.\nHeavy rain falls outside, droplets streaming down the glass panels, while dense atmospheric fog surrounds the booth and softly obscures the empty street. Wet pavement reflects the warm amber glow of the booth and distant streetlights. Vintage urban architecture fades into the mist in the background. Subtle neon reflections, cinematic rim lighting, soft volumetric light beams, deep shadows, moody midnight-blue atmosphere, realistic reflections on wet surfaces, shallow depth of field, 85mm lens, f/1.4, dramatic film grain, high dynamic range, photorealistic skin, intricate fabric details, sophisticated noir aesthetic, mysterious and emotional atmosphere, premium editorial photography, 8K, ultra-detailed, natural proportions, no text, no watermark, no women.",
-      "media": "image",
-      "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-57-YouTube-Thumbnail-Noir-Telephone-Booth-Portrait.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-56-YouTube-Thumbnail-GPT-Image-2-Surreal-Time-Split-Portrait.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-58",
-      "title": "YouTube Thumbnail - MotoGP POV Cornering Shot",
-      "prompt": "A high-speed, first-person point-of-view (POV) shot from a racing motorcycle on a professional circuit. The camera is tilted aggressively to the left, simulating a sharp cornering maneuver at speed. In the immediate foreground, the rider's gloved hand (white and red leather) grips the handlebar, with a digital dashboard visible showing '93 km/h' and gear indicator '2'. Ahead on the asphalt track, another racer in full leathers leans deeply into the curve, their bike nearly parallel to the ground. The background features blurred scenery due to motion blur: green trees, distant mountains under a bright blue sky with scattered clouds, and red-and-white curbing along the edge of the track. The lighting is natural daylight, creating realistic reflections on the tarmac and helmets.",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-57",
+      "title": "YouTube Thumbnail - Fighter Jet Cockpit View Banking Turn",
+      "prompt": "A hyper-realistic, first-person perspective shot from inside a fighter jet cockpit during an intense aerial maneuver. The camera is positioned behind the pilot's gloved hand gripping the control stick in the lower left foreground. Through the curved canopy glass, a second fighter jet is visible flying ahead and slightly above, banking hard to the right with its afterburner glowing bright orange. The scene captures a high-speed turn, creating significant motion blur on the clouds and landscape below. The sky is a vibrant blue filled with streaking white cumulus clouds that warp around the edges due to the speed and G-force. A green digital Heads-Up Display (HUD) overlay is projected onto the canopy glass on the left side, showing flight data such as 'G 7.6', 'M 0.92', and heading numbers like '320'. The lighting is bright daylight, casting realistic reflections on the canopy frame and instruments.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-58-YouTube-Thumbnail-MotoGP-POV-Cornering-Shot.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-57-YouTube-Thumbnail-Fighter-Jet-Cockpit-View-Banking-Turn.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,12 +856,50 @@
       "createdAt": null
     },
     {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-58",
+      "title": "YouTube Thumbnail - Noir Telephone Booth Portrait",
+      "prompt": "Ultra-realistic cinematic night photograph of a strikingly handsome young man in his early 20s sitting inside a vintage red telephone booth on a deserted city street at midnight. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features. He holds an old black telephone receiver close to his ear, with a mysterious, thoughtful expression as he looks slightly toward the rain-covered glass.\nHeavy rain falls outside, droplets streaming down the glass panels, while dense atmospheric fog surrounds the booth and softly obscures the empty street. Wet pavement reflects the warm amber glow of the booth and distant streetlights. Vintage urban architecture fades into the mist in the background. Subtle neon reflections, cinematic rim lighting, soft volumetric light beams, deep shadows, moody midnight-blue atmosphere, realistic reflections on wet surfaces, shallow depth of field, 85mm lens, f/1.4, dramatic film grain, high dynamic range, photorealistic skin, intricate fabric details, sophisticated noir aesthetic, mysterious and emotional atmosphere, premium editorial photography, 8K, ultra-detailed, natural proportions, no text, no watermark, no women.",
+      "media": "image",
+      "model": "GPT Image 2",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-58-YouTube-Thumbnail-Noir-Telephone-Booth-Portrait.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 2",
+        "Portrait"
+      ],
+      "author": "HeisenLegacy",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-59",
+      "title": "YouTube Thumbnail - MotoGP POV Cornering Shot",
+      "prompt": "A high-speed, first-person point-of-view (POV) shot from a racing motorcycle on a professional circuit. The camera is tilted aggressively to the left, simulating a sharp cornering maneuver at speed. In the immediate foreground, the rider's gloved hand (white and red leather) grips the handlebar, with a digital dashboard visible showing '93 km/h' and gear indicator '2'. Ahead on the asphalt track, another racer in full leathers leans deeply into the curve, their bike nearly parallel to the ground. The background features blurred scenery due to motion blur: green trees, distant mountains under a bright blue sky with scattered clouds, and red-and-white curbing along the edge of the track. The lighting is natural daylight, creating realistic reflections on the tarmac and helmets.",
+      "media": "image",
+      "model": "GPT Image 2",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-59-YouTube-Thumbnail-MotoGP-POV-Cornering-Shot.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 2",
+        "Creative"
+      ],
+      "author": "あいぼりー",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-60",
       "title": "YouTube Thumbnail - AI Realism Thumbnail: Girls with Lanterns",
       "prompt": "Create a vertical 9:16 social media thumbnail. The background is a hyper-realistic, high-resolution photograph of two young girls with curly brown hair wearing vintage white lace-trimmed dresses standing in a lush garden at twilight. They are holding and decorating glowing pink paper lanterns. Surround them with large white lilies and soft-focus pink roses. In the center, overlay bold sans-serif text: 'AI Made This Painting' in white, followed by 'Real' in yellow on the next line. Below the text, place a smaller rectangular inset image showing the original impressionist oil painting (two girls with lanterns) framed in gold, with a hand-drawn yellow arrow pointing from the painting up to the realistic scene.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-59-YouTube-Thumbnail-AI-Realism-Thumbnail-Girls-with-Lanterns.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-60-YouTube-Thumbnail-AI-Realism-Thumbnail-Girls-with-Lanterns.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-60",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-61",
       "title": "YouTube Thumbnail - Cinematic Badminton Smash GPT Image 2",
       "prompt": "Ultra-realistic cinematic sports photograph of a strikingly handsome young male badminton athlete in his early 20s, captured at the peak of a powerful overhead smash. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores, and refined masculine facial features.\nHe is jumping explosively above the badminton court, body dynamically twisted, one arm fully extended overhead with a professional badminton racket aimed aggressively toward the camera. His expression is intensely focused and determined. A shuttlecock is extremely close to the lens in the foreground, dramatically enlarged with razor-sharp feather details, creating powerful depth and perspective.\nModern indoor badminton arena, polished court floor, subtle net visible in the background, dramatic overhead stadium lights, strong rim lighting, atmospheric haze, realistic shadows, tiny sweat droplets frozen in motion, cinematic motion energy, shallow depth of field, dynamic low-angle perspective, 85mm sports photography aesthetic, ultra-detailed skin and clothing, photorealistic textures, HDR, high contrast, frozen action, premium sports campaign photography.\nLarge bold “SMASH” typography subtly integrated into the background, clean athletic editorial design, no logos, no watermark, no other people.\n9:16 vertical composition, 8K, photorealistic, cinematic, professional sports advertising campaign, extremely sharp subject and shuttlecock, dramatic depth of field.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-60-YouTube-Thumbnail-Cinematic-Badminton-Smash-GPT-Image-2.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-61-YouTube-Thumbnail-Cinematic-Badminton-Smash-GPT-Image-2.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,36 +932,17 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-61",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-62",
       "title": "YouTube Thumbnail - Giant MPD Robot in Rainy Hangar",
       "prompt": "A cinematic, photorealistic wide shot of a massive bipedal police robot standing inside a large industrial hangar on a rainy day. The robot is the central focus, towering over the scene with a complex mechanical design featuring white armored plating and exposed black hydraulic joints. It has a multi-lens camera array for a head instead of a face, and red warning lights are illuminated on its shoulders. The text \"警視庁 MPD\" (Metropolitan Police Department) is printed in black on its chest plates and arms. Its feet are wide, treaded platforms resting on the wet concrete floor. To the left, a vertical banner hangs from the ceiling reading \"警視庁 METROPOLITAN POLICE DEPARTMENT\" with a cherry blossom crest. Below it, a horizontal sign reads \"安全な東京を 次の世代へ A SAFER TOKYO FOR THE NEXT GENERATION\". In the background, through the open hangar doors, heavy rain falls over a Tokyo cityscape featuring the red lattice structure of the Tokyo Tower and modern skyscrapers under a grey sky. Several police trucks marked \"MPD\" are parked outside with their headlights on. Two human officers wearing dark uniforms and white helmets stand in the foreground corners, providing scale.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-61-YouTube-Thumbnail-Giant-MPD-Robot-in-Rainy-Hangar.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-62-YouTube-Thumbnail-Giant-MPD-Robot-in-Rainy-Hangar.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
         "Video"
-      ],
-      "author": "カーブミラー",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-62",
-      "title": "YouTube Thumbnail - Giant Police Robot Capturing Bear",
-      "prompt": "A photorealistic, high-resolution image of a giant bipedal police robot standing in a gravel clearing at the edge of a lush green forest. The robot is massive, towering over the surrounding vehicles and people, with a white and black armored chassis featuring Japanese text \"警視庁\" (Metropolitan Police Department) and English text \"MPD\" on its chest and shoulder plates. It has glowing red lights on its shoulders and head. The robot's hands are holding a large metal cage containing a live brown bear. To the right of the robot stands a small white flatbed truck, emphasizing the robot's immense scale. Two human police officers in dark blue uniforms and helmets stand near the truck, looking up at the robot; their backs are to the camera, showing \"警視庁 MPD\" on their jackets. In the foreground left, there is a wooden signpost with Japanese and English text: \"大雪山国立公園 Daisetsuzan National Park\", \"登山口 Trailhead\", \"駐車場 Parking\", and a warning sign with a bear icon reading \"クマ出没注意 Beware of Bears\". Another vertical banner on the far right reads \"人と野生動物の共生を\" (Coexistence between humans and wildlife). The background features dense trees and a mountain peak under a bright blue sky with scattered clouds. The lighting is natural daylight, casting realistic shadows.",
-      "media": "image",
-      "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-62-YouTube-Thumbnail-Giant-Police-Robot-Capturing-Bear.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "GPT Image 2",
-        "Creative"
       ],
       "author": "カーブミラー",
       "source": "xianyu-multi-model",
