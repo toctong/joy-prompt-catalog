@@ -58,16 +58,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34672-34",
-      "title": "Retro Red Telephone Portrait",
-      "prompt": "Create an ultra-photorealistic cinematic retro fashion portrait based on the uploaded reference image. Preserve the woman’s exact natural facial identity and recognizable features from the reference—same face shape, eyes, eyebrows, nose, lips, jawline, skin tone, facial proportions, and overall likeness. Do not reshape, beautify, age, or alter her identity. Place her in a dramatic monochromatic deep-red interior with a luxurious vintage atmosphere. She is seated confidently on a dark-red sofa beside a matching red table, holding a classic glossy red vintage telephone receiver beside her face. The matching rotary telephone sits clearly on the table, connected by a curled red cord. She wears a sophisticated oversized burgundy-red tailored coat with broad lapels and a black fitted top underneath. Add a plain burgundy baseball cap with absolutely no logo, lettering, symbols, or text, paired with sleek oversized black rectangular sunglasses. Her dark hair is a smooth shoulder-length bob visible beneath the cap. Her expression is poised and mysterious, with relaxed lips and confident body language. One hand holds the telephone receiver naturally while the other rests elegantly near her body. Use rich red-on-red styling, subtle black accents, deep shadows, and warm directional lighting. Add realistic highlights on the glossy telephone and subtle texture on the wool coat. The background should include softly illuminated red walls and minimal vintage furniture. Photography: vertical editorial portrait, 85mm lens, cinematic composition, shallow depth of field, dramatic studio lighting, realistic skin texture, natural hands and fingers, rich tonal contrast, sophisticated retro fashion aesthetic, luxury magazine photography, ultra-photorealistic, highly detailed, 8K quality. Negative prompt: altered face, different identity, face reshaping, plastic skin, excessive retouching, CGI, cartoon, anime, distorted hands, extra fingers, malformed anatomy, warped telephone, duplicate objects, blurry details, low resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34666-39",
+      "title": "Luxury Fashion Editorial Portrait",
+      "prompt": "Use my uploaded female face as the ONLY identity reference for the main model. Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, hairline, and natural skin texture. Keep me instantly recognizable. Do not beautify, reshape, feminize, masculinize, age, de-age, or alter my facial features. Create a premium photorealistic luxury fashion-week editorial poster featuring me as the main female fashion model. Design it as a sophisticated contemporary magazine campaign rather than copying the reference exactly. Main portrait: I am standing confidently in a modern upscale fashion setting, body turned slightly toward the camera while my face looks elegantly to the side. Shoulder-length soft wavy brunette hair with natural volume and subtle movement. Calm, confident high-fashion expression. Outfit: Replace the beige suit with a soft ivory tailored oversized blazer, satin champagne camisole underneath, high-waisted wide-leg charcoal trousers, delicate gold layered neckla…",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34672-34-Retro-Red-Telephone-Portrait.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34666-39-Luxury-Fashion-Editorial-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Product Marketing"
       ],
       "author": "YouMind OpenLab",
@@ -115,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-34133-22",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-34133-21",
       "title": "Retro Town Magazine Cover Illustration",
       "prompt": "[Magazine Info] - Magazine Name: {argument name=\"magazine title\" default=\"Town's Margin\"} - Feature Theme: {argument name=\"feature topic\" default=\"Feature: Showa Reminiscence, Walking Changing Street Corners\"} - Issue Number: {argument name=\"issue name\" default=\"Inaugural Issue\"} [Quality, Effects, and Composition] - Style: Gentle touch illustration depicting retro Japanese streetscapes and lifestyles (in the style of 'OZ magazine' or local PR magazines). - Subject: A corner of a nostalgic shopping street with Showa retro vibes, an old coffee shop, people walking in back alleys, or a cat standing still. - Colors and Tone: Warm pastel colors or the texture of slightly faded ink. Gentle hand-drawn style textures. - Typography (for GPT-image / Nano Banana Pro): The magazine logo \"{argument name=\"magazine title\" default=\"Town's Margin\"}\" is placed largely at the top in warm, hand-drawn style letters, while \"{argument name=\"feature topic\" default=\"Feature: Showa Reminiscence, Walking Changing Street Corners\"}\" and \"{argument name=\"issue name\" default=\"Inaugural Issue\"}\" are cleanly laid out in the center or at the bottom. [Strict Layout and Output Constraints (Required)] - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: --ar 3:4",
       "media": "image",
       "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-34133-22-Retro-Town-Magazine-Cover-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-34133-21-Retro-Town-Magazine-Cover-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35562-6",
-      "title": "Fine-Art Studio Portrait with Butterfly Lighting",
-      "prompt": "{ \"style_prompt_template\": { \"subject\": \"{argument name=\"person\" default=\"{{PERSON_NAME_OR_IMAGE}}\"}\", \"aspect_ratio\": \"9:16 vertical\", \"canvas_size_guidance\": \"1080x1920 or equivalent 9:16\", \"shot_type\": \"medium portrait shot, zoomed out 50% from tight close-up, head-to-mid-torso visible, facing camera\", \"photography_style\": \"dramatic black and white studio portrait, editorial/fine-art photography\", \"composition\": { \"face_position\": \"subject's face centered both horizontally and vertically in the frame\", \"face_size_in_frame\": \"face occupies roughly 20-25% of frame height, not tightly cropped, ample negative space around subject\", \"eye_line\": \"eyes aligned at approximate vertical center of the canvas\", \"headroom\": \"generous margin above the hair, clear dark space visible above head\", \"crop\": \"visible down to mid-chest or waist, more of the suit and shoulders shown, wider view than a tight headshot\", \"surrounding_space\": \"large area of negative black space surrounding subject on left, right, top, and bottom\", \"alignment\": \"subject facing straight into camera, symmetrical framing, no off-center offset\" }, \"lighting\": { \"type\": \"single hard top-down spotlight (butterfly/Paramount lighting)\", \"quality\": \"harsh, narrow beam creating strong falloff\", \"key_highlight\": \"top of hair and forehead catch bright rim light\", \"shadow_behavior\": \"deep shadows under brow, cheekbones, and jawline; steep light-to-dark gradient across face\", \"background_light\": \"none; background falls into near-total darkness with faint gradient near top edge, spotlight cone visible in wider frame\" }, \"color_treatment\": \"monochrome black and white, high contrast, deep blacks, no gray midtone flatness\", \"background\": \"solid black or near-black, subtle vignette, no visible texture or props, large expanse of negative space\", \"wardrobe\": \"dark tailored suit jacket, white dress shirt, dark tie, formal/business attire, full torso visible\", \"expression_and_pose\": \"neutral to serious expression, calm and composed, minimal smile, direct gaze into lens, relaxed shoulders\", \"skin_and_texture_detail\": \"visible natural skin texture, pores, fine wrinkles, stubble if present, unretouched realism\", \"hair_detail\": \"individual strands visible and crisply lit, natural texture, not overly styled\", \"camera_and_lens\": \"shot as if on medium format camera, 50mm-85mm equivalent lens, greater working distance from subject, shallow depth of field, tack-sharp focus on eyes\", \"grain_and_finish\": \"fine film-like grain, high dynamic range, crisp micro-contrast, glossy editorial finish\", \"mood\": \"intense, powerful, cinematic, timeless\" }, \"negative_prompt\": \"color cast, flat lighting, soft focus, blown highlights on face, busy background, smiling broad\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35671-6",
+      "title": "Nano Banana Pro Unexpected Event Photo Prompt",
+      "prompt": "[Unexpected Event Requirement] {argument name=\"event\" default=\"Fill in a sudden event here, e.g., 'a bird suddenly flies past the camera', 'a tiger appears from behind the subject', etc. If left blank, the model will design a reasonable sudden event based on the original scene.\"} Maintain the identity, appearance, hairstyle, clothing, environment, scene structure, and overall visual style consistent with the original image. Reconstruct the ordinary static photo into a **realistic snapshot capturing the '0.1 second after a sudden event occurs'**. 1 | The unexpected event must actually happen Strictly execute the event defined in [Unexpected Event Requirement]. The event must exist realistically in the final image; it cannot be implied solely through facial expressions or body language. The position, size, direction of movement, and perspective relationships of the event must comply with real photography logic and have natural spatial relationships with the original environment. If the event involves motion, clearly express the direction and sense of speed. The event can be located in: Foreground of the lens Near the subject To the side of the subject Behind the subject Background area Crossing between the subject and the lens Choose the most visually impactful position freely based on the nature of the event. 2 | The subject must react instinctively to the event The subject is not posing but making a real, unprepared instinctive reaction at the moment the event occurs. Automatically design movements compliant with human biomechanics based on the event's position, speed, danger level, and direction of movement, such as: Sudden lateral evasion, leaning back, leaning forward, turning around, crouching low, jumping away, losing balance, emergency stop, striding to dodge, reaching out to block, arms protecting the body, grabbing nearby objects to maintain balance, etc. Do not limit actions to just \"dodging backward.\" Redesign the direction of the subject's body reaction based on the position and trajectory of the sudden event. 3 | Actions must have a complete kinetic chain The subject's movement must form a complete dynamic transfer from feet → legs → hips → torso → shoulders → arms → head. Clearly show: Shift in center of gravity Difference between supporting leg and moving leg Counter-rotation of hips and shoulders Head quickly turning toward the event Arms performing protective, blocking, grabbing, or balancing actions Natural inertial movement of clothes, hair, and body Avoid static poses like standing straight with feet together and hands casually placed, like a model. 4 | Facial expressions must causally relate to the event The expression must be the immediate reaction after seeing the sudden event. Automatically match emotions based on the event: Surprise, shock, alertness, fear, confusion, helpless laughter, astonishment, instinctive dodging, sudden realization of danger, being startled, etc. Do not deliberately make exaggerated comedic expressions. The focus is to capture the moment of \"What just came?!\" 5 | Clear spatial relationship between event and subject Enhance the spatial depth of foreground, midground, and background. If the event passes by the subject, let it enter the foreground to create obvious occlusion, motion trails, and visual impact. If the event appears from behind the subject, ensure the subject's head, shoulders, or body are turning towards it. If the event enters rapidly from the side, shift the subject's center of gravity in the opposite direction for an immediate dodge. If the event is large in volume, adjust the scale between the subject and the event according to perspective relationships. The reason for the subject's movement must be directly visible from the image. 6 | Event takes priority over subject action The final image is not: \"A person performing a dodge action.\" But rather: \"A real event is happening, and the camera captures the subject's immediate reaction to it.\" The event itself must become the secondary visual center of the frame. There must be clear causal, directional, and spatial relationships between the subject's actions and the event. 7 | Photographic effects Realistic photography, high shutter speed, instant snapshot. Preserve natural inertial movement but avoid severe motion blur. The image should possess: Strong sense of immediacy + spatial depth + dynamic direction + foreground/background relationship + unpredictability. Both the subject and the event must comply with real-world lighting, shadows, perspective, scale, occlusion, and laws of motion. The final effect should look like a photographer happened to press the shutter to capture a previously unpredictable moment. No static posing, no studio feel, no theatrical feel, no deliberately manufactured disasters. Core goal: Viewers should first see \"what happened,\" and only then notice \"how the subject dodged.\"",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35562-6-Fine-Art-Studio-Portrait-with-Butterfly-Lighting.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35671-6-Nano-Banana-Pro-Unexpected-Event-Photo-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35510-13",
-      "title": "Red Carpet Tuxedo Portrait Prompt",
-      "prompt": "A handsome young man wearing an elegant black tuxedo, standing confidently on a glamorous red carpet, luxury event decorations and bright photography lights in the background, cinematic fashion photography, highly detailed, photorealistic, 8K.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35666-9",
+      "title": "Modern Kitchen Fashion Portrait",
+      "prompt": "Create a photorealistic fashion portrait of a young woman casually leaning against a modern kitchen island in a warm, luxurious apartment. She has long, voluminous dark-brown hair with a soft side part, defined brows, subtle winged eyeliner, natural rosy makeup, and realistic skin texture. She wears a fitted black top under a cropped pink-and-white tweed jacket with gold buttons, paired with relaxed light-wash wide-leg jeans. She is leaning slightly against the marble kitchen counter, one arm resting naturally on the countertop, with a relaxed confident expression. Warm ambient ceiling spotlights, dark walnut kitchen cabinets, large black-framed wall mirror, marble island, cozy modern interior. Full-body composition, vertical 4:5, eye-level camera, realistic proportions, natural pose, soft warm lighting, shallow depth of field, high-end editorial photography, ultra-detailed, photorealistic, realistic fabric and skin textures.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35510-13-Red-Carpet-Tuxedo-Portrait-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35666-9-Modern-Kitchen-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34666-35",
-      "title": "Luxury Fashion Editorial Portrait",
-      "prompt": "Use my uploaded female face as the ONLY identity reference for the main model. Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, hairline, and natural skin texture. Keep me instantly recognizable. Do not beautify, reshape, feminize, masculinize, age, de-age, or alter my facial features. Create a premium photorealistic luxury fashion-week editorial poster featuring me as the main female fashion model. Design it as a sophisticated contemporary magazine campaign rather than copying the reference exactly. Main portrait: I am standing confidently in a modern upscale fashion setting, body turned slightly toward the camera while my face looks elegantly to the side. Shoulder-length soft wavy brunette hair with natural volume and subtle movement. Calm, confident high-fashion expression. Outfit: Replace the beige suit with a soft ivory tailored oversized blazer, satin champagne camisole underneath, high-waisted wide-leg charcoal trousers, delicate gold layered neckla…",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34660-40",
+      "title": "Ganesh Chaturthi 3D Logo",
+      "prompt": "Generate 3d logo style text \"{argument name=\"text\" default=\"GANESH\"}\" with Ganesha with rat, adjusted perfectly with text, 8k resolution, 1:1 ratio, dark background.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34666-35-Luxury-Fashion-Editorial-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34660-40-Ganesh-Chaturthi-3D-Logo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33925-27",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33925-26",
       "title": "DIY ZINE and Cultural Poster",
       "prompt": "[Poster Information] - Main Title: {argument name=\"title\" default=\"Creative Night.\"} - Event/ZINE Theme: {argument name=\"theme\" default=\"Live & DJ ZINE & ART\"} - Date/Other Info: {argument name=\"date\" default=\"2026.11.15\"} [Image Quality/Direction/Composition] - Style: Analog texture, DIY culture, punk ZINE or indie label poster art style. - Visual Effects: Multi-layered graphic design featuring a collage of hand-torn paper, newspaper clippings, monochrome halftone photos, hand-drawn graffiti, and spray art. - Color Tone: Primarily monochrome with 1-2 accent colors like neon pink, acid yellow, or fluorescent green, creating high contrast. - Typography (for GPT-image / Nano Banana Pro): The title {argument name=\"title\" default=\"Creative Night.\"} is powerfully placed in the center using rough, distorted handwriting or stencil fonts, while the {argument name=\"theme\" default=\"Live & DJ ZINE & ART\"} and {argument name=\"date\" default=\"2026.11.15\"} are pasted as part of the collage on the edges. [Strict Layout Constraints (Required)] - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: --ar 3:4",
       "media": "image",
       "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33925-27-DIY-ZINE-and-Cultural-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33925-26-DIY-ZINE-and-Cultural-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35563-7",
-      "title": "Cinematic Nighttime Lifestyle Portrait",
-      "prompt": "Create a photorealistic cinematic nighttime lifestyle portrait. Preserve the same reference woman’s recognizable facial structure, face shape, eyes, eyebrows, nose, lips, skin tone, complexion, and natural facial proportions from the reference. Maintain her identity-like appearance consistently. Natural skin texture, subtle pores, realistic details, no facial distortion. She is relaxing comfortably in an elegant cozy bedroom, sitting against soft pillows on a neatly made bed while reading a hardcover book. She wears luxurious ivory satin pajamas with a relaxed low bun and a few natural strands framing her face, plus delicate gold hoop earrings. A fluffy cream-colored cat sleeps peacefully beside her. A warm bedside lamp casts soft golden light while cool blue moonlight enters through a large window, creating a beautiful warm-and-cool cinematic contrast. A cup of tea sits on the wooden nightstand beside the lamp. Soft beige bedding, elegant neutral interiors, realistic fabric textures, intimate peaceful nighttime atmosphere. CAMERA & STYLE: Photorealistic cinematic photography, 50mm lens, natural perspective, shallow depth of field, soft bokeh, realistic skin and hair, subtle filmic lighting, soft shadows, premium luxury lifestyle photography, highly detailed, natural colors, 8K realism. Negative Prompt identity drift, different face, altered facial structure, distorted face, asymmetrical eyes, unnatural eyes, deformed hands, extra fingers, missing fingers, fused fingers, malformed limbs, bad anatomy, plastic skin, overly smooth skin, excessive makeup, unnatural hair, duplicate person, duplicate cat, distorted cat, floating objects, warped book, unreadable text, CGI, cartoon, illustration, 3D render, oversaturated colors, harsh lighting, excessive blur, low resolution, noise, artifacts, watermark, logo, text, cropped face, unnatural pose",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35669-7",
+      "title": "Black and White Studio Portrait Prompt",
+      "prompt": "A high resolution black and white portrait of a girl wearing a sharp black turtle neck and chic small gold earrings along with Korean bun. She stands confidently in minimal studio setting slightly to the side dramatic studio lighting creates bold geometric shadows on her face and background strong cross beams of light. Cut through the shadows her expression is calm introspective and slightly distant the image has cinematic, high quality nor tone with high contrast and fine detail on her face and suits texture soft brokeh background.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35563-7-Cinematic-Nighttime-Lifestyle-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35669-7-Black-and-White-Studio-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35454-14",
-      "title": "Retro Waffle Collage Prompt",
-      "prompt": "{ \"type\": \"retro fashion photo collage\", \"aspect_ratio\": \"1:1\", \"composition\": \"two overlapping photographic frames with different zoom levels\", \"subject\": \"young freckled woman, long messy wavy dark-brown hair, soft bangs, spontaneous playful mood\", \"outfit\": \"oversized black and off-white rugby pullover with lime panels, loose khaki bermuda cargos, olive socks, brown chunky sneakers, orange graphic baseball cap, colorful clip accessories\", \"action\": \"holding a waffle cone while squeezing whipped cream onto it; second frame captures her licking the cream with an amused expression\", \"setting\": \"simple warm-gray studio floor and backdrop\", \"lighting\": \"soft overhead diffused light with gentle shadows\", \"style\": \"90s-inspired Japanese youth editorial, candid snapshot aesthetic, muted colors, subtle analog grain, imperfect natural poses\", \"negative\": \"perfect commercial photography, plastic skin, cinematic lighting, anatomy errors, extra fingers, malformed hands, duplicate objects, face distortion, clothing glitches, text, watermark, logos\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35619-15",
+      "title": "Kinetic Amber Surreal Portrait",
+      "prompt": "{ \"vibe_title_en\": \"Kinetic Amber\", \"master_prompt\": \"A hyper-realistic, medium-format avant-garde portrait of The Protagonist at exact eye-level, locked in dead-center eye contact with a profoundly serene, focused expression. The subject is captured in mid-stride, initiating a sudden, dynamic twisting motion. They wear a high-necked, vibrant marigold silk garment that ripples violently in a sudden, invisible gust of wind. Surrounding and blooming from their head is an impossible, gravity-defying kinetic sculpture: massive, intricate coils resembling spiraling gourds or shells, constructed entirely of highly polished translucent amber, intricately carved mahogany, and spinning ribbons of thick, glossy liquid caramel frozen perfectly in mid-air by a 1/4000s high shutter speed. Set against a pitch-black infinite studio void. Shot on a Hasselblad H6D-100c with a 100mm f/2.2 lens. Cinematic, high-contrast Rembrandt lighting punches through the translucent amber, casting rich, luminous warm refractions onto hyper-detailed skin—revealing microscopic pores and peach fuzz. Authentic Kodak Portra 800 film stock, tactile analog grain, and absolute physical weight to the impossible elements. NO NEON.\", \"meta\": { \"intent\": \"Surreal Editorial Portrait\", \"priorities\": \"Kinetic motion, high-speed freezing, hyper-realistic analog textures, exact eye-level framing\", \"device_profile\": \"High-resolution retina displays\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Center-weighted portrait, head and shoulders with an expansive, surreal headpiece filling the upper and lateral frame\", \"layout\": \"Subject positioned dead center, enveloped by negative space acting as a black void to emphasize the kinetic elements\", \"camera_angle\": \"Exact eye-level\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Kinetic Muse\", \"demographics\": \"Ageless, ethereal editorial model\", \"face\": \"Symmetrical, hyper-detailed pores, flawless but natural skin texture with visible peach fuzz\", \"hair\": \"Concealed entirely by the swirling amber and silk structures\", \"body\": \"Slender neck, graceful posture caught in a state of high dynamic tension\", \"expression\": \"Dead-calm, serene yet intensely focused, establishing piercing eye contact\", \"pose\": \"Mid-stride torsion, torso twisting slightly in sudden movement while the head remains locked perfectly forward\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"High-necked draped top\", \"material\": \"Flowing marigold silk\", \"color\": \"Vibrant marigold and deep amber\", \"fit\": \"Form-fitting at the neck, billowing and chaotic at the shoulders\" } ], \"accessories\": [ { \"item\": \"Surreal kinetic headpiece of spiraling, massive organic coils\", \"color\": \"Rich amber, burnt orange, golden yellow, dark mahogany\", \"material\": \"Polished translucent amber, carved wood, and thick ribbons of liquid caramel frozen in time\", \"brand_style\": \"Avant-garde Haute Couture\" } ] }, \"environment\": { \"setting\": \"Pitch-black infinite studio void\", \"surfaces\": \"None visible, deep shadow absorbing all background light\", \"depth\": \"Shallow depth of field, sharp drop-off into total blackness immediately behind the subject\", \"atmosphere\": \"Vacuum-like stillness interrupted only by the chaotic, frozen motion of the subject's adornments\", \"lens_interaction\": \"Micro-dust motes catching the spotlight, crisp specular highlights gleaming off the polished amber surfaces\" }, \"lighting\": { \"key\": \"Crisp, directional spotlight from the upper-left (Rembrandt style)\", \"fill\": \"Negative fill on the right side to crush shadows into absolute true black\", \"rim\": \"Subtle, razor-thin golden rim light on the flying silk and outer amber coils to separate them from the void\", \"shadows\": \"Deep, rich, high-contrast, completely swallowing the edges of the frame\", \"color_temperature\": \"Warm, cinematic golden hour tones (around 3200K)\", \"sensor_flare\": \"None, perfectly controlled and flagged studio lighting\" }, \"camera\": { \"lens_type\": \"Medium Format Portrait Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.2\", \"focus\": \"Tack sharp strictly on the subject's irises and eyelashes\", \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Zero distortion, perfect orthographic-like facial flattening\" }, \"post_processing\": { \"color\": \"Rich, highly saturated warm tones (amber, gold, marigold) contrasted against pure true blacks\", \"tonality\": \"High-contrast chiaroscuro, cinematic film S-curve\", \"texture\": \"Authentic Kodak Portra 800 film grain, highly tactile micro-details on skin and polished resin\", \"digital_sharpening\": \"None, relies entirely on pristine optical medium-format sharpness\", \"chromatic_aberration\": \"Extremely subtle on the out-of-focus outer edges of the flying liquid/silk\" }, \"negative_specifications\": [ \"Neon lights\", \"Digital painting\", \"CGI look\", \"Smiling\", \"Messy background\", \"High angle\", \"Low angle\", \"Static pose\", \"Flat lighting\", \"Plastic skin\", \"Cartoonish surrealism\" ] }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35454-14-Retro-Waffle-Collage-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35619-15-Kinetic-Amber-Surreal-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,16 +476,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34660-36",
-      "title": "Ganesh Chaturthi 3D Logo",
-      "prompt": "Generate 3d logo style text \"{argument name=\"text\" default=\"GANESH\"}\" with Ganesha with rat, adjusted perfectly with text, 8k resolution, 1:1 ratio, dark background.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34306-47",
+      "title": "Chibi RPG Game Campaign Key Visual",
+      "prompt": "[Game Campaign] - Game Title: {argument name=\"game title\" default=\"Treasure Hunt!\"} - Game Overview/Features: {argument name=\"description\" default=\"Find treasures on a great adventure island!\"} - Genre/Subtext: {argument name=\"subtext\" default=\"RPG Adventure Action!\"} [Quality, Production, Composition] - Style: Illustration for event announcements for Japanese mobile RPGs or casual games. A colorful and joyful fantasy world. - Subject: Adorable chibi characters (deformed heroes or mascots) opening a treasure chest with smiles. Golden light and magical particles are overflowing dazzlingly from the chest. - Background: Blue sky, white clouds, and islands or forests in a lush fantasy world. - Typography (for GPT-image / Nano Banana Pro): A fantasy-style decorative logotype of {argument name=\"game title\" default=\"Treasure Hunt!\"} is designed in the center or top of the screen, with {argument name=\"description\" default=\"Find treasures on a great adventure island!\"} and {argument name=\"subtext\" default=\"RPG Adventure Action!\"} added in an easy-to-read layout. - Color/Lighting: Bright, high-saturation fantasy colors, magical gloss, and soft shadow depiction. [Strict Layout and Output Constraints (Required)] - Output the finished design itself, filling the entire screen. Backgrounds and scene descriptions (walls, spaces, shadows, etc.) within the design may follow the instructions in the main text. - Prohibitions: Photos of the finished poster in a frame, photos pinned to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows. - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: --ar 16:9",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34660-36-Ganesh-Chaturthi-3D-Logo.webp",
+      "model": "GPT Image",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34306-47-Chibi-RPG-Game-Campaign-Key-Visual.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "GPT Image",
         "Product Marketing"
       ],
       "author": "YouMind OpenLab",
@@ -533,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33671-31",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33671-30",
       "title": "Cinematic Concept Art Illustration",
       "prompt": "This poster illustration, created using the attached subject, adheres entirely to the aesthetic of modern cinematic concept art. It features a highly dynamic composition, a dramatic low-angle perspective, detailed and realistic clothing rendering, and a weathered texture achieved through semi-realistic, layered brushstrokes combined with sharp, ink-like contours. The illustration employs a limited earthy color palette dominated by {argument name=\"primary colors\" default=\"warm burnt orange, deep navy blue, soft cream\"}, sepia brown, charcoal black, and faded steel gray. The background incorporates abstract geometric blocks, distressed poster textures, rough paper grain, ink stains, paint splatters, and partially erased graphic elements. Key features include high-contrast lighting, moody shadows, subtle vintage print effects, a textured matte finish, and a highly detailed editorial poster 9:16!",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33671-31-Cinematic-Concept-Art-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33671-30-Cinematic-Concept-Art-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,16 +590,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35558-8",
-      "title": "Autumn Jacket Portrait",
-      "prompt": "Realistic 3:4 photo, vertical portrait. Do not change the girl’s appearance. Natural hairstyle, hair lying freely on the shoulders. Medium-length square manicure in a milky color. The girl is wearing a dark brown cropped leather jacket, a brown plaid shirt, and black leggings. She is standing by a modern metal railing, leaning slightly back, right hand behind her head. Face in left profile, eyes closed, head slightly tilted upward. Background of dense autumn foliage: bright orange, yellow, red, and green leaves, a tree trunk with green ivy on the left. Soft natural daylight, no harsh shadows. Background sharp, no blur. Pinterest and lifestyle aesthetic, high detail and natural skin texture, shot in iPhone 17 Pro style. A lively spontaneous frame without posing, natural everyday look.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35672-8",
+      "title": "Cafe Terrace Portrait Prompt",
+      "prompt": "Face/Hair: Conform to attached face photo. Hair Condition: Dry, normal state. Expression: Eyes slightly open, gaze fixed on camera, gentle closed-mouth smile, natural eyebrows, soft sense of reassurance. Top: {argument name=\"top clothing\" default=\"Plain white, cotton material, long length reaching mid-thigh, loose long sleeves, hooded neckline, flat hem finish, natural wearing state, no wrinkles or transparency\"} Bottoms: {argument name=\"bottom clothing\" default=\"Black pleated skirt\"} Footwear: Loose socks with loafers. Accessories: Small heart motif silver necklace, one small stud earring per ear, Starbucks hot coffee and lid placed on a cylindrical wooden round table. Pose: Sitting on a wooden round chair, left elbow resting on the round table with palm against cheek, waist and legs angled towards camera, shoulders slightly facing away, upper body tilting slightly forward, axis connecting head top and waist tilted slightly right from vertical, face turned slightly towards camera relative to body, left arm bent at elbow supporting cheek at chest height, right hand placed near left wrist cuff, both legs crossed neatly at knees. Depth: Closest part is left toes occupying bottom 10% of screen, focus plane on face and upper body, moderate bokeh on foreground/background, natural distance with weak perspective exaggeration. Composition: Shot size is knee shot from thighs down, head top approx 15% from top edge, feet touching bottom edge, person centered horizontally and vertically, camera height at seated eye level, slight downward angle, standard lens field of view. Location: Outdoor cafe terrace, daytime, spring season, sunny, blue sky with few white clouds, wooden pillars and walls in background, reflection of trees in window glass, wooden signboard in back, paved ground, depth increasing with stronger bokeh, ground/trees/buildings not visible. Lighting: Natural sunlight from front-right, slightly higher color temperature, overall slightly high-key brightness, medium contrast, soft shadows on face/clothes, no backlight or rim light, no light sources or lens flares in frame, no blown highlights or halation. Photography: Outdoor portrait, distance approx 2 meters, telephoto focal length feel, shallow depth of field causing background blur, moderate graininess, medium saturation and contrast trends, transparent atmosphere across entire screen. Texture: Smooth skin texture, no sweat/wetness, shallow depth of field, warm tones from natural white balance. Style: Photorealistic, depiction of natural light reflection and texture. Ratio: Vertical 9:16 / 1080x1920px",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35558-8-Autumn-Jacket-Portrait.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35672-8-Cafe-Terrace-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",
@@ -609,16 +609,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35452-15",
-      "title": "South Asian Wedding Portrait Prompt",
-      "prompt": "A photorealistic portrait of a handsome young South Asian man looking directly at the camera with a gentle, confident smile. He is wearing a light pastel pink traditional Indian kurta adorned with intricate silver embroidery and shimmering mirror work. He is standing at a festive, elegant event. The background is softly blurred with a beautiful depth of field (bokeh), showing a lively, celebratory gathering, likely an Indian wedding or sangeet. In the background, softly out of focus, are happy guests in traditional pastel Indian attire, including a woman laughing joyfully on the left and a man in a patterned kurta on the right. The scene features a bright, airy, and soft pastel color palette with cinematic lighting, highly detailed fashion photography style, 85mm lens. keep original face and hairstyle 100% reference #wedding",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35617-16",
+      "title": "Cinematic Woman Waiting for Train in Rain",
+      "prompt": "Create an ultra-photorealistic 4K cinematic full-body scene of the same woman from the reference image, sitting naturally on an elegant railway station chair while waiting for her train in heavy rain. Preserve her exact reference face and identity. She looks naturally toward the camera with a calm, elegant expression. Show her entire body from head to toe, with both shoes completely visible. Place her full leather suitcase beside the chair, including wheels and handle. A normal-sized black umbrella rests naturally beside the chair. Luxury camel trench coat, black trousers, polished black ankle boots, subtle gold jewelry, and elegant handbag. Heavy rain is visible through the large station windows, with wet railway tracks, puddles, mist, reflections, and an approaching train in the background. Premium luxury railway-station architecture with warm golden lighting and polished marble floor Wide full-body composition, eye-level camera, 45–50mm lens, natural proportions, sharp face, detailed clothing and leather, realistic rain, cinematic depth of field. Quality: 4K UHD, photorealistic live-action, HDR, realistic skin pores, natural hair, cinematic lighting, premium color grading, subtle film grain. Negative prompt: cropped feet, cropped shoes, cropped suitcase, oversized umbrella, distorted hands, extra fingers, face drift, different identity, plastic skin, cartoon, anime, CGI, 3D render, unrealistic rain, blurry face, low resolution, unwanted text, extra logos, watermark.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35452-15-South-Asian-Wedding-Portrait-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35617-16-Cinematic-Woman-Waiting-for-Train-in-Rain.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -685,16 +685,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34306-43",
-      "title": "Chibi RPG Game Campaign Key Visual",
-      "prompt": "[Game Campaign] - Game Title: {argument name=\"game title\" default=\"Treasure Hunt!\"} - Game Overview/Features: {argument name=\"description\" default=\"Find treasures on a great adventure island!\"} - Genre/Subtext: {argument name=\"subtext\" default=\"RPG Adventure Action!\"} [Quality, Production, Composition] - Style: Illustration for event announcements for Japanese mobile RPGs or casual games. A colorful and joyful fantasy world. - Subject: Adorable chibi characters (deformed heroes or mascots) opening a treasure chest with smiles. Golden light and magical particles are overflowing dazzlingly from the chest. - Background: Blue sky, white clouds, and islands or forests in a lush fantasy world. - Typography (for GPT-image / Nano Banana Pro): A fantasy-style decorative logotype of {argument name=\"game title\" default=\"Treasure Hunt!\"} is designed in the center or top of the screen, with {argument name=\"description\" default=\"Find treasures on a great adventure island!\"} and {argument name=\"subtext\" default=\"RPG Adventure Action!\"} added in an easy-to-read layout. - Color/Lighting: Bright, high-saturation fantasy colors, magical gloss, and soft shadow depiction. [Strict Layout and Output Constraints (Required)] - Output the finished design itself, filling the entire screen. Backgrounds and scene descriptions (walls, spaces, shadows, etc.) within the design may follow the instructions in the main text. - Prohibitions: Photos of the finished poster in a frame, photos pinned to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows. - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: --ar 16:9",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34120-49",
+      "title": "Editorial Fashion Portrait of a Young Man",
+      "prompt": "Editorial fashion photograph of a young man with {argument name=\"hair style\" default=\"tousled dark wavy hair\"}, tan olive skin, defined jawline, short stubble beard and mustache, thick dark eyebrows, brown eyes, wearing dark sunglasses pushed slightly down. He wears a {argument name=\"shirt color\" default=\"maroon\"} short-sleeve polo shirt tucked into wide-leg cream/off-white trousers with a brown braided leather belt, and brown tassel loafers. He stands in profile, leaning forward with one hand resting on the seat of a wooden bar stool, head tilted downward. Plain soft neutral gray studio background, soft even studio lighting, minimalist high-end fashion campaign aesthetic, shot on medium format camera, shallow depth of field, clean commercial look.",
       "media": "image",
-      "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34306-43-Chibi-RPG-Game-Campaign-Key-Visual.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34120-49-Editorial-Fashion-Portrait-of-a-Young-Man.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "GPT Image",
+        "AI Image Model",
         "Product Marketing"
       ],
       "author": "YouMind OpenLab",
@@ -742,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33670-33",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33670-32",
       "title": "Paper Relief Anime Style",
       "prompt": "2x2 grid, 16:9, do this for {argument name=\"topic\" default=\"4 famous anime\"} in all their glory: PAPER_RELIEF(TOPIC) ::= layer_00 = flat backing sheet layer_01 = broad silhouette cutout layer_02 = major facial / object planes layer_03 = internal contour lines layer_04 = symbolic objects and diagrams layer_05 = flowing scrolls and ribbons layer_06 = dimensional title typography layer_07 = tiny embossed micro-details Rules: - every layer casts a soft visible shadow - edges should look physically cut, stacked, folded, or curled - detail density increases near focal zones - background remains quiet and paper-based - all depth comes from real material layering, not digital gradients",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33670-33-Paper-Relief-Anime-Style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33670-32-Paper-Relief-Anime-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,16 +799,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35560-9",
-      "title": "Nano Banana Pro vs GPT Image 2 & Others Comparison",
-      "prompt": "Photorealistic photograph of an unmistakably adult woman. Use the supplied live-action reference photo as the absolute authority for her identity: exact facial structure, short silver-grey bob with straight bangs, hair color and texture, pale skin, real body proportions, silhouette, and overall presence. Preserve clear recognizability. do not replace her face, do not copy the reference photo’s original outfit. full-body standing portrait, smiling at the camera, hands on her skirt as it moves. Vertical crop from grass to above the head. WARDROBE: white off-shoulder lace maxi dress with ruffles and a flowing skirt, aviator sunglasses, simple jewelry and a watch. Do not copy clothing from the reference photo. SETTING: bright valley — fruit trees, wildflowers, a grazing deer, high waterfall, green mountains, birds in a clear sky. LIGHTING AND CAMERA: photoreal midday sun, natural pores, her real face readable under or around the sunglasses. Live-action photograph, 35mm, subject sharp, landscape clear. 2:3 or 3:4 portrait. One adult character only. No extra people, no text, no logos.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35559-9",
+      "title": "Hat Shop Selfie Portrait Prompt",
+      "prompt": "The person has long wavy brown hair and light skin with long, polished nails. They are wearing a sage-green, loose-fitting short-sleeved top, light-colored pants or shorts, and a light cream crossbody strap across their torso. They are holding up a smartphone with a brown-and-white spotted phone case to take the selfie, partially covering their face while making a subtle pouting expression. Hat: They are wearing a wide-brimmed straw-style hat with a dark brown leather band around the crown and a brown chin cord hanging down. They are holding the brim of the hat with their right hand. Background: The background is filled with wooden shelves and displays packed with a wide variety of hats in diverse styles, shapes, and colors .including blue, black, brown, white, and tan.",
       "media": "image",
-      "model": "Seedream 5 Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35560-9-Nano-Banana-Pro-vs-GPT-Image-2-Others-Comparison.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35559-9-Hat-Shop-Selfie-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Seedream 5 Pro",
+        "Nano Banana Pro",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",
@@ -818,16 +818,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35451-16",
-      "title": "South Asian Fashion Poster Prompt",
-      "prompt": "Keep the same features of the attached person, without changes. Reference picture: photo sent. Face: keep the exact same person as the reference picture. Format: Create a high-quality ultra-photorealistic fashion poster using the same composition: featuring a young South Asian man with green eyes and a well-groomed beard. In the foreground, he is shown full-body, dressed in a green linen casual suit, leaning casually against a stone ledge, with a gold necklace and a watch. His eyes are green. Overlaid in the background is a large, close-up portrait of his face, with his striking green eyes as a focus. The entire composition has a dreamlike, brushstroke texture, set against a backdrop of a blurred mountain valley at dusk, creating a artistic and nostalgic atmosphere.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35618-17",
+      "title": "Luxury Evening Portrait Prompt for Nano Banana Pro",
+      "prompt": "Create a highly realistic vertical 4:5 luxury evening portrait of a young woman posing in a sophisticated studio setting. She is turned slightly away from the camera, showing an elegant over-the-shoulder pose while looking back directly toward the camera with a confident, graceful expression. Her dark-brown hair is styled into a sleek low updo with a few soft face-framing strands around her cheeks. She has refined natural facial features, warm fair skin with realistic texture, expressive brown eyes, defined brows, subtle smoky burgundy eye makeup, soft blush, and deep rose-red glossy lips. She is wearing an elegant off-shoulder deep burgundy satin evening gown with a folded draped neckline and fitted silhouette. The back features delicate jeweled embellishments and a decorative sparkling detail. Add luxurious jewelry: a diamond necklace, dangling ruby-and-diamond earrings, multiple elegant rings, layered metallic bracelets, and a classic luxury wristwatch. Her nails are long and glossy with intricate deep-red and silver nail art. Her upper hand is posed delicately near her shoulder while the other rests naturally around her waist. Background is a rich dark burgundy studio wall with a soft cream-colored light area on one side, creating a dramatic two-tone backdrop. Cinematic warm lighting, soft highlights on the skin, subtle shadows, high-end jewelry campaign aesthetic, realistic fabric and jewelry details, natural hands and fingers, shallow depth of field, professional fashion photography, 85mm lens look, ultra-photorealistic, elegant and sophisticated, no text, no watermark.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35451-16-South-Asian-Fashion-Poster-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35618-17-Luxury-Evening-Portrait-Prompt-for-Nano-Banana-Pro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -894,16 +894,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34120-45",
-      "title": "Editorial Fashion Portrait of a Young Man",
-      "prompt": "Editorial fashion photograph of a young man with {argument name=\"hair style\" default=\"tousled dark wavy hair\"}, tan olive skin, defined jawline, short stubble beard and mustache, thick dark eyebrows, brown eyes, wearing dark sunglasses pushed slightly down. He wears a {argument name=\"shirt color\" default=\"maroon\"} short-sleeve polo shirt tucked into wide-leg cream/off-white trousers with a brown braided leather belt, and brown tassel loafers. He stands in profile, leaning forward with one hand resting on the seat of a wooden bar stool, head tilted downward. Plain soft neutral gray studio background, soft even studio lighting, minimalist high-end fashion campaign aesthetic, shot on medium format camera, shallow depth of field, clean commercial look.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34130-50",
+      "title": "Pop Art Style Product Advertisement",
+      "prompt": "[Product and Copy] - Main Copy: {argument name=\"main copy\" default=\"Ultra-lightweight, High Volume! Latest Portable Speaker\"} - Onomatopoeia: {argument name=\"onomatopoeia\" default=\"BOOM!!\"} - Text inside Speech Bubble: {argument name=\"speech bubble\" default=\"Awesome!\"} [Quality, Production, Composition] - Style: Vintage pop art illustration characterized by dot (halftone) textures and strong black outlines, like the style of Roy Lichtenstein or American comics. - Subject: A product drawn as if it were jumping out vigorously in the center. Radial lines (focus lines) spread from behind the product, enhancing the sense of dynamism. - Typography and Speech Bubbles (for GPT-image / Nano Banana Pro): The onomatopoeia {argument name=\"onomatopoeia\" default=\"BOOM!!\"} is drawn in large, powerful, 3D colorful comic-style letters, and the text {argument name=\"speech bubble\" default=\"Awesome!\"} is placed inside a classic speech balloon. A banner for {argument name=\"main copy\" default=\"Ultra-lightweight, High Volume! Latest Portable Speaker\"} is designed at the top of the screen. - Color/Tone: Vivid and high-contrast pop art colors such as yellow, red, blue, and black. [Strict Layout and Output Constraints (Required)] - Output the finished design itself, filling the entire screen. Backgrounds and scene descriptions (walls, spaces, shadows, etc.) within the design may follow the instructions in the main text. - Prohibitions: Photos of the finished poster in a frame, photos pinned to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows. - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: \"--ar 1:1\" or \"--ar 4:3\"",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34120-45-Editorial-Fashion-Portrait-of-a-Young-Man.webp",
+      "model": "GPT Image",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34130-50-Pop-Art-Style-Product-Advertisement.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "GPT Image",
         "Product Marketing"
       ],
       "author": "YouMind OpenLab",
