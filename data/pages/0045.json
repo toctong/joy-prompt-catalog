@@ -2,11 +2,30 @@
   "items": [
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-37",
+      "title": "Infographic / Edu Visual - Handwritten Style 3-Step Process Slide",
+      "prompt": "[Input Data]\n- Overall Title: {argument name=\"main title\" default=\"3-Step Flowchart for Night Shift Introduction\"}\n- Step 1: Title \"{argument name=\"step 1 title\" default=\"Day Shift Mastery\"}\" / Period \"{step1Period}\" / Description \"{step1Desc}\"\n- Step 2: Title \"{step2Title}\" / Period \"{step2Period}\" / Description \"{step2Desc}\"\n- Step 3: Title \"{step3Title}\" / Period \"{step3Period}\" / Description \"{step3Desc}\"\n- Color Theme: {argument name=\"color theme\" default=\"green\"}\n\n[Structure and Layout Specifications]\n- Style: A clean and friendly 3-step flowchart illustration suitable for Japanese business slides, educational manuals, or internal documents. 16:9 landscape slide configuration.\n- Background: Clean off-white or solid white background.\n- Top Title:\n  - Place \"Figure 3\" or a step badge in the upper left, and to its right, draw a large Japanese main title \"{mainTitle}\" in a bold, easy-to-read Gothic font. Place a small, clean abstract logo mark at the right edge.\n- Step Card Arrangement:\n  - Three beautiful rectangular cards arranged side-by-side. Placed in order from left to right, connected by thick arrows. Each card border is color-coded neatly according to the color theme ({colorTheme}).\n- Card 1 (Left) Interior:\n  - Draw a circular badge \"1\" and the Japanese title \"{step1Title}\" prominently. Below that, a capsule label saying \"{step1Period}\".\n  - In the center, place an illustration of a Japanese woman with a gentle hand-drawn touch taking notes, and a window showing the sun.\n  - At the bottom, place the Japanese description \"{step1Desc}\".\n- Card 2 (Center) Interior:\n  - Draw a circular badge \"2\" and the Japanese title \"{step2Title}\" prominently. Below that, a capsule label saying \"{step2Period}\".\n  - In the center, place an illustration of two Japanese women with a flashlight, night sky, and buildings.\n  - At the bottom, place the Japanese description \"{step2Desc}\".\n- Card 3 (Right) Interior:\n  - Draw a circular badge \"3\" and the Japanese title \"{step3Title}\" prominently. Below that, a capsule label saying \"{step3Period}\".\n  - In the center, place an illustration of the night sky and crescent moon, and a Japanese woman smiling with a victory pose.\n  - At the bottom, place the Japanese description \"{step3Desc}\".\n\n[Quality and Font Specifications]\n- Simple, clean 2D illustration, flat design, crisp clear line art.\n- All text must be accurately drawn in readable Japanese fonts (Gothic) without spelling errors.\n- Exclude all 3D effects, shadows, laptop mockup backgrounds, or camera tilt; display the flat diagram itself across the entire screen.\n\n- Aspect Ratio: --ar 16:9",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-37-Infographic-Edu-Visual-Handwritten-Style-3-Step-Process-Slide.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Product"
+      ],
+      "author": "AI Guide-Note - 実務で使えるAI活用メディア",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-38",
       "title": "Infographic / Edu Visual - Vintage British Caricature Satire",
       "prompt": "A vintage British caricature depicts a woman with an elaborate hairstyle adorned with a sailing ship, flowers, and feathers. She is seated in an ornate chair, wearing a richly decorated dress and holding a fan. The background shows a lavish interior with a fireplace, clock, and a window overlooking a harbor scene. A small dog sits on a cushion to her right. The overall style is that of a 18th-century satirical print.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-37-Infographic-Edu-Visual-Vintage-British-Caricature-Satire.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-38-Infographic-Edu-Visual-Vintage-British-Caricature-Satire.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -20,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-38",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-39",
       "title": "Infographic / Edu Visual - Corporate Revenue Report Infographic",
       "prompt": "Create a clean infographic summarizing {argument name=\"subject\" default=\"Teva’s revenue report\"}, with clear headings and a {argument name=\"chart type\" default=\"chart showing annual growth\"}.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-38-Infographic-Edu-Visual-Corporate-Revenue-Report-Infographic.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-39-Infographic-Edu-Visual-Corporate-Revenue-Report-Infographic.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-39",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-40",
       "title": "Infographic / Edu Visual - Vintage Travel Journal Editorial Collage",
       "prompt": "Create a premium vintage Japanese travel-journal editorial collage in vertical 4:5 format, featuring four distinct city sections—Bangkok, Thailand; Lisbon, Portugal; Marrakech, Morocco; Istanbul, Turkey. Each section combines a warm photorealistic documentary street photograph with a matching imperfect hand-drawn screen-print illustration, arranged asymmetrically on aged cream paper with torn-paper layers, archival borders, subtle pencil marks, typewriter captions, faded ink, paper fibers, and authentic 35mm analog grain. Bangkok: shrine, tangled wires, tropical greenery, teal motorbike; Lisbon: yellow tram, steep cobblestone street, balconies and river view; Marrakech: terracotta medina, palms, rugs and ornate minaret; Istanbul: steep stone street, Galata Tower, Bosphorus and vintage scooter. Use a restrained palette of sage, ochre, terracotta, mustard, charcoal and warm ivory, with sophisticated editorial art direction, muted contrast, natural light, handmade imperfections, and museum-quality travel-zine aesthetic.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-39-Infographic-Edu-Visual-Vintage-Travel-Journal-Editorial-Collage.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-40-Infographic-Edu-Visual-Vintage-Travel-Journal-Editorial-Collage.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-40",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-41",
       "title": "Infographic / Edu Visual - Editorial Cooking Storyboard Layout",
       "prompt": "Create a vertical 4:5 cooking storyboard with exactly 10 panels in a {argument name=\"grid\" default=\"2×5 grid\"}. {argument name=\"surface\" default=\"warm wooden tabletop\"}, perfect top-down view, thin white borders, dusty-pink rounded headers, cream caption boxes, numbered circles and black handwritten typography.\\n\\nShow the exact sequence: {argument name=\"dish\" default=\"dish\"} packet → packet opens → noodles enter silver pot → noodles boil → seasoning sachets come out → cooked noodles enter black bowl → seasonings fall in → noodles mix → fried egg placed on top → finished mie goreng with egg and garnishes.\\n\\nUse clear white curved arrows, motion lines and sparkles to show every movement. Keep identical object continuity, realistic food, warm lighting, clean cute editorial storyboard style, sharp details and balanced spacing. No people, no hands, no extra panels.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-40-Infographic-Edu-Visual-Editorial-Cooking-Storyboard-Layout.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-41-Infographic-Edu-Visual-Editorial-Cooking-Storyboard-Layout.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-41",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-42",
       "title": "Infographic / Edu Visual - Vintage Travel Journal Collage",
       "prompt": "Create a premium vintage Japanese travel-journal editorial collage in vertical 4:5 format, featuring four distinct city sections—{argument name=\"locations\" default=\"Bangkok, Thailand; Lisbon, Portugal; Marrakech, Morocco; Istanbul, Turkey\"}. Each section combines a warm photorealistic documentary street photograph with a matching imperfect hand-drawn screen-print illustration, arranged asymmetrically on aged cream paper with torn-paper layers, archival borders, subtle pencil marks, typewriter captions, faded ink, paper fibers, and authentic 35mm analog grain. Bangkok: shrine, tangled wires, tropical greenery, teal motorbike; Lisbon: yellow tram, steep cobblestone street, balconies and river view; Marrakech: terracotta medina, palms, rugs and ornate minaret; Istanbul: steep stone street, Galata Tower, Bosphorus and vintage scooter. Use a restrained palette of sage, ochre, terracotta, mustard, charcoal and warm ivory, with sophisticated editorial art direction, muted contrast, natural light, handmade imperfections, and museum-quality travel-zine aesthetics. Small archival labels: “Bangkok / Field Note 052”, “Lisbon / Field Note 031”, “Marrakech / Field Note 017”, “Istanbul / Field Note 039”. No logos, watermark, HDR, oversaturation, or modern clutter.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-41-Infographic-Edu-Visual-Vintage-Travel-Journal-Collage.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-42-Infographic-Edu-Visual-Vintage-Travel-Journal-Collage.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-42",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-43",
       "title": "Infographic / Edu Visual - Regional Cultural Atlas Poster",
       "prompt": "2x2 grid, 16:9, do this for 4 under rated breakfasts of Southern hemisphere: INPUT = [{argument name=\"category\" default=\"TOPIC_CATEGORY\"} / {argument name=\"region\" default=\"REGION_SET\"} / {argument name=\"criteria\" default=\"SELECTION_CRITERIA\"} / {argument name=\"mood\" default=\"MOOD\"}]\nMODE = no_hardcoding / inference_only\n\nRun REGIONAL_CULTURAL_ATLAS_EXTRACTION:\n\nCATEGORY_DNA := infer what type of thing is being compared, how it is used, why it matters, and what makes it visually recognizable\n\nREGION_DNA[each] := infer local environment, visual culture, palette, typography attitude, textures, symbols, landscapes, tools, rituals, and social context\n\nITEM_SELECTION[each] := infer one overlooked or representative item that fits TOPIC_CATEGORY + REGION + SELECTION_CRITERIA\n\nHERO_VISUAL[each] := infer the best visual treatment:\nplated food, product close-up, ritual scene, tool layout, garment portrait, object still life, landscape-backed artifact, map-backed diagram, or symbolic vignette\n\nCOPY_SYSTEM[each] := generate:\n- large item title\n- short emotional tagline\n- origin/location label\n- 2–4 tiny descriptors\n- stamp or badge phrase\n- small contextual note\n\nGRAPHIC_SYSTEM := infer torn paper, printed grid, muted color blocks, topographic lines, stamps, borders, halftone, atlas marks, and editorial spacing\n\nRender:\nA premium regional comparison poster where each panel feels locally specific but belongs to one unified cultural theme.\n\nForbidden:\nhard-coded Southern Hemisphere, fixed breakfasts, fixed foods, fixed countries, fixed beige/red/green palette, fake local facts, random travel-poster clichés.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-42-Infographic-Edu-Visual-Regional-Cultural-Atlas-Poster.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-43-Infographic-Edu-Visual-Regional-Cultural-Atlas-Poster.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-43",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-44",
       "title": "Infographic / Edu Visual - Whimsical Coloring Page Illustration",
       "prompt": "A black and white line drawing features the text \"{argument name=\"quote\" default=\"DOING MY BEST RESULTS MAY VARY\"}\" in large, bold, bubble-style lettering. The text is surrounded by various cute and whimsical elements, including smiling stars, a cat face, clouds, daisies, hearts, cupcakes, a boba tea, and sparkly starbursts. The overall composition is dense and playful, designed as a coloring page.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-43-Infographic-Edu-Visual-Whimsical-Coloring-Page-Illustration.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-44-Infographic-Edu-Visual-Whimsical-Coloring-Page-Illustration.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,31 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-44",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-45",
       "title": "Infographic / Edu Visual - Professional Beef Taco Product Photography",
       "prompt": "A high-quality professional product photograph of three premium loaded beef tacos arranged neatly on a dark ceramic plate, centered against a warm terracotta-orange seamless studio background. Each taco features a crisp golden corn shell filled with juicy seasoned grilled beef, melted cheddar cheese, fresh shredded lettuce, diced tomatoes, purple onions, jalapeño slices, and creamy lime sauce. The beef has realistic grilled texture and subtle char marks, while the vegetables appear fresh and vibrant with natural moisture. Soft cinematic studio lighting creates rich highlights and subtle shadows beneath the plate. Ultra-sharp focus, DSLR macro food photography, premium Mexican fast-food advertisement style, hyper realistic, clean commercial composition, 8K. Aspect Ratio: 1:1 Create a hyper-realistic exploded vertical infographic composition of a premium loaded beef taco. Top → Bottom structure: Fresh Cilantro Garnish → Lime Crema → Jalapeño Slices → Diced Tomato & Onion → Shredded Lettuce → Melted Cheddar Cheese → Seasoned Grilled Beef → Crispy Corn Shell Every element must be perfectly centered, evenly spaced, and aligned vertically. Show realistic grilled beef texture, melted cheese, crisp vegetables, fresh herbs, creamy sauce, and a detailed crunchy corn shell. Use a warm terracotta-orange seamless studio background, soft commercial lighting, subtle realistic shadows beneath every floating element, ultra-sharp DSLR macro food photography, premium fast-food infographic aesthetic, clean professional composition, hyper realistic, 8K. Add clean minimalist infographic text labels with thin pointer lines using these exact labels: \"Cilantro\" \"Lime Crema\" \"Jalapeños\" \"Tomato & Onion\" \"Lettuce\" \"Cheddar Cheese\" \"Grilled Beef\" \"Corn Shell\" Aspect Ratio: 1:1 The tacos start to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, appetizing, and controlled with no extra effects.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-44-Infographic-Edu-Visual-Professional-Beef-Taco-Product-Photography.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Product"
-      ],
-      "author": "𝐌",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-45",
-      "title": "Infographic / Edu Visual - Strawberry Milkshake Product and Infographic",
-      "prompt": "A high-quality professional product photograph of a premium {argument name=\"flavor\" default=\"strawberry\"} milkshake served in a tall transparent glass, centered against a soft {argument name=\"background color\" default=\"pastel pink\"} seamless studio background. The milkshake has a thick creamy texture, glossy syrup dripping inside the glass, a generous swirl of whipped cream on top, fresh fruit slices, and delicate sugar sprinkles. Realistic condensation droplets cover the glass with soft reflections from the studio lights. Elegant soft lighting creates subtle natural shadows beneath the glass. Ultra-sharp focus, DSLR macro beverage photography, premium café advertisement style, hyper realistic, clean commercial composition, 8K. \n\nCreate a hyper-realistic exploded vertical infographic composition of a premium strawberry milkshake. \nTop → Bottom structure: \nFresh Strawberry Garnish \n→ Whipped Cream \n→ Strawberry Syrup \n→ Creamy Strawberry Shake \n→ Crushed Ice \n→ Transparent Glass Base \nAll elements must be perfectly centered, evenly spaced, and vertically aligned. Show realistic strawberry texture, fluffy whipped cream, glossy syrup, thick creamy milkshake consistency, translucent ice, and realistic glass reflections. Use a soft pastel pink seamless studio background with elegant café lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro beverage photography, premium dessert drink infographic aesthetic, clean professional composition, hyper realistic, 8K. \nAdd clean minimalist infographic text labels with thin pointer lines using these exact labels: \n\"Strawberry\" \n\"Whipped Cream\" \n\"Strawberry Syrup\" \n\"Milkshake\" \n\"Ice\" \n\"Glass\"",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-45-Infographic-Edu-Visual-Strawberry-Milkshake-Product-and-Infographic.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-45-Infographic-Edu-Visual-Professional-Beef-Taco-Product-Photography.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -173,18 +173,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-46",
-      "title": "Infographic / Edu Visual - European Hamster Wildlife Photography",
-      "prompt": "A close-up, eye-level shot captures a {argument name=\"animal type\" default=\"European hamster\"} in a field of dry grass. The {argument name=\"animal type\" default=\"hamster\"}, with its distinctive brown and black fur, is positioned slightly to the left of the frame, facing right. Its tiny paws are holding a {argument name=\"food item\" default=\"small green leaf\"}, which it appears to be eating. The {argument name=\"animal type\" default=\"hamster\"}'s dark, beady eyes are sharp and focused, and its long whiskers are prominent.",
+      "title": "Infographic / Edu Visual - Strawberry Milkshake Product and Infographic",
+      "prompt": "A high-quality professional product photograph of a premium {argument name=\"flavor\" default=\"strawberry\"} milkshake served in a tall transparent glass, centered against a soft {argument name=\"background color\" default=\"pastel pink\"} seamless studio background. The milkshake has a thick creamy texture, glossy syrup dripping inside the glass, a generous swirl of whipped cream on top, fresh fruit slices, and delicate sugar sprinkles. Realistic condensation droplets cover the glass with soft reflections from the studio lights. Elegant soft lighting creates subtle natural shadows beneath the glass. Ultra-sharp focus, DSLR macro beverage photography, premium café advertisement style, hyper realistic, clean commercial composition, 8K. \n\nCreate a hyper-realistic exploded vertical infographic composition of a premium strawberry milkshake. \nTop → Bottom structure: \nFresh Strawberry Garnish \n→ Whipped Cream \n→ Strawberry Syrup \n→ Creamy Strawberry Shake \n→ Crushed Ice \n→ Transparent Glass Base \nAll elements must be perfectly centered, evenly spaced, and vertically aligned. Show realistic strawberry texture, fluffy whipped cream, glossy syrup, thick creamy milkshake consistency, translucent ice, and realistic glass reflections. Use a soft pastel pink seamless studio background with elegant café lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro beverage photography, premium dessert drink infographic aesthetic, clean professional composition, hyper realistic, 8K. \nAdd clean minimalist infographic text labels with thin pointer lines using these exact labels: \n\"Strawberry\" \n\"Whipped Cream\" \n\"Strawberry Syrup\" \n\"Milkshake\" \n\"Ice\" \n\"Glass\"",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-46-Infographic-Edu-Visual-European-Hamster-Wildlife-Photography.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-46-Infographic-Edu-Visual-Strawberry-Milkshake-Product-and-Infographic.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "Nano Banana Pro",
-        "Infographic"
+        "Product"
       ],
-      "author": "Heather Green",
+      "author": "𝐌",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
       "license": "upstream",
@@ -192,11 +192,11 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-47",
-      "title": "Infographic / Edu Visual - Realistic Dodo Bird Illustration",
-      "prompt": "a {argument name=\"bird species\" default=\"dodo bird\"}. Its body is plump and rounded, covered in {argument name=\"feather colors\" default=\"dark gray and brown feathers\"} with lighter, intricate patterns. The bird's legs and feet are visible, with scaly skin and sharp claws. The head is a lighter gray, with a prominent, curved beak that has a {argument name=\"beak texture\" default=\"cracked texture\"}.",
+      "title": "Infographic / Edu Visual - European Hamster Wildlife Photography",
+      "prompt": "A close-up, eye-level shot captures a {argument name=\"animal type\" default=\"European hamster\"} in a field of dry grass. The {argument name=\"animal type\" default=\"hamster\"}, with its distinctive brown and black fur, is positioned slightly to the left of the frame, facing right. Its tiny paws are holding a {argument name=\"food item\" default=\"small green leaf\"}, which it appears to be eating. The {argument name=\"animal type\" default=\"hamster\"}'s dark, beady eyes are sharp and focused, and its long whiskers are prominent.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-47-Infographic-Edu-Visual-Realistic-Dodo-Bird-Illustration.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-47-Infographic-Edu-Visual-European-Hamster-Wildlife-Photography.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -211,18 +211,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-48",
-      "title": "Infographic / Edu Visual - Ergonomic Office Chair E-commerce Mobile Detail Page",
-      "prompt": "A single, continuous, and complete mobile e-commerce detail page for an ergonomic office chair, with an aspect ratio of {argument name=\"aspect ratio\" default=\"3:7\"}. The product is the \"{argument name=\"product name\" default=\"Axis M3 Ergonomic Chair\"}\" concept model, featuring a dark graphite grey mesh back, black frame, silver-grey five-star base, visible headrest, armrests, seat cushion, and lumbar support, maintaining structural consistency across all perspectives. The overall design uses a vertical grid system combining architectural blueprints with modern office spaces, featuring {argument name=\"color scheme\" default=\"paper white, graphite grey, steel blue, and subtle orange\"} annotations, clear narrow sans-serif, and monospace parameter fonts. The first screen shows the identity of the product with a 3/4 angle view; followed by front, side, back, and top-down auxiliary angles; using human sitting postures and desk relationships to show scale without inferring specific height suitability ranges; labeling headrest, backrest, armrests, seat cushion, lumbar support, and chair feet by outline without providing internal exploded structures; showcasing office, reading, and brief rest scenarios; the evidence section only shows structural descriptions and sources provided by the user, with missing items marked \"information to be confirmed\"; the parameter section includes full chair dimensions, seat height range, load capacity, materials, and adjustment items, with unknown values not guessed; the packaging section shows the chair body, confirmed accessories, installation instructions, and care information, with missing accessories marked \"information to be confirmed\"; and ends with a summary of confirmed structures and a \"view dimensions and installation instructions\" note. Every parameter unit, dimension line, and information card must be fully filled out. Fictional ergonomic certifications, load-bearing values, adjustment levels, health improvements, patents, or test results are prohibited.",
+      "title": "Infographic / Edu Visual - Realistic Dodo Bird Illustration",
+      "prompt": "a {argument name=\"bird species\" default=\"dodo bird\"}. Its body is plump and rounded, covered in {argument name=\"feather colors\" default=\"dark gray and brown feathers\"} with lighter, intricate patterns. The bird's legs and feet are visible, with scaly skin and sharp claws. The head is a lighter gray, with a prominent, curved beak that has a {argument name=\"beak texture\" default=\"cracked texture\"}.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-48-Infographic-Edu-Visual-Ergonomic-Office-Chair-E-commerce-Mobile-Detail-Page.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-48-Infographic-Edu-Visual-Realistic-Dodo-Bird-Illustration.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "Nano Banana Pro",
-        "Product"
+        "Infographic"
       ],
-      "author": "Mr.pinecone",
+      "author": "Heather Green",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
       "license": "upstream",
