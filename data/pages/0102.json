@@ -1,25 +1,6 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30565-383",
-      "title": "Cyberpunk Surrealism Dali Style",
-      "prompt": "{argument name=\"style one\" default=\"Cyberpunk\"} {argument name=\"style two\" default=\"Surrealism\"} {argument name=\"artist\" default=\"Salvador Dali\"}",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30565-383-Cyberpunk-Surrealism-Dali-Style.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Social Media Post"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
       "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-5853-287",
       "title": "Comparative Infographic Grid Generator Prompt (Legs and Stockings)",
       "prompt": "# Role: Comparison Infographic Generator (Design-Centric with Toggles) # === USER INPUT SETTINGS (FILL THESE IN) === # 1. Grid Size (e.g., \"2x2 (4 panels)\", \"3x3 (9 panels)\"): {argument name=\"grid size\" default=\"1x5\"} # 2. Base Subject Description (Identical base scene for all panels): [{argument name=\"subject description\" default=\"Cold white, slender, fair Asian female legs, skin delicate and smooth, without blemishes, almost invisible pores and hair follicles. Skin is not dry, slightly moist\"}] # 3. Variations Theme (What is being compared?): {argument name=\"variation theme\" default=\"Bare legs versus different stockings\"} # 4. Show Text Overlay at Bottom (Yes/No): YES # =========================================== # Task Description: Generate a multi-panel infographic grid chart for a comparative visual study based on the User Input Settings above. The goal is to showcase different textural or stylistic variations (defined in the data list below) applied to the identical Base Subject defined above. # Global Constraints & Style: 1. **Layout:** A **[Insert setting from \"1. Grid Size\" here]** infographic grid chart. 2. **Consistency is Key:** The Base Subject, camera angle, composition, and lighting must remain absolutely identical across ALL panels to emphasize only the specific variations. 3. **Photography Style:** Clean, controlled studio photography with neutral, even lighting designed to highlight texture differences. # Text Overlay Display Logic (CONDITIONAL): (AI Instructions: First, check the value of User Input Setting \"# 4. Show Text Overlay at Bottom\". You MUST execute ONLY ONE of the following logic blocks based on that value.) ##### ➤ LOGIC PATH A: IF Setting #4 is \"Yes\" (Show Overlay) If the user selected \"Yes\", EVERY panel must feature a precisely designed text overlay at the bottom following these strict rules: * **Background:** A clean, sharply defined solid rectangular color block (e.g., charcoal grey or black) spanning the entire width of the panel's bottom section. * **Typography:** Inside this block, the text must be rendered in an **elegant, ultra-thin, minimalist sans-serif font**. * **Layout:** The text \"[Number]. [Short Title] (Prompt: [Key English Prompt Snippet])\" must be perfectly centered within the color block. * **Aesthetic:** The overall effect should be that of professional, minimalist graphic design, with crisp lines and perfect alignment. ##### ➤ LOGIC PATH B: IF Setting #4 is \"No\" (Hide Overlay) If the user selected \"No\", apply this CRITICAL rule: * **CRITICAL:** DO NOT add any text overlay, numbers, titles, background color blocks, or prompt snippets to the images. * **Result:** The bottom of every panel must be clean image data only, showing the subject fully without obstruction. # Base Subject Definition: The base scene for every panel is: **[Insert description from \"2. Base Subject Description\" here]**. The variations below will modify the surface or appearance of this base subject. # Variations Data List (Apply sequentially to the grid): (AI instructions: Iterate through t",
@@ -58,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21001-795",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21001-796",
       "title": "Beach Shoreline Lifestyle Photography",
       "prompt": "Ultra-realistic 8K photorealistic cinematic editorial image, 4:5 aspect ratio. A beautiful young woman MUST be walking barefoot along the shoreline on wet sand at the beach. Full-body framing with feet, legs, and shoes clearly visible. Body orientation slightly angled to the RIGHT relative to the camera while moving forward. Head turned to the RIGHT, head level. Gaze directed to the RIGHT at eye level. Facial expression relaxed and neutral with a soft, natural look. She MUST be holding a pair of women’s loafers in her RIGHT hand, hanging downward naturally. LEFT arm relaxed by her side. Gentle ocean waves on the RIGHT side of the frame, shoreline stretching into the distance. Soft warm golden-hour lighting with subtle reflections on wet sand. Outfit MUST match: lightweight {argument name=\"shirt type\" default=\"white long-sleeve shirt\"} with open collar and loose fit, sleeves slightly rolled; {argument name=\"pants type\" default=\"beige/tan slim-fit pants\"} or wide-leg trousers rolled above the ankles. Barefoot. Accessories: sunglasses MUST be present, simple elegant wristwatch on LEFT wrist, subtle delicate bracelet on RIGHT wrist. Hairstyle MUST be {argument name=\"hair style\" default=\"feminine and flowing, long wavy\"} or straight hair gently moving in the breeze (match elegant feminine style suitable for the scene). Environment: calm beach, soft waves, lightly clouded sky, warm natural tones. Camera angle eye-level. No cropping tighter than full body.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21001-795-Beach-Shoreline-Lifestyle-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21001-796-Beach-Shoreline-Lifestyle-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10063-249",
-      "title": "Tower of Druaga Klimt Style Prompt",
-      "prompt": "The Tower of Druaga Gilgamesh vs. Druaga in the center of the screen! Include Quox, Hyper Wizard, Ishtar, and Succubus, and render it like a Klimt painting!",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10061-249",
+      "title": "Tower of Druaga Gilgamesh vs. Druaga Prompt",
+      "prompt": "The Tower of Druaga Gilgamesh vs. Druaga in the center of the screen with Gilgamesh holding Excalibur (sword) include Quox, Hyper Wizard and Ishtar!",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10063-249-Tower-of-Druaga-Klimt-Style-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10061-249-Tower-of-Druaga-Gilgamesh-vs.-Druaga-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30568-384",
-      "title": "Floating Schoolgirl in Dark",
-      "prompt": "{argument name=\"action\" default=\"floatin'\"} in the {argument name=\"lighting\" default=\"dark\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30564-384",
+      "title": "First Person POV Unusual Scenes",
+      "prompt": "first person pov of {argument name=\"subject\" default=\"something you don't normally see\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30568-384-Floating-Schoolgirl-in-Dark.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30564-384-First-Person-POV-Unusual-Scenes.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21010-797",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21010-798",
       "title": "Red Hair Garden Portrait",
       "prompt": "A highly detailed photorealistic image of a {argument name=\"subject\" default=\"beautiful young woman\"} with fair skin, {argument name=\"hair\" default=\"long voluminous wavy fiery red hair\"} cascading over her shoulders, and striking green eyes, kneeling gracefully on vibrant green grass in an outdoor setting. She is wearing an {argument name=\"outfit\" default=\"elegant form-fitting navy blue dress\"} featuring a bold white geometric abstract pattern, with a deep V-shaped neckline, thin shoulder straps, and high side slits revealing her legs, complemented by a white fabric choker-style scarf wrapped around her neck. Her hands rest gently on her knees as she looks directly at the viewer with a poised expression. The background features modern minimalist concrete architecture with geometric lines and openings, wooden deck flooring, numerous potted green plants and palm trees arranged around the scene, creating a contemporary luxury outdoor garden atmosphere under natural daylight with a clear sky. High resolution, sharp details, cinematic lighting.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21010-797-Red-Hair-Garden-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21010-798-Red-Hair-Garden-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10058-250",
-      "title": "Athena vs. Enceladus Greek Mythology Prompt",
-      "prompt": "Athena VS Enceladus in the center of the screen space in the background include Saturn radiation from the stars render it like a Greek mythology painting!",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10063-250",
+      "title": "Tower of Druaga Klimt Style Prompt",
+      "prompt": "The Tower of Druaga Gilgamesh vs. Druaga in the center of the screen! Include Quox, Hyper Wizard, Ishtar, and Succubus, and render it like a Klimt painting!",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10058-250-Athena-vs.-Enceladus-Greek-Mythology-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10063-250-Tower-of-Druaga-Klimt-Style-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30544-385",
-      "title": "Red and Gold Saree Portrait",
-      "prompt": "Use only the woman's facial identity from the reference image. Preserve her facial features, skin tone, eye shape, eyebrows, nose, lips, and overall facial proportions. Do not copy the hairstyle, pose, clothing, jewelry, background, lighting, or composition from the reference.\\n\\nOutfit: A {argument name=\"blouse style\" default=\"shimmering gold sequined\"} blouse paired with a {argument name=\"saree color\" default=\"rich deep-red\"} satin saree featuring elegant flowing drapes and a modern silhouette. The fabric has a luxurious satin sheen with subtle folds that catch the light naturally.\\n\\nHairstyle: {argument name=\"hair style\" default=\"Long, softly wavy dark hair\"}.\\n\\nGenerate a highly photorealistic image with natural skin texture, realistic lighting, and cinematic detail. Only the facial identity should match the reference; all other elements should follow this prompt.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30562-385",
+      "title": "Identity Preserving Cartoon Mural",
+      "prompt": "Use the separately supplied face reference image ONLY to preserve the exact facial identity of the person. Keep the face 100% identical to the face reference while matching the hairstyle, facial proportions, eyes, nose, lips, smile and overall identity perfectly. Recreate this scene as close as humanly possible with no creative changes. A {argument name=\"subject description\" default=\"young woman standing beside a colorful outdoor cartoon mural wall\"}. She is wearing a {argument name=\"outfit\" default=\"light blue oversized striped shirt over a white crop top, loose cream jogger pants, white sneakers and a matching blue shoulder bag\"}. Her left arm is raised touching the mural exactly like the reference while her right hand rests naturally inside her pocket. Her body stance, leg position, foot placement, arm angle, shoulder position, head tilt, facial expression, eye direction and overall pose must match the reference exactly. The {argument name=\"mural background\" default=\"mural behind her is a giant cute anime/chibi illustration of the same girl sitting on a rainbow while winking\"}. The cartoon character must wear the same outfit and have the exact same hairstyle. The cartoon character's pose, hand placement, body position and expression must match the reference exactly. The wall is filled with identical colorful doodles including rainbow, clouds, flowers, stars, paper airplanes, butterflies, smiley faces, mountains, balloons and decorative illustrations arranged exactly like the reference. Soft natural daylight, realistic outdoor lighting, vibrant pastel colors, eye-level camera, full body composition, 50mm lens, shallow depth of field, ultra detailed, photorealistic, HDR, masterpiece, premium fashion photography, 8K. ABSOLUTE REQUIREMENTS: - Face must match the supplied face reference exactly. - Keep the exact same composition. - Keep the exact same pose. - Keep the exact same camera angle. - Keep the exact same framing. - Keep the exact same mural concept. - The cartoon illustration must copy the girl's pose exactly. - No additional objects. - No removed objects. - No different outfit. - No different expression. - No different perspective. - No redesign. - No artistic interpretation. - Recreate the reference scene as faithfully as possible while replacing only the face with the supplied face reference identity.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30544-385-Red-and-Gold-Saree-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30562-385-Identity-Preserving-Cartoon-Mural.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,12 +305,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21005-800",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21005-801",
       "title": "Realistic Skincare Advertisement Photography",
       "prompt": "Ultra realistic skincare advertisement photo of a beautiful {argument name=\"subject\" default=\"Sydney sweeney\"} applying {argument name=\"product\" default=\"green herbal face wash foam\"} on her cheeks with both hands, eyes closed, soft smile, glowing smooth skin, black tied-back hair, wrapped in a {argument name=\"towel color\" default=\"light green\"} towel, luxury modern bathroom with green aesthetic tiles and indoor plants, fresh natural morning light through window, clean spa atmosphere, premium cosmetic commercial photography, detailed skin texture, glossy hydration effect, centered product tube on marble counter in foreground, minimal elegant composition, soft shadows, pastel green and white color palette, shallow depth of field, high-end beauty campaign, DSLR quality, ultra sharp, photorealistic, 8k, natural makeup, calming wellness vibe.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21005-800-Realistic-Skincare-Advertisement-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21005-801-Realistic-Skincare-Advertisement-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-9966-251",
-      "title": "Image Enhancement and Colorization Prompt",
-      "prompt": "enhance and colorize the first image I uploaded, using the colors of the second image as a reference",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10058-251",
+      "title": "Athena vs. Enceladus Greek Mythology Prompt",
+      "prompt": "Athena VS Enceladus in the center of the screen space in the background include Saturn radiation from the stars render it like a Greek mythology painting!",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9966-251-Image-Enhancement-and-Colorization-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10058-251-Athena-vs.-Enceladus-Greek-Mythology-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30549-386",
-      "title": "Monochromatic Red Carpet Tuxedo Portrait",
-      "prompt": "A {argument name=\"subject\" default=\"man\"} stands centrally composed in a medium shot, his body angled in a 45 degree turn with level shoulders and a balanced weight distribution, dressed sharply in a {argument name=\"outfit\" default=\"black double breasted tuxedo over a crisp white shirt and collar\"}. His hair is styled in a {argument name=\"hairstyle\" default=\"pompadour with three inches of top volume\"}, tight faded sides, and visible texture from strong hold product, complete with minor natural flyaways. His expression is candid and serious, featuring a closed neutral mouth, furrowed eyebrows, and an intense downward gaze. Caught mid motion in a tense gesture, his left hand extends forward with an exposed wrist and slightly curled fingers adorned with two rings, while his right hand firmly pinches the left shirt cuff with his thumb and index finger to adjust the sleeve. In the blurred foreground at the bottom left, the top of a woman's styled dark pulled back hair is visible, leading into a layered red carpet event setting with shallow spatial depth. Behind the man, a solid light gray carpet grounds the scene, while the deeply out of focus background reveals patchy dark gray silhouettes of a bustling crowd, worn telephoto camera lenses clustered in the top right, and the obscured legs of a bystander in the mid right. A dramatic, high contrast monochromatic black and white color palette infuses the scene with tense glamour. Highly directional hard light from multiple top front sources casts bright, preserved highlights across the man's forehead, nose bridge, and the knuckles of his adjusting hands, while casting harsh, short, deep black shadows with sharply defined edges beneath his chin, along his jawline, and deep within the folds of his tuxedo, balanced by a neutral ambient fill. Captured with straight on perspective digital photography utilizing a fast shutter speed, an open f/2.8 aperture, and ISO 400 to achieve tack sharp focus on the subject amidst minimal digital noise. The realistic, paparazzi influenced editorial style is enhanced in post processing through stark black and white conversion, crushed blacks, and high clarity, culminating in a sophisticated image framed in a 9:16 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30565-386",
+      "title": "Cyberpunk Surrealism Dali Style",
+      "prompt": "{argument name=\"style one\" default=\"Cyberpunk\"} {argument name=\"style two\" default=\"Surrealism\"} {argument name=\"artist\" default=\"Salvador Dali\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30549-386-Monochromatic-Red-Carpet-Tuxedo-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30565-386-Cyberpunk-Surrealism-Dali-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21008-801",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21008-802",
       "title": "Luxury Villa Evening Poolside Portrait",
       "prompt": "A {argument name=\"subject\" default=\"tanned adult male\"} with a short haircut and sharp fade sits perfectly centered in a posed yet confident stance, his face bearing a relaxed, closed-neutral expression with calm eyes and neutral eyebrows. He is dressed in a crisp, unbuttoned {argument name=\"top\" default=\"white button-down shirt\"} and deep black trousers, with his relaxed shoulders resting against the cream cushions of a woven wooden lounge chair. His left hand rests casually on his left thigh with fingers slightly curled downward, revealing a metallic silver watch on his wrist, while his right hand sits elevated on the chair's armrest cushion, the hand draped naturally and organically downward. In the immediate foreground, a weathered table constructed of thick, grey-brown wooden planks holds a small round greenish object, positioned near a pristine white square throw pillow adorned with a green geometric mandala floral pattern. The scene is set on a deck of medium-warm brown and greyish-brown striped wooden planks, establishing a layered, deep spatial depth that leads the eye toward the midground where a pristine, rectangular swimming pool cuts a striking horizontal line, glowing vividly from within with saturated cyan-blue underwater lights against a smooth stone coping edge, flanked by thriving tropical broadleaf plants housed in large, perfectly smooth matte cylindrical concrete planters. Further back, against a meticulously crushed deep black night sky, stands a dominant {argument name=\"architecture\" default=\"two-story modern white villa\"} featuring perfectly smooth painted drywall, warmly lit interior rooms, multiple balconies with geometric wooden railings, a patio umbrella on the upper deck, and pristine white perimeter walls washed in warm golden-yellow architectural up-lighting. The highly directional, intense hard light of a bright frontal flash creates a moody, sophisticated, and affluent evening resort atmosphere, blowing out specular highlights on the man's face and shirt while casting deep black, harsh-edged, short shadows directly behind him onto the chair cushion and sharply under his chin. This raw, dramatic high-contrast lighting drives a vividly saturated complementary color profile that balances the crisp whites and deep blacks against the neon cyan-blue water, warm wood tones, and golden architectural glow. Captured as a straight-on digital photograph utilizing a narrow aperture for a deep depth of field, the image maintains a tack-sharp texture across all focal planes, enhanced by subtle digital noise and meticulous post-processing that boosts the aqua channels and warm luminance, with the entire highly structured luxury scene beautifully framed in a 4:5 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21008-801-Luxury-Villa-Evening-Poolside-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21008-802-Luxury-Villa-Evening-Poolside-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,16 +476,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-9958-252",
-      "title": "The Magic Flute - Queen of the Night Prompt",
-      "prompt": "Generate the Queen of the Night from Mozart's opera 'The Magic Flute'! Next, Make it look like she is singing the aria 'Der Hölle Rache kocht in meinem Herzen' (The Vengeance of Hell Boils in My Heart)...",
+      "id": "xianyu-multi-model:ym-ai-skill-others-9966-252",
+      "title": "Image Enhancement and Colorization Prompt",
+      "prompt": "enhance and colorize the first image I uploaded, using the colors of the second image as a reference",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9958-252-The-Magic-Flute-Queen-of-the-Night-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9966-252-Image-Enhancement-and-Colorization-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -533,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30559-388",
-      "title": "Botanical Rebellion Editorial Prompt",
-      "prompt": "{ \"vibe_title_en\": \"Botanical Rebellion\", \"master_prompt\": \"The Protagonist, an editorial archetype with perfect, high-gloss dewy skin, shot in a tight-mid composition from the mid-chest up. They wear a crisp, pastel-pink tailored silk blazer, maintaining a confident posture with hands kept entirely out of frame to emphasize a striking jawline. Their expression features a challenging, direct gaze and a slight, rebellious smirk. The individual is leaning against the massive, hyper-realistic snout of a giant crocodile made entirely of dense, wet terrarium moss and blooming pink flora. This surreal element feels like a high-budget practical effect with dripping water and intricate organic weight. The setting is a sterile, matte pastel-pink seamless studio cyclorama. Lighting is a harsh, direct ring-flash style that creates intense specular highlights on the sweaty skin, combined with subtle Rembrandt directional fill to carve out facial features. Captured on a Hasselblad H6D-100c with a 70mm lens at f/5.6. Authentic Kodak Portra 400 film stock look, showcasing raw pore details and analog grain. No neon, hyper-tactile, uncanny editorial realism.\", \"meta\": { \"intent\": \"Editorial Surrealism\", \"priorities\": \"Hyper-realistic moss textures, glossy skin specular highlights, strict tight-mid framing, practical effect illusion.\", \"device_profile\": \"Hasselblad H6D-100c Medium Format\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"The Editorial Tight-Mid (mid-chest up)\", \"layout\": \"Subject centered, massive moss crocodile snout dominating the lower foreground and side.\", \"camera_angle\": \"Eye-level direct\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist, an androgynous or universal editorial model\", \"demographics\": \"Ageless, universal\", \"face\": \"High-gloss perfect skin, sweaty and dewy, prominent specular highlights, striking jawline\", \"hair\": \"Slicked back, slightly damp, tightly controlled\", \"body\": \"Confident posture, chest open, leaning slightly forward\", \"expression\": \"Challenging direct gaze, slight rebellious smirk\", \"pose\": \"Leaning against the surreal creature, hands completely out of frame to leave the jawline unobstructed\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Tailored blazer\", \"material\": \"Silk blend\", \"color\": \"Pastel pink\", \"fit\": \"Sharp, structured shoulders\" } ], \"accessories\": [ { \"item\": \"Thick-framed optical glasses\", \"color\": \"Pastel pink\", \"material\": \"Acetate\", \"brand_style\": \"High-fashion avant-garde\" } ] }, \"environment\": { \"setting\": \"Matte pastel-pink seamless studio cyclorama\", \"surfaces\": \"Wet dense terrarium moss, smooth pink paper backdrop\", \"depth\": \"Shallow depth of field separating the hyper-detailed subject from the flat",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30568-387",
+      "title": "Floating Schoolgirl in Dark",
+      "prompt": "{argument name=\"action\" default=\"floatin'\"} in the {argument name=\"lighting\" default=\"dark\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30559-388-Botanical-Rebellion-Editorial-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30568-387-Floating-Schoolgirl-in-Dark.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21015-802",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21015-803",
       "title": "Flowing Gown Wildflower Meadow",
       "prompt": "Ultra-realistic full-body fashion portrait of her with {argument name=\"hair\" default=\"long dark brown hair and soft wispy bangs\"}, walking through a {argument name=\"location\" default=\"vast field of blooming blue wildflowers\"} under natural daylight. She is captured from a slightly low-angle perspective, creating a cinematic editorial feel. She wears an {argument name=\"outfit\" default=\"elegant flowing light-blue chiffon gown\"} with delicate embroidery, sheer billowing sleeves, subtle lace detailing, and realistic fabric movement from a gentle breeze. The dress has a tasteful thigh slit and layered translucent textures that catch the sunlight naturally. She holds a fresh handpicked bundle of vivid blue wildflowers close to her chest while walking gracefully through the meadow. Her makeup is soft and refined with natural glowing skin, subtle peach blush, feathered brows, soft brown eyeliner, glossy muted rose lips, and realistic skin texture with visible pores and fine facial detail. Her expression is dreamy and contemplative, looking slightly away from the camera. Golden sunlight filters through scattered clouds in a bright blue sky, creating realistic highlights and soft shadows across her face, hair, and dress. The wind gently lifts strands of hair and flowing fabric. Foreground flowers are softly blurred with realistic depth of field, while distant wildflowers fade naturally into the background. Cinematic photography, ultra-detailed realism, luxury fashion editorial aesthetic, realistic anatomy, realistic hands, natural proportions, HDR photography, shallow depth of field, shot on a full-frame mirrorless camera, 85mm lens, f/1.8, high dynamic range, photorealistic textures, soft atmospheric lighting, Vogue-style outdoor editorial shoot, no fantasy elements, no CGI look, no anime style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21015-802-Flowing-Gown-Wildflower-Meadow.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21015-803-Flowing-Gown-Wildflower-Meadow.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -628,16 +609,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-9895-253",
-      "title": "Premium Depth Gradient for Atmospheric Realism",
-      "prompt": "Deep gradient background with subtle atmospheric fade. Foreground soft blur, midground clarity, background fade into light, muted tonal transitions, cinematic depth feel.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-9958-253",
+      "title": "The Magic Flute - Queen of the Night Prompt",
+      "prompt": "Generate the Queen of the Night from Mozart's opera 'The Magic Flute'! Next, Make it look like she is singing the aria 'Der Hölle Rache kocht in meinem Herzen' (The Vengeance of Hell Boils in My Heart)...",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9895-253-Premium-Depth-Gradient-for-Atmospheric-Realism.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9958-253-The-Magic-Flute-Queen-of-the-Night-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -666,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30561-389",
-      "title": "East Asian Woman on Seawall",
-      "prompt": "A realistic photograph of a {argument name=\"subject\" default=\"young East Asian woman with long, straight, glossy black hair cascading over her shoulders and back\"}, sitting casually on a low white concrete seawall. She is wearing a {argument name=\"outfit\" default=\"plain white short-sleeve t-shirt, light gray denim mini shorts with frayed hems, and white New Balance sneakers with green accents\"}, black N logos, and orange details on the soles. Her legs are bent with feet resting on the grass, body slightly turned toward the camera, head tilted, eyes softly closed in a gentle, relaxed smile. {argument name=\"scenery\" default=\"Foreground shows patchy green grass and the textured white concrete barrier. Background features a rocky shoreline with dark gray stones, gentle ocean waves under an overcast cloudy sky, distant green forested hills and mountains, and large palm fronds and leafy green trees framing the upper left.\"} Soft natural daylight, slightly muted tones from the cloudy weather, photorealistic style, full-body shot from a slightly low angle, high detail, natural skin texture, sharp focus on the subject.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30544-388",
+      "title": "Red and Gold Saree Portrait",
+      "prompt": "Use only the woman's facial identity from the reference image. Preserve her facial features, skin tone, eye shape, eyebrows, nose, lips, and overall facial proportions. Do not copy the hairstyle, pose, clothing, jewelry, background, lighting, or composition from the reference.\\n\\nOutfit: A {argument name=\"blouse style\" default=\"shimmering gold sequined\"} blouse paired with a {argument name=\"saree color\" default=\"rich deep-red\"} satin saree featuring elegant flowing drapes and a modern silhouette. The fabric has a luxurious satin sheen with subtle folds that catch the light naturally.\\n\\nHairstyle: {argument name=\"hair style\" default=\"Long, softly wavy dark hair\"}.\\n\\nGenerate a highly photorealistic image with natural skin texture, realistic lighting, and cinematic detail. Only the facial identity should match the reference; all other elements should follow this prompt.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30561-389-East-Asian-Woman-on-Seawall.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30544-388-Red-and-Gold-Saree-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -723,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20743-807",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20743-808",
       "title": "Luxury Skincare Selfie Concept",
       "prompt": "{\"generation_request\": {\"meta_data\": {\"task_type\": \"luxury_butter_yellow_skincare_closeup\", \"language\": \"en\", \"style\": \"ultra_photorealistic_beauty_selfie_editorial\", \"version\": \"v2.0_CLEAN_MINIMAL_PRODUCT\"}, \"output\": {\"aspect_ratio\": \"9:16\", \"orientation\": \"vertical\", \"quality\": \"ultra high resolution, premium realistic beauty finish, sharp facial details, natural skin texture\"}, \"scene\": {\"concept\": \"close-up luxury skincare selfie with a soft pastel butter yellow spa aesthetic\", \"environment\": \"minimal clean bathroom or spa setting, soft cream background, bright diffused natural light, calm beauty atmosphere\", \"lighting\": \"soft front-facing beauty light, glossy highlights on hydrated skin, gentle warm reflections, no harsh shadows\", \"mood\": \"sunny, glowy, optimistic, luxurious, sunday morning spa energy\"}, \"subject\": {\"description\": \"young woman in an extreme close-up vertical selfie crop, face filling most of the frame, realistic facial proportions, natural beauty, expressive eyes, long lashes, soft full lips, natural brows, visible pores and authentic skin texture\", \"pose\": \"slightly playful pout, holding a minimal white skincare tube gently near the lips, bright candid selfie feeling\", \"skin\": \"glowy hydrated face covered with a translucent shimmering butter yellow vitamin C glow mask, wet glossy texture, fine iridescent sparkle, realistic product thickness across forehead, cheeks, nose and chin\", \"eye_masks\": \"pastel butter yellow sun-shaped under-eye masks with subtle tone-on-tone sun ray pattern, glossy hydrogel finish, placed naturally under both eyes\", \"hair_and_towel\": \"hair fully wrapped in a fluffy pastel butter yellow towel, realistic towel fibers, soft plush volume, cozy spa texture\", \"wardrobe\": \"matching pastel butter yellow fluffy spa robe visible at the bottom of the frame, plush fabric texture\"}, \"product\": {\"description\": \"minimal matte white skincare tube held near the lips, completely plain and unmarked\", \"texture\": \"smooth soft-touch cosmetic packaging, realistic cap ridges, subtle clean highlights\"}, \"camera_style\": {\"framing\": \"extreme close-up vertical selfie crop, slightly off-center natural composition, candid beauty framing\", \"lens\": \"smartphone macro beauty lens look blended with high-end editorial clarity\", \"focus\": \"sharp eyes, lashes, under-eye masks, lips, hand, and glossy skincare texture; soft background blur\", \"details\": \"realistic pores, tiny skin imperfections, natural shine, detailed towel fibers, glossy mask sparkle, no plastic smoothing\"}, \"color_palette\": [\"pastel butter yellow\", \"soft cream\", \"pearl white\", \"glossy honey\", \"subtle iridescent sparkle\", \"warm natural skin tones\"], \"negative_prompt\": [\"visible product markings\", \"busy packaging\", \"cluttered background\", \"plastic skin\", \"over-smoothed face\", \"blurred eyes\", \"melted facial features\", \"uneven eye masks\", \"bad anatomy\", \"extra fingers\", \"warped hand\", \"dirty towel\", \"low resolution\", \"cartoon\", \"anime\", \"3D render\", \"overexposed face\", \"harsh shadows\"]}}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20743-807-Luxury-Skincare-Selfie-Concept.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20743-808-Luxury-Skincare-Selfie-Concept.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,16 +742,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-9959-254",
-      "title": "Megami Tensei Pantheon Battle Prompt",
-      "prompt": "Generate a Chagall-style painting depicting the battle between Izanagi and Izanami from Megami Tensei, and Lucifer, with Krishna, Ganesha, and Cú Chulainn added!",
+      "id": "xianyu-multi-model:ym-ai-skill-others-9895-254",
+      "title": "Premium Depth Gradient for Atmospheric Realism",
+      "prompt": "Deep gradient background with subtle atmospheric fade. Foreground soft blur, midground clarity, background fade into light, muted tonal transitions, cinematic depth feel.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9959-254-Megami-Tensei-Pantheon-Battle-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9895-254-Premium-Depth-Gradient-for-Atmospheric-Realism.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -799,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30567-390",
-      "title": "Infinite Mirror World Concept",
-      "prompt": "{argument name=\"theme\" default=\"world beyond the mirror2\"} with {argument name=\"object\" default=\"infinite mirror\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30549-389",
+      "title": "Monochromatic Red Carpet Tuxedo Portrait",
+      "prompt": "A {argument name=\"subject\" default=\"man\"} stands centrally composed in a medium shot, his body angled in a 45 degree turn with level shoulders and a balanced weight distribution, dressed sharply in a {argument name=\"outfit\" default=\"black double breasted tuxedo over a crisp white shirt and collar\"}. His hair is styled in a {argument name=\"hairstyle\" default=\"pompadour with three inches of top volume\"}, tight faded sides, and visible texture from strong hold product, complete with minor natural flyaways. His expression is candid and serious, featuring a closed neutral mouth, furrowed eyebrows, and an intense downward gaze. Caught mid motion in a tense gesture, his left hand extends forward with an exposed wrist and slightly curled fingers adorned with two rings, while his right hand firmly pinches the left shirt cuff with his thumb and index finger to adjust the sleeve. In the blurred foreground at the bottom left, the top of a woman's styled dark pulled back hair is visible, leading into a layered red carpet event setting with shallow spatial depth. Behind the man, a solid light gray carpet grounds the scene, while the deeply out of focus background reveals patchy dark gray silhouettes of a bustling crowd, worn telephoto camera lenses clustered in the top right, and the obscured legs of a bystander in the mid right. A dramatic, high contrast monochromatic black and white color palette infuses the scene with tense glamour. Highly directional hard light from multiple top front sources casts bright, preserved highlights across the man's forehead, nose bridge, and the knuckles of his adjusting hands, while casting harsh, short, deep black shadows with sharply defined edges beneath his chin, along his jawline, and deep within the folds of his tuxedo, balanced by a neutral ambient fill. Captured with straight on perspective digital photography utilizing a fast shutter speed, an open f/2.8 aperture, and ISO 400 to achieve tack sharp focus on the subject amidst minimal digital noise. The realistic, paparazzi influenced editorial style is enhanced in post processing through stark black and white conversion, crushed blacks, and high clarity, culminating in a sophisticated image framed in a 9:16 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30567-390-Infinite-Mirror-World-Concept.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30549-389-Monochromatic-Red-Carpet-Tuxedo-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20750-808",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20750-809",
       "title": "Luxury Resort Male Editorial Portrait",
       "prompt": "{argument name=\"subject\" default=\"A young adult male with an athletic build and naturally textured two-inch dark curly hair\"} stands with his weight casually shifted, facing the camera straight on in a sophisticated luxury editorial portrait. His serious, contemplative face features relaxed eyebrows and eyes gazing off to the left, drawing the viewer's eye down to the crisp {argument name=\"top\" default=\"white collar of his dark navy blue polo shirt\"}. He wears warm khaki trousers secured by a brown leather belt; his right hand rests deliberately on his waist with the thumb casually hooked over the leather and fingers draped softly against the fabric, while his relaxed left hand, adorned with a silver watch and accented by a gold ring and bracelet, drops casually to his side, partially cropped by the bottom edge of the frame. He is positioned right-center in an asymmetric composition, grounding the foreground before a {argument name=\"setting\" default=\"deep, pristine outdoor luxury resort setting\"}. Just behind him in the midground, a serene infinity pool features a solid gray-beige concrete underwater step and a perfectly calm surface that ripples gently, mirroring the twilight sky. Stretching into the deep background, the expansive space reveals a single, tall palm tree silhouetted on the left beside low-profile modern resort architecture accented by lush tropical foliage and warm glowing lights, while a rugged rocky coastal outcrop on the right slopes gracefully toward the distant ocean horizon. A calm, old-money atmospheric mood is established by the twilight evening, illuminated by a single, diffused setting sun from the front-left that casts a golden, warm light. This soft illumination perfectly preserves the highlights on the left side of his face, nose bridge, and left forearm, while creating short, soft-edged, gradual gray shadows across the right side of his face, neck, and right arm, gently lifted by an ambient white bounce fill. The split-complementary color palette richly contrasts the dark navy and khaki of his clothing against the soft teal-green water and the muted peach and gray gradient of the open sky. Captured as a tack-sharp realistic digital photograph on a full-frame mirrorless camera with a 50mm lens and an f/2.8 aperture at 1/200s and ISO 400, the medium depth of field keeps the subject distinctly crisp while smoothly blurring the deep background. Post-processing introduces a hint of cinematic digital noise and a subtle teal-and-peach color grading that lifts shadows for a softer film-like contrast while protecting the sky's gradient, all perfectly framed in a 4:5 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20750-808-Luxury-Resort-Male-Editorial-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20750-809-Luxury-Resort-Male-Editorial-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,16 +875,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-9911-255",
-      "title": "Cinematic Portrait Restoration with Golden-Hour Lighting",
-      "prompt": "Cinematic portrait restoration. Strictly preserve original pose, expression, and composition. Add warm golden-hour side lighting casting a defined, dramatic shadow on the wall behind. Upscale to Ultra-HD: sharpen details, enhance realistic skin texture, and reduce noise. Mood: Mysterious, high-contrast, warm highlights, deep shadows, photorealistic.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-9959-255",
+      "title": "Megami Tensei Pantheon Battle Prompt",
+      "prompt": "Generate a Chagall-style painting depicting the battle between Izanagi and Izanami from Megami Tensei, and Lucifer, with Krishna, Ganesha, and Cú Chulainn added!",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9911-255-Cinematic-Portrait-Restoration-with-Golden-Hour-Lighting.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9959-255-Megami-Tensei-Pantheon-Battle-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -932,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30560-391",
-      "title": "Stylish Man Garden Path",
-      "prompt": "A {argument name=\"subject\" default=\"stylishly dressed man\"} walks confidently forward toward the camera, his weight naturally shifted and shoulders relaxed as he steps along a {argument name=\"setting\" default=\"landscaped garden path\"}. His short hair, about one to two inches on top, is styled back with a natural-finish product, intricately detailed with natural growth patterns, slight texture variations, and minor flyaways to avoid an artificially flat look, while the sides are neatly trimmed without a deep fade. He wears a {argument name=\"clothing\" default=\"dark navy, almost black, long-sleeve quarter-zip knit sweater that contrasts sharply against his crisp, bright white tailored trousers\"} and dark leather dress shoes. His serious, candid expression features a closed, neutral mouth and relaxed eyebrows, his eyes completely obscured by dark aviator-style sunglasses catching subtle, soft reflection highlights on the lenses. His left hand is tucked cleanly into his trouser pocket so that only his wrist, bearing a silver watch, and the edge of his hand are minimally visible, while his organically relaxed right hand is raised to his ear, lightly holding a white smartphone with fingers naturally curled around its back and edges, catching a faint highlight along the top edge of the device. He is grounded in the foreground on weathered, rough-hewn rectangular light gray stone slabs set directly into medium green grass, casting short, faint, soft-edged shadows directly beneath his shoes and slightly behind the pavers. In the midground, a dense, thriving dark green manicured boxwood hedge forms a neatly squared horizontal band, punctuated on the right by two distinct, tall Italian cypress trees projecting vertically into the sky. The deep, slightly blurred background opens up to a sprawling landscape where a calm body of desaturated blue-gray water meets a sweeping, sloping mountain range faintly dotted with small white structures. The environment is bathed in cool, soft, diffused natural daylight from a single overhead overcast sky, casting a calm, moody, and sophisticated atmosphere of quiet luxury. The color profile emphasizes cool temperatures and complementary contrast, juxtaposing the stark black and white of the man's attire against the muted pine greens of the foliage and the desaturated background. Captured straight on at eye level as a highly photorealistic digital photograph using an 85mm lens with a fast aperture, the cinematic editorial shot features tack-sharp focus on the subject with a medium depth of field resolving into soft background bokeh, finished with subtle digital noise, slightly lowered exposure, and crisp cool tones, all beautifully framed in a 4:5 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30559-391",
+      "title": "Botanical Rebellion Editorial Prompt",
+      "prompt": "{ \"vibe_title_en\": \"Botanical Rebellion\", \"master_prompt\": \"The Protagonist, an editorial archetype with perfect, high-gloss dewy skin, shot in a tight-mid composition from the mid-chest up. They wear a crisp, pastel-pink tailored silk blazer, maintaining a confident posture with hands kept entirely out of frame to emphasize a striking jawline. Their expression features a challenging, direct gaze and a slight, rebellious smirk. The individual is leaning against the massive, hyper-realistic snout of a giant crocodile made entirely of dense, wet terrarium moss and blooming pink flora. This surreal element feels like a high-budget practical effect with dripping water and intricate organic weight. The setting is a sterile, matte pastel-pink seamless studio cyclorama. Lighting is a harsh, direct ring-flash style that creates intense specular highlights on the sweaty skin, combined with subtle Rembrandt directional fill to carve out facial features. Captured on a Hasselblad H6D-100c with a 70mm lens at f/5.6. Authentic Kodak Portra 400 film stock look, showcasing raw pore details and analog grain. No neon, hyper-tactile, uncanny editorial realism.\", \"meta\": { \"intent\": \"Editorial Surrealism\", \"priorities\": \"Hyper-realistic moss textures, glossy skin specular highlights, strict tight-mid framing, practical effect illusion.\", \"device_profile\": \"Hasselblad H6D-100c Medium Format\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"The Editorial Tight-Mid (mid-chest up)\", \"layout\": \"Subject centered, massive moss crocodile snout dominating the lower foreground and side.\", \"camera_angle\": \"Eye-level direct\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist, an androgynous or universal editorial model\", \"demographics\": \"Ageless, universal\", \"face\": \"High-gloss perfect skin, sweaty and dewy, prominent specular highlights, striking jawline\", \"hair\": \"Slicked back, slightly damp, tightly controlled\", \"body\": \"Confident posture, chest open, leaning slightly forward\", \"expression\": \"Challenging direct gaze, slight rebellious smirk\", \"pose\": \"Leaning against the surreal creature, hands completely out of frame to leave the jawline unobstructed\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Tailored blazer\", \"material\": \"Silk blend\", \"color\": \"Pastel pink\", \"fit\": \"Sharp, structured shoulders\" } ], \"accessories\": [ { \"item\": \"Thick-framed optical glasses\", \"color\": \"Pastel pink\", \"material\": \"Acetate\", \"brand_style\": \"High-fashion avant-garde\" } ] }, \"environment\": { \"setting\": \"Matte pastel-pink seamless studio cyclorama\", \"surfaces\": \"Wet dense terrarium moss, smooth pink paper backdrop\", \"depth\": \"Shallow depth of field separating the hyper-detailed subject from the flat",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30560-391-Stylish-Man-Garden-Path.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30559-391-Botanical-Rebellion-Editorial-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -947,6 +928,25 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-5607-294",
+      "title": "Infographic Generation from Images and Text using Nano Banana Pro",
+      "prompt": "Instruct Nano Banana Pro via prompt to summarize the information researched separately using Gemini into an infographic, while referencing those two images using multiple image references.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-5607-294-Infographic-Generation-from-Images-and-Text-using-Nano-Banana-Pro.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
       "license": "upstream",
       "createdAt": null
     }

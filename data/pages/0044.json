@@ -2,30 +2,11 @@
   "items": [
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-113",
-      "title": "E-commerce Main Image - Professional Product Advertising Photo",
-      "prompt": "Professional advertising product photo of \"{argument name=\"product\" default=\"[PRODUCT NAME]\"}\", studio shot on a {argument name=\"background\" default=\"neutral background [light beige / blue gradient]\"}, soft diffused lighting, subtle shadows, product centered in frame, three-quarter angle view, high detail on material texture, clean modern aesthetic in the style of premium brand campaigns, 4K resolution, 1:1 aspect ratio",
+      "title": "E-commerce Main Image - GPT Image 2 Prompt: Vintage Pink Blender",
+      "prompt": "A premium photorealistic close-up of a vintage-style pastel pink blender on a modern kitchen countertop. The blender has a glossy pink retro body with polished chrome accents, a transparent glass jar with a clear handle, and a round front control dial with a glowing red indicator light. Inside the jar, pale pink and white ingredients are being blended, creating a smooth swirling motion. A woman’s hand is gently holding the chrome side handle on the right. Elegant modern kitchen background with dark arched doorway, framed minimalist artwork, soft warm indoor lighting, shallow depth of field, realistic reflections on the chrome and glass, luxury product photography, cinematic composition, highly detailed, natural textures, vertical 9:16.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-113-E-commerce-Main-Image-Professional-Product-Advertising-Photo.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "GPT Image 2",
-        "Product"
-      ],
-      "author": "Deny",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-114",
-      "title": "E-commerce Main Image - Stirred Iced Honey Latte Close-Up",
-      "prompt": "Create a photorealistic vertical 9:16 close-up image of an iced honey latte in a small clear textured glass on a glossy clean white tabletop, framed like a cinematic macro food-video still. The glass should have a scalloped wavy rim and vertical ribbed sides, filled with creamy tan coffee and milk, with exactly 7 visible clear ice cubes floating near the surface and inside the drink. A right hand enters from the upper right, thumb and fingers visible, holding exactly 1 shiny dark metal spoon inserted into the drink and stirring gently, creating soft swirling caramel-brown layers, tiny foam bubbles, and streaks of coffee along the inside of the glass. Use {argument name=\"drink color\" default=\"creamy tan caramel coffee\"}, {argument name=\"glass style\" default=\"small clear scalloped ribbed glass\"}, {argument name=\"tabletop color\" default=\"glossy clean white\"}, {argument name=\"lighting style\" default=\"soft natural studio lighting\"}, and {argument name=\"camera angle\" default=\"tight overhead-leaning macro close-up\"}. Keep the background minimal and slightly gray-white, with shallow depth of field, realistic liquid reflections, detailed ice highlights, appetizing creamy texture, smooth cinematic composition, no text, no logos, no extra objects.",
-      "media": "image",
-      "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-114-E-commerce-Main-Image-Stirred-Iced-Honey-Latte-Close-Up.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-113-E-commerce-Main-Image-GPT-Image-2-Prompt-Vintage-Pink-Blender.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,19 +20,38 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-115",
-      "title": "E-commerce Main Image - Golden Retriever Spray Ad",
-      "prompt": "Using the provided reference image as the base, expand it into a wider vertical lifestyle product photo. Keep the golden retriever being sprayed and the hand steadying its body, but zoom out to show the dog sitting happily in profile with its face visible. Add a second human hand holding a blue-and-white trigger spray bottle aimed at the dog, with a fine mist visibly spraying onto the fur. Set the scene in a warm sunlit forest campsite during golden hour, adding exactly 3 major new background elements: 1 olive-green canvas tent on the right, 1 small camping table behind the dog, and 1 softly blurred forest of tall trees. Make the product feel like an outdoor pet repellent spray advertisement; put small readable label text on the bottle: {argument name=\"product label\" default=\"Outdoor Repellent Spray\"} and a simple brand mark: {argument name=\"brand name\" default=\"NIPIP\"}. Use photorealistic shallow depth of field, warm backlighting, natural colors, crisp fur detail, and realistic water droplets/mist. Do not crop tightly like the reference; show the dog, both human hands, the spray bottle, and the campsite context clearly.",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-114",
+      "title": "E-commerce Main Image - Rhode Lip Treatment Comparison Ad",
+      "prompt": "Goal: Create a wide comparison graphic showing two generated versions of a rhode beauty static ad for Peptide Lip Treatment in Watermelon Slice, with a black presentation background and two square ad mockups side by side.\n\nCanvas: 16:9 horizontal frame, black background, high contrast, clean social-media comparison layout.\n\nLayout: Place two rounded-corner square ad images centered horizontally with generous spacing. The left panel is labeled above in bright orange text: “GPT-Image-2”. The right panel is labeled above in the same bright orange text: “GPT-Image-2.5”. Add one small italic orange caption centered near the bottom reading “prompt in comments”.\n\nAd panels: Use exactly 2 square beauty advertisement panels.\n1. Left panel: soft pink background, rounded corners, elegant editorial beauty-ad composition. At the upper left, large serif headline text reads “A SLICE OF GLOSS.” with smaller text below reading “Peptide Lip Treatment”. A pink rhode Peptide Lip Treatment tube floats diagonally from upper right toward lower center, with vertical white “rhode” branding. Surround it with a glossy pink gel swirl, transparent splash droplets, and watermelon slices. Include a large circular pink sunburst shape behind the product. Watermelon elements count: 3 visible slices or wedges — one large lower watermelon slice, one right-middle slice behind the tube, and one small upper-right wedge. Keep the product large and central.\n2. Right panel: more dynamic, brighter, more detailed version of the same rhode ad. Pink background, rounded corners, upper-left serif headline “A SLICE OF GLOSS.” and smaller “Peptide Lip Treatment”. A larger pink rhode tube floats diagonally near the center, surrounded by a dramatic translucent glossy pink splash ribbon, many bubbles and droplets, and watermelon slices. Watermelon elements count: 5 visible pieces — one large foreground watermelon strip at the bottom, one left-middle wedge, one right-middle wedge, one small upper-right wedge, and one partial slice behind the splash near the center. The product should appear sharper, glossier, and more premium than the left panel.\n\nVisual style: polished product advertising, vivid watermelon pinks and reds, glossy liquid textures, studio lighting, high-end cosmetics campaign, crisp typography, saturated color, realistic 3D product rendering mixed with surreal splash photography.\n\nText and customization: Use the top labels {argument name=\"left model label\" default=\"GPT-Image-2\"} and {argument name=\"right model label\" default=\"GPT-Image-2.5\"}. Use the ad headline {argument name=\"headline text\" default=\"A SLICE OF GLOSS.\"}. Use the brand on the tube {argument name=\"brand name\" default=\"rhode\"}. Use the bottom caption {argument name=\"bottom caption\" default=\"prompt in comments\"}.\n\nConstraints: Keep exactly 2 comparison panels, exactly 2 orange model labels, and exactly 1 bottom caption. Do not add extra logos, watermarks, UI chrome, or additional text outside the specified labels and ad copy.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-115-E-commerce-Main-Image-Golden-Retriever-Spray-Ad.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-114-E-commerce-Main-Image-Rhode-Lip-Treatment-Comparison-Ad.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
         "Product"
       ],
-      "author": "Dmiao豆苗啊",
+      "author": "HeyOz",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-115",
+      "title": "E-commerce Main Image - Realistic Room Promotion Render from Sketch",
+      "prompt": "Create a real-life room promotional image to market my room to potential tenants. The theme is room layout: a large floor-to-ceiling window on the left with excellent sunlight and lighting. Beside the window is a cat bed with a {argument name=\"pet\" default=\"orange cat\"} lying on it. Inside the bedroom is a large desk with daily items like a computer, keyboard, mouse, and phone. A young Chinese male is sitting on an ergonomic chair operating the computer. To the right of the desk is a single bed. The overall spatial relationship follows the sketch. Lighting and textures should look like a bedroom photo taken with a phone. Hard requirements: all items drawn in the sketch must appear, including the sun outside the window. Problems to avoid: do not include any elements or phenomena that contradict real daily life. Other proportions and room details are up to you to ensure a natural, realistic, and unforced effect.",
+      "media": "image",
+      "model": "GPT Image 2",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-115-E-commerce-Main-Image-Realistic-Room-Promotion-Render-from-Sketch.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 2",
+        "Creative"
+      ],
+      "author": "安伈XinAn",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -59,18 +59,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-116",
-      "title": "E-commerce Main Image - Soft Studio Portrait With Pink Device",
-      "prompt": "Create a photorealistic vertical 2:3 studio portrait of an adult East Asian woman, early 20s, with {argument name=\"hair color\" default=\"long slightly messy black hair\"}, fair skin, a soft natural smile, and large black rectangular eyeglasses. She is seated or leaning slightly forward, shown from upper torso to head, turned three-quarters toward the left side of the frame while looking off-camera left. She wears a simple light gray camisole or lounge top with white shoulder straps, natural minimal makeup, soft pink lips, and a gentle relaxed expression. Her right hand holds exactly 1 object: a slim pastel pink handheld electronic device with rounded corners, a small circular button near the top, and two tiny indicator dots, held vertically near her cheek. Use a clean pale aqua-blue seamless background, soft diffused studio lighting, shallow depth of field, crisp facial detail, natural skin texture, realistic hair strands, and a fresh lifestyle/product-photography feel. Keep the composition airy with the head near the upper center, the hand and device on the lower left, and no text, logos, watermark, or extra props.",
+      "title": "E-commerce Main Image - Subtle Rose Nail Edit",
+      "prompt": "Using REFERENCE_0 as the base image, perform an extremely subtle product-style edit: change only the visible fingernails on the hand holding the strawberries into a delicate {argument name=\"nail design\" default=\"pale pink rose-themed manicure with tiny floral nail art and a glossy finish\"}. Keep the entire composition, face, pose, dress, bonnet, bouquet, strawberries, roses, wallpaper, lighting, color palette, and the headline text {argument name=\"headline text\" default=\"PINK EDEN\"} as close to the reference as possible. Do not alter the character, background, typography, cropping, or overall mood. The edit should affect exactly 2 visible nail areas: the main thumb nail and the small partially visible fingernail beside it; all other details should remain unchanged.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-116-E-commerce-Main-Image-Soft-Studio-Portrait-With-Pink-Device.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-116-E-commerce-Main-Image-Subtle-Rose-Nail-Edit.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
         "Product"
       ],
-      "author": "LuLa",
+      "author": "のえる",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -78,18 +78,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-117",
-      "title": "Game Asset - Cyber-Japanese King & Floating Fortress",
-      "prompt": "A majestic, hyper-detailed digital illustration of a male deity or ancient king standing in a three-quarter view. He has long, flowing black hair with red highlights and wears an elaborate, multi-layered traditional Japanese court robe (sokutai) that fuses ancient aesthetics with futuristic technology. The garment features intricate gold patterns on black silk, but the fabric is interwoven with glowing neon blue circuitry, holographic data streams, and translucent geometric panels. He wears a golden halo-like crown structure behind his head. His expression is calm and regal. The background depicts a colossal, vertical fortress-city built into a mountain cliff, resembling an ancient Japanese castle mixed with cyberpunk skyscrapers. Massive waterfalls cascade down the sides of the city. A giant, ominous blood-red moon dominates the sky, surrounded by swirling clouds and floating torii gates. Red petals drift through the air. The lighting is dramatic, contrasting the warm red glow of the moon and lanterns with the cool cyan light of the character's digital armor.",
+      "title": "E-commerce Main Image - Photorealistic UGC Image Strategy",
+      "prompt": "“using this json as reference, generate a person holding my product [attach product image]”\n\n> GPT-Image 2.5 generates the photo with that person holding your product\n\ncompare it with a version generated without the reference and look at the difference in the lighting and color grading\n\n> save the generated character photo you’re happy with as your reference\n\n> for future generations, attach the character photo each time and ask it to preserve the same facial features\n\nnow you have a reference character you can use across multiple product photos\n\nyou can also iterate the base json prompt and chat back and forth with GPT-6 Astra based on what you want, then repeat the same process..\n\ni like this because it gives you much more direction over the color grading instead of leaving everything up to the model\n\nthe basic colours and grainy look are some of the things that can make an image feel AI-generated, so pay attention to those when comparing your results\n\nthis is how you can start building a library of high quality ugc images around your own products\n\nthe json gives GPT-Image 2.5 the lighting and color direction, your character reference helps with consistency, and you control the product placement\n\nonce you have that starting point, you can keep creating variations without writing everything from scratch\n\nGPT-Image 2.5 Sunburst & Flare are available on Higgsfield. try this with your own product and reference images there",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-117-Game-Asset-Cyber-Japanese-King-Floating-Fortress.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-117-E-commerce-Main-Image-Photorealistic-UGC-Image-Strategy.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
-        "Portrait"
+        "Product"
       ],
-      "author": "HIROMI🌸",
+      "author": "Miko",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -97,18 +97,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-118",
-      "title": "Game Asset - Seamless Retro Game Map Texture Generator",
-      "prompt": "Using the provided reference image, which contains five vertical strips of a retro pixel-art game map separated by white gaps, transform it into a single seamless square tile. Remove all white separator lines and extend the terrain features (green forests, blue water bodies, orange roads, and grey castle structures) horizontally to fill the empty space between the strips. Ensure that the edges of each strip blend naturally into the adjacent ones to create a continuous, unified landscape texture without visible seams or missing data.",
+      "title": "E-commerce Main Image - Candid Korean Supermarket Shopper",
+      "prompt": "Create a realistic vertical smartphone photo of a candid grocery-store shopping moment in a Korean supermarket. A young woman with {argument name=\"hair color\" default=\"dark brown shoulder-length hair\"} is crouching low beside the cereal and granola aisle, wearing a {argument name=\"hat color\" default=\"red\"} baseball cap pulled low over her face, a slightly loose white ribbed long-sleeve henley top, light blue wide-leg jeans, white sneakers with beige soles, and a slim black shoulder bag. She is turned in side profile looking to the right, with her left arm extended toward a black plastic shopping basket on the floor; the basket contains visible groceries and has the white “emart” logo on the side. The scene contains exactly one main shopper, one black basket, two background shoppers, one shopping cart in the background, one prominent overhead aisle sign with the number 6 and Korean category text, one visible price sign reading “2,980,” and long shelves packed with cereal, granola, snack, and packaged food bags with Korean labels. Use a natural consumer-phone snapshot style, slightly imperfect framing, realistic indoor fluorescent lighting, mild motion softness, neutral colors, glossy gray supermarket floor reflections, deep aisle perspective, and authentic everyday details. Make it look like a casual buyer-show or store social media photo rather than a studio fashion shoot. No glamour lighting, no exaggerated posing, no artificial-looking skin, no extra people, no watermark.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-118-Game-Asset-Seamless-Retro-Game-Map-Texture-Generator.png",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-118-E-commerce-Main-Image-Candid-Korean-Supermarket-Shopper.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
-        "Creative"
+        "Product"
       ],
-      "author": "のいす@ship⑤",
+      "author": "虎小象",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -116,18 +116,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-119",
-      "title": "Game Asset - Cyberpunk Industrial Corridor Scene",
-      "prompt": "A high-resolution, cinematic digital illustration with a cyberpunk aesthetic. The model is situated in a claustrophobic industrial corridor, facing a wall-mounted panel of servers and cables. A dense, explosive mass of bright orange liquid splashes violently outward from the tech panels, spreading across the surroundings. The young woman lightly touches the mass with her hand. The color palette is cool and dark—dominated by grays and blues—creating a dramatic, high-contrast effect against the orange. The image evokes a high-quality, surreal, and unsettling cyberpunk atmosphere.",
+      "title": "E-commerce Main Image - Broken Ancient Terracotta Vase",
+      "prompt": "Create a hyper-realistic museum-style product photograph of a single ancient {argument name=\"artifact type\" default=\"terracotta ceramic vase\"} centered on a pure black background. The vessel is tall and ovoid with a narrow foot, rounded shoulders, and a wide flared rim, made of reddish-brown weathered clay with heavy age patina, mineral deposits, chips, scratches, white abrasions, and fine cracks. Add carved ornamental decoration: one continuous geometric band around the neck just below the rim and raised swirling vine-like relief patterns on the body. The front right side has one large jagged vertical rupture exposing the hollow interior, with multiple broken clay shards still attached around the opening; the opening runs from the upper shoulder down toward the lower body and shows a warm copper-orange hammered, dimpled inner surface catching light. Use dramatic studio lighting from the upper left and subtle warm internal/reflected glow inside the broken cavity, emphasizing rough ceramic texture, fractured edges, depth, and archaeological realism. Composition is a straight-on three-quarter product view, full vase visible with slight shadow at the base, high contrast, sharp focus, ultra-detailed, no labels, no people, no extra objects, no watermark.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-119-Game-Asset-Cyberpunk-Industrial-Corridor-Scene.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-119-E-commerce-Main-Image-Broken-Ancient-Terracotta-Vase.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
-        "Video"
+        "Product"
       ],
-      "author": "HER19845",
+      "author": "Jaden",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -135,18 +135,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-120",
-      "title": "Game Asset - High-Quality Voxel Game Asset Sheet",
-      "prompt": "Using the provided reference image, regenerate all isometric pixel art icons with significantly higher quality and detail. Keep the exact same layout, grid structure, background color, and Japanese text labels unchanged. Upgrade each icon from simple low-poly blocks to richly detailed voxel-style illustrations with proper shading, textures, and distinct features (e.g., add windows/doors to buildings, weapons/shields to characters, fur details to animals). Maintain the same character designs and building types but make them look more polished and professional.",
+      "title": "E-commerce Main Image - Streetwear Full Body Fashion Portrait",
+      "prompt": "Create an ultra-realistic full-body studio fashion portrait of an adult man standing confidently against a seamless warm light-beige studio background.\n\nPosition the man in the center of the frame, facing directly toward the camera with a calm, composed expression and relaxed posture. Give him a neat short natural haircut with a clean hairline and well-groomed appearance.\n\nDress him in a clean white short-sleeve polo shirt with a small black Nike swoosh on the chest, paired with fitted warm caramel-brown jogger trousers. Add stylish white-and-brown low-top Nike sneakers that coordinate perfectly with the trousers and accessories.\n\nPlace a premium caramel-brown crossbody sling bag diagonally across his torso, with the strap running over one shoulder. The bag should rest naturally around his lower abdomen/hip area and feature subtle black sports branding and tasteful colorful graphic embroidery on the front.\n\nPose one hand lightly holding the lower part of the crossbody bag while the other hand rests naturally near the strap across his chest, creating a relaxed streetwear-fashion pose.\n\nUse soft professional studio lighting with gentle frontal illumination, subtle shadows beneath the subject, natural skin texture, realistic fabric folds, highly detailed leather/suede textures, and clean footwear details.\n\nKeep the background minimal and distraction-free with a soft warm neutral gradient. Style the image as a premium adult streetwear campaign portrait, modern, clean, fashionable, photorealistic, balanced composition, sharp facial detail, realistic proportions, full-body framing, high-end commercial photography, 85mm lens look, soft depth of field, ultra-high resolution.\n\nAspect ratio: 4:5 vertical portrait.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-120-Game-Asset-High-Quality-Voxel-Game-Asset-Sheet.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-120-E-commerce-Main-Image-Streetwear-Full-Body-Fashion-Portrait.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
-        "Portrait"
+        "Product"
       ],
-      "author": "赤池ラムネ@なんでもクリエイター",
+      "author": "Abkr Sadiq",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -154,18 +154,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-121",
-      "title": "Game Asset - Premium Brand Mascot Character Generation",
-      "prompt": "Upload a reference image before generating.\n\nMAIN PROMPT\nCreate a premium, highly recognizable brand mascot character designed for modern digital branding. The mascot should have a friendly, confident, energetic personality, a distinctive silhouette, expressive face, polished proportions, and a memorable visual identity. Make the character feel professional enough for a major technology, fintech, social-media, or digital-services brand while remaining approachable and fun.\n\nFORMAT LOCK\nAspect ratio 3:4. Centered full-body mascot composition. Character clearly separated from the background with balanced negative space. Clean commercial presentation suitable for logos, websites, social media, advertisements, stickers, and brand merchandise.\n\nIDENTITY LOCK\nCreate one consistent original mascot with distinctive facial features, signature hairstyle/head shape, recognizable clothing, accessories, and color identity. Keep the character design consistent throughout the image. Do not imitate an existing copyrighted mascot or recognizable character.\n\nCHARACTER\nCute but premium 3D mascot with expressive eyes, confident friendly expression, slightly oversized head, polished stylized proportions, dynamic welcoming pose, clean modern outfit, subtle brand-inspired details, smooth surfaces, high-quality character modeling, appealing personality.\n\nENVIRONMENT\nMinimal premium studio environment with a clean uncluttered background. Subtle floor shadow and soft atmospheric depth. No unnecessary objects competing with the mascot.\n\nLIGHTING & STYLE\nHigh-end 3D commercial character render, cinematic studio lighting, soft key light, subtle rim lighting, realistic reflections, polished materials, detailed textures, premium advertising aesthetic, sharp focus, clean edges, sophisticated color grading, professional brand-campaign quality.\n\nNEGATIVE PROMPT\nLow quality, blurry, distorted anatomy, extra limbs, extra fingers, malformed hands, asymmetrical eyes, duplicated features, messy background, excessive text, watermark, logo imitation, copyrighted character, generic stock mascot, flat lighting, oversaturated colors, noisy image, cropped character, character cut off at edges.",
+      "title": "E-commerce Main Image - Minimalist Fashion E-Commerce Grid",
+      "prompt": "[Brand & Product Information]\n- Brand Name: {argument name=\"brand name\" default=\"Tsubaki, Modern Japan Apparel\"}\n- Collection Name: {argument name=\"collection\" default=\"A/W 2026 COLLECTION\"}\n- Representative Item Price: {argument name=\"price\" default=\"¥18,000 + TAX\"}\n\n[Image Quality/Direction/Composition]\n- Style: Lookbook photography for an e-commerce site of a minimalist and sophisticated Japanese fashion/lifestyle brand.\n- Composition: A flat lay or orderly display of apparel items (bags, outerwear, shoes, etc.) carefully arranged on a studio flooring or concrete floor with natural light shining in.\n- Typography Placement (for GPT-image / Nano Banana Pro): The brand name {argument name=\"brand name\" default=\"Tsubaki, Modern Japan Apparel\"}, collection text {argument name=\"collection\" default=\"A/W 2026 COLLECTION\"}, and price {argument name=\"price\" default=\"¥18,000 + TAX\"} are placed discreetly in the corners in an ultra-thin font.\n- Lighting/Color: Very soft light like natural light on a cloudy day, low contrast, and calm tones based on earth colors (beige, olive, charcoal gray, off-white).\n\n[Strict Layout and Output Constraints (Required)]\n- Output the finished design itself filling the entire screen. Background and scene depictions (walls, spaces, shadows, etc.) inside the design may follow the instructions in the text.\n- Prohibited items: Photos of the finished poster in a frame, on a wall, mockup photos on a desk/paper, perspective warp, or drop shadows.\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: \"--ar 1:1\" or \"--ar 4:3\"",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-121-Game-Asset-Premium-Brand-Mascot-Character-Generation.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-121-E-commerce-Main-Image-Minimalist-Fashion-E-Commerce-Grid.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
         "Product"
       ],
-      "author": "Visual AI Club",
+      "author": "AI Guide-Note - 実務で使えるAI活用メディア",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -173,18 +173,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-122",
-      "title": "Game Asset - Giant Tokyo Police Robot Barricading Street",
-      "prompt": "A hyper-realistic, wide-angle photograph of a colossal bipedal police robot standing in the middle of a busy Tokyo intersection on an overcast day. The robot is approximately 15 meters tall, constructed with heavy-duty industrial machinery featuring exposed black hydraulic pistons, cabling, and white armored plating. It has a blocky head equipped with multiple camera lenses and sensor arrays. Red emergency strobe lights are mounted on its shoulders and chest. The text \"警視庁 MPD\" (Metropolitan Police Department) is clearly printed in black on the white armor plates of its chest, thighs, and shins. The robot is actively holding a long, silver metal crowd-control barricade fence with its left hand, positioning it across the road to seal off the area. In the foreground, several human police officers wearing dark blue uniforms, reflective vests, and white helmets are directing traffic; one officer on the left holds an orange baton, while another on the right gestures towards the robot. The background features realistic Japanese street signage, including a large blue overhead sign pointing to \"Shinjuku,\" \"Ginza,\" and \"Tokyo Sta.\" A vertical banner on a building to the left reads \"ともに守る。東京の未来\" (Protecting together. Tokyo's future). The scene includes wet asphalt reflecting the cloudy sky, orange traffic cones, and distant city skyscrapers.",
+      "title": "E-commerce Main Image - Commercial Pink Berry Smoothie Photography",
+      "prompt": "Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A {argument name=\"drink type\" default=\"vibrant thick pink berry smoothie\"} is served in a {argument name=\"glassware\" default=\"stack of three small transparent glass jars\"}, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights. On the right, place a clear jar of {argument name=\"complementary food\" default=\"organic peanut butter\"} with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar. In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie. Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath. Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori. Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-122-Game-Asset-Giant-Tokyo-Police-Robot-Barricading-Street.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-122-E-commerce-Main-Image-Commercial-Pink-Berry-Smoothie-Photography.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
-        "Creative"
+        "Product"
       ],
-      "author": "カーブミラー",
+      "author": "Dua Fatima",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -192,18 +192,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-123",
-      "title": "Game Asset - GPT Image 2 Black and White Fiber-Flow Logo Prompt",
-      "prompt": "[MATERIAL COLOR = STRICT BLACK & WHITE]\n[SOURCE MODE = ATTACHED IMAGE]\nCreate a highly tactile macro visualization using a continuous viscous fiber-flow relief system.\n\nPreserve the attached reference exactly as it is—same silhouette, proportions, geometry, spacing, and recognizable details. Do not redesign, distort, simplify, or modify the shape.\n\nThe main form must be deep black with a crisp, continuous pure-white outline following its exact outer contour. No text or additional elements.\n\nTransform the entire image into one continuous field of densely packed elongated glossy filaments, like wet black lacquer. Use long coherent streamlines, subtle ridges and valleys, shallow relief, and controlled white anisotropic highlights.\n\nStrict palette: black and white only. No other colors, gradients, neon, glow, or colored reflections.\n\nMacro camera, nearly perpendicular, minimal perspective distortion, sharp detailed surface, photorealistic viscous material.\n\nNEGATIVE: altered shape, distorted proportions, text, extra elements, broken/fuzzy outline, colored outline, other colors, extrusion, embossing, engraving, chrome, marble, fabric, fur, random strokes, chaotic turbulence, liquid splash, large waves, neon, excessive bokeh, particles.",
+      "title": "E-commerce Main Image - Macro Pink Beverage Photography",
+      "prompt": "A photorealistic close-up of a {argument name=\"container\" default=\"tall, crystal-clear cylindrical glass\"} filled with a {argument name=\"drink color\" default=\"vibrant translucent pink\"} fruit drink and several large irregular ice cubes. Tiny bubbles and delicate foam gather naturally across the surface, with condensation and small droplets visible on the ice and glass. Soft diffused daylight illuminates the drink, creating beautiful pink reflections and realistic refractions through the ice. {argument name=\"background\" default=\"Minimal clean white background with a softly blurred product/package backdrop\"}, shallow depth of field, elegant beverage photography, macro details, natural highlights, realistic glass distortion, crisp focus, premium commercial photography, vertical composition, 8K, ultra-realistic",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-123-Game-Asset-GPT-Image-2-Black-and-White-Fiber-Flow-Logo-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-123-E-commerce-Main-Image-Macro-Pink-Beverage-Photography.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
         "Product"
       ],
-      "author": "Shami",
+      "author": "Dua Fatima",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -211,18 +211,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-124",
-      "title": "Poster / Flyer - GPT Image 2 Travel Editorial Poster Prompts",
-      "prompt": "Create a premium vertical travel editorial poster inspired by modern minimalist travel journals, combining a cinematic destination photograph with a refined flat illustration.\n\nTOP HALF — PHOTOGRAPH:\nA breathtaking panoramic photograph of Paris at sunset, viewed from an elevated viewpoint. The Eiffel Tower stands prominently in the center, surrounded by dense Parisian rooftops and historic city architecture. The sky is filled with soft peach, blush pink, dusty orange, and warm lavender clouds. Golden-hour light gently illuminates the city, creating a romantic cinematic atmosphere. Natural photographic detail, realistic architecture, subtle film grain, warm analog color grading, sophisticated travel-magazine photography.\n\nBOTTOM HALF — ILLUSTRATION:\nOn a warm ivory/cream paper background, create a minimalist hand-drawn/flat vector interpretation of the same Paris scene. Feature a simplified Eiffel Tower rising above an abstract Paris skyline, small trees and architectural silhouettes, a large muted peach sun behind the tower, and a few thin stylized clouds.\n\nUse a restrained palette of warm ivory, cocoa brown, dusty peach, muted terracotta, soft beige, and subtle warm gray. Clean geometric shapes, elegant minimal linework, gentle texture, slight paper grain, and imperfect analog-print character.\n\nTYPOGRAPHY:\nLarge elegant high-fashion editorial serif typography reading:\n\n“Paris”\n\nBelow it, smaller widely spaced uppercase text:\n\n“SAME SKY”\n“DIFFERENT STORIES”\n\nKeep the typography sophisticated, minimal, and editorial. Use generous negative space. The title should be large but not overpower the illustration.\n\nCOMPOSITION:\nVertical 4:5 poster, clean horizontal division between photograph and illustrated section, balanced visual hierarchy, luxury travel magazine aesthetic, sophisticated European editorial design, timeless and nostalgic.\n\nPhotorealistic top section + minimalist illustrated bottom section. No 3D rendering, no cartoonish style, no excessive decoration, no clutter, no watermark.\n\nPrompt 2\nCreate a premium vertical travel editorial poster combining a cinematic coastal photograph with a minimalist illustrated travel poster.\n\nTOP HALF — PHOTOGRAPH:\nA beautiful coastal lighthouse at golden hour. A tall white lighthouse with a dark lantern room stands beside a classic coastal house with a warm red roof. Rugged dark rocks fill the foreground while powerful ocean waves crash against the shoreline. Deep blue water, clear blue sky, small soft clouds, warm sunlight illuminating the lighthouse and rocks. Authentic coastal atmosphere, realistic photography, subtle film grain, natural contrast, premium travel-magazine aesthetic.\n\nBOTTOM HALF — ILLUSTRATION:\nReinterpret the same lighthouse scene as a sophisticated minimalist flat illustration on warm ivory paper. Show the lighthouse, red-roofed coastal house, rocky shoreline, stylized ocean waves, distant horizon, a small sun, and two or three simple flying birds.\n\nUse",
+      "title": "E-commerce Main Image - Professional Product Advertising Photo",
+      "prompt": "Professional advertising product photo of \"{argument name=\"product\" default=\"[PRODUCT NAME]\"}\", studio shot on a {argument name=\"background\" default=\"neutral background [light beige / blue gradient]\"}, soft diffused lighting, subtle shadows, product centered in frame, three-quarter angle view, high detail on material texture, clean modern aesthetic in the style of premium brand campaigns, 4K resolution, 1:1 aspect ratio",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-124-Poster-Flyer-GPT-Image-2-Travel-Editorial-Poster-Prompts.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-124-E-commerce-Main-Image-Professional-Product-Advertising-Photo.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
-        "Portrait"
+        "Product"
       ],
-      "author": "Taaruk",
+      "author": "Deny",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -230,18 +230,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-125",
-      "title": "Poster / Flyer - GPT Image 2 Premium Poster Design Prompt",
-      "prompt": "Please create a separate, independently designed premium poster from each uploaded photo. Do not combine multiple photos into one composition; output one individual poster for each photo. Use a vertical 3:4 composition, with the upper and lower sections strictly divided 1:1, each occupying exactly 50% of the total height.\n\nUpper Half:  \nPreserve the original photograph, maintaining the subject’s identity, structure, pose, realistic texture, natural lighting, and original color atmosphere. Apply only subtle, sophisticated color grading to give it the visual quality of an art magazine, independent publication, or exhibition image. To adapt the image to the 3:4 format, the surrounding background may be naturally extended, but do not stretch, distort, or alter the subject.\n\nLower Half:  \nExtract the most recognizable subject, silhouette, structure, pose, and narrative relationship from the photograph and reconstruct it in the style of Mid-century vernacular graphic illustration + schematic line drawing + two-color spot printing.\n\nDo not completely trace or replicate the photograph. Instead, use diagrammatic abstraction to compress complex objects into a small number of clear geometric shapes, functional contours, and essential structural elements. The result should resemble an illustration from an old instruction manual, advertising card, technical label, or vernacular print: immediately recognizable, yet more direct, humorous, and symbolic than the realistic object itself.\n\nEmphasize economy of line: if a structure can be explained with a single line, do not use unnecessary strokes. Use direct black pen outlines, rectangles, circles, diamonds, straight lines, and simple planes to describe the objects. People, animals, and objects may have slightly exaggerated proportions, while machines, buildings, and complex structures should be simplified into clear boxes, openings, panels, and silhouette relationships.\n\nUse a flat, schematic diagrammatic perspective rather than realistic lighting or strictly accurate spatial depth. The visual language should exist somewhere between illustration and technical diagram, maintaining this distinctive character throughout the composition.\n\nReorganize the composition according to the most important narrative relationship in the original image. Maintain one clear primary subject, while using a small number of supporting objects, guide lines, directional relationships, or structural symbols to reinforce the story.\n\nPay close attention to visual hierarchy, geometric order, scale contrast, positive and negative space, and intentional whitespace. The image may feel slightly naïve, awkward, or handmade in a vernacular way, but it must never feel cluttered. Every visual element should appear to exist for the purpose of “explaining what is happening”, rather than simply serving as decoration.",
+      "title": "E-commerce Main Image - Stirred Iced Honey Latte Close-Up",
+      "prompt": "Create a photorealistic vertical 9:16 close-up image of an iced honey latte in a small clear textured glass on a glossy clean white tabletop, framed like a cinematic macro food-video still. The glass should have a scalloped wavy rim and vertical ribbed sides, filled with creamy tan coffee and milk, with exactly 7 visible clear ice cubes floating near the surface and inside the drink. A right hand enters from the upper right, thumb and fingers visible, holding exactly 1 shiny dark metal spoon inserted into the drink and stirring gently, creating soft swirling caramel-brown layers, tiny foam bubbles, and streaks of coffee along the inside of the glass. Use {argument name=\"drink color\" default=\"creamy tan caramel coffee\"}, {argument name=\"glass style\" default=\"small clear scalloped ribbed glass\"}, {argument name=\"tabletop color\" default=\"glossy clean white\"}, {argument name=\"lighting style\" default=\"soft natural studio lighting\"}, and {argument name=\"camera angle\" default=\"tight overhead-leaning macro close-up\"}. Keep the background minimal and slightly gray-white, with shallow depth of field, realistic liquid reflections, detailed ice highlights, appetizing creamy texture, smooth cinematic composition, no text, no logos, no extra objects.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-125-Poster-Flyer-GPT-Image-2-Premium-Poster-Design-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-125-E-commerce-Main-Image-Stirred-Iced-Honey-Latte-Close-Up.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
-        "Portrait"
+        "Product"
       ],
-      "author": "Sairah",
+      "author": "Dua Fatima",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -249,18 +249,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-2-126",
-      "title": "Poster / Flyer - Van Gogh Style Fish Head Soup Poem",
-      "prompt": "A split composition. The left side is a Van Gogh-style oil painting of an emaciated, scruffy man with wild black hair and a long nose, wearing a tattered blue coat. He sits at a wooden table eating from a large bowl containing a whole fish head and rice soup, holding a spoon. Behind him on the blue wall is a poster reading \"A FOOL AND HIS FISH HEAD SOUP\" featuring a caricature of a man in a top hat. To the far left, a window reveals hanging laundry and a bottle on the sill. The right side is a solid black background containing white text: a QR code at the top, followed by the poem \"he's a bungler / a man without scruples / scruffy and vile / subsisting on a fool's diet / of fish head and rice soup\", and credits below.",
+      "title": "E-commerce Main Image - Golden Retriever Spray Ad",
+      "prompt": "Using the provided reference image as the base, expand it into a wider vertical lifestyle product photo. Keep the golden retriever being sprayed and the hand steadying its body, but zoom out to show the dog sitting happily in profile with its face visible. Add a second human hand holding a blue-and-white trigger spray bottle aimed at the dog, with a fine mist visibly spraying onto the fur. Set the scene in a warm sunlit forest campsite during golden hour, adding exactly 3 major new background elements: 1 olive-green canvas tent on the right, 1 small camping table behind the dog, and 1 softly blurred forest of tall trees. Make the product feel like an outdoor pet repellent spray advertisement; put small readable label text on the bottle: {argument name=\"product label\" default=\"Outdoor Repellent Spray\"} and a simple brand mark: {argument name=\"brand name\" default=\"NIPIP\"}. Use photorealistic shallow depth of field, warm backlighting, natural colors, crisp fur detail, and realistic water droplets/mist. Do not crop tightly like the reference; show the dog, both human hands, the spray bottle, and the campsite context clearly.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-126-Poster-Flyer-Van-Gogh-Style-Fish-Head-Soup-Poem.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-2/README-126-E-commerce-Main-Image-Golden-Retriever-Spray-Ad.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "GPT Image 2",
-        "Poster"
+        "Product"
       ],
-      "author": "Michael H. Lester",
+      "author": "Dmiao豆苗啊",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md",
       "license": "upstream",
@@ -401,11 +401,11 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-8",
-      "title": "Profile / Avatar - South Asian Selfie Mirror Prompt",
+      "title": "Profile / Avatar - South Asian Woman Selfie Prompt",
       "prompt": "A beautiful young South Asian woman taking a confident selfie in front of a large glowing arched mirror. She has long, voluminous wavy brown hair with golden highlights, fair skin, and a radiant smile showing her teeth. She is wearing stylish gold-framed aviator sunglasses.\nShe is dressed in an elegant white traditional Pakistani/Indian kurta with delicate pink floral embroidery and patterns, paired with a sheer pink floral dupatta gracefully draped around her neck and shoulders. Her right hand is giving a cheerful thumbs-up, while her left hand holds a white iPhone 13/14 Pro. She is wearing a black smartwatch on her left wrist.\nThe background features a modern minimalist interior with a large illuminated warm golden archway creating a soft, dreamy glow around her. Bright, cinematic lighting, highly detailed, realistic skin texture, sharp focus, elegant and vibrant color palette, professional photography style, 8k quality.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-8-Profile-Avatar-South-Asian-Selfie-Mirror-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-8-Profile-Avatar-South-Asian-Woman-Selfie-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -781,11 +781,68 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-28",
+      "title": "Social Media Post - Editorial Fashion Portrait in Boutique",
+      "prompt": "A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers.Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-28-Social-Media-Post-Editorial-Fashion-Portrait-in-Boutique.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Portrait"
+      ],
+      "author": "Nawal",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-29",
+      "title": "Social Media Post - Chess King Strategic Power Portrait Prompt",
+      "prompt": "CONCEPT — EXACT: A layered composite — a massive faded close-up ghost portrait fills the upper background blending into a dark marble-textured backdrop, and a smaller sharp full-color standing portrait of the same man stands in the foreground beside a giant oversized black chess king piece, strategic power-and-leadership theme.\n\nBACKGROUND GHOST PORTRAIT — EXACT: Large faded close-up portrait, head turned slightly, calm intense composed gaze, short neat hair, light beard, blending into the dark grey-black marble texture so it reads as a subtle tonal overlay.\n\nMAIN SUBJECT — FOREGROUND — EXACT: Standing pose beside a giant black marble chess king piece taller than himself, one hand resting on top of the chess piece's crown, other hand tucked into the trouser pocket, calm confident composed gaze toward camera.\n\nMAIN SUBJECT IDENTITY LOCK: Foreground face must match the ghost portrait exactly — same jaw width, cheek fullness, beard density, nose shape, and lip shape, with natural head-to-body proportion.\n\nBODY: Medium-tan skin tone, lean build, confident composed standing posture.\n\nOUTFIT: Black tailored double-breasted overcoat over a black turtleneck, black tailored trousers, black leather dress shoes, silver wristwatch.\n\nPROP DETAIL — EXACT: An oversized black marble chess king piece with intricate carved detailing standing beside the subject, smaller white and black chess pieces scattered across a checkered marble floor in the foreground.\n\nBACKGROUND — EXACT: Dark grey-black marble hall with soft veining texture, subtle checkered marble floor pattern, dramatic empty space suggesting scale and power.\n\nLIGHTING — EXACT: Single dramatic side-key light, deep shadow across half the marble hall, crisp highlight along the chess piece's carved edges and the subject's jawline.\n\nCOLOR GRADE — EXACT: Deep charcoal-and-black dominant palette throughout, cool marble-grey undertones, natural warm skin tone providing the only contrast, dramatic high-end editorial power-portrait color grading with ultra-detailed 8K sharpness.\n\nShot on Sony A7R IV, 50mm f/1.8 — foreground subject and chess piece tack sharp with fabric and stone detail crisp, background ghost portrait softly blended. Ultra photorealistic — zero AI artifacts, no watermark.\n\nIMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity in BOTH the ghosted background portrait AND the full-color foreground standing figure. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, beard density, moustache style, jawline, skin tone, facial texture, masculine proportions, and all natural imperfections exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, feminize, or replace my face with a random celebrity or model",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-29-Social-Media-Post-Chess-King-Strategic-Power-Portrait-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Portrait"
+      ],
+      "author": "Muhammad Jamil",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-30",
+      "title": "Social Media Post - Recreate Image with Vines and Neon Lights",
+      "prompt": "recreate the image, but her face is slightly behind vines and flowers on a platform on the ocean with secessionist lamps around it. Various camera angles, neon intense light in violet and blue, night time",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-30-Social-Media-Post-Recreate-Image-with-Vines-and-Neon-Lights.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Creative"
+      ],
+      "author": "Everett World",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-31",
       "title": "Social Media Post - Desert Fashion Portrait Prompt",
       "prompt": "Use the uploaded image as the master face reference. Create a full-body, photorealistic fashion portrait of the same woman standing gracefully in the middle of vast golden desert dunes at sunset. Preserve her exact facial identity, facial structure, eyes, nose, lips, skin tone, and natural features from the reference image. She has sleek, wet-look brown hair brushed back, subtle elegant makeup, small hoop earrings, delicate layered gold necklaces, and minimal gold bracelets.\n\nShe wears an elegant ivory-white couture gown inspired by futuristic royal fashion: fitted sculptural bodice with a sophisticated wrapped neckline, long sheer flowing sleeves, structured layered fabric around the hips, a long floor-length skirt with dramatic overlapping panels, and an enormous lightweight flowing cape/train trailing naturally across the sand. The fabric should look physically real, soft, slightly translucent, and naturally affected by the desert breeze.\n\nShe stands confidently facing the camera with a calm, elegant expression and relaxed natural posture. Full body visible from head to feet, including the gown and flowing train. Vast realistic sand dunes extend into the distance, detailed wind-shaped ripples in the foreground, warm natural sunlight, realistic atmospheric depth, subtle desert haze, authentic shadows, natural skin texture, realistic fabric folds and stitching, detailed hands and fingers.\n\nPhotography: high-end luxury fashion editorial, realistic DSLR photography, 50mm lens, natural depth of field, sharp facial details, realistic proportions, true-to-life skin texture, soft golden-hour sunlight, natural color grading, extremely detailed, photorealistic, no artificial CGI appearance.\n\nNegative prompt: cartoon, anime, illustration, 3D render, plastic skin, overly smooth face, face distortion, identity change, different person, exaggerated makeup, unrealistic body proportions, extra fingers, malformed hands, duplicated limbs, warped dress, floating fabric, blurry face, low resolution, excessive glow, artificial background, text, logo, watermark.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-28-Social-Media-Post-Desert-Fashion-Portrait-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-31-Social-Media-Post-Desert-Fashion-Portrait-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,69 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-29",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-32",
       "title": "Social Media Post - Nighttime Bedroom Reading Scene",
       "prompt": "Create a photorealistic cinematic nighttime bedroom scene featuring an adult woman peacefully reading an open hardcover novel while sitting comfortably on a luxurious bed. She has delicate natural facial features, realistic skin texture, subtle makeup, and blonde hair styled in a relaxed messy low bun with a few soft strands framing her face.\n\nShe is wearing elegant champagne-cream satin pajamas with a classic notched collar, black piping, long sleeves, and subtle buttons. Her posture is relaxed and natural as she looks down at the book with a calm, gentle expression.\n\nThe bedroom feels warm, sophisticated, and cozy: plush cream bedding, oversized pillows, a soft upholstered beige headboard, elegant framed artwork, and a warm bedside lamp casting soft golden light. Beside her, a fluffy white cat is peacefully sleeping on the bed.\n\nThrough the large window, a deep blue night sky, glowing full moon, and subtle distant city lights are visible. Add a small bedside table with a delicate cup of tea and a vase of fresh white flowers.\n\nLighting: warm cinematic bedside lighting mixed with cool moonlight from the window, soft shadows, natural highlights, realistic skin tones, cozy evening atmosphere.\n\nPhotography: photorealistic, luxury lifestyle editorial photography, 50mm lens, shallow depth of field, natural bokeh, soft film grain, realistic fabric textures, detailed hair strands, authentic skin pores, balanced exposure, cinematic composition, highly detailed, 8K.\n\nNegative prompt: CGI, cartoon, illustration, plastic skin, excessive makeup, distorted hands, extra fingers, deformed face, blurry details, artificial lighting, oversaturated colors, text, subtitles, logo, watermark.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-29-Social-Media-Post-Nighttime-Bedroom-Reading-Scene.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Product"
-      ],
-      "author": "Aynelle",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-30",
-      "title": "Social Media Post - Prompt: A surreal, hyper-realistic photo manipulat",
-      "prompt": "A surreal, hyper-realistic photo manipulation of two vibrant hot-pink swans (bubblegum-magenta pink, hex ~ #F542A4 to #FF69B4). Their long necks are elegantly intertwined, crossing over each other to form a heart-like shape. The swans turn their heads away from each other",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-30-Social-Media-Post-Prompt-A-surreal-hyper-realistic-photo-manipulat.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Creative"
-      ],
-      "author": "Picsart",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-31",
-      "title": "Social Media Post - Object-to-Building Transformation Prompt",
-      "prompt": "Turning random objects into buildings.\n\n2x2 grid, do this for 4 different random objects. Concept: Turn objects into a landmark building that could exist.\n\n1. ANALYZE INPUT (Massing & Structure):\n\nMass: (Monolithic/Fragmented/Stacked/Spindly)\n\nSurface: (Reflective/Porous/Layered/Patterned)\n\nMechanism: (Static/Kinetic/Modular)\n\n2. AUTO-SELECT BUILDING TYPE:\n\nIF Monolithic + Stone-like → Museum\n\nIF Reflective + Aerodynamic → Skyscraper\n\nIF Modular + Stacked → Housing complex\n\nIF Porous + Organic → Botanical conservatory\n\nIF Kinetic + Mechanical → Transit hub\n\n3. EXECUTE:\nGolden-hour exterior render, people for scale, plausible materials, cinematic wide lens.",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-31-Social-Media-Post-Object-to-Building-Transformation-Prompt.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Video"
-      ],
-      "author": "Gadgetify",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-32",
-      "title": "Social Media Post - Istanbul Bosphorus Travel Portrait",
-      "prompt": "Create an ultra-photorealistic cinematic travel portrait using the uploaded reference image for the woman’s facial identity. Preserve her recognizable facial features, blue-green eyes, natural skin texture, blonde hair in a soft messy updo with loose face-framing strands, and realistic proportions.\n\nPlace her standing beside the Bosphorus waterfront in Istanbul during a beautiful golden-hour sunset. She is wearing an elegant deep red sleeveless midi/maxi frock with a fitted bodice and softly flowing skirt. She holds one single fresh red rose naturally in both hands. No handbag, no shoulder bag, no suitcase.\n\nShe stands beside an ornate black wrought-iron waterfront railing, looking gently toward the camera with a calm, natural, romantic expression. Behind her, show the Bosphorus with realistic ferries, shimmering water, Istanbul’s historic skyline, large domes and slender minarets, warm waterfront buildings, and elegant vintage street lamps.\n\nWet stone pavement with subtle reflections, warm sunset rays, soft dramatic clouds, natural atmospheric haze, realistic wind movement in her hair and dress.\n\nPhotography: luxury travel editorial, photorealistic live-action look, natural skin pores and texture, realistic hands and fingers, 85mm lens, shallow depth of field, cinematic bokeh, soft golden backlight, realistic fabric texture, natural body proportions, high dynamic range, sophisticated color grading, vertical 9:16 composition.\n\nNegative prompt: face distortion, identity drift, extra fingers, malformed hands, duplicate rose, handbag, purse, suitcase, CGI, cartoon, illustration, plastic skin, excessive makeup, artificial body proportions, text, subtitles, logo, watermark.",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-32-Social-Media-Post-Istanbul-Bosphorus-Travel-Portrait.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-32-Social-Media-Post-Nighttime-Bedroom-Reading-Scene.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -876,18 +876,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-33",
-      "title": "Social Media Post - Cinematic Editorial Bedroom Portrait",
-      "prompt": "Create an ultra-photorealistic cinematic editorial photograph of the same woman sitting gracefully on the floor beside an elegant vintage bed in a luxurious classic bedroom. She has long, naturally wavy dark brown hair and wears a sophisticated sleeveless ivory-white satin dress with a fitted waist and flowing skirt, sheer white stockings, and elegant white pointed-toe heels.\n\nShe sits naturally with both legs extended across the polished dark herringbone wooden floor, one hand resting near her knee and the other supporting her beside her. Behind her is an ornate black wrought-iron bed with cream floral-patterned bedding, layered pillows, elegant beige curtains, classic paneled walls, and warm neutral tones.\n\nBeside her is an open vintage book with a single cream-colored rose resting on it, next to a delicate white porcelain teacup and saucer. Soft warm daylight enters from the window on the right, creating realistic highlights and subtle shadows.\n\nComposition: full-body portrait, woman clearly visible from head to toe, elegant natural pose, eye-level camera, 50mm lens, f/2.8, shallow natural depth of field, cinematic luxury fashion editorial photography, realistic skin pores, individual hair strands, detailed fabric texture, physically accurate lighting, natural anatomy, realistic proportions, subtle warm color grading, 8K photorealism.\n\nIdentity lock: same reference face throughout, exact facial structure, exact eyes and eye spacing, exact nose, exact lips, exact jawline, exact skin tone, no identity drift, no face alteration, no facial beautification, no face blending.\n\nNegative prompt:\ndifferent face, altered identity, face swap, identity drift, different facial features, changed eye shape, changed nose, changed lips, changed jawline, face distortion, plastic skin, over-smoothed skin, CGI, 3D render, cartoon, anime, unrealistic anatomy, extra fingers, malformed hands, extra limbs, duplicated body parts, distorted legs, blurry face, low detail, harsh lighting, oversaturated colors, text, logo, watermark.",
+      "title": "Social Media Post - Prompt: A surreal, hyper-realistic photo manipulat",
+      "prompt": "A surreal, hyper-realistic photo manipulation of two vibrant hot-pink swans (bubblegum-magenta pink, hex ~ #F542A4 to #FF69B4). Their long necks are elegantly intertwined, crossing over each other to form a heart-like shape. The swans turn their heads away from each other",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-33-Social-Media-Post-Cinematic-Editorial-Bedroom-Portrait.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-33-Social-Media-Post-Prompt-A-surreal-hyper-realistic-photo-manipulat.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "Nano Banana Pro",
-        "Product"
+        "Creative"
       ],
-      "author": "Elvorya",
+      "author": "Picsart",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
       "license": "upstream",
@@ -895,18 +895,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-34",
-      "title": "Social Media Post - Kitchen Island Fashion Portrait Prompt",
-      "prompt": "Create a photorealistic fashion portrait of a young woman casually leaning against a modern kitchen island in a warm, luxurious apartment. She has long, voluminous dark-brown hair with a soft side part, defined brows, subtle winged eyeliner, natural rosy makeup, and realistic skin texture. She wears a fitted black top under a cropped pink-and-white tweed jacket with gold buttons, paired with relaxed light-wash wide-leg jeans.\n\nShe is leaning slightly against the marble kitchen counter, one arm resting naturally on the countertop, with a relaxed confident expression. Warm ambient ceiling spotlights, dark walnut kitchen cabinets, large black-framed wall mirror, marble island, cozy modern interior. Full-body composition, vertical 4:5, eye-level camera, realistic proportions, natural pose, soft warm lighting, shallow depth of field, high-end editorial photography, ultra-detailed, photorealistic, realistic fabric and skin textures.",
+      "title": "Social Media Post - Object-to-Building Transformation Prompt",
+      "prompt": "Turning random objects into buildings.\n\n2x2 grid, do this for 4 different random objects. Concept: Turn objects into a landmark building that could exist.\n\n1. ANALYZE INPUT (Massing & Structure):\n\nMass: (Monolithic/Fragmented/Stacked/Spindly)\n\nSurface: (Reflective/Porous/Layered/Patterned)\n\nMechanism: (Static/Kinetic/Modular)\n\n2. AUTO-SELECT BUILDING TYPE:\n\nIF Monolithic + Stone-like → Museum\n\nIF Reflective + Aerodynamic → Skyscraper\n\nIF Modular + Stacked → Housing complex\n\nIF Porous + Organic → Botanical conservatory\n\nIF Kinetic + Mechanical → Transit hub\n\n3. EXECUTE:\nGolden-hour exterior render, people for scale, plausible materials, cinematic wide lens.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-34-Social-Media-Post-Kitchen-Island-Fashion-Portrait-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-34-Social-Media-Post-Object-to-Building-Transformation-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "Nano Banana Pro",
-        "Portrait"
+        "Video"
       ],
-      "author": "Aynah",
+      "author": "Gadgetify",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
       "license": "upstream",
@@ -914,18 +914,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-35",
-      "title": "Infographic / Edu Visual - Product Reference Sheet Workflow",
-      "prompt": "Analyze the product and create a high-resolution, photorealistic, professional advertising reference sheet containing these four sections, on a clean white/neutral studio background, premium commercial product photography, soft controlled lighting, realistic materials, sharp details, subtle shadows, and a professional editorial grid.\n1. PRODUCT OVERVIEW; name, category, materials, dimensions/size, key features, and brand colors.\n2. PRODUCT USAGE/HERO VIEWS - front, back, side, 3/4, and functional/use view where relevant.\n3. PRODUCT CLOSE-UPS - logo/label, texture/material, key components, packaging details, and other important identifying features.\n4. PACKAGING / CONSTRUCTION - relevant packaging or structural views where applicable. \nThe entire sheet must function as a visual continuity bible for AI image/video production. Every product view must depict the exact same physical product with absolute consistency. Do not redesign, add variants, alter branding, or change proportions. Use cean typography, clear section labels, thin dividers, balanced spacing, sophisticated production-design aesthetic.",
+      "title": "Social Media Post - Istanbul Bosphorus Travel Portrait",
+      "prompt": "Create an ultra-photorealistic cinematic travel portrait using the uploaded reference image for the woman’s facial identity. Preserve her recognizable facial features, blue-green eyes, natural skin texture, blonde hair in a soft messy updo with loose face-framing strands, and realistic proportions.\n\nPlace her standing beside the Bosphorus waterfront in Istanbul during a beautiful golden-hour sunset. She is wearing an elegant deep red sleeveless midi/maxi frock with a fitted bodice and softly flowing skirt. She holds one single fresh red rose naturally in both hands. No handbag, no shoulder bag, no suitcase.\n\nShe stands beside an ornate black wrought-iron waterfront railing, looking gently toward the camera with a calm, natural, romantic expression. Behind her, show the Bosphorus with realistic ferries, shimmering water, Istanbul’s historic skyline, large domes and slender minarets, warm waterfront buildings, and elegant vintage street lamps.\n\nWet stone pavement with subtle reflections, warm sunset rays, soft dramatic clouds, natural atmospheric haze, realistic wind movement in her hair and dress.\n\nPhotography: luxury travel editorial, photorealistic live-action look, natural skin pores and texture, realistic hands and fingers, 85mm lens, shallow depth of field, cinematic bokeh, soft golden backlight, realistic fabric texture, natural body proportions, high dynamic range, sophisticated color grading, vertical 9:16 composition.\n\nNegative prompt: face distortion, identity drift, extra fingers, malformed hands, duplicate rose, handbag, purse, suitcase, CGI, cartoon, illustration, plastic skin, excessive makeup, artificial body proportions, text, subtitles, logo, watermark.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-35-Infographic-Edu-Visual-Product-Reference-Sheet-Workflow.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-35-Social-Media-Post-Istanbul-Bosphorus-Travel-Portrait.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "Nano Banana Pro",
         "Product"
       ],
-      "author": "Olatunde AI",
+      "author": "Aynelle",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
       "license": "upstream",
@@ -933,18 +933,18 @@
     },
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-36",
-      "title": "Infographic / Edu Visual - Handwritten Memo Recipe Illustration",
-      "prompt": "[Input Data]\n- Dish Name (Left Page): {argument name=\"dish name left\" default=\"Green Curry\"}\n- Ingredients List (Left Page): {ingredientsLeft}\n- Cooking Steps (Left Page): ①{stepLeft1} → ②{stepLeft2} → ③{stepLeft3}\n- Dish Name (Right Page): {argument name=\"dish name right\" default=\"Tom Yum Goong\"}\n- Ingredients List (Right Page): {ingredientsRight}\n- Cooking Steps (Right Page): ①{stepRight1} → ②{stepRight2} → ③{stepRight3}\n- Color Theme: {argument name=\"color theme\" default=\"organic natural colors\"}\n\n[Structure and Layout Specifications]\n- Style: A flat 2D handwritten-style infographic recipe illustration drawn on a piece of rustic off-white notepad paper (grid paper) with thin grid lines and warm paper texture.\n- Background and Composition Constraints: Do not draw physical books, three-dimensional notebook outlines, page thickness, shadows, or realistic photo background elements like wooden tables (Absolutely NO wooden table, NO realistic book mockup, NO book thickness, NO notebook pages, NO realistic photo background. It must be a flat 2D vector layout directly on the textured grid notepad paper canvas).\n- Left Side Layout:\n  - Large handwritten Japanese title \"{dishLeft}\" at the top.\n  - Below that, the ingredient list \"{ingredientsLeft}\" drawn with neat vertical bullet points in handwritten Japanese and simple food illustrations.\n  - The lower half features cooking steps \"①{stepLeft1} → ②{stepLeft2} → ③{stepLeft3}\" arranged in a horizontal or vertical arrow flow. Include cute hand-drawn illustrations that match each step's content (e.g., cutting, stir-frying, simmering).\n  - A delicious-looking illustration of the finished \"{dishLeft}\" dish in the bottom left.\n- Right Side Layout:\n  - Large handwritten Japanese title \"{dishRight}\" at the top.\n  - Below that, the ingredient list \"{ingredientsRight}\" drawn in handwritten Japanese with simple food illustrations.\n  - The lower half features cooking steps \"①{stepRight1} → ②{stepRight2} → ③{stepRight3}\" arranged in a horizontal or vertical arrow flow. Include cute hand-drawn illustrations matching each step's content.\n  - A delicious-looking illustration of the finished \"{dishRight}\" dish in the bottom right.\n- Colors: A gentle, warm organic tone based on \"{colorTheme}\".\n\n[Quality and Exclusion Constraints (Mandatory)]\n- Absolutely no date-related elements like dates (e.g., \"8/7\"), days of the week (e.g., \"SUN\"), calendar frames, or date stamps (NO date stamp, NO calendar, NO day of the week, NO timeline stamp).\n- Fonts should be friendly handwritten-style Japanese (Gothic or rounded) accurately drawing the input Japanese without distortion or spelling errors.\n\n- Aspect Ratio: --ar 4:3",
+      "title": "Social Media Post - Cinematic Editorial Bedroom Portrait",
+      "prompt": "Create an ultra-photorealistic cinematic editorial photograph of the same woman sitting gracefully on the floor beside an elegant vintage bed in a luxurious classic bedroom. She has long, naturally wavy dark brown hair and wears a sophisticated sleeveless ivory-white satin dress with a fitted waist and flowing skirt, sheer white stockings, and elegant white pointed-toe heels.\n\nShe sits naturally with both legs extended across the polished dark herringbone wooden floor, one hand resting near her knee and the other supporting her beside her. Behind her is an ornate black wrought-iron bed with cream floral-patterned bedding, layered pillows, elegant beige curtains, classic paneled walls, and warm neutral tones.\n\nBeside her is an open vintage book with a single cream-colored rose resting on it, next to a delicate white porcelain teacup and saucer. Soft warm daylight enters from the window on the right, creating realistic highlights and subtle shadows.\n\nComposition: full-body portrait, woman clearly visible from head to toe, elegant natural pose, eye-level camera, 50mm lens, f/2.8, shallow natural depth of field, cinematic luxury fashion editorial photography, realistic skin pores, individual hair strands, detailed fabric texture, physically accurate lighting, natural anatomy, realistic proportions, subtle warm color grading, 8K photorealism.\n\nIdentity lock: same reference face throughout, exact facial structure, exact eyes and eye spacing, exact nose, exact lips, exact jawline, exact skin tone, no identity drift, no face alteration, no facial beautification, no face blending.\n\nNegative prompt:\ndifferent face, altered identity, face swap, identity drift, different facial features, changed eye shape, changed nose, changed lips, changed jawline, face distortion, plastic skin, over-smoothed skin, CGI, 3D render, cartoon, anime, unrealistic anatomy, extra fingers, malformed hands, extra limbs, duplicated body parts, distorted legs, blurry face, low detail, harsh lighting, oversaturated colors, text, logo, watermark.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-36-Infographic-Edu-Visual-Handwritten-Memo-Recipe-Illustration.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-36-Social-Media-Post-Cinematic-Editorial-Bedroom-Portrait.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "Nano Banana Pro",
-        "Infographic"
+        "Product"
       ],
-      "author": "AI Guide-Note - 実務で使えるAI活用メディア",
+      "author": "Elvorya",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
       "license": "upstream",

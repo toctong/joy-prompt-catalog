@@ -1,25 +1,6 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-7974-236",
-      "title": "Technical Infographic for E-commerce Product Description",
-      "prompt": "Create an infographic image of {argument name=\"object\" default=\"Tudor North Flag\"}, combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top. Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background. Include: •Key component labels •Internal cutaway or exploded-view outlines (where relevant) •Measurements, dimensions, and scale markers •Material callouts and quantities •Arrows indicating function, force, or flow (air, sound, power, pressure, movement) •Simple schematic or sectional diagrams where applicable Place the title {argument name=\"object title\" default=\"[OBJECT]\"} inside a hand-drawn technical annotation box in one corner. Style & layout rules: •The real object remains clearly visible beneath the annotations •Annotations look hand-sketched, technical, and architectural •Clean composition with balanced negative space •Educational, museum-exhibit / engineering-manual vibe Visual style: Minimal technical illustration aesthetic. Black linework layered over realistic imagery. Precise but slightly hand-drawn feel. Color palette: Pure white background. Black annotation lines and text only. No colors. Output: Ultra-crisp Social-feed optimized No watermark",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-7974-236-Technical-Infographic-for-E-commerce-Product-Description.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Infographic / Education"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
       "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-18519-280",
       "title": "Historical Temple Demolition Scene",
       "prompt": "{argument name=\"title\" default=\"Temple Returns to Dust\"} {argument name=\"event\" default=\"1892 Oomoto-kyo, Nao Deguchi\"} {argument name=\"explosion scene\" default=\"1935 Government blowing up the Oomoto-kyo temple with dynamite!\"}",
@@ -39,12 +20,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22793-674",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22793-675",
       "title": "Knitted Yarn Space Machine",
       "prompt": "Goal: Transform {argument name=\"input\" default=\"Input A\"} into a \"Knitted Yarn\" version. Rules: - Spatial Fidelity: Reconstruct the input using \"Stitch-Pattern displacement.\" - Materiality: \"Fuzzy Wool\" fibers with \"SSS (Subsurface Scattering).\" Every character is a \"3D-knitted plush.\" - Technical Spec: Blender Hair particles for \"yarn fuzz.\" Material blend: \"Diffused Cotton.\" - Lighting: \"Warm Domestic Softbox\" lighting to emphasize the softness of the fabric. - Rendering: Macro-photography style, very shallow depth of field. Output: ONE image, cozy and tactile.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22793-674-Knitted-Yarn-Space-Machine.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22793-675-Knitted-Yarn-Space-Machine.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3548-824",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3548-826",
       "title": "Abstract Realism Street Mural with Identity Preservation",
       "prompt": "{ \"input_type\": \"image_to_image\", \"target_image\": \"UPLOAD_IMAGE_HERE\", \"prompt\": \"Use the uploaded photo strictly as a facial identity reference and preserve the exact face, hair, and facial proportions with high accuracy. Create a large-scale hand-painted wall mural on an aged urban wall where the realistic face of the man gradually emerges from abstract painted forms. Parts of the face should be fully realistic, while surrounding areas dissolve into textured shapes, brush strokes, and geometric fragments painted directly onto the wall. The wall surface must look physically real with rough cement texture, cracks, peeling paint, weather stains, and uneven layers. Use visible brush strokes, matte paint finish, and slightly weathered colors. The abstraction should feel intentional and symbolic, not chaotic. Lighting should be natural and cinematic, blending highlights and shadows across both realistic and abstract sections. The mural must look authentically painted, not digital or printed.\", \"style\": \"abstract realism hand-painted street mural\", \"preserve_identity\": true, \"allow_pose_change\": false, \"allow_scene_change\": true, \"mood\": \"introspective, artistic, powerful\", \"color_palette\": \"muted teal, rust orange, dusty blue, charcoal, soft beige\", \"quality\": \"16K\", \"negative_prompt\": \"pure abstraction, full illustration style, fantasy art, watercolor paper texture, anime, cartoon, smooth wall, poster look, duplicated face, digital effects\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3548-824-Abstract-Realism-Street-Mural-with-Identity-Preservation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3548-826-Abstract-Realism-Street-Mural-with-Identity-Preservation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10691-205",
-      "title": "Ultimate Designer Stress Test: Minimal Abstract Visual",
-      "prompt": "Extremely minimal abstract visual. Single sculptural form, single soft light source, single color family, perfect negative space balance, realistic material shading, no decorative elements, gallery-level composition.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10686-205",
+      "title": "Multi-Scenario Image Generation Prompt",
+      "prompt": "Generate an ultra-realistic street-fashion portrait of a young woman; A cyberpunk female assassin stands in the pouring rain, gripping a glowing katana; Create an ultra-cinematic, warm-toned beach scene at sunset with horses running along the edge of the water; Nighttime flash photo with Y2K aesthetic, red digital timestamp in corner.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10691-205-Ultimate-Designer-Stress-Test-Minimal-Abstract-Visual.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10686-205-Multi-Scenario-Image-Generation-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31259-324",
-      "title": "Cozy Bakery Giant Coffee Scene",
-      "prompt": "A {argument name=\"subject\" default=\"young East Asian woman with sleek shoulder-length black hair\"} wearing a {argument name=\"outfit\" default=\"cream oversized knit sweater and light-wash high-waisted straight jeans\"} with white sneakers, standing in a cozy pastel-toned bakery café. She leans casually against a giant oversized iced coffee cup (larger than her torso) with a pink-and-blue striped straw, the cup wrapped in a bold retro sticker design reading \"SELF CARE\" in pastel gradient bubble letters. Warm string lights hang overhead, a \"Treat Yourself\" wall print and shelves of candles sit in the background, with a bakery display case of {argument name=\"pastries\" default=\"pink-frosted cupcakes\"} and a stack of macarons visible to the side, soft pink roses in a vase near a sunlit window. Natural warm lighting, shallow depth of field, lifestyle/editorial photography style, soft bokeh background.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31354-323",
+      "title": "Chasing Sunsets Seagull Watercolor",
+      "prompt": "A watercolor illustration depicts a {argument name=\"subject\" default=\"seagull\"} in flight with its wings spread wide, positioned centrally above the words \"{argument name=\"text\" default=\"Chasing Sunsets\"}\" written in a decorative, {argument name=\"font color\" default=\"coral-colored\"} font. The text is intertwined with stylized waves and seashells. Flanking the seagull are two palm trees, one on the left and one on the right, with colorful fronds. Behind the seagull, a sunset is suggested with radiating lines of yellow and orange against a watercolor sky with hints of blue and pink clouds. The lower portion of the image features dynamic blue waves crashing, with a nautilus shell on the left and a beach chair on a wave crest on the right. Small seashells and bubbles are scattered throughout the composition.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31259-324-Cozy-Bakery-Giant-Coffee-Scene.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31354-323-Chasing-Sunsets-Seagull-Watercolor.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22787-676",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22787-677",
       "title": "Velvet and Vinyl Urban Magazine",
       "prompt": "A magazine cover titled \"{argument name=\"magazine title\" default=\"VELVET & VINYL\"}\" featuring a smiling {argument name=\"subject\" default=\"young woman with curly hair\"} tied up in a colorful patterned scarf. She is standing in front of a vibrant graffiti brick wall, wearing a light-wash denim jacket over a graphic t-shirt and high-waisted blue jeans. She holds a vintage film camera with both hands in front of her chest. The cover is layered with modern, stylized text and headlines such as \"SUVINYL,\" \"CITY STYLE | URBAN BEATS,\" \"SPRING STREET GUIDE,\" \"VINTAGE REBORN,\" and \"ART ON THE STREET.\" The overall aesthetic is a trendy, urban, streetwear and indie culture lifestyle magazine with a bright and artistic color palette.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22787-676-Velvet-and-Vinyl-Urban-Magazine.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22787-677-Velvet-and-Vinyl-Urban-Magazine.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3761-829",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3761-831",
       "title": "Generating a Magazine Cover for Edogawa Ward Tourism",
       "prompt": "Generate a magazine cover filled with information to guide tourism in Edogawa Ward.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3761-829-Generating-a-Magazine-Cover-for-Edogawa-Ward-Tourism.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3761-831-Generating-a-Magazine-Cover-for-Edogawa-Ward-Tourism.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10665-206",
-      "title": "Ultra-Realistic Studio Portrait of Woman with Eyes Closed and Headphones",
-      "prompt": "Create a ultra-realistic studio portrait of a fashionable woman ( as attached image ) centered in frame, facing forward with eyes closed and a serene, relaxed expression, as if enjoying music. She has short, voluminous, naturally curly dark brown hair styled in soft, airy curls framing her face. She wears oversized round sunglasses with thin metal frames and reflective teal-tinted lenses that mirror the background tones. Over her ears are pastel pink over-ear headphones with a soft matte finish",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10691-206",
+      "title": "Ultimate Designer Stress Test: Minimal Abstract Visual",
+      "prompt": "Extremely minimal abstract visual. Single sculptural form, single soft light source, single color family, perfect negative space balance, realistic material shading, no decorative elements, gallery-level composition.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10665-206-Ultra-Realistic-Studio-Portrait-of-Woman-with-Eyes-Closed-and-Headphones.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10691-206-Ultimate-Designer-Stress-Test-Minimal-Abstract-Visual.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31258-325",
-      "title": "Primitive Stencil Dog Illustration",
-      "prompt": "A stylized, primitive illustration of a {argument name=\"subject\" default=\"dog\"} is rendered in {argument name=\"subject color\" default=\"light pink\"} against a {argument name=\"background color\" default=\"dark red\"} background. The dog is depicted in a side profile, with a large, angular head featuring a single, circular eye with a smaller circle in its center, and two pointed ears. Its mouth is open, revealing a row of sharp, triangular teeth and a dark, cavernous interior. A curved tail extends from its rear. The body of the dog appears to be filled with hand drawn crosshatching and symbols. Its four legs are depicted as simple, rectangular shapes. The overall aesthetic is reminiscent of a {argument name=\"art style\" default=\"stencil or woodcut print\"}, with a rough, textured quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31262-325",
+      "title": "High Altitude Mountain Selfie",
+      "prompt": "Use the exact same face from the reference image and generate a breathtakingly realistic selfie taken at high altitude on a {argument name=\"mountain type\" default=\"dramatic green mountain\"} — the kind of photo that stops everyone mid-scroll. The subject holds the camera slightly above eye level at a natural selfie angle — face filling the left or center portion of the frame, body from shoulders up visible, casual and completely natural. Expression is genuinely alive — a warm natural smile or that relaxed effortlessly cool expression of someone who just hiked to the top of something beautiful and knows it. Wind very slightly moving the hair. Wearing a casual outdoor layer — a fitted fleece or light jacket, completely real and appropriate for mountain altitude. Behind and around the subject the mountain view is absolutely jaw-dropping and completely photorealistic — vast rolling green mountain ranges extending to the horizon in layer after layer of deepening atmospheric perspective, the nearest slopes a rich vivid green, middle distance mountains slightly softer and cooler, the furthest peaks dissolving into natural blue-grey atmospheric haze at the horizon. The specific lush green of high altitude mountain vegetation — dense forest on the lower slopes transitioning to alpine meadow at the higher elevations, rocky outcrops breaking through the green at the peaks. A dramatic sky above — clear blue with a few three-dimensional cumulus clouds at different heights casting natural moving shadows across the green mountain surfaces below. The selfie perspective showing genuine altitude — the ground falling away sharply below the subject, the scale of the mountain landscape making the human figure feel appropriately small against the vast green world behind them. Real mountain wind suggested by the hair movement and jacket fabric. Lighting completely natural — bright overcast or partial sun outdoor mountain light, honest and real. Shot with front camera simulation — natural slight wide angle distortion, authentic smartphone selfie rendering. 3% film grain. Vertical 9:16 format. Ultra photorealistic 8K — the selfie that makes everyone ask exactly which mountain this is.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31258-325-Primitive-Stencil-Dog-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31262-325-High-Altitude-Mountain-Selfie.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22671-680",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22671-681",
       "title": "Man with Luxury Car and House",
       "prompt": "A well-groomed adult male stands confidently as the central focal point, wearing a {argument name=\"outfit\" default=\"sharply tailored dark charcoal three-piece suit\"}, a crisp white shirt, and a striped maroon and navy tie. His hair is styled in a precise slicked-back pompadour measuring three to four inches on top with a short skin fade on the back and sides; the thick, slightly wavy texture is heavily styled with a satin-finish pomade to hold its volume, deliberately revealing natural growth patterns and slight separations in the strands to avoid an overly smooth appearance. His face bears a confident, direct gaze with a closed, unsmiling mouth and neutral eyebrows. He poses with his body facing the camera, his weight leaning slightly to the right with tilted shoulders. His left hand is tucked casually into his front left trouser pocket with the thumb resting outside against the fabric and the wrist mostly obscured, while his right hand rests flat against the side of the hood of the car to support his leaning weight, fingers lightly and naturally extended, finishing his ensemble with polished black leather derby shoes. He interacts seamlessly with the layered foreground, leaning against the pristine, glossy black front fascia of a {argument name=\"car\" default=\"Lamborghini Huracán sports car\"}, defined by its sharp angular body lines, black alloy wheels, and sleek LED headlights. The deep spatial depth extends into a tack-sharp midground featuring a {argument name=\"house style\" default=\"new, modern two-story architectural house\"} with a perfectly smooth, matte dark charcoal and black painted drywall and concrete exterior. The home boasts a flat roofline, large rectangular glass windows reflecting the surrounding nature, and a pristine section of rich, medium-brown horizontal wood paneling on the upper left. To the right, a warmly lit exterior wall sconce illuminates a dark grey conical concrete planter housing a thriving Yucca plant with spiky green leaves. The ground below is a solid, light grey speckled concrete surface, leading back to a distant background on the upper right where a natural forest edge of green Eucalyptus trees completes the affluent setting. A sophisticated mood of wealth, success, and moody elegance permeates the scene, driven by a neutral, monochromatic color palette dominated by charcoal grey and glossy black, gracefully accented by warm brown wood tones. Soft, diffused natural light cascades from multiple sources above, casting moderate-intensity illumination with a medium contrast ratio. Soft, gray, gradual-edged drop shadows fall cleanly under the subject and the car, keeping the ambient fill present and natural. Crisp specular highlights are carefully preserved and catch the light along the prominent ridges of the car hood, the textured strands of the man's hair, and the side of his face. Captured straight-on as a realistic, tack-sharp digital portrait photograph with zero grain, utilizing a 35mm to 50mm lens and an f/5.6 to f/8 aperture at ISO 100 with a fast shut",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22671-680-Man-with-Luxury-Car-and-House.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22671-681-Man-with-Luxury-Car-and-House.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3765-830",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3765-832",
       "title": "Magazine Page Generation for Travel Guide",
       "prompt": "Generate the \"{argument name=\"tourist spot\" default=\"Ijinkan\"} page\" of a magazine filled with information for guiding tourists in Kobe",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3765-830-Magazine-Page-Generation-for-Travel-Guide.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3765-832-Magazine-Page-Generation-for-Travel-Guide.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,16 +381,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10722-207",
-      "title": "Cyberpunk Marie Antoinette Carriage",
-      "prompt": "Overall framework: Cyberpunk Include a lavish, ruffled carriage That Antoinette might ride!",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10665-207",
+      "title": "Ultra-Realistic Studio Portrait of Woman with Eyes Closed and Headphones",
+      "prompt": "Create a ultra-realistic studio portrait of a fashionable woman ( as attached image ) centered in frame, facing forward with eyes closed and a serene, relaxed expression, as if enjoying music. She has short, voluminous, naturally curly dark brown hair styled in soft, airy curls framing her face. She wears oversized round sunglasses with thin metal frames and reflective teal-tinted lenses that mirror the background tones. Over her ears are pastel pink over-ear headphones with a soft matte finish",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10722-207-Cyberpunk-Marie-Antoinette-Carriage.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10665-207-Ultra-Realistic-Studio-Portrait-of-Woman-with-Eyes-Closed-and-Headphones.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -438,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31358-326",
-      "title": "Photorealistic Woman at Pool Table",
-      "prompt": "Photorealistic professional photograph of a brunette lookalike with long wavy ponytail hair, smiling and looking toward the camera over her shoulder. She is wearing a {argument name=\"top style\" default=\"neon orange short-sleeved crop top with a small hood\"}, a {argument name=\"skirt style\" default=\"very short black ruffled mini skirt\"}, and {argument name=\"footwear\" default=\"neon orange high heels\"} from attached picture 1. She is sitting on the edge of a wooden pool table with a small sign 'Keor' engraved on it, holding a pool cue vertically with both hands near her shoulder, one leg raised and bent with the foot resting near the table. Large wooden-framed windows behind her show a sunny hilly landscape. Glass block detailing under the table, polished floor, and pool balls visible on the table surface. Bright natural daylight fills the room. Highly detailed textures, realistic skin and hair, sharp focus, professional lifestyle photography style, 8k resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31261-326",
+      "title": "Ironic Ocean Office Meme",
+      "prompt": "Realistic candid photo of [person from uploaded photo] standing chest-deep in rough ocean water, surrounded by large breaking waves and white sea foam, no hat. In one raised hand, held above the water, they hold an {argument name=\"laptop\" default=\"open dark grey/space-black laptop with a visible Apple logo\"}, angled toward their face as if working on it. In the other hand, raised at chest height, they hold a {argument name=\"drink\" default=\"to-go coffee cup with a white lid and brown sleeve\"}. Their expression is focused and slightly tired, looking down at the laptop screen. Only the head, shoulders, and raised arms are visible above the waterline; the rest of the body is submerged. The ocean is turbulent with rolling waves and whitewater in the background, cool grey-blue-green color grading, overcast diffused daylight, slightly moody and dramatic lighting. Shot from a distance with a slight telephoto compression, as if photographed candidly from the shore. Vertical composition, photorealistic, ironic \"always working\" meme aesthetic, no text overlays anywhere on the image.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31358-326-Photorealistic-Woman-at-Pool-Table.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31261-326-Ironic-Ocean-Office-Meme.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22669-682",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22669-683",
       "title": "Editorial Fashion Portrait",
       "prompt": "{\\n \\\"prompt\\\": \\\"Ultra-photorealistic editorial fashion portrait of a {argument name=\\\"subject\\\" default=\\\"young blonde woman\\\"} in an {argument name=\\\"outfit\\\" default=\\\"elegant fitted black strapless dress\\\"}, posing over her shoulder with one hand in her hair, luxury studio setting with {argument name=\\\"backdrop\\\" default=\\\"soft taupe curtains backdrop\\\"}, flawless glowing skin, natural glam makeup, delicate gold jewelry including earrings, necklace, bracelets, soft direct flash photography, high-fashion magazine aesthetic, sharp focus, realistic skin texture, 85mm lens, shallow depth of field, premium beauty campaign style\\\",\\n \\\"negative_prompt\\\": [\\n \\\"blurry\\\",\\n \\\"low resolution\\\",\\n \\\"distorted anatomy\\\",\\n \\\"extra fingers\\\",\\n \\\"bad hands\\\",\\n \\\"asymmetrical face\\\",\\n \\\"plastic skin\\\",\\n \\\"cartoon\\\",\\n \\\"anime\\\",\\n \\\"cgi\\\",\\n \\\"watermark\\\",\\n \\\"text\\\",\\n \\\"duplicate limbs\\\",\\n \\\"overprocessed\\\"\\n ],\\n \\\"parameters\\\": {\\n \\\"width\\\": 896,\\n \\\"height\\\": 1280,\\n \\\"steps\\\": 30,\\n \\\"cfg_scale\\\": 7.5,\\n \\\"sampler\\\": \\\"DPM++ 2M Karras\\\",\\n \\\"style\\\": \\\"photorealistic editorial\\\",\\n \\\"lighting\\\": \\\"soft direct flash\\\"\\n }\\n}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22669-682-Editorial-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22669-683-Editorial-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -533,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3698-833",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3698-835",
       "title": "Minimalist Editorial Illustration Prompt",
       "prompt": "A minimalist illustration showing a small {argument name=\"person description\" default=\"PERSON\"} standing beneath a massive {argument name=\"symbolic shape\" default=\"SYMBOLIC SHAPE\"}. Flat colors, strong negative space, clean lines, editorial magazine cover aesthetic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3698-833-Minimalist-Editorial-Illustration-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3698-835-Minimalist-Editorial-Illustration-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10632-208",
-      "title": "Pixar-Style Girl on a Floating Cloud",
-      "prompt": "{ \"meta\": { \"quality\": \"ultra_photorealistic, 8k\", \"camera\": \"portrait framing, 85mm lens\", \"lighting\": \"soft ambient twilight lighting, warm magical glow\", \"style\": \"Pixar-style 3D character, whimsical fantasy, cozy cinematic render\" }, \"scene\": { \"location\": \"floating giant soft cloud in dreamy twilight sky, glowing magical butterflies around\", \"atmosphere\": \"magical, whimsical, enchanting, cozy aesthetic\" }, \"subject\": { \"gender\": \"female\", \"body\": { \"type\": \"natural teen proportions, sitting relaxed on cloud\", \"pose\": \"holding a glowing magical book with both hands, legs crossed, cheerful posture\" }, \"face\": { \"features\": \"big sparkling green eyes, short wavy pink hair tied with ribbons, soft glowing skin, light freckles\", \"expression\": \"cheerful, dreamy, warm smile\" }, \"outfit\": { \"description\": \"oversized pastel yellow sweater, soft leggings\", \"fit\": \"loose, flowing, comfortable\" } }, \"effects\": { \"special\": \"floating glowing butterflies, magical sparkle particles, soft cinematic bokeh, ultra-detailed textures, dreamy twilight glow\" } }",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10722-208",
+      "title": "Cyberpunk Marie Antoinette Carriage",
+      "prompt": "Overall framework: Cyberpunk Include a lavish, ruffled carriage That Antoinette might ride!",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10632-208-Pixar-Style-Girl-on-a-Floating-Cloud.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10722-208-Cyberpunk-Marie-Antoinette-Carriage.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31260-327",
-      "title": "Cozy Cafe Fashion Portrait",
-      "prompt": "A beautiful young East Asian woman with {argument name=\"hair style\" default=\"long wavy light brown hair styled with a soft white bow hair accessory\"}, fair skin, gentle smile, looking directly at the camera. She is wearing {argument name=\"outfit\" default=\"a cream-white short-sleeve knitted top with delicate ruffles around the round neckline and a textured cable-knit pattern\"}, paired with a black mini skirt. White knee-high ribbed socks and black Mary Jane shoes. She holds a clear plastic cup of iced light-brown coffee with a black straw in her right hand. A {argument name=\"accessory\" default=\"small pale yellow quilted crossbody bag with a gold chain strap and interlocking CC logo\"} rests at her hip, her left hand lightly touching it. Playful pose with one leg lifted and bent behind her. Cozy cafe interior with warm wooden walls and paneling, a large window showing green outdoor foliage, hanging fern plants and a potted fern nearby, a curved wooden chair in the foreground, soft natural daylight, realistic photography style, high detail, natural skin texture, soft lighting.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31259-327",
+      "title": "Cozy Bakery Giant Coffee Scene",
+      "prompt": "A {argument name=\"subject\" default=\"young East Asian woman with sleek shoulder-length black hair\"} wearing a {argument name=\"outfit\" default=\"cream oversized knit sweater and light-wash high-waisted straight jeans\"} with white sneakers, standing in a cozy pastel-toned bakery café. She leans casually against a giant oversized iced coffee cup (larger than her torso) with a pink-and-blue striped straw, the cup wrapped in a bold retro sticker design reading \"SELF CARE\" in pastel gradient bubble letters. Warm string lights hang overhead, a \"Treat Yourself\" wall print and shelves of candles sit in the background, with a bakery display case of {argument name=\"pastries\" default=\"pink-frosted cupcakes\"} and a stack of macarons visible to the side, soft pink roses in a vase near a sunlit window. Natural warm lighting, shallow depth of field, lifestyle/editorial photography style, soft bokeh background.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31260-327-Cozy-Cafe-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31259-327-Cozy-Bakery-Giant-Coffee-Scene.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22666-684",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22666-685",
       "title": "Black Mirror Perceptual Block",
       "prompt": "A hyper-realistic cinematic photograph where {argument name=\"subject shape\" default=\"an entire human body\"} is completely obscured by {argument name=\"visual block effect\" default=\"dense black-and-white analog television static\"}, covering the figure from head to toe as if the person has been cognitively blocked from perception. No visible facial features, skin, clothing details, or readable identity remain, only a human-shaped silhouette filled with shifting granular interference, dense signal noise, and unreadable visual static. The effect feels physically integrated into reality, not digitally edited or glitchy, resembling a real-world perception filter or social block system failure. In sharp contrast, the surrounding environment remains flawlessly photorealistic in stunning 8k detail, preserving realistic lighting, textures, shadows, and cinematic depth. Minimal, unsettling, editorial aesthetic, sharp focus, grounded realism, disturbing contrast between perfect reality and a fully censored human presence. {argument name=\"aspect ratio\" default=\"2:3 format\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22666-684-Black-Mirror-Perceptual-Block.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22666-685-Black-Mirror-Perceptual-Block.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3520-835",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3520-837",
       "title": "Magazine Cover Generation for Kobe Tourism",
       "prompt": "Generate a magazine cover filled with information for guiding tourism in {argument name=\"tourist destination\" default=\"Kobe\"}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3520-835-Magazine-Cover-Generation-for-Kobe-Tourism.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3520-837-Magazine-Cover-Generation-for-Kobe-Tourism.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10578-209",
-      "title": "Shadow Box Conversion Prompt",
-      "prompt": "Prompt for 'Shadow Box' conversion. Due to the specifications, it involves discarding some parts and picking up others, so there is a significant gacha element. Also, accidents happen occasionally.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10632-209",
+      "title": "Pixar-Style Girl on a Floating Cloud",
+      "prompt": "{ \"meta\": { \"quality\": \"ultra_photorealistic, 8k\", \"camera\": \"portrait framing, 85mm lens\", \"lighting\": \"soft ambient twilight lighting, warm magical glow\", \"style\": \"Pixar-style 3D character, whimsical fantasy, cozy cinematic render\" }, \"scene\": { \"location\": \"floating giant soft cloud in dreamy twilight sky, glowing magical butterflies around\", \"atmosphere\": \"magical, whimsical, enchanting, cozy aesthetic\" }, \"subject\": { \"gender\": \"female\", \"body\": { \"type\": \"natural teen proportions, sitting relaxed on cloud\", \"pose\": \"holding a glowing magical book with both hands, legs crossed, cheerful posture\" }, \"face\": { \"features\": \"big sparkling green eyes, short wavy pink hair tied with ribbons, soft glowing skin, light freckles\", \"expression\": \"cheerful, dreamy, warm smile\" }, \"outfit\": { \"description\": \"oversized pastel yellow sweater, soft leggings\", \"fit\": \"loose, flowing, comfortable\" } }, \"effects\": { \"special\": \"floating glowing butterflies, magical sparkle particles, soft cinematic bokeh, ultra-detailed textures, dreamy twilight glow\" } }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10578-209-Shadow-Box-Conversion-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10632-209-Pixar-Style-Girl-on-a-Floating-Cloud.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31263-329",
-      "title": "Y2K Balletcore Nighttime Portrait",
-      "prompt": "Ultra-realistic playful Y2K balletcore nighttime lifestyle portrait of a young adult woman with long {argument name=\"hair color\" default=\"vivid copper-red hair\"} styled into two neat thick braids falling over her chest, soft center part, loose face-framing strands, subtle flyaways, and natural silky texture. Fair warm ivory skin with clearly visible pores, realistic skin texture, delicate natural freckles across the cheeks, nose, shoulders, chest, arms, and legs, subtle facial vellus hair, natural skin variation, pronounced rosy flushed cheeks, softly luminous complexion, feathered brows, subtle champagne-pink eyeshadow, fine brown winged eyeliner, wispy separated lashes, glossy rosy-pink lips with realistic lip texture, and bright blue-gray eyes. She has a huge genuine open-mouth smile with visible natural teeth, slightly squinted happy eyes, and an energetic candid expression. Wearing a fitted white ribbed camisole with delicate lace trim, tiny feminine bow details and long ribbon ties at the neckline, layered underneath a cropped pastel-pink long-sleeve shrug cardigan. Pair it with a short white tiered ruffle mini skirt, white patterned semi-sheer tights featuring a delicate geometric knit design, and glossy pastel-pink satin platform Mary Jane heels with chunky block heels. She is crouching beside an open stainless-steel refrigerator in a modern apartment kitchen at night, balanced naturally on her heels with one knee raised, one hand resting lightly across her thigh while the other reaches toward a refrigerator shelf. The open refrigerator is brightly illuminated and stocked with realistic everyday groceries, yogurt cups, sauces, condiments, packaged snacks, fruit, leftovers, jars, and containers. Colorful candy bars, gummy candy packets, snack wrappers, cereal boxes, and small packaged treats are playfully scattered across the dark wooden floor around her, creating a chaotic late-night snack-run aesthetic. Modern apartment kitchen with glossy white cabinetry, stainless-steel refrigerator, built-in appliances, dark nighttime windows, subtle city lights, and minimal contemporary styling. Captured using an {argument name=\"camera model\" default=\"iPhone 15 Pro\"} with strong direct rear-camera flash, producing authentic harsh frontal illumination, bright eye catchlights, crisp shadows behind the subject, realistic reflections across the {argument name=\"refrigerator style\" default=\"stainless steel refrigerator\"}, glossy shoes and packaging, slight highlight clipping, natural smartphone perspective, and the imperfect candid quality of a spontaneous late-night photo. Cool refrigerator light mixes with the warmer flash and dark ambient room lighting. Y2K sleepover aesthetic, balletcore fashion, playful Pinterest nightlife photography, candid Gen-Z lifestyle image, realistic anatomy, individual hair strands, detailed fabric fibers, visible pores and freckles, realistic hands and fingers, natural teeth, RAW-like clar",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31258-328",
+      "title": "Primitive Stencil Dog Illustration",
+      "prompt": "A stylized, primitive illustration of a {argument name=\"subject\" default=\"dog\"} is rendered in {argument name=\"subject color\" default=\"light pink\"} against a {argument name=\"background color\" default=\"dark red\"} background. The dog is depicted in a side profile, with a large, angular head featuring a single, circular eye with a smaller circle in its center, and two pointed ears. Its mouth is open, revealing a row of sharp, triangular teeth and a dark, cavernous interior. A curved tail extends from its rear. The body of the dog appears to be filled with hand drawn crosshatching and symbols. Its four legs are depicted as simple, rectangular shapes. The overall aesthetic is reminiscent of a {argument name=\"art style\" default=\"stencil or woodcut print\"}, with a rough, textured quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31263-329-Y2K-Balletcore-Nighttime-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31258-328-Primitive-Stencil-Dog-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22673-686",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22673-687",
       "title": "Pixar Style Fashion Editorial",
       "prompt": "Ultra-realistic fashion editorial portrait of a {argument name=\"character style\" default=\"3d cute pixar style stylish man\"} with white frame glasses standing in a minimalist studio beside large vertical 3D white letters spelling \"{argument name=\"brand name\" default=\"ZarOon\"}\". he leans casually leaning back against the letters with a confident, relaxed pose. he wears a {argument name=\"clothing\" default=\"ZarOon oversized t-shirt with printed in clean white typography on the chest, black cargo pants, and white sneakers with red accents\"}. Fashionable glasses, calm confident expression, modern streetwear aesthetic. Ratio 4:5",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22673-686-Pixar-Style-Fashion-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22673-687-Pixar-Style-Fashion-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3156-848",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-3156-850",
       "title": "Floating Sky Castle Digital Art Poster Prompt",
       "prompt": "A cinematic digital art poster featuring a majestic floating \"Sky Castle\" in the form of a miniature island, hovering serenely above an endless sea of clouds and dominating the composition. The floating island is shaped as a grand Western-style medieval castle complex, centered around a towering central keep with conical roofs, fortified stone walls, multiple cylindrical turrets, crenellated battlements, arched gateways, drawbridges, and multi-level ramparts. The entire structure embodies authentic medieval European castle architecture: massive stone masonry, narrow arrow-slit windows, wooden hoardings, and a grand central tower rising prominently in the middle. The castle seamlessly incorporates subtle Qing Dynasty Chinese influences: ornate tiled roofs with gentle upturned eaves crowning the turrets, intricate wooden pavilions nestled within courtyards, and decorative ridge ornaments on the main keep. The scene is alive with tiny Qing Dynasty inhabitants in period clothing: scholars in flowing robes, merchants with queues and silk garments, women in elegant traditional attire, street vendors with bamboo baskets, sedan chair bearers, rickshaw pullers, children playing, and horse-drawn carts — all bustling across the castle’s courtyards, bridges, and ramparts. The castle is intertwined with lush subtropical greenery: ancient banyan trees climbing the stone walls, lychee groves spilling over the battlements, lotus ponds in the inner courtyards, and winding rivers cascading like waterfalls down the floating structure. No modern elements — only a harmonious fusion of classic Western medieval castle design with delicate Qing Dynasty Chinese details, creating a fairy-tale sky fortress surrounded by serene natural beauty. The castle floats peacefully above a vast, ethereal cloud sea rendered in the traditional Chinese ink wash painting style, with soft misty gradients, delicate brush-like textures, and atmospheric depth. Completely free of any text, lettering, typography, or overlaid information — pure visual composition with no words present. Surround the floating castle with generous negative space for a clean, museum-like elegance. The overall layout is restrained, balanced, and sophisticated, evoking the feeling of contemplating a rare and precious art piece. Style: Octane Render, Cinema 4D, isometric perspective, micro world, living ecosystem, 8K ultra-high resolution. DreamWorks animation quality, intricate 3D modeling, delicate soft light projection, cinematic atmosphere, vibrant yet harmonious colors, warm golden-hour lighting with gentle lens flares and subtle god rays.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3156-848-Floating-Sky-Castle-Digital-Art-Poster-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-3156-850-Floating-Sky-Castle-Digital-Art-Poster-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10584-210",
-      "title": "Lucky Pervert Prompt (SFW)",
-      "prompt": "Lucky Pervert Prompt AI SFW. No nudity, no suggestive intent.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10578-210",
+      "title": "Shadow Box Conversion Prompt",
+      "prompt": "Prompt for 'Shadow Box' conversion. Due to the specifications, it involves discarding some parts and picking up others, so there is a significant gacha element. Also, accidents happen occasionally.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10584-210-Lucky-Pervert-Prompt-SFW.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10578-210-Shadow-Box-Conversion-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31152-331",
-      "title": "Cozy Home Fitness Lifestyle Portrait",
-      "prompt": "Create a photorealistic lifestyle portrait of an young woman seated comfortably on a compact indoor exercise machine in a cozy, modern home interior. 1. Subject, hair, skin, expression, pose: A young woman with {argument name=\"hair style\" default=\"long, naturally red/auburn hair\"} styled in a high ponytail, with a few soft strands framing her face. Fair skin with realistic natural texture and subtle freckles. Light-colored eyes, neatly shaped eyebrows, and understated everyday makeup. She has a calm, slightly serious expression while looking directly toward the camera. She is seated upright on the exercise equipment with both knees comfortably raised and bent, maintaining a relaxed, balanced posture. One hand gently rests near the side of her hair while the other arm rests naturally beside her. Her pose should feel candid, casual, and comfortable rather than staged. 2. Clothing and accessories: She wears a simple {argument name=\"top color\" default=\"burgundy-red\"} sleeveless athletic top layered naturally over a subtle gray underlayer, paired with fitted gray textured workout leggings. Add a delicate necklace with a small pendant. Keep the outfit practical, modest, contemporary, and suitable for light indoor exercise. No unnecessary accessories. 3. Environment and lighting: Set the scene inside a warm, tidy residential room. Behind her is a large decorative framed artwork with a botanical-inspired pattern and metallic neutral accents. Include a small side cabinet with a clear glass vase containing soft blue and lavender flowers. The room has neutral walls, understated furniture, and a clean minimalist atmosphere. Use warm ambient indoor lighting combined with soft diffused illumination from the room, creating gentle highlights on the subject while preserving natural skin tones and realistic shadows. 4. Camera / visual style: Photorealistic editorial lifestyle photography, vertical portrait composition, approximately 50mm lens, natural perspective, eye-level camera position, shallow-to-moderate depth of field, crisp facial details, realistic fabric textures, authentic skin texture, subtle background separation, balanced exposure, soft highlights, natural shadows, cinematic but believable color grading, high dynamic range, professional photography quality, ultra-detailed, realistic proportions, candid home-photography atmosphere. 5. Overall direction: Keep the composition faithful to a casual indoor lifestyle photograph. Prioritize natural anatomy, realistic hands and feet, accurate facial proportions, authentic clothing folds, physically believable lighting, and detailed environmental textures.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31358-329",
+      "title": "Photorealistic Woman at Pool Table",
+      "prompt": "Photorealistic professional photograph of a brunette lookalike with long wavy ponytail hair, smiling and looking toward the camera over her shoulder. She is wearing a {argument name=\"top style\" default=\"neon orange short-sleeved crop top with a small hood\"}, a {argument name=\"skirt style\" default=\"very short black ruffled mini skirt\"}, and {argument name=\"footwear\" default=\"neon orange high heels\"} from attached picture 1. She is sitting on the edge of a wooden pool table with a small sign 'Keor' engraved on it, holding a pool cue vertically with both hands near her shoulder, one leg raised and bent with the foot resting near the table. Large wooden-framed windows behind her show a sunny hilly landscape. Glass block detailing under the table, polished floor, and pool balls visible on the table surface. Bright natural daylight fills the room. Highly detailed textures, realistic skin and hair, sharp focus, professional lifestyle photography style, 8k resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31152-331-Cozy-Home-Fitness-Lifestyle-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31358-329-Photorealistic-Woman-at-Pool-Table.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -947,6 +928,25 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22461-689",
+      "title": "Minimalist Desert Lifestyle Car Portrait",
+      "prompt": "{argument name=\"subject\" default=\"An adult athletic male with a short haircut and light stubble\"} stands centered and straight-on, dressed entirely in a monochromatic black outfit featuring a plain long-sleeve crewneck shirt and crisp black trousers. His expression is serious and confident, characterized by a direct gaze, neutral eyebrows, and a closed mouth. His relaxed hands casually hold a pair of dark sunglasses horizontally at waist level; his left hand rests lightly with the thumb and index finger on the left earpiece and lens area, while his right fingers gently curl inward, gripping the right frame in an organic gesture. He is positioned on a sandy gray-brown gravel driveway in an outdoor desert setting with deep spatial depth, structured with asymmetric balance following the rule of thirds. Dominating the immediate right foreground is the pristine side profile of a {argument name=\"vehicle\" default=\"white Jeep Wrangler\"} detailed with stark black door handles, side mirrors, and fender flares. Framing the left midground is a small, thriving brownish-gray spiky desert shrub, leading back to a luxurious, minimalist flat-roofed modern house. The house boasts perfectly smooth, matte off-white plaster walls, accented by warm wood paneling around the entryway and a dark garage door segmented by horizontal glass panels. The scene is bathed in a calm, soft, diffused front light from a single neutral dusk source, creating a quiet, modern desert lifestyle atmosphere. Soft, gradual gray shadows pool shortly beneath the subject and cast lightly onto the gravel behind him, while perfectly preserved specular highlights touch his forehead, the bridge of his nose, and dance subtly as reflections along the car body. The color palette is high-contrast yet beautifully balances the deep black of the subject's clothing against the off-white architecture, the pale blue twilight sky above, and the warm sand hues of the earth below. Captured as a tack-sharp digital photograph on an 85mm lens at f/4.0 and ISO 400, the medium depth of field keeps the subject and vehicle sharply focused while subtly softening the distant house. Drawing influence from contemporary luxury automotive and apparel editorial photography, the clean image features post-processing with lifted shadows to retain intricate details in the dark clothing and refined color grading that accentuates the cool twilight blues and warm grounded sand tones, all seamlessly framed in a 4:5 aspect ratio.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22461-689-Minimalist-Desert-Lifestyle-Car-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Product Marketing"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
       "license": "upstream",
       "createdAt": null
     }

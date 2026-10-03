@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26928-385",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26928-386",
       "title": "South Asian Woman in Vibrant Bazaar",
       "prompt": "\"subject\": {\"person\": {\"appearance\": \"{argument name=\"person appearance\" default=\"Young South Asian woman with a warm smile, featuring a slightly different facial structure compared to previous iterations, hair styled in an elegant updo bun tied at the back.\"}\",\"attire\": \"Wearing a deep maroon (burgundy) long-sleeved dress, intricately embroidered with golden traditional patterns along the neckline, sleeves, and hem.\"},\"animal\": {\"type\": \"{argument name=\"cat breed\" default=\"Fluffy, long-haired white Persian cat\"}\",\"action\": \"Being held gently in the woman's arms\"}},\"setting\": {\"location\": \"{argument name=\"market location\" default=\"Traditional Middle Eastern or South Asian outdoor market (bazaar) with a narrow stone-paved pathway.\"}\",\"background_elements\": [\"Overhead fabric canopies providing shade\",\"Stalls lined with vibrant textiles, rugs, and tapestries\",\"Tables displaying various colorful spices in bowls and traditional brass/copper metalware\",\"Blurred figures of people walking in the distance\"],\"lighting\": \"Warm, atmospheric golden-hour sunlight filtering through the market overheads, creating soft highlights and a rich, inviting mood.\"},\"technical_specifications\": {\"style\": \"Cinematic portrait photography\",\"quality\": \"4k resolution, highly detailed textures\",\"focus\": \"Sharp focus on the subject, shallow depth of field with a softly blurred background\",\"composition\": \"Full-length shot showing the subject seated on a wooden bench\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26928-385-South-Asian-Woman-in-Vibrant-Bazaar.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26928-386-South-Asian-Woman-in-Vibrant-Bazaar.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10889-559",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10889-561",
       "title": "Architectural Blueprint Style Portrait",
       "prompt": "{ \"prompt\": \"Ultra-detailed stylized portrait using my face as reference. Intellectual, modernist illustration style inspired by architectural blueprints and editorial line art. Face split into layered geometric sections with visible technical diagrams, city interiors, structural grids, and abstract architectural elements embedded within the facial planes. Fine ink linework, cross-hatching, and engraving-style shading. Clean white background with dense black line drawings.\\n\\nBold accent colors only in selected regions: deep red, muted blue, and warm yellow, applied as flat graphic blocks and translucent overlays. Sharp, thoughtful eyes with realistic highlights, wearing thin round glasses. Minimalist yet complex composition, high contrast, crisp edges, poster-grade clarity.\\n\\nEditorial illustration aesthetic, conceptual portrait, futuristic intellect vibe, data visualization meets human identity. Extremely sharp, ultra-high resolution, professional magazine cover quality, no blur, no distortion, balanced symmetry.\", \"negative_prompt\": \"photorealism, soft blur, painterly strokes, oil painting, low detail, messy colors, cartoonish style, exaggerated proportions\", \"style\": [ \"modernist illustration\", \"architectural blueprint\", \"editorial line art\", \"engraving\", \"conceptual portrait\", \"futuristic intellect\" ], \"color_palette\": { \"accent_colors\": [ \"deep red\", \"muted blue\", \"warm yellow\" ], \"base_colors\": [ \"black\", \"white\" ] }, \"composition\": { \"background\": \"clean white\", \"symmetry\": \"balanced\", \"contrast\": \"high\", \"detail_level\": \"ultra-detailed\", \"resolution\": \"ultra-high\" }, \"quality\": [ \"poster-grade clarity\", \"professional magazine cover\", \"extremely sharp\", \"no blur\", \"no distortion\" ] }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10889-559-Architectural-Blueprint-Style-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10889-561-Architectural-Blueprint-Style-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11867-136",
-      "title": "Midjourney Style Transfer for Samurai Image",
-      "prompt": "Copy image colours and art style Give me a Samurai. Aspect ratio 16:9",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11874-136",
+      "title": "Universal Mono Punk Scene Generator",
+      "prompt": "UNIVERSAL MONO PUNK SCENE GENERATOR VARIABLE GUIDE 1. PUNK_STYLE = [Choose one punk aesthetic. If left blank, one style will be automatically selected at random from LIST_OF_PUNK_STYLES.] 2. LIST_OF_PUNK_STYLES = [Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk] 3. SUBSTYLE = • If a specific SUBSTYLE is provided → use it exactly as written. • If SUBSTYLE is set to **none** → do not apply a substyle layer. • If SUBSTYLE is left **blank** → automatically infer a logical SUBSTYLE based on the chosen PUNK_STYLE. 4. TECHNOLOGY_LEVEL = • If a specific TECHNOLOGY_LEVEL is provided → use it exactly as written. • If TECHNOLOGY_LEVEL is set to **none** → do not apply a technology modifier. • If TECHNOLOGY_LEVEL is left **blank** → automatically infer an appropriate technology level based on the chosen PUNK_STYLE. 5. ENVIRONMENT = • If a specific ENVIRONMENT is provided → use it exactly as written. • If ENVIRONMENT is set to **none** → do not apply an environmental modifier. • If ENVIRONMENT is left **blank** → automatically infer a logical environment based on the other active layers. 6. CULTURE = • If a specific CULTURE is provided → use it exactly as written. • If CULTURE is set to **none** → do not apply a cultural modifier. • If CULTURE is left **blank** → automatically infer a cultural framework appropriate to the world. 7. ROOM_OR_SETTING = [IF BLANK: Generate a compelling location consistent with the active world layers.] 8. LIST_OF_OBJECTS = [IF BLANK: Infer 4–6 logical objects belonging to the environment.] 9. CAMERA_FRAMEWORK = [IF BLANK: Infer the best cinematic framing for the environment.] 10. LIGHTING_FRAMEWORK = [IF BLANK: Infer lighting derived from the technology and environment.] 11. MATERIAL_SYSTEM = [IF BLANK: Infer dominant materials and structural systems derived from the style layers.] --- ### STYLE SELECTION DIRECTIVE If **PUNK_STYLE is left blank**, randomly select **one style from LIST_OF_PUNK_STYLES** and apply it as the active world aesthetic. All subsequent inference systems must use the chosen PUNK_STYLE. ### WORLD INTERPRETER ENGINE Analyze all active layers: PUNK_STYLE * optional SUBSTYLE * optional TECHNOLOGY_LEVEL * optional ENVIRONMENT * optional CULTURE From these layers infer: • dominant materials • architectural forms • infrastructure systems • lighting technology • environmental atmosphere • cultural design motifs All visual elements must remain internally consistent with this world model. ### SCENE ENGINE Generate a highly detailed, cinematic, p",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11867-136-Midjourney-Style-Transfer-for-Samurai-Image.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11874-136-Universal-Mono-Punk-Scene-Generator.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32581-212",
-      "title": "Miniature Inuit Fishing on Cracked Phone",
-      "prompt": "{ \"prompt\": \"{argument name=\"subject\" default=\"Miniature, cracked smartphone with two inuits fishing\"}, ultra realistic, ultra detailed\", \"parameters\": { \"version\": 7, \"stylize\": 50 } }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32579-211",
+      "title": "Olive Green Cinematic Editorial Transformation",
+      "prompt": "Transform the uploaded image into an ultra-realistic, high-end cinematic fashion editorial portrait. Preserve the subject’s appearance, outfit, and natural proportions while creating a sophisticated {argument name=\"color scheme\" default=\"monochromatic olive-green\"} interior with {argument name=\"furniture\" default=\"sculptural furniture\"}, {argument name=\"forms\" default=\"curved forms\"} and warm golden-hour lighting. Use realistic skin texture, detailed fabric, soft cinematic shadows, natural reflections, premium editorial photography aesthetics, professional DSLR look, shallow depth of field, HDR, cinematic color grading, and ultra-detailed 4K quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32581-212-Miniature-Inuit-Fishing-on-Cracked-Phone.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32579-211-Olive-Green-Cinematic-Editorial-Transformation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26824-386",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26824-387",
       "title": "Cyberpunk Urban Fashion Portrait",
       "prompt": "A {argument name=\"subject\" default=\"confident young woman with shoulder-length wavy brown hair\"} wearing a {argument name=\"clothing\" default=\"plain white oversized t-shirt and small gold hoop earrings\"}, standing in the middle of a busy urban street surrounded by tall skyscrapers, low-angle portrait, cinematic composition. {argument name=\"aesthetic style\" default=\"Vibrant cyberpunk aesthetic with neon magenta, lime green, and cyan graffiti-style hand-drawn scribbles\"} outlining her silhouette and clothing. Abstract holographic chrome floating objects, translucent geometric shapes, RGB glitch effect, chromatic aberration, dreamy haze, analog film grain, light leaks, vibrant color grading, surreal digital art mixed with realistic photography, editorial fashion campaign, ultra-detailed, sharp facial features, shallow depth of field, high contrast, 8K, premium magazine cover, futuristic streetwear vibe.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26824-386-Cyberpunk-Urban-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26824-387-Cyberpunk-Urban-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10816-562",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10816-564",
       "title": "Gallery-Quality Tribute Poster with Textured Photo Mosaic Silhouette",
       "prompt": "Create a refined, gallery-quality tribute poster built around a central portrait silhouette filled with a textured photo mosaic. The design should feel tactile, layered, and premium not like flat digital collage work. Central Structure : The Vessel The central focus must be a large-scale, high-contrast black and white portrait silhouette of {argument name=\"person's name\" default=\"[Persons name]\"}. This silhouette acts as the container for the internal visual narrative. It must be centered perfectly on the canvas. The Grid Fill and Mixed Media Textures The interior of the silhouette should be populated by a dense photo mosaic grid made from action shots throughout the person’s career. Critical Texture Direction Do not paste flat photos. Each grid cell should have artistic treatment to create a tactile, collage-like aesthetic. Incorporate a mix of the following textures selectively across different cells: Halftone dots (comic-book style raster patterns) Fabric or embroidery textures suggesting jersey material or stitched patches Film grain or heavy noise on high-contrast action shots The result should feel handcrafted and layered rather than digitally assembled. Color Strategy Base palette: monochrome black and white. Introduce selective color overlays only on specific grid cells. The accent colors should relate to the relevant team, brand, or national flag. Use color sparingly to create visual rhythm and emphasis. Typography and Branding – Strict Micro-Scaling Top Left (The name) Write “{argument name=\"person's name\" default=\"[person name]\"}” using the font Inter Semibold. Kerning: tight negative kerning , Size: small and discreet. The name must occupy a maximum of 20% of the total canvas width. Do not make it large or dominant. Top Right (The symbol) Place the primary logo (Team, Brand, or Flag). Size: very small. It must occupy a maximum of 10% of the total canvas width. Composition and Background Background Use off-white or light grey. Include a visible high-quality paper or subtle concrete texture. Avoid flat digital white. Alignment Center the silhouette precisely. Maintain generous negative space around the figure to preserve elegance and balance.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10816-562-Gallery-Quality-Tribute-Poster-with-Textured-Photo-Mosaic-Silhouette.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10816-564-Gallery-Quality-Tribute-Poster-with-Textured-Photo-Mosaic-Silhouette.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11844-137",
-      "title": "Surreal Macro Masterpiece with Miniature Figure",
-      "prompt": "A surreal macro masterpiece featuring a miniature figure with uploaded face as reference sitting on a rocky pebble surface, wearing a striped shirt and dark pants, gazing upward at a vintage glass bottle standing beside them. From the bottle's open neck, ethereal white smoke billows and transforms into a glowing, translucent white dove surrounded by floating feathers. The composition utilizes extreme shallow depth of field with heavy foreground and background bokeh, creating a dreamlike atmosphere bathed in soft pastel pink and violet hues. Cinematic lighting, volumetric fog, 8k resolution, photorealistic textures, Octane Render, magical realism style.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11867-137",
+      "title": "Midjourney Style Transfer for Samurai Image",
+      "prompt": "Copy image colours and art style Give me a Samurai. Aspect ratio 16:9",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11844-137-Surreal-Macro-Masterpiece-with-Miniature-Figure.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11867-137-Midjourney-Style-Transfer-for-Samurai-Image.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32577-214",
-      "title": "Stylish Man with Weimaraner in Modern Elevator",
-      "prompt": "Ultra-realistic full-body fashion portrait of a {argument name=\"subject\" default=\"stylish bearded man\"} wearing {argument name=\"jacket\" default=\"black bomber jacket\"}, {argument name=\"shirt\" default=\"beige turtleneck\"}, black trousers, sunglasses and white sneakers, standing confidently with a Weimaraner dog inside a luxurious modern elevator, warm cinematic lighting, reflective metallic walls, DSLR photography, 8K, sharp details.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32576-213",
+      "title": "Urban Café Candid Snapshot",
+      "prompt": "A straight on medium shot captures a woman lounging indoors at what appears to be a café or restaurant setting. She is wearing large headphones over her hair and sports dark sunglasses. Her attire includes an oversized {argument name=\"sweatshirt color\" default=\"navy blue\"} sweatshirt and she pairs it with white socks and {argument name=\"sneaker style\" default=\"green and white Nike\"} sneakers. She casually sips an iced beverage, suggesting a relaxed mood. The background features a combination of a {argument name=\"wall tile color\" default=\"deep green\"} tiled lower wall and a neutral, beige upper wall, adding a geometric texture to the scene. The lighting is soft and diffused, likely from natural ambient sources, casting minimal shadows and creating a neutral color palette dominated by green, navy, and beige tones. Likely captured on a smartphone, the image is a candid, urban snapshot with a casual, laid back atmosphere.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32577-214-Stylish-Man-with-Weimaraner-in-Modern-Elevator.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32576-213-Urban-Caf-Candid-Snapshot.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +305,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26828-389",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26828-390",
       "title": "Industrial Football Locker Room Campaign",
       "prompt": "Ultra-realistic editorial sports-fashion campaign featuring {argument name=\"subjects\" default=\"a young man and young woman\"} wearing {argument name=\"clothing\" default=\"authentic Portugal national football jerseys\"} inside a {argument name=\"setting\" default=\"gritty industrial locker room\"}. The man sits confidently on the cold concrete floor in the foreground, leaning slightly forward with clasped hands, while the woman relaxes effortlessly on a worn steel locker-room bench in the background. Both have intense, serious expressions, creating a powerful sense of determination and quiet confidence. Raw concrete walls, distressed metal lockers, scattered football gear, worn boots, subtle moisture on the floor, and cinematic industrial textures enhance the atmosphere. Dramatic Rembrandt lighting with soft volumetric rays, deep shadows, cool grey tones contrasted by the vivid red Portugal jerseys. Luxury streetwear styling, modern football culture aesthetic, Vogue Sports editorial, Nike campaign quality, premium fashion photography, shallow depth of field, razor-sharp facial details, natural skin texture, realistic fabric folds, ultra-detailed embroidery, lifelike proportions, subtle film grain, HDR, 85mm lens, f/1.8, full-frame camera, high dynamic range, rich contrast, photorealistic, hyper-realistic, masterpiece, 8K, award-winning commercial photography, cinematic composition, magazine cover quality, no text, no watermark, no logos except jersey crest.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26828-389-Industrial-Football-Locker-Room-Campaign.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26828-390-Industrial-Football-Locker-Room-Campaign.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10633-569",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10633-571",
       "title": "Editorial Caricature Illustration of a Man",
       "prompt": "{ \"meta\": { \"quality\": \"ultra detailed illustration, 4k\", \"camera\": \"portrait framing\", \"lighting\": \"soft studio lighting with subtle shadows\", \"style\": \"editorial caricature illustration, digital painting, bold lines\" }, \"scene\": { \"location\": \"minimal background with teal geometric shapes and paint splashes\", \"atmosphere\": \"modern, artistic, magazine cover aesthetic\" }, \"subject\": { \"gender\": \"male\", \"body\": { \"type\": \"stylized caricature proportions\", \"pose\": \"front facing portrait, confident posture\" }, \"face\": { \"features\": \"exaggerated jawline, expressive eyebrows, slightly messy hair, subtle beard texture\", \"expression\": \"smirk with raised eyebrow, confident attitude\" }, \"outfit\": { \"description\": \"modern casual jacket with simple shirt\", \"fit\": \"clean and stylized\" } }, \"effects\": { \"special\": \"textured brush strokes, bold outlines, soft paint splatter accents, clean editorial composition\" } }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10633-569-Editorial-Caricature-Illustration-of-a-Man.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10633-571-Editorial-Caricature-Illustration-of-a-Man.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,16 +362,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11765-138",
-      "title": "Disney-Pixar Style 3D Portrait of Man in Neon Sweater",
-      "prompt": "3D in the style of Disney-Pixar, a man in fluorescent green glasses, a man focused but smiling, red hair in a large neon green knitted sweater, white trousers, gray concrete background in the background, warm cinematic lighting, high",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11844-138",
+      "title": "Surreal Macro Masterpiece with Miniature Figure",
+      "prompt": "A surreal macro masterpiece featuring a miniature figure with uploaded face as reference sitting on a rocky pebble surface, wearing a striped shirt and dark pants, gazing upward at a vintage glass bottle standing beside them. From the bottle's open neck, ethereal white smoke billows and transforms into a glowing, translucent white dove surrounded by floating feathers. The composition utilizes extreme shallow depth of field with heavy foreground and background bokeh, creating a dreamlike atmosphere bathed in soft pastel pink and violet hues. Cinematic lighting, volumetric fog, 8k resolution, photorealistic textures, Octane Render, magical realism style.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11765-138-Disney-Pixar-Style-3D-Portrait-of-Man-in-Neon-Sweater.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11844-138-Surreal-Macro-Masterpiece-with-Miniature-Figure.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -400,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32502-215",
-      "title": "Bohemian Crochet Fashion Studio Portrait",
-      "prompt": "Create HD quality editorial fashion photos using uploaded reference images.Don't change your face.Keep the young woman's face 100% identical to the reference create an intimate, warm close-up portrait, her makeup (soft blush on cheeks and nose, pink lips, soft, natural eyebrows) must be identical to the reference photo.Her long black hair was cut in layers, with loose strands blowing in the wind. Close-up portrait of a young woman with flowing brown hair wearing a {argument name=\"clothing\" default=\"crocheted oversized cardigan\"} (cream, teal, and magenta yellow) and a {argument name=\"accessory\" default=\"brightly colored crochet headscarf\"} (cream, teal, lime green, and magenta yellow) tied under her chin.She wore large, square, oversized sunglasses with thick tortoiseshell frames and amber lenses.The sun shines brightly from behind, illuminating her and creating a bright, high-contrast, dreamy summer aesthetic.Her dark bangs peeked out from under her scarf and her makeup was subtle.A {argument name=\"animal\" default=\"fluffy orange cat\"} relaxes on her shoulder.The background is a clear bright blue sky.Realistic, colorful, fashionable photography style., pet, photorealistic, high detail",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32580-214",
+      "title": "Minimalist Indoor Lifestyle Portrait",
+      "prompt": "Ultra-realistic full-body portrait of {argument name=\"subject\" default=\"him\"} sitting casually on the floor indoors, leaning back against a {argument name=\"background\" default=\"plain off-white minimalist wall\"} with sunlight casting a soft, natural shadow. No headphones. Outfit: {argument name=\"outfit\" default=\"a plain white t-shirt, paired with slightly loose light blue ripped jeans and classic black-and-white Converse sneakers\"}. Accessories include a simple leather bracelet and a casual watch. A notebook and pencil are placed casually beside him on the floor. His pose is relaxed and effortless, with a clean, modern, minimalist aesthetic and natural lifestyle photography style",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32502-215-Bohemian-Crochet-Fashion-Studio-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32580-214-Minimalist-Indoor-Lifestyle-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26722-391",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26722-392",
       "title": "Luxury Indoor Menswear Lookbook",
       "prompt": "A confident male in his thirties stands deliberately posed with his body turned at a forty-five-degree angle, centering his weight with level shoulders. His hair features a high taper fade on the sides with a three-to-four-inch swept-back pompadour on top, styled with a matte product that reveals natural texture and subtle flyaways. He wears a {argument name=\"clothing\" default=\"dark charcoal gray textured suit\"} over an unbuttoned crisp white shirt. His expression is sophisticated and composed, with a neutral mouth, no smile, and relaxed eyebrows, while his eyes are concealed behind {argument name=\"accessory\" default=\"round tortoiseshell sunglasses\"} directed toward the left. His left hand, adorned with a silver watch and a gold ring, has fingers slightly curled as it grasps the left lapel of his jacket. His right hand, styled with silver and black bracelets and a silver ring, rests lightly on the right edge of the jacket near the button, creating an asymmetric visual hierarchy that draws the eye down the open collar to his hands and jewelry. He stands within a pristine indoor luxury interior of medium spatial depth, resting on a floor of {argument name=\"setting\" default=\"solid white marble tile\"} accented by gray veining. In the left midground, a prominent staircase built of matching white marble with gray veins features a glass railing and elegant brass trim. Behind him to the right, dominant warm cream sheer drapes hang in pristine condition, their soft vertical pleats creating vertical light and shadow streaks across the matte fabric. A single source of soft, natural window light streams in from ninety degrees to the camera left, establishing a sophisticated and luxurious mood with a warm temperature. This moderately directional light casts soft, gradual, short gray shadows across the right side of his face and body, while pristine preserved highlights illuminate his left cheek, the crisp white shirt collar, and his metallic jewelry. The ambient fill balances the medium contrast, accentuating a neutral but warm color profile heavily dominated by the charcoal gray of his suit, the crisp white of the shirt and stairs, warm cream drapes, and natural skin tones. Captured in the style of a high-end editorial menswear lookbook and luxury lifestyle photography using an 85mm lens set to f/2.8 at 1/200s and ISO 100, the realistic digital image boasts tack-sharp focus on the subject with a slightly soft background depth of field, finished with a subtle warm color grade, refined contrast enhancement, and localized sharpening on his face and jewelry to ensure a clean aesthetic, all perfectly framed in a 4:5 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26722-391-Luxury-Indoor-Menswear-Lookbook.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26722-392-Luxury-Indoor-Menswear-Lookbook.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10529-577",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10529-579",
       "title": "Cyberpunk Japanese Band Live Performance",
       "prompt": "Quality: Photograph. Live-action film. *Please generate the photo using the reference image as a color palette. Please also use the reference image as a reference for tone, worldview, and composition when constructing the image. Camera/angle: Shot from a frontal angle, with a wide-angle lens from slightly below. Theme: A live performance scene of a Japanese band with a cyberpunk look. Guitarist/vocalist: A handsome man with short white hair, pink inner coloring, and a gold-blue gradient eye color. Vocalist's pose: Singing with his foot on the speaker. Clothing: A combination of 2000s V-kei fashion and cyberpunk. Looks like a visual kei band member. Cyberpunk military black officer's uniform with metal engineer boots. Red armband. Pink glowing infographic UI goggles. Band members: A band consisting of guitar, bass, and drums. Instrument design: A near-future, cyberpunk design with pink glows in places. Location: A live stage at an upscale nightclub in Shibuya in a cyberpunk setting 100 years in the future. Pause: The band is belting out.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10529-577-Cyberpunk-Japanese-Band-Live-Performance.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10529-579-Cyberpunk-Japanese-Band-Live-Performance.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,16 +514,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11828-139",
-      "title": "Neon Wireframe 3D Prompt Template",
-      "prompt": "Title: Neon Wireframe 3D Replace the element in brackets [ ] and create your own image!",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11765-139",
+      "title": "Disney-Pixar Style 3D Portrait of Man in Neon Sweater",
+      "prompt": "3D in the style of Disney-Pixar, a man in fluorescent green glasses, a man focused but smiling, red hair in a large neon green knitted sweater, white trousers, gray concrete background in the background, warm cinematic lighting, high",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11828-139-Neon-Wireframe-3D-Prompt-Template.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11765-139-Disney-Pixar-Style-3D-Portrait-of-Man-in-Neon-Sweater.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -552,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32504-216",
-      "title": "South Asian Couple Skardu Travel Photo",
-      "prompt": "Use my pic face Create an ultra-realistic full-body photograph of a {argument name=\"subject\" default=\"young South Asian Couple\"} (use uploaded reference face exactly) enjoying a trip in {argument name=\"location\" default=\"Skardu, Pakistan\"}. The image should look like a genuine tourist photo captured on a modern smartphone. Style: Natural smartphone camera photography, ultra realistic, real travel photo, NOT cinematic, NOT studio lighting, NOT AI-looking. SKARDU ADVENTURE (ULTRA REALISTIC, FULL BODY, 8K CAMERA • Full body visible • Natural handheld phone camera shot • Slight perspective imperfections • Realistic depth of field • Ultra HD 8K quality • Sharp facial details • Natural color tones • No filters MALE • Use uploaded reference face exactly • Same hairstyle as reference image • Light beard • Wearing traditional white Korton Kurta pajama with stylish shoes. FEMALE • Elegant traditional purple traditional Pakistani dress. • Natural makeup • Realistic facial features • Warm smile • Natural hair movement POSE • Man Catch the selfie Own girlfriend. • Genuine candid travel moment • Happy and relaxed expressions • Authentic tourist vibes LOCATION — SKARDU • Beautiful Skardu Valley • Massive mountains in background • Crystal-clear lake nearby • Green meadows • Rocky landscapes • Famous Skardu scenery • Natural tourism atmosphere CROWD • Tourists visible in background • Families taking photos • People enjoying the scenery • Natural crowd blur LIGHTING • Bright natural daylight • Soft mountain sunlight • Realistic shadows • Natural exposure • No flash REALISM • Hyper-realistic photography • Natural skin pores • Real fabric textures • Authentic human anatomy • Smartphone camera quality • Travel photography realism • Ultra HD 8K NEGATIVE PROMPT: cartoon, anime, CGI, 3D render, fake skin, AI face, plastic face, blurry image, low quality, watermark, text, logo, bad anatomy, extra fingers, unrealistic eyes, HDR glow, cinematic grading, studio lighting, oversaturated colors ratio size 9 16.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32581-215",
+      "title": "Miniature Inuit Fishing on Cracked Phone",
+      "prompt": "{ \"prompt\": \"{argument name=\"subject\" default=\"Miniature, cracked smartphone with two inuits fishing\"}, ultra realistic, ultra detailed\", \"parameters\": { \"version\": 7, \"stylize\": 50 } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32504-216-South-Asian-Couple-Skardu-Travel-Photo.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32581-215-Miniature-Inuit-Fishing-on-Cracked-Phone.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +609,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26726-395",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26726-396",
       "title": "Minimalist Headphone E-commerce Product Photo",
       "prompt": "A main e-commerce image for {argument name=\"product\" default=\"wireless noise-canceling headphones\"}, featuring a {argument name=\"style\" default=\"minimalist style\"} and a {argument name=\"background color\" default=\"white background\"}, highlighting the product with added selling point copy and icons, suitable for e-commerce platforms.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26726-395-Minimalist-Headphone-E-commerce-Product-Photo.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26726-396-Minimalist-Headphone-E-commerce-Product-Photo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10461-579",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10461-581",
       "title": "Asimov Visionary Split-Scene Concept Art Prompt",
       "prompt": "Do this for Asimov: 1. The Analysis: Analyze Input: Identify the Visionary's Era (e.g., 1950s) and their Core Predictions (e.g., Robotics, AI). Left Side (The Origin): Construct the room based on the actual historical workspace of the person (e.g., Typewriters, cigarette smoke, blueprints, tungsten light). Right Side (The Legacy): Construct the room based on the modern realization of their ideas (e.g., Clean server room, holograms, advanced prosthetics, cool LED light). 2. Composition (The Rift): The Divide: A diagonal beam of light splits the room. The Subject: The Visionary stands dead center. Left Half of Body: Dressed in period clothing, holding a pen/paper. Right Half of Body: Fading into digital pixels or observing a floating hologram of their invention. The Wall: Left Wall: Covered in pinned sketches and paper notes. Right Wall: A floor-to-ceiling window looking out onto a futuristic city (The world they predicted). 3. Visual Cohesion: The perspective lines of the room must match perfectly across the split. A wooden desk on the left might morph into a sleek glass interface on the right. Lighting: Warm/Dusty (Left) vs. Cold/Sterile (Right). Output: ONE image, 16:9 Aspect Ratio, Cinematic Concept Art, Photorealistic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10461-579-Asimov-Visionary-Split-Scene-Concept-Art-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10461-581-Asimov-Visionary-Split-Scene-Concept-Art-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11793-140",
-      "title": "Universal Random Punk Scene Generator for Nano Banana Pro",
-      "prompt": "Universal Random Punk Scene Generator 1. PUNK_STYLE = [{argument name=\"punk style\" default=\"Choose one punk aesthetic. If left blank, one style will be automatically selected at random from LIST_OF_PUNK_STYLES.\"}] 2. LIST_OF_PUNK_STYLES = [Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk] 3. SUBSTYLE = • If a specific SUBSTYLE is provided → use it exactly as written. • If SUBSTYLE is set to **none** → do not apply a substyle layer. • If SUBSTYLE is left **blank** → automatically infer a logical SUBSTYLE based on the chosen PUNK_STYLE. 4. TECHNOLOGY_LEVEL = • If a specific TECHNOLOGY_LEVEL is provided → use it exactly as written. • If TECHNOLOGY_LEVEL is set to **none** → do not apply a technology modifier. • If TECHNOLOGY_LEVEL is left **blank** → automatically infer an appropriate technology level based on the chosen PUNK_STYLE. 5. ENVIRONMENT = • If a specific ENVIRONMENT is provided → use it exactly as written. • If ENVIRONMENT is set to **none** → do not apply an environmental modifier. • If ENVIRONMENT is left **blank** → automatically infer a logical environment based on the other active layers. 6. CULTURE = • If a specific CULTURE is provided → use it exactly as written. • If CULTURE is set to **none** → do not apply a cultural modifier. • If CULTURE is left **blank** → automatically infer a cultural framework appropriate to the world. 7. ROOM_OR_SETTING = [{argument name=\"room or setting\" default=\"IF BLANK: Generate a compelling location consistent with the active world layers.\"}] 8. LIST_OF_OBJECTS = [IF BLANK: Infer 4–6 logical objects belonging to the environment.] 9. CAMERA_FRAMEWORK = [IF BLANK: Infer the best cinematic framing for the environment.] 10. LIGHTING_FRAMEWORK = [IF BLANK: Infer lighting derived from the technology and environment.] 11. MATERIAL_SYSTEM = [IF BLANK: Infer dominant materials and structural systems derived from the style layers.] --- ### STYLE SELECTION DIRECTIVE If **PUNK_STYLE is left blank**, randomly select **one style from LIST_OF_PUNK_STYLES** and apply it as the active world aesthetic. All subsequent inference systems must use the chosen PUNK_STYLE. --- ### WORLD INTERPRETER ENGINE Analyze all active layers: PUNK_STYLE * optional SUBSTYLE * optional TECHNOLOGY_LEVEL * optional ENVIRONMENT * optional CULTURE From these layers infer: • dominant materials • architectural forms • infrastructure systems • lig",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11828-140",
+      "title": "Neon Wireframe 3D Prompt Template",
+      "prompt": "Title: Neon Wireframe 3D Replace the element in brackets [ ] and create your own image!",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11793-140-Universal-Random-Punk-Scene-Generator-for-Nano-Banana-Pro.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11828-140-Neon-Wireframe-3D-Prompt-Template.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32507-217",
-      "title": "1980s Retro Salon Portrait",
-      "prompt": "{ \"subject\": \"{argument name=\"subject description\" default=\"Woman in her late twenties, auburn-chestnut hair cut short and swept up and back off the face with sculpted 1980s volume at the crown and sides, finished with a black grosgrain bow pinned at the back. Fair skin with a warm peachy tone. Period makeup: soft bronze-mauve shadow blended to the brow bone, strong arched brows, sculpted blusher high on the cheekbone, glossy brick-red lip. Slender build, elegant long neck. Chin lifted, gaze angled off toward the light, composed and aloof.\"}\", \"outfit\": { \"dress\": \"{argument name=\"dress style\" default=\"Cobalt-blue metallic brocade cocktail dress with an allover shifting lamé sheen, strongly padded shoulders tapering to a narrow waist, gathered blouson bodice with a rounded yoke, long full sleeves, slim knee-length skirt\"}\", \"hosiery\": \"Sheer smoke-grey tights with a soft period sheen\", \"shoes\": \"Black suede pointed-toe pumps with a slim stiletto heel and a small bow at the vamp\", \"jewellery\": \"Stacked wide gold bangles on both wrists, gold drop earrings\", \"props\": \"A slim crystal champagne flute held loosely in one hand\" }, \"pose\": \"Seated in a clear lucite armchair, torso upright and turned three-quarters to the camera. Legs crossed high at the knee and extended long toward the floor, toes pointed, feet angled together. One arm resting along the chair arm holding the champagne flute out at chest height; the other hand relaxed on the thigh. Shoulders squared back, spine straight, head tilted slightly away.\", \"setting\": \"{argument name=\"interior style\" default=\"A pale 1980s salon interior. A transparent lucite armchair with a woven cream cushion, a matching lucite side table, and a low cream boucle sofa behind. Soft beige-grey walls, a sheer curtained window casting a broad wash of light, warm oak flooring beneath.\"} Sparse and elegant — nothing else in frame. Absolutely no text, lettering or signage anywhere.\", \"camera\": \"35mm crisp direct flash. Hard frontal light throwing a defined shadow behind the chair, fierce specular blowout across the metallic brocade so the dress ignites, hot glints on the gold bangles and champagne glass. Warm saturated period grade, cobalt pushed rich against neutral cream. Lifted blacks, medium-high contrast, fine 35mm grain, gentle halation, corner vignette.\", \"framing\": \"Vertical 2:3. ANGLE — low view from the subject's left, lens near seat height and tilted up. The crossed legs foreshorten toward the camera and read longer, the lucite chair reads at a three-quarter turn with its transparent frame catching flash, and more wall and ceiling opens above her head.\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32577-217",
+      "title": "Stylish Man with Weimaraner in Modern Elevator",
+      "prompt": "Ultra-realistic full-body fashion portrait of a {argument name=\"subject\" default=\"stylish bearded man\"} wearing {argument name=\"jacket\" default=\"black bomber jacket\"}, {argument name=\"shirt\" default=\"beige turtleneck\"}, black trousers, sunglasses and white sneakers, standing confidently with a Weimaraner dog inside a luxurious modern elevator, warm cinematic lighting, reflective metallic walls, DSLR photography, 8K, sharp details.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32507-217-1980s-Retro-Salon-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32577-217-Stylish-Man-with-Weimaraner-in-Modern-Elevator.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26570-399",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26570-400",
       "title": "3D Miniature Diorama of New York City",
       "prompt": "Create a stylized miniature 3D diorama viewed from a 45-degree angled perspective, emphasizing careful scale, clean geometry, and fine craftsmanship. {argument name=\"base device\" default=\"WATER GLASS\"} device serves as the central base of the composition. From within or above this device, a miniature interpretation of the selected {argument name=\"location\" default=\"NEW YORK\"} emerges naturally, forming a compact, self contained world. The scene highlights recognizable landmarks, terrain features, or symbolic structures associated with the {argument name=\"location\" default=\"NEW YORK\"}, arranged harmoniously and rendered with precise detail. Miniature roads, pathways, environmental elements, and tiny human figures interact naturally with the Nano Banana Pro, reinforcing its presence as the foundation of the world. Use cinematic lighting, soft highlights, reflections on premium surfaces, and selective depth-of-field blur to create a magical, dreamlike, ultra realistic promotional atmosphere. Emphasize the product’s premium materials, sleek design, and futuristic aesthetic,Image size 4 5..",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26570-399-3D-Miniature-Diorama-of-New-York-City.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26570-400-3D-Miniature-Diorama-of-New-York-City.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,12 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-9978-590",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-9978-592",
       "title": "Epic Athlete/Artist Poster Design Prompt",
       "prompt": "Poster design, vertical portrait format, exact size 1800 × 2300 pixels. Hero subject: {argument name=\"artist name\" default=\"[ ARTIST NAME ]\"} Full-body, standing on a hill, perfectly centered composition, dominant key visual. Powerful silhouette against the sky, confident stance, wind interacting with clothing and hair. Environment: ({argument name=\"detailed landscape\" default=\"dramatic mountains / surreal sky / storm clouds / abstract color atmosphere / sunset horizon\"}). Foreground depth, midground atmosphere, expansive cinematic background. Strong sense of scale and elevation. Lighting: cinematic lighting, dramatic rim light, volumetric light rays, atmospheric perspective, high dynamic range. Golden hour or high-contrast dramatic sky (tone: EPIC, POETIC, INTENSE, DREAMLIKE). Style: intricate, highly detailed, breathtaking, precise lineart, refined ink illustration, watercolor gradients, layered pigment washes. Vibrant yet controlled color palette. Fine textures, delicate splatter effects, soft ink bleeding. Aesthetic fusion of Carne Griffiths × Conrad Roset. Elegant composition, gallery-quality art print finish. Ultra high resolution, razor-sharp details, professional poster design, print-ready quality. No watermark, no typography, no blur, no distortion, no cropped limbs, no extra people.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-9978-590-Epic-Athlete-Artist-Poster-Design-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-9978-592-Epic-Athlete-Artist-Poster-Design-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11821-141",
-      "title": "Cinematic Portrait of Ancient Turkic Woman and Horse in Snow",
-      "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"historical_turkic_woman_horse_portrait\", \"language\": \"en\", \"priority\": \"highest\", \"version\": \"v1.0_SNOW_TURKIC_WOMAN_HORSE_BOND\" }, \"input\": { \"mode\": \"text_to_image\", \"notes\": \"Create a cinematic intimate portrait of a beautiful ancient Turkic woman standing close to her horse in a snowy landscape, sharing a quiet spiritual bond.\" }, \"output_settings\": { \"aspect_ratio\": \"4:5\", \"orientation\": \"portrait\", \"resolution_target\": \"ultra_high_res\", \"num_images\": 1, \"render_style\": \"cinematic_historical_realism\", \"sharpness\": \"editorial_crisp\", \"grain\": \"subtle_film\", \"color_grade\": \"cold_natural_cinematic\", \"dynamic_range\": \"natural_not_hdr\", \"skin_rendering\": \"real_texture_no_retouch\" }, \"scene\": { \"environment\": \"snow-covered open steppe or mountain plain, soft winter haze, quiet white landscape, light snowfall in the air\", \"lighting\": \"soft overcast winter daylight, delicate highlights on skin, hair, leather, and horse fur, realistic cold atmosphere\", \"mood\": \"ancestral, tender, spiritual, noble, calm, unforgettable\" }, \"subject\": { \"description\": \"one beautiful ancient Turkic woman with a calm powerful presence\", \"skin\": \"natural realistic skin texture with soft winter tone\", \"hair\": \"long dark hair with old Turkic inspired braids, small beads and thread details woven into sections\", \"makeup\": \"historically inspired subtle beauty styling, softly defined eyes with earth-charcoal tones, natural skin, muted lips, no modern glam finish\", \"nails\": \"short natural nails appropriate for a historical old Turkic woman, no modern manicure\", \"expression\": \"eyes gently closed or softly lowered, peaceful, strong, deeply connected to the horse\" }, \"wardrobe\": { \"outfit\": \"ancient Turkic winter attire with layered leather and wool garments, dark earth-toned shoulder armor, fur accents, practical yet noble nomadic clothing\", \"materials\": \"aged leather, wool, felt, fur, braided cords, weathered metal details\", \"styling\": \"authentic Central Asian steppe aesthetic, not fantasy cosplay, not medieval European\" }, \"horse\": { \"type\": \"strong dark horse with a broad face and white blaze markings\", \"tack\": \"historically inspired decorated bridle with metal ornaments and weathered leather straps\", \"anatomy\": \"realistic horse anatomy, calm noble temperament, winter coat detail\" }, \"composition\": { \"pose\": \"woman standing very close to the horse, forehead or face near the horse’s face, one hand gently holding the bridle and the other resting against the horse, intimate and protective posture\", \"framing\": \"medium portrait with the horse’s head dominant in frame and the woman in side",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11793-141",
+      "title": "Universal Random Punk Scene Generator for Nano Banana Pro",
+      "prompt": "Universal Random Punk Scene Generator 1. PUNK_STYLE = [{argument name=\"punk style\" default=\"Choose one punk aesthetic. If left blank, one style will be automatically selected at random from LIST_OF_PUNK_STYLES.\"}] 2. LIST_OF_PUNK_STYLES = [Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk] 3. SUBSTYLE = • If a specific SUBSTYLE is provided → use it exactly as written. • If SUBSTYLE is set to **none** → do not apply a substyle layer. • If SUBSTYLE is left **blank** → automatically infer a logical SUBSTYLE based on the chosen PUNK_STYLE. 4. TECHNOLOGY_LEVEL = • If a specific TECHNOLOGY_LEVEL is provided → use it exactly as written. • If TECHNOLOGY_LEVEL is set to **none** → do not apply a technology modifier. • If TECHNOLOGY_LEVEL is left **blank** → automatically infer an appropriate technology level based on the chosen PUNK_STYLE. 5. ENVIRONMENT = • If a specific ENVIRONMENT is provided → use it exactly as written. • If ENVIRONMENT is set to **none** → do not apply an environmental modifier. • If ENVIRONMENT is left **blank** → automatically infer a logical environment based on the other active layers. 6. CULTURE = • If a specific CULTURE is provided → use it exactly as written. • If CULTURE is set to **none** → do not apply a cultural modifier. • If CULTURE is left **blank** → automatically infer a cultural framework appropriate to the world. 7. ROOM_OR_SETTING = [{argument name=\"room or setting\" default=\"IF BLANK: Generate a compelling location consistent with the active world layers.\"}] 8. LIST_OF_OBJECTS = [IF BLANK: Infer 4–6 logical objects belonging to the environment.] 9. CAMERA_FRAMEWORK = [IF BLANK: Infer the best cinematic framing for the environment.] 10. LIGHTING_FRAMEWORK = [IF BLANK: Infer lighting derived from the technology and environment.] 11. MATERIAL_SYSTEM = [IF BLANK: Infer dominant materials and structural systems derived from the style layers.] --- ### STYLE SELECTION DIRECTIVE If **PUNK_STYLE is left blank**, randomly select **one style from LIST_OF_PUNK_STYLES** and apply it as the active world aesthetic. All subsequent inference systems must use the chosen PUNK_STYLE. --- ### WORLD INTERPRETER ENGINE Analyze all active layers: PUNK_STYLE * optional SUBSTYLE * optional TECHNOLOGY_LEVEL * optional ENVIRONMENT * optional CULTURE From these layers infer: • dominant materials • architectural forms • infrastructure systems • lig",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11821-141-Cinematic-Portrait-of-Ancient-Turkic-Woman-and-Horse-in-Snow.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11793-141-Universal-Random-Punk-Scene-Generator-for-Nano-Banana-Pro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32511-219",
-      "title": "Hyperrealistic Macro Eye Detail",
-      "prompt": "Extreme macro close-up of the same woman from the reference image, keeping her exact identity, {argument name=\"eye color\" default=\"pale blue eyes\"}, {argument name=\"skin type\" default=\"warm aged skin\"} and {argument name=\"hair color\" default=\"silver hair\"}. Tight crop on one eye and eyebrow, straight-on eye-level angle, serene expression. Hyperrealistic detail: pale blue iris with fine striations and a soft catchlight, natural sparse lashes, fine crepey eyelid texture, deep natural wrinkles and age spots, a soft silver brow. Soft even studio beauty light, pale gray background, 100mm macro, razor sharp, photorealistic, not airbrushed, no text.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32502-218",
+      "title": "Bohemian Crochet Fashion Studio Portrait",
+      "prompt": "Create HD quality editorial fashion photos using uploaded reference images.Don't change your face.Keep the young woman's face 100% identical to the reference create an intimate, warm close-up portrait, her makeup (soft blush on cheeks and nose, pink lips, soft, natural eyebrows) must be identical to the reference photo.Her long black hair was cut in layers, with loose strands blowing in the wind. Close-up portrait of a young woman with flowing brown hair wearing a {argument name=\"clothing\" default=\"crocheted oversized cardigan\"} (cream, teal, and magenta yellow) and a {argument name=\"accessory\" default=\"brightly colored crochet headscarf\"} (cream, teal, lime green, and magenta yellow) tied under her chin.She wore large, square, oversized sunglasses with thick tortoiseshell frames and amber lenses.The sun shines brightly from behind, illuminating her and creating a bright, high-contrast, dreamy summer aesthetic.Her dark bangs peeked out from under her scarf and her makeup was subtle.A {argument name=\"animal\" default=\"fluffy orange cat\"} relaxes on her shoulder.The background is a clear bright blue sky.Realistic, colorful, fashionable photography style., pet, photorealistic, high detail",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32511-219-Hyperrealistic-Macro-Eye-Detail.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32502-218-Bohemian-Crochet-Fashion-Studio-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26480-400",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26480-401",
       "title": "Monochrome Avant-Garde Fashion Portrait",
       "prompt": "Ultra-realistic monochrome editorial portrait of {argument name=\"subject\" default=\"Arthur Ferreira\"}, preserving exact facial identity, natural skin texture, dark short curly hair with volume, thick eyebrows with slit on right eyebrow, centered close-up composition, wearing futuristic premium {argument name=\"eyewear\" default=\"reflective sports visor sunglasses\"}, oversized avant-garde {argument name=\"outfit\" default=\"black fashion garment\"} with structured collar, white minimalist studio background, dramatic high contrast lighting, sharp facial details, shallow depth of field, subtle vignette, luxury Nike campaign aesthetic, premium fashion editorial style, hyper realistic skin texture, cinematic monochrome tones, ultra detailed 8k",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26480-400-Monochrome-Avant-Garde-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26480-401-Monochrome-Avant-Garde-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33397-43",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33397-45",
       "title": "2D Graphic Fashion Illustration",
       "prompt": "Bold graphic 2D illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, thick black outlines, saturated colors, {argument name=\"trousers\" default=\"wide-leg checkered trousers in red and white\"}, {argument name=\"blouse\" default=\"embroidered blouse with sun motifs\"}, poster-style flat shading, simple mauve background, confident hip pose, 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33397-43-2D-Graphic-Fashion-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33397-45-2D-Graphic-Fashion-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,16 +39,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-32101-9",
-      "title": "Blackglass Ascendant System Prompt",
-      "prompt": "SYSTEM PROMPT: BLACKGLASS ASCENDANT Rewrite the user's text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Preserve language, text, references, and requested or source ratio. Use three systems. Ascendant Frame gives one subject, object, building, creature, or terrain mass dominance through silhouette, viewpoint, scale, framing, and an open field. Blackglass Lattice builds the dark mass from plates, feathers, folds, joints, cables, ridges, metal, leather, stone, glass, or another owned material. Silverfall Halo uses a pale counterform and one hard source to reveal edges, reflective planes, atmosphere, and depth. Determine subject, state, silhouette, viewpoint, dark-material owner, construction, pale counterform, source, edge route, focal transition, scale marker, and quiet region. Dark surfaces need separation. Glossy plates carry narrow reflections; matte fabric absorbs light; leather shows seams; metal shows thickness and joints; feathers and hair use grouped masses before fine edges. Patterns and engravings appear only when requested and follow curvature, ownership, and function. Preserve anatomy, object use, support, access, and perspective. Light appears only on source-facing contours. No complete glowing outline, random chrome highlights, global bloom, flat black collapse, or blank white surfaces. Atmosphere, snow, ash, rain, or dust needs a source and direction. Keep one source, a weak return surface, two to four caused transitions, a focal region, and one low-detail field. Use five values from deep black to white edge. Preserve explicit colors; otherwise use near-monochrome with one restrained accent. Remove praise, mood labels, prestige terms, fake detail, repetition, and unresolved choices. Use concrete nouns and active verbs. No em dash or en dash. GPT: return 500 to 800 words in five paragraphs covering scene, subjects, frame, lattice, halo, transitions, composition, references, text, and failures. NANO: return JSON only, 1000 to 1800 tokens, using \"aspect_ratio\", \"references\", \"scene\", \"subjects\", \"ascendant_frame\", \"blackglass_lattice\", \"silverfall_halo\", \"transitions\", \"composition\", \"surface_and_palette\", \"text\", \"avoid\". Omit unused fields. No metadata, IDs, weights, or comments. Return only the finished prompt.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-32198-9",
+      "title": "Classical Fat Cat Painting",
+      "prompt": "{argument name=\"animal\" default=\"A very fat cat\"} is lounging on a {argument name=\"furniture\" default=\"plush, ornate armchair\"}. The cat is predominantly white with patches of brown and black tabby markings on its head, back, and tail. Its belly is exceptionally large and hangs down. The cat is positioned with its front paws resting on the armrest and its hind legs stretched out. The armchair has a patterned fabric in shades of brown and gold. In the background, a framed painting with a landscape scene is visible. The overall style of the image is reminiscent of a {argument name=\"style\" default=\"classical painting\"}.",
       "media": "image",
-      "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32101-9-Blackglass-Ascendant-System-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32198-9-Classical-Fat-Cat-Painting.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "GPT Image",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -77,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35666-15",
-      "title": "Kitchen Island Fashion Portrait Prompt",
-      "prompt": "Create a photorealistic fashion portrait of a young woman casually leaning against a modern kitchen island in a warm, luxurious apartment. She has long, voluminous dark-brown hair with a soft side part, defined brows, subtle winged eyeliner, natural rosy makeup, and realistic skin texture. She wears a fitted black top under a cropped pink-and-white tweed jacket with gold buttons, paired with relaxed light-wash wide-leg jeans. She is leaning slightly against the marble kitchen counter, one arm resting naturally on the countertop, with a relaxed confident expression. Warm ambient ceiling spotlights, dark walnut kitchen cabinets, large black-framed wall mirror, marble island, cozy modern interior. Full-body composition, vertical 4:5, eye-level camera, realistic proportions, natural pose, soft warm lighting, shallow depth of field, high-end editorial photography, ultra-detailed, photorealistic, realistic fabric and skin textures.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35743-15",
+      "title": "Object-to-Building Transformation Prompt",
+      "prompt": "Turning random objects into buildings. 2x2 grid, do this for 4 different random objects. Concept: Turn objects into a landmark building that could exist. 1. ANALYZE INPUT (Massing & Structure): Mass: (Monolithic/Fragmented/Stacked/Spindly) Surface: (Reflective/Porous/Layered/Patterned) Mechanism: (Static/Kinetic/Modular) 2. AUTO-SELECT BUILDING TYPE: IF Monolithic + Stone-like → Museum IF Reflective + Aerodynamic → Skyscraper IF Modular + Stacked → Housing complex IF Porous + Organic → Botanical conservatory IF Kinetic + Mechanical → Transit hub 3. EXECUTE: Golden-hour exterior render, people for scale, plausible materials, cinematic wide lens.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35666-15-Kitchen-Island-Fashion-Portrait-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35743-15-Object-to-Building-Transformation-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34130-52",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34130-53",
       "title": "Pop Art Style Product Advertisement",
       "prompt": "[Product and Copy] - Main Copy: {argument name=\"main copy\" default=\"Ultra-lightweight, High Volume! Latest Portable Speaker\"} - Onomatopoeia: {argument name=\"onomatopoeia\" default=\"BOOM!!\"} - Text inside Speech Bubble: {argument name=\"speech bubble\" default=\"Awesome!\"} [Quality, Production, Composition] - Style: Vintage pop art illustration characterized by dot (halftone) textures and strong black outlines, like the style of Roy Lichtenstein or American comics. - Subject: A product drawn as if it were jumping out vigorously in the center. Radial lines (focus lines) spread from behind the product, enhancing the sense of dynamism. - Typography and Speech Bubbles (for GPT-image / Nano Banana Pro): The onomatopoeia {argument name=\"onomatopoeia\" default=\"BOOM!!\"} is drawn in large, powerful, 3D colorful comic-style letters, and the text {argument name=\"speech bubble\" default=\"Awesome!\"} is placed inside a classic speech balloon. A banner for {argument name=\"main copy\" default=\"Ultra-lightweight, High Volume! Latest Portable Speaker\"} is designed at the top of the screen. - Color/Tone: Vivid and high-contrast pop art colors such as yellow, red, blue, and black. [Strict Layout and Output Constraints (Required)] - Output the finished design itself, filling the entire screen. Backgrounds and scene descriptions (walls, spaces, shadows, etc.) within the design may follow the instructions in the main text. - Prohibitions: Photos of the finished poster in a frame, photos pinned to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows. - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: \"--ar 1:1\" or \"--ar 4:3\"",
       "media": "image",
       "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34130-52-Pop-Art-Style-Product-Advertisement.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34130-53-Pop-Art-Style-Product-Advertisement.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33396-44",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33396-46",
       "title": "Watercolor Fashion Sketch",
       "prompt": "Watercolor fashion illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, expressive brush strokes, {argument name=\"trousers\" default=\"wide-leg palka dot trousers in terracotta\"}, {argument name=\"blouse\" default=\"hand-embroidered blouse with tiny mirrors\"}, loose ink outlines, paper texture, off-white background, elegant standing pose, 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33396-44-Watercolor-Fashion-Sketch.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33396-46-Watercolor-Fashion-Sketch.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,16 +248,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-31654-10",
-      "title": "Water-level Bridge Modification",
-      "prompt": "flatten the bridge completely so it's running just above the surface of the water.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-32101-10",
+      "title": "Blackglass Ascendant System Prompt",
+      "prompt": "SYSTEM PROMPT: BLACKGLASS ASCENDANT Rewrite the user's text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Preserve language, text, references, and requested or source ratio. Use three systems. Ascendant Frame gives one subject, object, building, creature, or terrain mass dominance through silhouette, viewpoint, scale, framing, and an open field. Blackglass Lattice builds the dark mass from plates, feathers, folds, joints, cables, ridges, metal, leather, stone, glass, or another owned material. Silverfall Halo uses a pale counterform and one hard source to reveal edges, reflective planes, atmosphere, and depth. Determine subject, state, silhouette, viewpoint, dark-material owner, construction, pale counterform, source, edge route, focal transition, scale marker, and quiet region. Dark surfaces need separation. Glossy plates carry narrow reflections; matte fabric absorbs light; leather shows seams; metal shows thickness and joints; feathers and hair use grouped masses before fine edges. Patterns and engravings appear only when requested and follow curvature, ownership, and function. Preserve anatomy, object use, support, access, and perspective. Light appears only on source-facing contours. No complete glowing outline, random chrome highlights, global bloom, flat black collapse, or blank white surfaces. Atmosphere, snow, ash, rain, or dust needs a source and direction. Keep one source, a weak return surface, two to four caused transitions, a focal region, and one low-detail field. Use five values from deep black to white edge. Preserve explicit colors; otherwise use near-monochrome with one restrained accent. Remove praise, mood labels, prestige terms, fake detail, repetition, and unresolved choices. Use concrete nouns and active verbs. No em dash or en dash. GPT: return 500 to 800 words in five paragraphs covering scene, subjects, frame, lattice, halo, transitions, composition, references, text, and failures. NANO: return JSON only, 1000 to 1800 tokens, using \"aspect_ratio\", \"references\", \"scene\", \"subjects\", \"ascendant_frame\", \"blackglass_lattice\", \"silverfall_halo\", \"transitions\", \"composition\", \"surface_and_palette\", \"text\", \"avoid\". Omit unused fields. No metadata, IDs, weights, or comments. Return only the finished prompt.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31654-10-Water-level-Bridge-Modification.webp",
+      "model": "GPT Image",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32101-10-Blackglass-Ascendant-System-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "GPT Image",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -286,16 +286,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35619-21",
-      "title": "Kinetic Amber Surreal Portrait",
-      "prompt": "{ \"vibe_title_en\": \"Kinetic Amber\", \"master_prompt\": \"A hyper-realistic, medium-format avant-garde portrait of The Protagonist at exact eye-level, locked in dead-center eye contact with a profoundly serene, focused expression. The subject is captured in mid-stride, initiating a sudden, dynamic twisting motion. They wear a high-necked, vibrant marigold silk garment that ripples violently in a sudden, invisible gust of wind. Surrounding and blooming from their head is an impossible, gravity-defying kinetic sculpture: massive, intricate coils resembling spiraling gourds or shells, constructed entirely of highly polished translucent amber, intricately carved mahogany, and spinning ribbons of thick, glossy liquid caramel frozen perfectly in mid-air by a 1/4000s high shutter speed. Set against a pitch-black infinite studio void. Shot on a Hasselblad H6D-100c with a 100mm f/2.2 lens. Cinematic, high-contrast Rembrandt lighting punches through the translucent amber, casting rich, luminous warm refractions onto hyper-detailed skin—revealing microscopic pores and peach fuzz. Authentic Kodak Portra 800 film stock, tactile analog grain, and absolute physical weight to the impossible elements. NO NEON.\", \"meta\": { \"intent\": \"Surreal Editorial Portrait\", \"priorities\": \"Kinetic motion, high-speed freezing, hyper-realistic analog textures, exact eye-level framing\", \"device_profile\": \"High-resolution retina displays\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Center-weighted portrait, head and shoulders with an expansive, surreal headpiece filling the upper and lateral frame\", \"layout\": \"Subject positioned dead center, enveloped by negative space acting as a black void to emphasize the kinetic elements\", \"camera_angle\": \"Exact eye-level\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Kinetic Muse\", \"demographics\": \"Ageless, ethereal editorial model\", \"face\": \"Symmetrical, hyper-detailed pores, flawless but natural skin texture with visible peach fuzz\", \"hair\": \"Concealed entirely by the swirling amber and silk structures\", \"body\": \"Slender neck, graceful posture caught in a state of high dynamic tension\", \"expression\": \"Dead-calm, serene yet intensely focused, establishing piercing eye contact\", \"pose\": \"Mid-stride torsion, torso twisting slightly in sudden movement while the head remains locked perfectly forward\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"High-necked draped top\", \"material\": \"Flowing marigold silk\", \"color\": \"Vibrant marigold and deep amber\", \"fit\": \"Form-fitting at the neck, billowing and chaotic at the shoulders\" } ], \"accessories\": [ { \"item\": \"Surreal kinetic headpiece of spiraling, massive organic coils\", \"color\": \"Rich amber, burnt orange, golden yellow, dark mahogany\", \"material\": \"Polished translucent amber, carved wood, and thick ribbons of liquid caramel frozen in time\", \"brand_style\": \"Avant-garde Haute Couture\" } ] }, \"environment\": { \"setting\": \"Pitch-black infinite studio void\", \"surfaces\": \"None visible, deep shadow absorbing all background light\", \"depth\": \"Shallow depth of field, sharp drop-off into total blackness immediately behind the subject\", \"atmosphere\": \"Vacuum-like stillness interrupted only by the chaotic, frozen motion of the subject's adornments\", \"lens_interaction\": \"Micro-dust motes catching the spotlight, crisp specular highlights gleaming off the polished amber surfaces\" }, \"lighting\": { \"key\": \"Crisp, directional spotlight from the upper-left (Rembrandt style)\", \"fill\": \"Negative fill on the right side to crush shadows into absolute true black\", \"rim\": \"Subtle, razor-thin golden rim light on the flying silk and outer amber coils to separate them from the void\", \"shadows\": \"Deep, rich, high-contrast, completely swallowing the edges of the frame\", \"color_temperature\": \"Warm, cinematic golden hour tones (around 3200K)\", \"sensor_flare\": \"None, perfectly controlled and flagged studio lighting\" }, \"camera\": { \"lens_type\": \"Medium Format Portrait Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.2\", \"focus\": \"Tack sharp strictly on the subject's irises and eyelashes\", \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Zero distortion, perfect orthographic-like facial flattening\" }, \"post_processing\": { \"color\": \"Rich, highly saturated warm tones (amber, gold, marigold) contrasted against pure true blacks\", \"tonality\": \"High-contrast chiaroscuro, cinematic film S-curve\", \"texture\": \"Authentic Kodak Portra 800 film grain, highly tactile micro-details on skin and polished resin\", \"digital_sharpening\": \"None, relies entirely on pristine optical medium-format sharpness\", \"chromatic_aberration\": \"Extremely subtle on the out-of-focus outer edges of the flying liquid/silk\" }, \"negative_specifications\": [ \"Neon lights\", \"Digital painting\", \"CGI look\", \"Smiling\", \"Messy background\", \"High angle\", \"Low angle\", \"Static pose\", \"Flat lighting\", \"Plastic skin\", \"Cartoonish surrealism\" ] }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35667-16",
+      "title": "Istanbul Bosphorus Travel Portrait",
+      "prompt": "Create an ultra-photorealistic cinematic travel portrait using the uploaded reference image for the woman’s facial identity. Preserve her recognizable facial features, blue-green eyes, natural skin texture, blonde hair in a soft messy updo with loose face-framing strands, and realistic proportions. Place her standing beside the Bosphorus waterfront in Istanbul during a beautiful golden-hour sunset. She is wearing an elegant deep red sleeveless midi/maxi frock with a fitted bodice and softly flowing skirt. She holds one single fresh red rose naturally in both hands. No handbag, no shoulder bag, no suitcase. She stands beside an ornate black wrought-iron waterfront railing, looking gently toward the camera with a calm, natural, romantic expression. Behind her, show the Bosphorus with realistic ferries, shimmering water, Istanbul’s historic skyline, large domes and slender minarets, warm waterfront buildings, and elegant vintage street lamps. Wet stone pavement with subtle reflections, warm sunset rays, soft dramatic clouds, natural atmospheric haze, realistic wind movement in her hair and dress. Photography: luxury travel editorial, photorealistic live-action look, natural skin pores and texture, realistic hands and fingers, 85mm lens, shallow depth of field, cinematic bokeh, soft golden backlight, realistic fabric texture, natural body proportions, high dynamic range, sophisticated color grading, vertical 9:16 composition. Negative prompt: face distortion, identity drift, extra fingers, malformed hands, duplicate rose, handbag, purse, suitcase, CGI, cartoon, illustration, plastic skin, excessive makeup, artificial body proportions, text, subtitles, logo, watermark.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35619-21-Kinetic-Amber-Surreal-Portrait.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35667-16-Istanbul-Bosphorus-Travel-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -362,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34131-54",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34131-55",
       "title": "Fashion Brand Lookbook Editorial Portrait",
       "prompt": "[Brand Concept] - Image Concept: {argument name=\"concept\" default=\"Quiet Days\"} - Shooting Location: {argument name=\"location\" default=\"KOMOREBI | TOKYO\"} [Styling] - Coordination/Outfit: {argument name=\"outfit\" default=\"Linen shirt and denim\"} [Quality, Production, Composition] - Style: Hero image for a lookbook of a minimalist, high-quality Japanese fashion and lifestyle brand. - Subject: A model standing quietly in natural light, wearing {argument name=\"outfit\" default=\"Linen shirt and denim\"}. Hair swaying in the wind, wrinkles in clothing, and a quiet, natural expression. - Background: A corridor of an old Japanese house with flickering sunlight filtering through trees, or a spot in {argument name=\"location\" default=\"KOMOREBI | TOKYO\"} where concrete and greenery blend beautifully. - Lighting/Color: Soft and transparent sunlight in the morning or evening, faint and beautiful earth tones with low contrast (nuance gray, olive, natural beige). - Typography (for GPT-image / Nano Banana Pro): The words {argument name=\"concept\" default=\"Quiet Days\"} and {argument name=\"location\" default=\"KOMOREBI | TOKYO\"} are quietly arranged in the white space of the screen in an ultra-fine, modern sans-serif font. [Strict Layout and Output Constraints (Required)] - Output the finished design itself, filling the entire screen. Backgrounds and scene descriptions (walls, spaces, shadows, etc.) within the design may follow the instructions in the main text. - Prohibitions: Photos of the finished poster in a frame, photos pinned to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows. - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: --ar 16:9",
       "media": "image",
       "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34131-54-Fashion-Brand-Lookbook-Editorial-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34131-55-Fashion-Brand-Lookbook-Editorial-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33398-46",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33398-48",
       "title": "Modern Fashion Line Art",
       "prompt": "Modern fashion line art illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, single-weight black linework, flat color blocks in ochre and sage green, {argument name=\"trousers\" default=\"wide-leg patterned trousers\"}, {argument name=\"blouse\" default=\"embroidered off-shoulder blouse\"}, negative space composition, soft cream background, walking pose, 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33398-46-Modern-Fashion-Line-Art.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33398-48-Modern-Fashion-Line-Art.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-31576-11",
-      "title": "Woman Riding Black Horse on Beach",
-      "prompt": "Create an ultra-photorealistic cinematic fashion photograph of an elegant woman riding a powerful {argument name=\"horse color\" default=\"jet-black\"} horse along a {argument name=\"setting\" default=\"pristine tropical beach\"} during a bright, windy afternoon.\\n\\nSUBJECT:\\nA striking adult woman with long, naturally wavy dark hair flowing dramatically in the ocean breeze. She has refined natural facial features, realistic skin texture, subtle pores, delicate facial asymmetry, and a calm, confident expression. She looks slightly toward the camera while maintaining a believable riding posture.\\n\\nShe is wearing a luxurious flowing {argument name=\"dress color\" default=\"crimson-red\"} off-shoulder dress made from lightweight semi-transparent chiffon and silk. The dress has realistic folds, layered fabric, natural stitching, subtle fabric texture, and a long flowing train extending dramatically behind her. The wind catches different sections of the dress independently, creating complex natural movement rather than a perfectly uniform wave.\\n\\nHer posture must look like that of a real experienced rider: balanced torso, naturally positioned legs, relaxed but controlled hands holding the reins, realistic contact between her body and the horse.\\n\\nHORSE:\\nA magnificent muscular black horse with a glossy but completely natural coat. Highly detailed facial anatomy, realistic eyes, nostrils, ears, mane, muscles, veins, and individual strands of hair.\\n\\nThe horse is moving at a fast but believable gallop along the shoreline. Its front legs and rear legs must have anatomically correct positioning and realistic joint movement. Hooves interact naturally with the wet sand, producing small splashes and scattered grains of sand.\\n\\nThe horse wears an elegant but practical dark leather bridle and saddle with realistic stitching, buckles, leather texture, subtle wear, and believable physical attachment.\\n\\nENVIRONMENT:\\nA breathtaking tropical beach stretching into the distance.\\n\\nOn the left side, crystal-clear turquoise-blue ocean water approaches the shoreline with small white waves and realistic foam.\\n\\nBehind the rider are tall tropical palm trees bending slightly in the ocean breeze, dense green vegetation, white sand, and a distant coastline.\\n\\nThe sky is enormous and dramatic, filled with large naturally shaped cumulus clouds against a rich blue tropical sky.\\n\\nThe beach should not look artificial or perfectly clean. Include tiny footprints, hoof marks, irregular wet patches, small shells, scattered natural debris, subtle sand texture, and realistic variations in color.\\n\\nMOVEMENT:\\nCapture the exact moment when the horse is galloping beside the water.\\n\\nThe woman's hair should be blown backward and sideways by the wind, with hundreds of individual strands behaving naturally.\\n\\nThe red dress should trail behind her in multiple layers, with different sections of fabric",
+      "id": "xianyu-multi-model:ym-ai-skill-others-31654-11",
+      "title": "Water-level Bridge Modification",
+      "prompt": "flatten the bridge completely so it's running just above the surface of the water.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31576-11-Woman-Riding-Black-Horse-on-Beach.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31654-11-Water-level-Bridge-Modification.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35617-22",
-      "title": "Cinematic Woman Waiting for Train in Rain",
-      "prompt": "Create an ultra-photorealistic 4K cinematic full-body scene of the same woman from the reference image, sitting naturally on an elegant railway station chair while waiting for her train in heavy rain. Preserve her exact reference face and identity. She looks naturally toward the camera with a calm, elegant expression. Show her entire body from head to toe, with both shoes completely visible. Place her full leather suitcase beside the chair, including wheels and handle. A normal-sized black umbrella rests naturally beside the chair. Luxury camel trench coat, black trousers, polished black ankle boots, subtle gold jewelry, and elegant handbag. Heavy rain is visible through the large station windows, with wet railway tracks, puddles, mist, reflections, and an approaching train in the background. Premium luxury railway-station architecture with warm golden lighting and polished marble floor Wide full-body composition, eye-level camera, 45–50mm lens, natural proportions, sharp face, detailed clothing and leather, realistic rain, cinematic depth of field. Quality: 4K UHD, photorealistic live-action, HDR, realistic skin pores, natural hair, cinematic lighting, premium color grading, subtle film grain. Negative prompt: cropped feet, cropped shoes, cropped suitcase, oversized umbrella, distorted hands, extra fingers, face drift, different identity, plastic skin, cartoon, anime, CGI, 3D render, unrealistic rain, blurry face, low resolution, unwanted text, extra logos, watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35665-17",
+      "title": "Cinematic Editorial Bedroom Portrait",
+      "prompt": "Create an ultra-photorealistic cinematic editorial photograph of the same woman sitting gracefully on the floor beside an elegant vintage bed in a luxurious classic bedroom. She has long, naturally wavy dark brown hair and wears a sophisticated sleeveless ivory-white satin dress with a fitted waist and flowing skirt, sheer white stockings, and elegant white pointed-toe heels. She sits naturally with both legs extended across the polished dark herringbone wooden floor, one hand resting near her knee and the other supporting her beside her. Behind her is an ornate black wrought-iron bed with cream floral-patterned bedding, layered pillows, elegant beige curtains, classic paneled walls, and warm neutral tones. Beside her is an open vintage book with a single cream-colored rose resting on it, next to a delicate white porcelain teacup and saucer. Soft warm daylight enters from the window on the right, creating realistic highlights and subtle shadows. Composition: full-body portrait, woman clearly visible from head to toe, elegant natural pose, eye-level camera, 50mm lens, f/2.8, shallow natural depth of field, cinematic luxury fashion editorial photography, realistic skin pores, individual hair strands, detailed fabric texture, physically accurate lighting, natural anatomy, realistic proportions, subtle warm color grading, 8K photorealism. Identity lock: same reference face throughout, exact facial structure, exact eyes and eye spacing, exact nose, exact lips, exact jawline, exact skin tone, no identity drift, no face alteration, no facial beautification, no face blending. Negative prompt: different face, altered identity, face swap, identity drift, different facial features, changed eye shape, changed nose, changed lips, changed jawline, face distortion, plastic skin, over-smoothed skin, CGI, 3D render, cartoon, anime, unrealistic anatomy, extra fingers, malformed hands, extra limbs, duplicated body parts, distorted legs, blurry face, low detail, harsh lighting, oversaturated colors, text, logo, watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35617-22-Cinematic-Woman-Waiting-for-Train-in-Rain.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35665-17-Cinematic-Editorial-Bedroom-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34129-55",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34129-56",
       "title": "Surreal Ornithological Fashion Symphony",
       "prompt": "{ \"vibe_title_en\": \"The Quiet Rebel's Surreal Ornithological Symphony\", \"master_prompt\": \"Photographic Surrealism. {argument name=\"subject\" default=\"The Protagonist\"} stands perfectly centered in a defiant, quiet rebel posture within an intensely symmetrical deep teal anechoic chamber. They wear oversized, glossy canary-yellow studio headphones and a structured {argument name=\"clothing\" default=\"yellow silk jacket with heavily textured floral embroidery\"}. A chaotic, yet mathematically symmetrical storm of real, vividly colored birds (yellow, blue, and teal) are frozen in mid-flight, violently fluttering around their head, framing a crown of interwoven real pale orchids. The subject's expression is deeply calm, staring dead ahead, completely unfazed by the avian blur. Captured on Phase One IQ4, 24mm f/5.6 wide-angle lens for grand symmetrical centering. Rembrandt lighting with a soft overhead cinematic softbox illuminating the birds' wings, casting micro-shadows on the teal acoustic foam. Kodak Portra 400 film stock, hyper-realistic skin pores, floating organic dust motes, practical high-budget effects, NO NEON.\", \"meta\": { \"intent\": \"Cinematic Surrealism\", \"priorities\": \"Symmetry, Practical Effects, Defiant Posture\", \"device_profile\": \"High-Res Editorial\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Grand Symmetrical Centering\", \"layout\": \"Absolute horizontal and vertical symmetry, subject dead center\", \"camera_angle\": \"Eye-level, perfectly horizontal\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless\", \"face\": \"Symmetrical, hyper-detailed pores, neutral\", \"hair\": \"Pulled back, wrapped in a crown of real pale orchids\", \"body\": \"Rigid, calm, squared shoulders\", \"expression\": \"Defiant, calm, unfazed\", \"pose\": \"Standing perfectly still while surrounded by chaotic motion\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Structured jacket\", \"material\": \"Yellow silk with heavy floral embroidery\", \"color\": \"Vibrant yellow\", \"fit\": \"Tailored, rigid\" } ], \"accessories\": [ { \"item\": \"Oversized studio headphones\", \"color\": \"Canary yellow\", \"material\": \"Glossy plastic and leather\", \"brand_style\": \"High-end audiophile\" }, { \"item\": \"Floral crown\", \"color\": \"Pale yellow and white\", \"material\": \"Real orchids and baby's breath\", \"brand_style\": \"Avant-garde floristry\" } ] }, \"environment\": { \"setting\": \"Symmetrical anechoic chamber\", \"surfaces\": \"Deep teal acoustic foam wedges\", \"depth\": \"Medium depth, compressed by 24mm symmetry\", \"atmosphere\": \"Stillness contrasting with flying birds, suspended dust motes\", \"lens_interaction\": \"Motion blur on the extreme edges of bird wings\" }, \"lighting\": { \"key\": \"Large overhead softbox directly centered\", \"fill\": \"Su\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34129-55-Surreal-Ornithological-Fashion-Symphony.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34129-56-Surreal-Ornithological-Fashion-Symphony.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -628,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33186-56",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33186-58",
       "title": "East Asian Samurai Graphic Poster",
       "prompt": "A striking mixed-media graphic poster portrait of a {argument name=\"subject\" default=\"young East Asian female samurai\"} with an intense, piercing gaze. Her hair is tied in an intricate, messy traditional topknot bun with loose, wind-blown strands framing her face. She is wearing {argument name=\"clothing\" default=\"traditional layered dark indigo samurai robes and kimono\"} with a structured high collar. Dynamic ink splatters in {argument name=\"colors\" default=\"crimson red, deep navy blue, and charcoal black\"} sweep across the composition. A bold graphic red circle rests above her head like a rising sun. Distressed aged parchment paper background, sumi-e ink wash textures, graphic design poster aesthetics, sharp focus on facial features, cinematic lighting, high-contrast chiaroscuro, masterpiece quality, 8k resolution --ar 9:16 --v 6.1 --style raw",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33186-56-East-Asian-Samurai-Graphic-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33186-58-East-Asian-Samurai-Graphic-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-31257-12",
-      "title": "Golden Gate Bridge LED Screen",
-      "prompt": "{argument name=\"subject\" default=\"Golden Gate Bridge\"} as if it were a {argument name=\"dimensions\" default=\"64 x 32\"} LED screen and have only one color per pixel",
+      "id": "xianyu-multi-model:ym-ai-skill-others-31576-12",
+      "title": "Woman Riding Black Horse on Beach",
+      "prompt": "Create an ultra-photorealistic cinematic fashion photograph of an elegant woman riding a powerful {argument name=\"horse color\" default=\"jet-black\"} horse along a {argument name=\"setting\" default=\"pristine tropical beach\"} during a bright, windy afternoon.\\n\\nSUBJECT:\\nA striking adult woman with long, naturally wavy dark hair flowing dramatically in the ocean breeze. She has refined natural facial features, realistic skin texture, subtle pores, delicate facial asymmetry, and a calm, confident expression. She looks slightly toward the camera while maintaining a believable riding posture.\\n\\nShe is wearing a luxurious flowing {argument name=\"dress color\" default=\"crimson-red\"} off-shoulder dress made from lightweight semi-transparent chiffon and silk. The dress has realistic folds, layered fabric, natural stitching, subtle fabric texture, and a long flowing train extending dramatically behind her. The wind catches different sections of the dress independently, creating complex natural movement rather than a perfectly uniform wave.\\n\\nHer posture must look like that of a real experienced rider: balanced torso, naturally positioned legs, relaxed but controlled hands holding the reins, realistic contact between her body and the horse.\\n\\nHORSE:\\nA magnificent muscular black horse with a glossy but completely natural coat. Highly detailed facial anatomy, realistic eyes, nostrils, ears, mane, muscles, veins, and individual strands of hair.\\n\\nThe horse is moving at a fast but believable gallop along the shoreline. Its front legs and rear legs must have anatomically correct positioning and realistic joint movement. Hooves interact naturally with the wet sand, producing small splashes and scattered grains of sand.\\n\\nThe horse wears an elegant but practical dark leather bridle and saddle with realistic stitching, buckles, leather texture, subtle wear, and believable physical attachment.\\n\\nENVIRONMENT:\\nA breathtaking tropical beach stretching into the distance.\\n\\nOn the left side, crystal-clear turquoise-blue ocean water approaches the shoreline with small white waves and realistic foam.\\n\\nBehind the rider are tall tropical palm trees bending slightly in the ocean breeze, dense green vegetation, white sand, and a distant coastline.\\n\\nThe sky is enormous and dramatic, filled with large naturally shaped cumulus clouds against a rich blue tropical sky.\\n\\nThe beach should not look artificial or perfectly clean. Include tiny footprints, hoof marks, irregular wet patches, small shells, scattered natural debris, subtle sand texture, and realistic variations in color.\\n\\nMOVEMENT:\\nCapture the exact moment when the horse is galloping beside the water.\\n\\nThe woman's hair should be blown backward and sideways by the wind, with hundreds of individual strands behaving naturally.\\n\\nThe red dress should trail behind her in multiple layers, with different sections of fabric",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31257-12-Golden-Gate-Bridge-LED-Screen.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31576-12-Woman-Riding-Black-Horse-on-Beach.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35618-23",
-      "title": "Luxury Evening Portrait Prompt for Nano Banana Pro",
-      "prompt": "Create a highly realistic vertical 4:5 luxury evening portrait of a young woman posing in a sophisticated studio setting. She is turned slightly away from the camera, showing an elegant over-the-shoulder pose while looking back directly toward the camera with a confident, graceful expression. Her dark-brown hair is styled into a sleek low updo with a few soft face-framing strands around her cheeks. She has refined natural facial features, warm fair skin with realistic texture, expressive brown eyes, defined brows, subtle smoky burgundy eye makeup, soft blush, and deep rose-red glossy lips. She is wearing an elegant off-shoulder deep burgundy satin evening gown with a folded draped neckline and fitted silhouette. The back features delicate jeweled embellishments and a decorative sparkling detail. Add luxurious jewelry: a diamond necklace, dangling ruby-and-diamond earrings, multiple elegant rings, layered metallic bracelets, and a classic luxury wristwatch. Her nails are long and glossy with intricate deep-red and silver nail art. Her upper hand is posed delicately near her shoulder while the other rests naturally around her waist. Background is a rich dark burgundy studio wall with a soft cream-colored light area on one side, creating a dramatic two-tone backdrop. Cinematic warm lighting, soft highlights on the skin, subtle shadows, high-end jewelry campaign aesthetic, realistic fabric and jewelry details, natural hands and fingers, shallow depth of field, professional fashion photography, 85mm lens look, ultra-photorealistic, elegant and sophisticated, no text, no watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35666-18",
+      "title": "Kitchen Island Fashion Portrait Prompt",
+      "prompt": "Create a photorealistic fashion portrait of a young woman casually leaning against a modern kitchen island in a warm, luxurious apartment. She has long, voluminous dark-brown hair with a soft side part, defined brows, subtle winged eyeliner, natural rosy makeup, and realistic skin texture. She wears a fitted black top under a cropped pink-and-white tweed jacket with gold buttons, paired with relaxed light-wash wide-leg jeans. She is leaning slightly against the marble kitchen counter, one arm resting naturally on the countertop, with a relaxed confident expression. Warm ambient ceiling spotlights, dark walnut kitchen cabinets, large black-framed wall mirror, marble island, cozy modern interior. Full-body composition, vertical 4:5, eye-level camera, realistic proportions, natural pose, soft warm lighting, shallow depth of field, high-end editorial photography, ultra-detailed, photorealistic, realistic fabric and skin textures.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35618-23-Luxury-Evening-Portrait-Prompt-for-Nano-Banana-Pro.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35666-18-Kitchen-Island-Fashion-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34126-56",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-34126-57",
       "title": "Minimalist Alpine Fashion Magazine",
       "prompt": "A high fashion magazine pictorial of an {argument name=\"subject description\" default=\"Alpine-looking woman in her early 20s\"} who stands still, looking at the camera, turning her head in the center, surrounded by a blurry silhouette of people passing by. She has a calm, stoic look on her face and is wearing a {argument name=\"outfit style\" default=\"black minimalist outfit\"}. The background is clean, bright and slightly abstract, and emphasizes the contrast between motion blur and static appearance. Editing style, film composition, pure art photography, soft magazine texture, high resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34126-56-Minimalist-Alpine-Fashion-Magazine.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-34126-57-Minimalist-Alpine-Fashion-Magazine.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33089-59",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33089-61",
       "title": "Fine Art Model Portrait",
       "prompt": "Fine art photography, head and torso portrait, warm light, soft saturation, early 20's supermodel, tousled bronde ombré hair, {argument name=\"eye color\" default=\"emerald green eyes\"}, parted pink lips, {argument name=\"clothing\" default=\"white silk gown\"}, {argument name=\"accessory\" default=\"gold necklace and earrings\"}. Soft bokeh background, dust particles in light beam. deep contrast.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33089-59-Fine-Art-Model-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-33089-61-Fine-Art-Model-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-30819-13",
-      "title": "Klimt Style Woman Summer Garden",
-      "prompt": "painting in the style of {argument name=\"artist\" default=\"Klimt\"} of a {argument name=\"subject\" default=\"woman wearing a large hat\"} in a {argument name=\"setting\" default=\"summer garden\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-others-31257-13",
+      "title": "Golden Gate Bridge LED Screen",
+      "prompt": "{argument name=\"subject\" default=\"Golden Gate Bridge\"} as if it were a {argument name=\"dimensions\" default=\"64 x 32\"} LED screen and have only one color per pixel",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-30819-13-Klimt-Style-Woman-Summer-Garden.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31257-13-Golden-Gate-Bridge-LED-Screen.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35511-29",
-      "title": "Candid Coffee Terrace Photo",
-      "prompt": "Ultra realistic candid iPhone photo, vertical 9:16, seed 777777. Girl from my photo, 100% likeness. Do not change face / eye color / features / asymmetry / body proportions. No squint or distortions. iPhone rear 1x. A friend is shooting from above: camera 2.2–2.5 m from the floor, angle down 35–40°, distance 2.5–3 m. No flash / portrait mode. Full sitting figure, both feet and the entire chair visible, lots of floor; the girl is shifted left, terrace and objects on the right, background sharp. She is deeply reclined in a black metal rocking chair, legs stretched long forward and crossed only at the ankles. Right hand raised, handmade dark-green ceramic mug pressed close to her lips — mid-sip, lower face partly covered; left hand relaxed on the armrest. Pajamas in matte cotton, small bitter chocolate + milk check: loose shirt with a turn-down collar, buttons, long sleeves and milk piping; wide straight high-waist trousers in the same print. Milk ribbed socks; brown suede clogs with fur trim tossed nearby. Hair smoothly combed back into a low tight bun, a few strands at the face. Short square milky manicure. A large crumpled white cotton blanket in the chair. Late-autumn terrace: wet dark wooden boards, brown leaves, dark vertical wooden wall; on the right a glass railing and dense damp forest. Bottom right: woven basket-trunk, open book, plate with a croissant, jar of jam. Overcast cold diffused light, exposure -0.6 EV, no flash. Muted chocolate / milk / dark wood / forest green. Natural iPhone softness, grain, digital noise, raw-like look. Negative: HDR, bokeh, sunny/golden light, eye-level camera, cropped feet/chair, mug away from lips, staged pose, changed face/body, plastic skin, CGI.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35619-24",
+      "title": "Kinetic Amber Surreal Portrait",
+      "prompt": "{ \"vibe_title_en\": \"Kinetic Amber\", \"master_prompt\": \"A hyper-realistic, medium-format avant-garde portrait of The Protagonist at exact eye-level, locked in dead-center eye contact with a profoundly serene, focused expression. The subject is captured in mid-stride, initiating a sudden, dynamic twisting motion. They wear a high-necked, vibrant marigold silk garment that ripples violently in a sudden, invisible gust of wind. Surrounding and blooming from their head is an impossible, gravity-defying kinetic sculpture: massive, intricate coils resembling spiraling gourds or shells, constructed entirely of highly polished translucent amber, intricately carved mahogany, and spinning ribbons of thick, glossy liquid caramel frozen perfectly in mid-air by a 1/4000s high shutter speed. Set against a pitch-black infinite studio void. Shot on a Hasselblad H6D-100c with a 100mm f/2.2 lens. Cinematic, high-contrast Rembrandt lighting punches through the translucent amber, casting rich, luminous warm refractions onto hyper-detailed skin—revealing microscopic pores and peach fuzz. Authentic Kodak Portra 800 film stock, tactile analog grain, and absolute physical weight to the impossible elements. NO NEON.\", \"meta\": { \"intent\": \"Surreal Editorial Portrait\", \"priorities\": \"Kinetic motion, high-speed freezing, hyper-realistic analog textures, exact eye-level framing\", \"device_profile\": \"High-resolution retina displays\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Center-weighted portrait, head and shoulders with an expansive, surreal headpiece filling the upper and lateral frame\", \"layout\": \"Subject positioned dead center, enveloped by negative space acting as a black void to emphasize the kinetic elements\", \"camera_angle\": \"Exact eye-level\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Kinetic Muse\", \"demographics\": \"Ageless, ethereal editorial model\", \"face\": \"Symmetrical, hyper-detailed pores, flawless but natural skin texture with visible peach fuzz\", \"hair\": \"Concealed entirely by the swirling amber and silk structures\", \"body\": \"Slender neck, graceful posture caught in a state of high dynamic tension\", \"expression\": \"Dead-calm, serene yet intensely focused, establishing piercing eye contact\", \"pose\": \"Mid-stride torsion, torso twisting slightly in sudden movement while the head remains locked perfectly forward\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"High-necked draped top\", \"material\": \"Flowing marigold silk\", \"color\": \"Vibrant marigold and deep amber\", \"fit\": \"Form-fitting at the neck, billowing and chaotic at the shoulders\" } ], \"accessories\": [ { \"item\": \"Surreal kinetic headpiece of spiraling, massive organic coils\", \"color\": \"Rich amber, burnt orange, golden yellow, dark mahogany\", \"material\": \"Polished translucent amber, carved wood, and thick ribbons of liquid caramel frozen in time\", \"brand_style\": \"Avant-garde Haute Couture\" } ] }, \"environment\": { \"setting\": \"Pitch-black infinite studio void\", \"surfaces\": \"None visible, deep shadow absorbing all background light\", \"depth\": \"Shallow depth of field, sharp drop-off into total blackness immediately behind the subject\", \"atmosphere\": \"Vacuum-like stillness interrupted only by the chaotic, frozen motion of the subject's adornments\", \"lens_interaction\": \"Micro-dust motes catching the spotlight, crisp specular highlights gleaming off the polished amber surfaces\" }, \"lighting\": { \"key\": \"Crisp, directional spotlight from the upper-left (Rembrandt style)\", \"fill\": \"Negative fill on the right side to crush shadows into absolute true black\", \"rim\": \"Subtle, razor-thin golden rim light on the flying silk and outer amber coils to separate them from the void\", \"shadows\": \"Deep, rich, high-contrast, completely swallowing the edges of the frame\", \"color_temperature\": \"Warm, cinematic golden hour tones (around 3200K)\", \"sensor_flare\": \"None, perfectly controlled and flagged studio lighting\" }, \"camera\": { \"lens_type\": \"Medium Format Portrait Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.2\", \"focus\": \"Tack sharp strictly on the subject's irises and eyelashes\", \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Zero distortion, perfect orthographic-like facial flattening\" }, \"post_processing\": { \"color\": \"Rich, highly saturated warm tones (amber, gold, marigold) contrasted against pure true blacks\", \"tonality\": \"High-contrast chiaroscuro, cinematic film S-curve\", \"texture\": \"Authentic Kodak Portra 800 film grain, highly tactile micro-details on skin and polished resin\", \"digital_sharpening\": \"None, relies entirely on pristine optical medium-format sharpness\", \"chromatic_aberration\": \"Extremely subtle on the out-of-focus outer edges of the flying liquid/silk\" }, \"negative_specifications\": [ \"Neon lights\", \"Digital painting\", \"CGI look\", \"Smiling\", \"Messy background\", \"High angle\", \"Low angle\", \"Static pose\", \"Flat lighting\", \"Plastic skin\", \"Cartoonish surrealism\" ] }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35511-29-Candid-Coffee-Terrace-Photo.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35619-24-Kinetic-Amber-Surreal-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

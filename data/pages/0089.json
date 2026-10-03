@@ -1,31 +1,12 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7404-679",
-      "title": "Pop Star Concert Photography",
-      "prompt": "{ \"prompt_structure\": { \"subject_description\": { \"main_character\": \"Global pop superstar female singer standing center stage\", \"appearance\": \"Long platinum blonde hair in loose glam waves, pristine makeup with defined contour and glossy lips, confident expression\", \"pose\": \"Power stance, full body shot, holding a diamond-encrusted silver microphone with both hands\" }, \"attire_details\": { \"outfit\": \"Monochromatic premium {argument name=\"outfit color\" default=\"beige\"} athleisure set\", \"top\": \"Cropped zip-up hoodie with structured collar\", \"bottoms\": \"Matching high-waisted wide-leg sweatpants with center seam detailing\", \"footwear\": \"Chunky white platform sneakers\", \"accessories\": \"Subtle diamond rings, sparkling drop earrings\" }, \"environment_context\": { \"location\": \"Massive indoor stadium arena concert\", \"background\": \"Vast audience in semi-darkness holding up thousands of illuminated phone flashlights creating a starlight bokeh effect\", \"stage_elements\": \"Large LED screens displaying abstract geometric visuals in purple and violet hues, geometric stage floor design\" }, \"lighting_atmosphere\": { \"lighting_type\": \"High-production concert lighting, cinematic backlighting\", \"color_palette\": \"Electric violet, deep magenta, soft warm beige, cold white stage beams\", \"mood\": \"Electric, energetic, euphoric, grand scale\" }, \"technical_specifications\": { \"quality\": \"Ultra-realistic, UHD, 8k resolution, photorealistic masterpiece\", \"camera_settings\": \"Low angle shot looking up, sharp focus on subject, depth of field blurring the distant crowd\", \"texture\": \"Detailed fabric texture on tracksuit, skin texture, metallic glint on microphone\" } }, \"generation_parameters\": { \"aspect_ratio\": \"9:16\", \"orientation\": \"Vertical (Long)\", \"style_preset\": \"Aesthetic Concert Photography\" } }",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7404-679-Pop-Star-Concert-Photography.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Poster / Flyer"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11260-167",
-      "title": "Ultra-Realistic Character Transformation Prompt",
-      "prompt": "Convert this into an ultra-realistic, cinematic, fully photorealistic scene. The characters must be transformed into real human versions of the original uploaded references, keeping their identity, facial structure, key features, and overall likeness intact.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11445-167",
+      "title": "JSON Prompt Template for Defining Canvas Size",
+      "prompt": "{ \"scene\": \"futuristic AI workspace with holographic screens showing code\", \"resolution\": \"4K\", \"aspect_ratio\": \"16:9\", \"style\": \"cinematic lighting, cyberpunk aesthetic, ultra-detailed\" }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11260-167-Ultra-Realistic-Character-Transformation-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11445-167-JSON-Prompt-Template-for-Defining-Canvas-Size.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32108-263",
-      "title": "Italian Neorealism Moped Portrait",
-      "prompt": "A young adult male exudes confident masculinity, positioned centrally and leaning slightly to his right at a 45-degree angle against a vintage {argument name=\"moped color\" default=\"navy blue\"} moped. He features dark, slicked-back hair catching subtle specular highlights from styling product, and his expression is fixed in a calm, closed-mouth neutral state, his gaze directed off-camera to the left from behind dark rectangular sunglasses. He is dressed in a {argument name=\"outfit top\" default=\"fitted light grey short-sleeve t-shirt\"} and dark brown high-waisted pleated trousers. His left hand is casually tucked into his trouser pocket, exposing only his wrist and forearm resting against his hip, while his right hand rests lightly on the moped left handlebar, his relaxed fingers draped gently over the grip to reveal silver rings. In the immediate foreground, the navy blue Piaggio moped features a chrome headlight casing. Behind him unfolds a medium-depth vintage European cobblestone street, framed asymmetrically to balance his visual weight against the left side of the scene. To the left in the midground, there is a dominant vintage dark carved wood window frame, while two worn dark wood chairs with woven rush seats sit stacked beneath it. To the right, a worn dark brown paneled wooden door features a circular brass knocker and silver handle, adjacent to a weathered off-white matte plaster wall with patchy warm grey undertones, faded peach borders, and minor dirt accumulation, bearing an aged black cast iron wall-mounted post box with a crest emblem, all grounded by a dark charcoal grey concrete and cobblestone floor. The atmosphere is quiet, moody, and sophisticated, bathed in soft, diffused natural lighting spilling from a single large overcast sky source above. This neutral-temperature, low-contrast lighting casts short, soft-edged shadows beneath his chin, under the moped chassis, and lightly along the textured wall, while leaving subtle specular highlights on his left shoulder and the moped chrome details. The desaturated, cool-toned color profile heavily emphasizes dark warm browns, off-whites, and charcoal contrasted against the cool navy blue. Shot straight-on as a medium editorial portrait drawing from Italian Neorealism cinema, captured with a 50mm lens at f/4.0, ISO 400, and a 1/250s shutter speed to maintain a tack-sharp subject alongside medium depth of field. The final image undergoes post-processing with a desaturated color grade pulling down greens and blues, a lifted black point, and a subtle film grain overlay to achieve a faded cinematic tonality, framed in a 4:5 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32100-259",
+      "title": "Solar Eclipse Romantic Silhouette",
+      "prompt": "A {argument name=\"subject\" default=\"romantic digital art scene featuring a couple in silhouette\"} standing close together on a {argument name=\"location\" default=\"rocky shoreline at twilight\"}, their bodies forming a heart-shaped space between them that glows with a bright, warm light. In the background, a small, cozy cabin with glowing windows sits atop a rocky island surrounded by dark, reflective water. Above the island, a massive, golden {argument name=\"event\" default=\"solar eclipse\"} dominates the night sky, casting a radiant, ethereal ring of light and shimmering golden reflections across the calm lake surface. The atmosphere is serene, magical, and deeply intimate, with a rich color palette of deep blues, warm ambers, and glowing golden highlights.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32108-263-Italian-Neorealism-Moped-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32100-259-Solar-Eclipse-Romantic-Silhouette.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25020-512",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25020-513",
       "title": "Retro 80s Action Figure Aesthetic",
       "prompt": "{argument name=\"style\" default=\"80s retro action figure\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25020-512-Retro-80s-Action-Figure-Aesthetic.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25020-513-Retro-80s-Action-Figure-Aesthetic.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7281-686",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7281-688",
       "title": "Gritty Monochrome Music Poster Prompt with Neon Accents",
       "prompt": "Create a bold, high-energy vertical music poster featuring a young female singer performing live on stage. She is captured mid-performance, holding a microphone close to her mouth, smiling with confidence and charisma. Her hair is styled in messy space buns with loose strands, and she wears an oversized black t-shirt layered with chunky chain necklaces, giving a rebellious, effortless stage presence. The portrait is treated in gritty monochrome with subtle grain and texture, while neon green accents are painted over parts of the image—especially flame-like graphic shapes rising from the bottom of her shirt—adding intensity and visual punch. The background is a flat, textured teal-green surface with visible noise and poster grain. Dominating the composition behind the subject is oversized, rounded, bold yellow typography spelling out \"{argument name=\"text\" default=\"ROCK STAR\"}\" in stacked lines. The letters are thick, playful, and slightly retro, filling most of the frame and partially obscured by the performer to create depth. Place her name behind the figure.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7281-686-Gritty-Monochrome-Music-Poster-Prompt-with-Neon-Accents.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7281-688-Gritty-Monochrome-Music-Poster-Prompt-with-Neon-Accents.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11313-168",
-      "title": "3D Pop-Out Illusion Artwork Prompt",
-      "prompt": "{ \"prompt\": \"A creative 3D illusion artwork of a cute young boy stepping out of a spiral notebook page placed on a wooden desk. The notebook has lined paper with handwritten text at the top. The boy appears in a semi-realistic 3D cartoon style, with soft messy brown hair, natural fresh face, and a cheerful smile. He is wearing a pastel oversized t-shirt, high-waisted light grey jeans, and clean white sneakers. His lower body is sketched in pencil on the notebook page, while his upper body looks fully realistic and popping out of the paper, creating a striking 3D illusion effect. Warm soft lighting, detailed wooden desk texture, shallow depth of field, ultra-detailed, high resolution.\", \"style\": \"semi-realistic 3D cartoon\", \"lighting\": \"warm soft lighting\", \"resolution\": \"high resolution\", \"effect\": \"3D pop-out illusion with pencil sketch lower body\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11260-168",
+      "title": "Ultra-Realistic Character Transformation Prompt",
+      "prompt": "Convert this into an ultra-realistic, cinematic, fully photorealistic scene. The characters must be transformed into real human versions of the original uploaded references, keeping their identity, facial structure, key features, and overall likeness intact.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11313-168-3D-Pop-Out-Illusion-Artwork-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11260-168-Ultra-Realistic-Character-Transformation-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31986-266",
-      "title": "Mountain Viewpoint Athletic Portrait",
-      "prompt": "A {argument name=\"subject\" default=\"young woman with fair skin and naturally soft facial features\"}, standing on a scenic elevated viewing platform surrounded by lush mountain vegetation. She has long blonde hair styled in a relaxed low ponytail, with a few loose strands framing her face and gently catching the outdoor breeze. She is turned slightly away from the camera while looking back over her shoulder with a warm, natural smile and a calm, cheerful expression. Her posture is relaxed, with both forearms resting comfortably on the wooden railing as she takes in the panoramic landscape. She is wearing a {argument name=\"outfit\" default=\"coordinated deep burgundy athletic-style outfit\"} consisting of a fitted sleeveless crop top with thin shoulder straps and subtle horizontal strap detailing across the upper back, paired with matching high-waisted fitted shorts. The clothing has a clean sporty aesthetic with realistic stretch fabric, fine texture, natural folds, and subtle highlights. Keep accessories minimal and understated, with no distracting jewelry. The setting is a wooden observation deck overlooking a vast mountainous landscape covered with layers of green forest and drifting clouds. A dark metal and wooden safety railing runs across the viewpoint, while a green informational sign is positioned toward the left side of the frame. Tall trees surround the platform, creating a natural foreground and framing the distant scenery. The background contains {argument name=\"landscape details\" default=\"layered blue-green mountains partially covered by soft white clouds\"} beneath an expansive overcast sky. Use soft diffused outdoor daylight filtered through the cloud cover, producing gentle shadows, realistic skin tones, subtle highlights in the blonde hair, and atmospheric depth across the distant mountains. Capture the peaceful feeling of a cool mountain morning with natural colors and a slightly cinematic atmosphere. Shot on an 85mm lens, natural outdoor daylight, moderate shallow depth of field, realistic perspective, cinematic color grading, soft atmospheric contrast, high dynamic range, detailed skin and hair texture, realistic fabric texture, natural environmental detail, photorealistic travel photography, documentary-inspired composition, balanced framing, crisp subject detail, softly layered mountain background, high resolution, authentic candid lifestyle photography aesthetic.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32103-261",
+      "title": "Luxury LED Architectural Portrait",
+      "prompt": "Use the uploaded reference image. Preserve exact identity. Create a {argument name=\"aesthetic\" default=\"luxury portrait\"} beside a {argument name=\"setting\" default=\"glowing vertical LED installation inside a dark architectural space\"}. The subject wears a {argument name=\"clothing\" default=\"fitted black suit with an open black shirt and tailored trousers\"}. Thin smoke creates soft diffusion around the light while rim lighting outlines the body. High-end fragrance campaign aesthetic, cinematic realism, deep blacks, elegant composition, luxury fashion editorial.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31986-266-Mountain-Viewpoint-Athletic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32103-261-Luxury-LED-Architectural-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25010-514",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25010-515",
       "title": "Macro Luxury Biscuit Milk Splash",
       "prompt": "Ultra-realistic {argument name=\"product name\" default=\"[BISCUIT NAME]\"} biscuits stacked dynamically in mid-air, slightly broken to reveal rich texture, creamy filling / buttery layers visible, dramatic milk splash forming artistic curves around the biscuits, soft biscuit crumbs suspended in air, glossy milk droplets frozen in motion, {argument name=\"background\" default=\"dark studio gradient background\"}, cinematic professional lighting, macro food photography, ultra-sharp focus, high contrast, premium luxury commercial advertisement style, dramatic splash effect, hyper-detailed textures, photorealistic, 8K ultra-high resolution Aspect ratio {argument name=\"aspect ratio\" default=\"3:4\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25010-514-Macro-Luxury-Biscuit-Milk-Splash.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25010-515-Macro-Luxury-Biscuit-Milk-Splash.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7279-687",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7279-689",
       "title": "Dark, High-Contrast Poster Design Prompt with Amber Lenses",
       "prompt": "Create a dark, high-contrast poster with a moody, underground club aesthetic. The composition features a monochrome portrait of a young woman from the chest up, shot from a slightly low angle for attitude and power. She wears large over-ear headphones and reflective round sunglasses with warm amber-gold lenses that stand out vividly against the black-and-white portrait. One hand is raised near her head, the other near her chin, creating a dynamic, expressive pose associated with music immersion. Behind her head is a large flat golden-yellow circular shape, like a spotlight, creating a strong focal point and visual contrast. The background is deep black with subtle grunge textures, dust, scratches, and poster-wear imperfections, giving it a raw, printed-flyer feel. Use 4:5 aspect ratio.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7279-687-Dark-High-Contrast-Poster-Design-Prompt-with-Amber-Lenses.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7279-689-Dark-High-Contrast-Poster-Design-Prompt-with-Amber-Lenses.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,16 +305,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11291-169",
-      "title": "Playful Crayon Drawing Notebook Style Prompt",
-      "prompt": "A High resolution a playful notebook-style crayon drawing of the person [Use the uploaded image as reference] , keeping the same face, hairstyle, and outfit. Also, draw with uneven crayon strokes and bold outlines for a hand-drawn effect. Meanwhile, add doodle-style elements like a sun, clouds, trees, and small colorful houses in the background on blue lined paper with a red margin. Next, make the image look like a fun school notebook sketch, full of bright colors and childlike charm. Finally, use a vertical portrait to complete the composition.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11313-169",
+      "title": "3D Pop-Out Illusion Artwork Prompt",
+      "prompt": "{ \"prompt\": \"A creative 3D illusion artwork of a cute young boy stepping out of a spiral notebook page placed on a wooden desk. The notebook has lined paper with handwritten text at the top. The boy appears in a semi-realistic 3D cartoon style, with soft messy brown hair, natural fresh face, and a cheerful smile. He is wearing a pastel oversized t-shirt, high-waisted light grey jeans, and clean white sneakers. His lower body is sketched in pencil on the notebook page, while his upper body looks fully realistic and popping out of the paper, creating a striking 3D illusion effect. Warm soft lighting, detailed wooden desk texture, shallow depth of field, ultra-detailed, high resolution.\", \"style\": \"semi-realistic 3D cartoon\", \"lighting\": \"warm soft lighting\", \"resolution\": \"high resolution\", \"effect\": \"3D pop-out illusion with pencil sketch lower body\" }",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11291-169-Playful-Crayon-Drawing-Notebook-Style-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11313-169-3D-Pop-Out-Illusion-Artwork-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -362,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31998-269",
-      "title": "Whimsical Ferret Ball Pit Illustration",
-      "prompt": "a {argument name=\"animal\" default=\"curious ferret\"} joyfully playing in a {argument name=\"object\" default=\"colorful plastic ballpit\"}, dozens of bright red, blue, yellow, and green balls surrounding it, low angle view, soft even lighting, sharp focus on the ferret’s face, vibrant playful atmosphere, high detail, {argument name=\"style\" default=\"whimsical illustration style\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32104-262",
+      "title": "Quicksilver Kinetic Fashion Editorial",
+      "prompt": "{ \"vibe_title_en\": \"Voyeuristic Rebel in a Quicksilver Sea\", \"master_prompt\": \"A voyeuristic glimpse of {argument name=\"subject\" default=\"The Protagonist\"} in a {argument name=\"environment\" default=\"surreal, high-density kinetic quicksilver archive\"}. Shot through heavy foreground occlusion of jagged, floating chrome debris and dripping liquid metal stalactites. The Protagonist wears a structural, organic silver gown resembling hardened mercury. Raw editorial look: perfect, sweaty skin with specular highlights, a challenging direct stare, and a slight smirk. Lighting is a harsh, direct ring-flash popping the facial features against the deep, ambient twilight and reflective chrome chaos. The environment is overwhelmingly busy, filled with layers of rippling liquid metal cascades, suspended mirrored shards, and dense, swirling metallic dust motes reflecting a sunset sky. Shot on {argument name=\"camera\" default=\"Hasselblad H6D-100c, 200mm f/2.8 telephoto lens\"}, Kodak Portra 800. Hyper-realistic, practical effects feel, authentic skin pores, intense depth of field compression, NO NEON.\", \"meta\": { \"intent\": \"Create a surreal, high-fashion editorial portrait using a voyeuristic, densely layered metallic environment.\", \"priorities\": \"Subject engagement via High-Gloss Rebel aesthetic, heavy environmental density, voyeuristic telephoto framing, and practical surrealism.\", \"device_profile\": \"Medium Format Digital Hasselblad H6D-100c\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Voyeuristic telephoto compression with heavy foreground occlusion framing the subject's face.\", \"layout\": \"Center-weighted subject surrounded by a chaotic, layered border of out-of-focus foreground metal.\", \"camera_angle\": \"Eye-level, distant observer peeking through dense metallic debris.\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist, a high-gloss rebel\", \"demographics\": \"Androgynous high-fashion archetype, 20s-30s\", \"face\": \"Symmetrical, dewy sweaty skin, perfect pores, specular highlights from direct flash\", \"hair\": \"Slicked back, wet-look, catching sharp metallic highlights\", \"body\": \"Strong posture, shoulders squared, wearing an avant-garde structural metallic garment\", \"expression\": \"Challenging direct stare, slight rebellious smirk\", \"pose\": \"Static but loaded with kinetic tension, staring straight through the chaotic foreground\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Structural sculptural gown\", \"material\": \"Liquid Chrome and Hardened Mercury\", \"color\": \"Iridescent Silver\", \"fit\": \"Avant-garde, rigid yet organically flowing\" } ], \"accessories\": [ { \"item\": \"Heavy biomechanical neck cuff\", \"color\": \"Polished Chrome\", \"material\": \"Metal\", \"brand_style\": \"High-end futuristic editorial\" } ] }, \"environment\": { \"setting\": \"Kinetic quicksilver archive, an overwhelming chaotic space o",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31998-269-Whimsical-Ferret-Ball-Pit-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32104-262-Quicksilver-Kinetic-Fashion-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24734-525",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24734-526",
       "title": "FIFA World Cup 2026 Identity System",
       "prompt": "{argument name=\"event\" default=\"FIFA World Cup 2026\"} {argument name=\"scope\" default=\"country\"} identity system.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24734-525-FIFA-World-Cup-2026-Identity-System.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24734-526-FIFA-World-Cup-2026-Identity-System.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7137-690",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7137-692",
       "title": "Surreal Cinematic Digital Illustration Prompt",
       "prompt": "Transform the uploaded image into a high-impact digital illustration using the image as a strict facial reference. Face Match (Strict): Face match must remain 100% exact — identical facial structure, proportions, jawline, cheekbones, nose shape, lips, beard density(if available in reference image) and trim, skin texture, hairline, hairstyle, and overall identity. Do not beautify, stylize, or alter facial features. Subject & Pose: A young Eastern European man is shown in a clean side-profile pose (not extreme profile), facing toward the right side of the frame. His head is slightly raised, chin gently lifted, conveying confidence, ambition, and forward vision. Expression is calm and self-assured. Clothing & Styling: The subject wears formal, modern clothing — a tailored dark blazer over a crisp shirt, minimal and elegant, reinforcing a professional and ambitious persona. No distracting accessories. Key Visual Element: He wears bold orange reflective sunglasses as the focal point. The lenses reflect a detailed modern cityscape with skyscrapers, urban roads, and green trees, symbolizing vision, ambition, and future goals. Color & Illustration Style: The face and clothing are rendered in muted grayscale tones, with realistic texture translated into a refined digital illustration style. Surrounding the subject are expressive abstract paint strokes and splashes in neon green and electric blue, adding energy and contrast without covering facial details. Background & Lighting: The background is dark and dramatic, layered with deep grey tones, subtle texture, and painterly motion. Cinematic lighting creates strong subject separation, clean highlights, and controlled shadows. Overall Aesthetic: Modern, cinematic, surreal digital illustration with a 2/3 photoreal-illustration balance and 1/3 abstract expression, poster-quality, high contrast, premium look. Aspect Ratio: 4:5",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7137-690-Surreal-Cinematic-Digital-Illustration-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7137-692-Surreal-Cinematic-Digital-Illustration-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,16 +457,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11299-170",
-      "title": "Sabrina Carpenter Lookalike in Retro Maid Outfit",
-      "prompt": "{ “subject”: { “description”: “A full-body photograph of a woman resembling {argument name=\"celebrity name\" default=\"Sabrina Carpenter\"} posing in a vintage 1950s kitchen.”, “body”: { “physique”: “A striking, curvaceous hourglass figure with pronounced natural proportions. She has an ample, full bust with deep cleavage pushed up by the outfit, a narrow, defined waist creating a strong curve, and shapely wide hips and rounded glutes creating a voluptuous silhouette prominent in the sitting pose.”, “pose”: “Sitting elegantly on the dark retro Formica countertop, posing like a professional model. Her legs are crossed gracefully, showing off the stockings and heels. One hand is delicately placed on her thigh, the other rests on the counter behind her, supporting a slightly leaned-back, arched posture that emphasizes her hourglass silhouette. Her head is turned to look directly at the camera.”, “features”: “Uncanny resemblance to Sabrina Carpenter. Signature blonde hair with bangs styled in retro waves with volume. A small white lace maid headpiece. Playful makeup with red lips and natural skin texture. Sultry, alluring expression with a slight smile.” }, “wardrobe”: { “outfit”: “An extremely short micro-mini black satin french maid dress featuring elaborate white lace trim and frills, a small white apron tied at the waist, sheer black stockings with visible garters, and black high heels. The fit is extremely tight and corset-style in the bodice, snugly containing her curves.”, “accessories”: “White lace maid headpiece.” } }, “pose_action”: “Sabrina Carpenter lookalike in a skimpy maid costume sitting elegantly on a retro kitchen counter, posing like a model with legs crossed and looking at the camera.”, “scene”: { “environment”: “A retro 1950s style kitchen with a vintage, nostalgic, kitschy aesthetic.”, “elements”: “Distinctive red, white, and black geometric patterned linoleum floor, green tiled lower walls, white cabinetry with red trim and handles, dark countertops, a vintage green stool, and a fruit-patterned wallpaper border near the ceiling.”, “composition”: “A vertical (9:16) amateur full-body photograph framing her completely while seated on the counter.” }, “lighting”: { “setup”: “Bright retro indoor lighting mixed with natural light from a window.”, “details”: “Creating a vintage film glow. No filter, sharp focus.” }, “camera”: { “technical”: “Ultra_photorealistic, raw style, 8k image captured on an iPhone 15 Pro Max. Amateur full-body photograph style.”, “aspect_ratio”: “9:16” } }",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11291-170",
+      "title": "Playful Crayon Drawing Notebook Style Prompt",
+      "prompt": "A High resolution a playful notebook-style crayon drawing of the person [Use the uploaded image as reference] , keeping the same face, hairstyle, and outfit. Also, draw with uneven crayon strokes and bold outlines for a hand-drawn effect. Meanwhile, add doodle-style elements like a sun, clouds, trees, and small colorful houses in the background on blue lined paper with a red margin. Next, make the image look like a fun school notebook sketch, full of bright colors and childlike charm. Finally, use a vertical portrait to complete the composition.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11299-170-Sabrina-Carpenter-Lookalike-in-Retro-Maid-Outfit.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11291-170-Playful-Crayon-Drawing-Notebook-Style-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -514,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32110-270",
-      "title": "Indie Sleaze Glamour Portrait",
-      "prompt": "A curly blonde sprawled across a tufted Victorian loveseat, heels kicked to the ceiling - crimson walls, direct flash, pure late-night indie-sleaze glamour. { \"scene\": { \"subject\": \"A young woman with long, voluminous curly blonde hair — warm honey-gold with lighter sun-bleached ends, falling in dense spirals past her shoulders and across her back. Fair skin with a warm glow, softly flushed cheeks, glossy lip, subtle liner. Slim, long-legged build. Half-lidded, languid gaze toward the lens.\", \"wardrobe\": { \"dress\": \"Cream-white off-the-shoulder mini dress in a soft satin-cotton blend, elasticated bardot neckline, long fitted sleeves, ruffled asymmetric hem with a small bow detail at the hip\", \"hosiery\": \"Sheer black tights with a fine back seam running up the calf\", \"shoes\": \"Black patent Mary Jane platform heels with double ankle straps and silver buckles\", \"accessories\": [ \"Slim silver rings on the fingers\", \"Small delicate ear studs\" ], \"styling_note\": \"Cream and black against a saturated crimson room — coquette-baroque layering\" }, \"pose\": \"Sprawled sideways across a small antique loveseat, torso draped over one armrest with the chin propped near a raised hand, chest turned toward the camera. Both legs extended and lifted high off the seat, one knee bent, heels kicked toward the ceiling in a loose scissoring line. Back arched, hair cascading over one shoulder.\", \"setting\": \"A dim, ornately decorated sitting room. Carved dark-walnut Victorian loveseat with scrolled crest rail and cabriole legs, upholstered in cream tufted damask with pearl buttons. Deep crimson-red painted walls. Scattered burgundy and gold tapestry cushions with fringed trim. A brass floor lamp with dangling crystal droplets and amber glass at the edge of frame. Warm honey-toned hardwood floor, a patterned ivory-and-red area rug, and the glass edge of a low ornate coffee table in the near foreground.\" }, \"composition\": { \"framing\": \"Square 1:1, wide-ish full-body shot\", \"camera_angle\": \"CHANGED ANGLE — high overhead three-quarter view from behind the far armrest, the lens tilted down at roughly 50°. The loveseat is seen foreshortened from above and slightly beyond the subject's feet, so her raised legs read as the nearest element, her torso recedes into the frame, and her upturned face is the deepest anchor point. The crimson wall now occupies the top-left corner rather than the full backdrop, and the patterned rug and hardwood floor fill more of the lower frame.\", \"perspective_effect\": \"Strong downward foreshortening — the legs loom large and taper, the tufted seat back flattens into a decorative field, and the carved wood frame draws an S-curve across the composition\", \"subject_placement\": \"Body running diagonally from upper-right (feet) to lower-left (head), face at the lower-left third\", \"foreground\": \"Blurred crystal droplets of the floor lamp intruding at the frame edge; soft glassy reflection from the coffee table below\", \"depth\": \"Compressed but layered — raised heels sharp and near, upholstery mid-plane, red wall and lamp receding into shadow\" }, \"color_and_tone\": { \"palette\": [ \"Deep crimson / oxblood red (walls, cushions, rug motifs)\", \"Cream and antique ivory (dress, tufted upholstery)\", \"Matte black (tights, patent shoes)\", \"Warm honey-gold (hair, hardwood, brass lamp)\", \"Dark walnut brown (carved frame)\", \"Muted sage and gold (tapestry embroidery)\" ], \"grading\": \"Warm, heavily saturated analog grade. Reds pushed rich and slightly orange, creams tinted amber, blacks dense with a faint magenta cast in the shadows.\", \"contrast\": \"High, punchy, with deep shadow pockets in the corners\", \"temperature\": \"Warm tungsten, roughly 3000–3400K feel\" }, \"lighting\": { \"quality\": \"Hard direct camera flash cutting into warm ambient lamplight\", \"direction\": \"Frontal flash from the raised camera position, casting a short hard shadow of the subject down onto the upholstery\", \"shadows\": \"Crisp and immediate beneath the body and behind the legs\", \"highlights\": \"Hot specular flare on the patent shoes, glints on the crystal droplets and brass, sheen across the satin dress\", \"mood_of_light\": \"Late-night party snapshot — raw flash against opulent domestic clutter\" }, \"technical\": { \"lens_look\": \"24–28mm wide angle, moderate depth of field around f/4\", \"focus_point\": \"Subject's face and upper torso\", \"bokeh\": \"Slight softening at the frame edges and foreground crystals\", \"texture\": \"Visible 35mm film grain, mild halation around flash highlights, dust specks, noticeable corner vignette\" }, \"style\": { \"genre\": \"Editorial / film-look portrait\", \"references\": \"Vintage disposable-camera party photography, 2000s indie-sleaze revival, baroque-maximalist interiors\", \"mood\": [ \"sultry\", \"nostalgic\", \"decadent\", \"candid\", \"coquettish\", \"moody\" ], \"keywords\": [ \"curly blonde\", \"cream mini dress\", \"sheer black tights\", \"patent Mary Janes\", \"Victorian loveseat\", \"red walls\", \"direct flash\", \"high angle\", \"film grain\" ] } }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32108-266",
+      "title": "Italian Neorealism Moped Portrait",
+      "prompt": "A young adult male exudes confident masculinity, positioned centrally and leaning slightly to his right at a 45-degree angle against a vintage {argument name=\"moped color\" default=\"navy blue\"} moped. He features dark, slicked-back hair catching subtle specular highlights from styling product, and his expression is fixed in a calm, closed-mouth neutral state, his gaze directed off-camera to the left from behind dark rectangular sunglasses. He is dressed in a {argument name=\"outfit top\" default=\"fitted light grey short-sleeve t-shirt\"} and dark brown high-waisted pleated trousers. His left hand is casually tucked into his trouser pocket, exposing only his wrist and forearm resting against his hip, while his right hand rests lightly on the moped left handlebar, his relaxed fingers draped gently over the grip to reveal silver rings. In the immediate foreground, the navy blue Piaggio moped features a chrome headlight casing. Behind him unfolds a medium-depth vintage European cobblestone street, framed asymmetrically to balance his visual weight against the left side of the scene. To the left in the midground, there is a dominant vintage dark carved wood window frame, while two worn dark wood chairs with woven rush seats sit stacked beneath it. To the right, a worn dark brown paneled wooden door features a circular brass knocker and silver handle, adjacent to a weathered off-white matte plaster wall with patchy warm grey undertones, faded peach borders, and minor dirt accumulation, bearing an aged black cast iron wall-mounted post box with a crest emblem, all grounded by a dark charcoal grey concrete and cobblestone floor. The atmosphere is quiet, moody, and sophisticated, bathed in soft, diffused natural lighting spilling from a single large overcast sky source above. This neutral-temperature, low-contrast lighting casts short, soft-edged shadows beneath his chin, under the moped chassis, and lightly along the textured wall, while leaving subtle specular highlights on his left shoulder and the moped chrome details. The desaturated, cool-toned color profile heavily emphasizes dark warm browns, off-whites, and charcoal contrasted against the cool navy blue. Shot straight-on as a medium editorial portrait drawing from Italian Neorealism cinema, captured with a 50mm lens at f/4.0, ISO 400, and a 1/250s shutter speed to maintain a tack-sharp subject alongside medium depth of field. The final image undergoes post-processing with a desaturated color grade pulling down greens and blues, a lifted black point, and a subtle film grain overlay to achieve a faded cinematic tonality, framed in a 4:5 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32110-270-Indie-Sleaze-Glamour-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32108-266-Italian-Neorealism-Moped-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24715-536",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24715-537",
       "title": "Realistic Asian Woman Loungewear Portrait",
       "prompt": "Create a highly realistic close-up portrait of a beautiful young Asian woman with bright porcelain-white skin and perfectly symmetrical facial features. She is standing outdoors in a home setting, such as a front porch, house yard, or garden area. Her body is posed slightly sideways while her head turns toward the camera. She has a calm, soft, and gentle expression. Outfit: Wearing a matching {argument name=\"clothing style\" default=\"sleepwear/loungewear set\"}. Cream-colored crop top with {argument name=\"pattern\" default=\"cherry fruit patterns\"}. Short sleeves featuring delicate white lace wave trim on the sleeve edges. V-neck collar with a small elegant red ribbon detail on the chest. Dark red high-waisted shorts with an elastic waistband. Small red ribbon at the center of the waistband. White lace wave trim detail along the hem of the shorts. Accessories: Elegant gold necklace with a small pendant displaying the name \"{argument name=\"name\" default=\"Fitri\"}\". Small stud earrings. Makeup: Natural makeup look. Naturally glowing skin with visible skin texture and subtle pores. Thick, neatly groomed natural eyebrows. Thick, dramatic curled eyelashes. Rosy pink lips that appear juicy, plump, and hydrated. Hair: Long, deep black hair. Extremely smooth, silky, and healthy shine. Styled in a single ponytail. Curly waves at the lower section of the ponytail. Slightly messy volume at the top. Loose strands of hair falling naturally across the forehead and sides of the face. Background: Black iron fence visible behind her. Outside the fence, a road and green rice fields can be seen. Mountains visible in the distance. Bright clear blue sky. A tree positioned beside her, only partially visible within the frame. Lighting: Natural morning sunlight. Soft bright illumination on the face. Fresh, vibrant color palette with bright tones, rich greens, and vivid blues. Photography Style: Half-body portrait. Close-up composition. Ultra-realistic photography. High detail and lifelike skin texture. Natural depth of field. Lively, realistic background. Professional portrait photography. Sharp focus on the face. 9:16 vertical aspect ratio. Photorealistic, ultra-detailed, high-resolution, realistic lighting, realistic shadows, realistic colors. Important: Do not alter the woman's facial identity or facial structure. Preserve her original face exactly while applying the described hairstyle, outfit, makeup, pose, lighting, and environment.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24715-536-Realistic-Asian-Woman-Loungewear-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24715-537-Realistic-Asian-Woman-Loungewear-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +590,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7149-692",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7149-694",
       "title": "AI Action Movie Poster Prompt",
       "prompt": "Action movie poster style, strongest spy, mission complete, not looking back at the explosion, {argument name=\"style\" default=\"cinematic\"}, {argument name=\"color tone\" default=\"dark tone\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7149-692-AI-Action-Movie-Poster-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7149-694-AI-Action-Movie-Poster-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -628,16 +609,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11296-171",
-      "title": "Hyper-Realistic Sabrina Carpenter Portrait Prompt",
-      "prompt": "{ \"subject\": { \"identity\": { \"biometric_reference\": \"{argument name=\"Character Reference\" default=\"Sabrina Carpenter\"}\", \"facial_structure\": { \"morphology\": \"Heart-shaped facial architecture with soft malar definition and a delicate mandibular line. High-fidelity replication of the philtrum and a pronounced Cupid's bow.\", \"eyes\": \"Almond-shaped ocular structure with complex blue iris patterns (Hex: #5D8AA8). Hyper-realistic limbal rings and symmetrical lash distribution.\", \"skin\": \"Fair complexion with authentic dermis textures, including fine pores and natural subsurface scattering (Hex: #FCE5D6). No digital smoothing or artificial filters.\", \"lips\": \"Neutral closed-mouth posture with a high-gloss satin pink finish (Hex: #F48FB1). Precise vermilion border definition with anatomical lip volume preservation.\" }, \"body\": { \"somatotype\": \"Petite and slender ectomorphic build. Accurate representation of the subject's 1.52m height-to-frame proportions with a high waist-to-hip ratio.\", \"lower_extremities\": \"Complete exposure of the lower limbs with high-resolution epidermal rendering. Detailed patellar (kneecap) anatomy and visible muscular tone in the quadriceps. No hosiery, no stockings, no fabric coverage on legs.\", \"extremities\": \"Anatomically perfect hands and feet. Five distinct fingers and toes with realistic nail bed textures and joint articulation. One hand interacting naturally with the pigtail hair.\", \"integrity\": \"Zero tolerance for skeletal distortion. Correct bone-to-muscle ratio in the clavicle and limb regions.\" } }, \"hair\": { \"style\": \"Signature voluminous honey-blonde (#EADFB4) hair partitioned into high twin pigtails. Individual strand rendering with fine texture and natural specular highlights.\", \"accessories\": \"Decorated with various pastel geometric clips. Left side: blue star (#87CEEB), purple flower (#DA70D6), pink star (#FF69B4), green rectangle (#32CD32). Right side: purple star, blue star, yellow star.\" }, \"wardrobe\": { \"top\": \"Baby pink (Hex: #F8C3CD) sleeveless cropped tank top. Heavyweight ribbed cotton-poly blend with visible fiber weaving. Form-fitting silhouette with zero text or commercial branding.\", \"graphic_on_top\": \"Central high-fidelity graphic of a stylized white feline character featuring a pink bow (Hex: #FF69B4), green attire (Hex: #8BC34A), and yellow accents.\", \"bottom\": \"Compact-cut checkered bottoms with a high-waisted athletic hemline. Woven pattern consists of alternating yellow (Hex: #FFD700) and lime green (Hex: #D4E157) squares.\", \"accessories\": \"Pink (Hex: #F48FB1) ribbed-knit fingerless arm warmers on both forearms with clear 1x1 knit texture definition.\" }, \"pose_action\": { \"description\": \"Seated centrally on a plush surface, facing the lens with a direct gaze. Left hand hol",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11299-171",
+      "title": "Sabrina Carpenter Lookalike in Retro Maid Outfit",
+      "prompt": "{ “subject”: { “description”: “A full-body photograph of a woman resembling {argument name=\"celebrity name\" default=\"Sabrina Carpenter\"} posing in a vintage 1950s kitchen.”, “body”: { “physique”: “A striking, curvaceous hourglass figure with pronounced natural proportions. She has an ample, full bust with deep cleavage pushed up by the outfit, a narrow, defined waist creating a strong curve, and shapely wide hips and rounded glutes creating a voluptuous silhouette prominent in the sitting pose.”, “pose”: “Sitting elegantly on the dark retro Formica countertop, posing like a professional model. Her legs are crossed gracefully, showing off the stockings and heels. One hand is delicately placed on her thigh, the other rests on the counter behind her, supporting a slightly leaned-back, arched posture that emphasizes her hourglass silhouette. Her head is turned to look directly at the camera.”, “features”: “Uncanny resemblance to Sabrina Carpenter. Signature blonde hair with bangs styled in retro waves with volume. A small white lace maid headpiece. Playful makeup with red lips and natural skin texture. Sultry, alluring expression with a slight smile.” }, “wardrobe”: { “outfit”: “An extremely short micro-mini black satin french maid dress featuring elaborate white lace trim and frills, a small white apron tied at the waist, sheer black stockings with visible garters, and black high heels. The fit is extremely tight and corset-style in the bodice, snugly containing her curves.”, “accessories”: “White lace maid headpiece.” } }, “pose_action”: “Sabrina Carpenter lookalike in a skimpy maid costume sitting elegantly on a retro kitchen counter, posing like a model with legs crossed and looking at the camera.”, “scene”: { “environment”: “A retro 1950s style kitchen with a vintage, nostalgic, kitschy aesthetic.”, “elements”: “Distinctive red, white, and black geometric patterned linoleum floor, green tiled lower walls, white cabinetry with red trim and handles, dark countertops, a vintage green stool, and a fruit-patterned wallpaper border near the ceiling.”, “composition”: “A vertical (9:16) amateur full-body photograph framing her completely while seated on the counter.” }, “lighting”: { “setup”: “Bright retro indoor lighting mixed with natural light from a window.”, “details”: “Creating a vintage film glow. No filter, sharp focus.” }, “camera”: { “technical”: “Ultra_photorealistic, raw style, 8k image captured on an iPhone 15 Pro Max. Amateur full-body photograph style.”, “aspect_ratio”: “9:16” } }",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11296-171-Hyper-Realistic-Sabrina-Carpenter-Portrait-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11299-171-Sabrina-Carpenter-Lookalike-in-Retro-Maid-Outfit.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -666,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31992-271",
-      "title": "Whimsical Animal at Night",
-      "prompt": "A cute white bear sits alone on the edge of a waterfront at night, gazing across the shimmering water toward a brightly lit modern city skyline with a prominent tower. The sky is filled with stars and wispy clouds, creating a dreamy, serene atmosphere in a soft, anime-inspired art style. A cute white cartoon cat with big blue eyes sits on a wooden dock by a calm lake at twilight, holding a glowing lantern that reflects on the water. The background features lush green trees, lily pads, and a serene sky filled with stars and wispy clouds, creating a peaceful and enchanting mood in a soft, whimsical art style.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31986-269",
+      "title": "Mountain Viewpoint Athletic Portrait",
+      "prompt": "A {argument name=\"subject\" default=\"young woman with fair skin and naturally soft facial features\"}, standing on a scenic elevated viewing platform surrounded by lush mountain vegetation. She has long blonde hair styled in a relaxed low ponytail, with a few loose strands framing her face and gently catching the outdoor breeze. She is turned slightly away from the camera while looking back over her shoulder with a warm, natural smile and a calm, cheerful expression. Her posture is relaxed, with both forearms resting comfortably on the wooden railing as she takes in the panoramic landscape. She is wearing a {argument name=\"outfit\" default=\"coordinated deep burgundy athletic-style outfit\"} consisting of a fitted sleeveless crop top with thin shoulder straps and subtle horizontal strap detailing across the upper back, paired with matching high-waisted fitted shorts. The clothing has a clean sporty aesthetic with realistic stretch fabric, fine texture, natural folds, and subtle highlights. Keep accessories minimal and understated, with no distracting jewelry. The setting is a wooden observation deck overlooking a vast mountainous landscape covered with layers of green forest and drifting clouds. A dark metal and wooden safety railing runs across the viewpoint, while a green informational sign is positioned toward the left side of the frame. Tall trees surround the platform, creating a natural foreground and framing the distant scenery. The background contains {argument name=\"landscape details\" default=\"layered blue-green mountains partially covered by soft white clouds\"} beneath an expansive overcast sky. Use soft diffused outdoor daylight filtered through the cloud cover, producing gentle shadows, realistic skin tones, subtle highlights in the blonde hair, and atmospheric depth across the distant mountains. Capture the peaceful feeling of a cool mountain morning with natural colors and a slightly cinematic atmosphere. Shot on an 85mm lens, natural outdoor daylight, moderate shallow depth of field, realistic perspective, cinematic color grading, soft atmospheric contrast, high dynamic range, detailed skin and hair texture, realistic fabric texture, natural environmental detail, photorealistic travel photography, documentary-inspired composition, balanced framing, crisp subject detail, softly layered mountain background, high resolution, authentic candid lifestyle photography aesthetic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31992-271-Whimsical-Animal-at-Night.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31986-269-Mountain-Viewpoint-Athletic-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -723,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24378-555",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24378-556",
       "title": "Monochrome Sage Green Fashion Lookbook",
       "prompt": "A professional fashion studio photoshoot of a {argument name=\"subject\" default=\"young East Asian woman\"} with a sleek, chin-length bob haircut, showcasing a modern monochromatic {argument name=\"color theme\" default=\"sage green\"} outfit. She is wearing a tailored sage green button-up vest paired with matching high-waisted, wide-leg trousers, and has a textured, oversized sage green wool trench coat draped elegantly over her shoulders. Her accessories include layered gold chain necklaces with a key pendant, delicate gold bracelets, and chunky cream-colored strappy fisherman sandals. The scene is shot against a {argument name=\"backdrop\" default=\"minimalist, muted soft mint-green backdrop\"}, capturing a clean, sophisticated, and contemporary aesthetic. The prompt should generate a collection of full-body and three-quarter shots from multiple angles: standing confidently with one hand in her pocket, sitting relaxed on a simple wooden block crate against a textured wall, and a dynamic mid-shot capturing her smiling while adjusting the lapels of her draped coat. The lighting is soft and even, highlighting the clean tailoring, textures of the fabrics, and an elegant, calm expression.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24378-555-Monochrome-Sage-Green-Fashion-Lookbook.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24378-556-Monochrome-Sage-Green-Fashion-Lookbook.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6996-696",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6996-698",
       "title": "Epic Chinese Fantasy Zodiac Deities Prompt (12 Characters)",
       "prompt": "Real human body + spiritual light phantom behind Overall Style and Quality Visual Style: Top-tier realistic cultivation scroll, surreal cinematic commercial blockbuster, hardcore Eastern fantasy aesthetic. Core Parameters: 8K ultra-high resolution, film texture, real skin texture (rejecting plastic/anime feel). Physical Rules: Realistic light and shadow simulation, emphasizing the character's gravity and physical feedback in a specific environment. Composition Strategy: Ultra-wide horizontal composition. The twelve Zodiac incarnations are arranged scattered from left to right in the same grand immortal realm, with no visual blind spots. Unified Worldview: The scene is set in the unified “Hongmeng Immortal Realm.” The environment gradually transitions from the chaotic spiritual veins on the left to the sea of clouds and immortal traces on the right. All characters share the same set of atmospheric light and shadow; the actual Zodiac animals are strictly prohibited from appearing. Core Visual Features • Character Form: All figures are real human forms with extremely high aesthetic value, retaining human facial features and skin texture. • Zodiac Representation: Zodiac characteristics are embodied through the characters' clothing tailoring, color details, personal magical treasures, and the grand “Beast Spirit/Martial Soul” phantom composed of pure spiritual light behind the character. • Beast Spirit Manifestation: The Beast Spirit appears as a translucent light state or phantom, entirely woven from flowing spiritual energy and radiance, lacking physical texture, enveloping the character from behind and above like a miracle, full of divinity. Photography and Lighting • Equipment: Canon EOS R5, 35mm prime lens. • Lighting Design: Uniformly illuminated by the “Immortal Realm Morning Glow,” light enters from one side of the frame, creating the Tyndall effect. • Ambient Light Compensation: The Beast Spirit light and shadow behind the character emit a soft innate spiritual light, refracting with the clouds, mist, and sword energy in the immortal realm. Character Distribution and Detailed Description 1. Rat (Water): Far right, sea of clouds. Human form is a nimble youth in dark attire, with a massive, light-translucent Rat phantom suspended behind, eyes alert. 2. Ox (Earth): A steady, strong man in dark bronze heavy armor. Behind him stands a mountain-like Azure Ox light phantom, demonstrating the power to lift mountains. 3. Tiger (Wood): A dominant commander in a black and gold tiger-striped robe. Behind him is a Tiger Spirit light phantom, with flowing light and shadow, seemingly descending from the mountain. 4. Rabbit (Wood): A cool, ethereal fairy in a moon-white flowing immortal dress. Accompanied by a Jade Rabbit phantom, entirely condensed from white light and emitting soft radiance, creating an ethereal atmosphere. 5. Dragon (Metal): Occupying a high position, in a dark dragon scale robe, supremely noble. Behind him coils a hundred-zhang long, majestic and sacred Giant Dragon spiritual light phantom. 6. Snake (Fire): A seductive mystic in a purple snake-patterned satin robe. Behind her slithers a long, deep, Spiritual Snake phantom composed of purple flowing light. 7. Horse (Fire): A valiant sword cultivator in crimson battle gear. Behind him is a fiery Steed light phantom, hooves treading fire, ready to gallop. 8. Sheep (Earth): A gentle healer in a beige cotton and linen immortal dress. Behind her appears a peaceful, hazy White Sheep light phantom, like auspicious clouds. 9. Monkey (Metal): An untamed battle expert in battle-damaged gold armor. Behind him is a Monkey Spirit light phantom, holding a divine weapon and looking down upon the world. 10. Rooster (Metal): The dawn watcher, in a feather-cut battle robe. Wings spread behind him, revealing a flowing gold, radiant Phoenix light phantom, like a mirage. 11. Dog (Earth): A loyal general in leather and metal light armor. Behind him is an upright, protective Spiritual Dog light phantom. 12. Pig (Water): Far left, by the spiritual spring. A leisurely immortal in loose blue robes. Behind him swirls a deeply blessed Spiritual Pig phantom, composed of rich aura. Final Vision This is no longer a collection of isolated individuals, but an epic assembly of the twelve Zodiac deities in a unified immortal realm. Through the visual structure of “Real Human Body + Spiritual Light Phantom Behind,” it perfectly balances the emotional beauty of humans with the mythological depth of the Zodiac, constructing the ultimate Eastern fantasy universe.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6996-696-Epic-Chinese-Fantasy-Zodiac-Deities-Prompt-12-Characters.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6996-698-Epic-Chinese-Fantasy-Zodiac-Deities-Prompt-12-Characters.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11292-172",
-      "title": "Intimate Bohemian Portrait Prompt (Jenna Ortega & Emma Myers)",
-      "prompt": "{ \"title\": \"Intimate Artistic Portrait of Two Women in Cozy Bohemian Bedroom\", \"description\": \"Ultra-realistic cinematic portrait of two young adult women sitting closely together on a colorful bed inside a cozy, softly lit bohemian-style bedroom. The mood is intimate, emotional, and tender rather than explicit. The composition captures a quiet, vulnerable moment between them.\", \"subjects\": [ { \"gender\": \"female\", \"age\": \"young adult (20-25)\", \"hair\": \"jet black hair styled in two loose braids with soft bangs framing the face\", \"expression\": \"serious, contemplative, slightly guarded\", \"pose\": \"sitting cross-legged on bed, torso slightly turned toward the other woman, one hand lightly holding her shirt near the chest\", \"outfit\": \"oversized black pinstriped button-down shirt, partially unbuttoned, subtle glimpse of midriff\", \"accessories\": \"black lace knee-high stockings\", \"skin_tone\": \"fair with natural soft texture\", \"makeup\": \"minimal, soft eyeliner, natural lips\" }, { \"gender\": \"female\", \"age\": \"young adult (20-25)\", \"hair\": \"shoulder-length platinum blonde hair with subtle pastel lavender tint, soft waves\", \"expression\": \"gentle, affectionate, slightly intense gaze directed at the other woman\", \"pose\": \"sitting very close, knees touching, leaning inward, one hand resting lightly near the other woman's chest\", \"outfit\": \"oversized lavender striped button-down shirt, partially unbuttoned\", \"accessories\": \"white lace ankle socks\", \"skin_tone\": \"fair with smooth natural finish\", \"makeup\": \"soft pink lips, subtle blush, natural eye makeup\" } ], \"environment\": { \"location\": \"cozy attic-style bedroom\", \"bed\": \"small bed with colorful patterned bedspread featuring floral and abstract prints\", \"background_elements\": [ \"soft warm table lamp with yellow glow\", \"wooden interior walls\", \"colorful draped fabrics in green, red, and purple hanging from ceiling\", \"plush toys and decorative items on shelf\", \"soft ambient indoor lighting\" ], \"atmosphere\": \"warm, intimate, dreamy, slightly bohemian aesthetic\" }, \"lighting\": { \"type\": \"soft cinematic indoor lighting\", \"key_light\": \"warm lamp light from upper left side creating gentle highlights\", \"fill_light\": \"subtle ambient fill to maintain skin detail\", \"shadows\": \"soft natural shadows with depth\", \"color_temperature\": \"warm golden tones balanced with natural skin colors\" }, \"camera\": { \"angle\": \"eye-level medium full shot\", \"framing\": \"vertical portrait orientation\", \"lens\": \"85mm portrait lens\", \"aperture\": \"f/1.8\", \"depth_of_field\": \"shallow depth of field, softly blurred background\", \"focus\": \"sharp focus on faces and hands\", \"resolution\": \"8K ultra-detailed\" }, \"style\": { \"photorealism\": \"hyper-realistic",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11296-172",
+      "title": "Hyper-Realistic Sabrina Carpenter Portrait Prompt",
+      "prompt": "{ \"subject\": { \"identity\": { \"biometric_reference\": \"{argument name=\"Character Reference\" default=\"Sabrina Carpenter\"}\", \"facial_structure\": { \"morphology\": \"Heart-shaped facial architecture with soft malar definition and a delicate mandibular line. High-fidelity replication of the philtrum and a pronounced Cupid's bow.\", \"eyes\": \"Almond-shaped ocular structure with complex blue iris patterns (Hex: #5D8AA8). Hyper-realistic limbal rings and symmetrical lash distribution.\", \"skin\": \"Fair complexion with authentic dermis textures, including fine pores and natural subsurface scattering (Hex: #FCE5D6). No digital smoothing or artificial filters.\", \"lips\": \"Neutral closed-mouth posture with a high-gloss satin pink finish (Hex: #F48FB1). Precise vermilion border definition with anatomical lip volume preservation.\" }, \"body\": { \"somatotype\": \"Petite and slender ectomorphic build. Accurate representation of the subject's 1.52m height-to-frame proportions with a high waist-to-hip ratio.\", \"lower_extremities\": \"Complete exposure of the lower limbs with high-resolution epidermal rendering. Detailed patellar (kneecap) anatomy and visible muscular tone in the quadriceps. No hosiery, no stockings, no fabric coverage on legs.\", \"extremities\": \"Anatomically perfect hands and feet. Five distinct fingers and toes with realistic nail bed textures and joint articulation. One hand interacting naturally with the pigtail hair.\", \"integrity\": \"Zero tolerance for skeletal distortion. Correct bone-to-muscle ratio in the clavicle and limb regions.\" } }, \"hair\": { \"style\": \"Signature voluminous honey-blonde (#EADFB4) hair partitioned into high twin pigtails. Individual strand rendering with fine texture and natural specular highlights.\", \"accessories\": \"Decorated with various pastel geometric clips. Left side: blue star (#87CEEB), purple flower (#DA70D6), pink star (#FF69B4), green rectangle (#32CD32). Right side: purple star, blue star, yellow star.\" }, \"wardrobe\": { \"top\": \"Baby pink (Hex: #F8C3CD) sleeveless cropped tank top. Heavyweight ribbed cotton-poly blend with visible fiber weaving. Form-fitting silhouette with zero text or commercial branding.\", \"graphic_on_top\": \"Central high-fidelity graphic of a stylized white feline character featuring a pink bow (Hex: #FF69B4), green attire (Hex: #8BC34A), and yellow accents.\", \"bottom\": \"Compact-cut checkered bottoms with a high-waisted athletic hemline. Woven pattern consists of alternating yellow (Hex: #FFD700) and lime green (Hex: #D4E157) squares.\", \"accessories\": \"Pink (Hex: #F48FB1) ribbed-knit fingerless arm warmers on both forearms with clear 1x1 knit texture definition.\" }, \"pose_action\": { \"description\": \"Seated centrally on a plush surface, facing the lens with a direct gaze. Left hand hol",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11292-172-Intimate-Bohemian-Portrait-Prompt-Jenna-Ortega-Emma-Myers.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11296-172-Hyper-Realistic-Sabrina-Carpenter-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31991-272",
-      "title": "Summer Beach Pizza Party",
-      "prompt": "Hyper-realistic close-up vertical amateur iPhone shot of a {argument name=\"subject\" default=\"thin young woman around 21 years old\"} happily eating a big slice of pizza napoletana and smiling. Athletic and toned physique, natural proportions. She is with a few girlfriends chilling in the shade of a fancy beach restaurant close to the sea, laughing together. Elegant summer style, midday light, subtle blurry background. {argument name=\"swimsuit\" default=\"Modern yellow summer swimsuit\"}. {argument name=\"eye color\" default=\"Cyan eyes\"}.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31998-272",
+      "title": "Whimsical Ferret Ball Pit Illustration",
+      "prompt": "a {argument name=\"animal\" default=\"curious ferret\"} joyfully playing in a {argument name=\"object\" default=\"colorful plastic ballpit\"}, dozens of bright red, blue, yellow, and green balls surrounding it, low angle view, soft even lighting, sharp focus on the ferret’s face, vibrant playful atmosphere, high detail, {argument name=\"style\" default=\"whimsical illustration style\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31991-272-Summer-Beach-Pizza-Party.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31998-272-Whimsical-Ferret-Ball-Pit-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24400-557",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24400-558",
       "title": "Elegant Gowns Greenhouse Editorial",
       "prompt": "A high-fashion editorial portrait of two elegant women posing inside a classical, sunlit greenhouse or orangery filled with lush tropical plants, ferns, and potted citrus trees. The structure features grand, weathered stone columns and a glass-paneled roof that diffuses natural sunlight. On the left, a woman with slicked-back hair leans gracefully against a column, wearing a strapless, {argument name=\"dress one\" default=\"form-fitting emerald green velvet gown\"} with a thigh-high slit and neutral strappy heels. On the right, a woman with a chic bob haircut looks upward in profile, wearing a {argument name=\"dress two\" default=\"flowing, sleeveless navy blue a-line gown\"} adorned with intricate gold embroidery across the bodice. The scene has a luxurious, timeless atmosphere, blending classical architecture with high-end evening wear and vibrant botanical surroundings.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24400-557-Elegant-Gowns-Greenhouse-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24400-558-Elegant-Gowns-Greenhouse-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6756-697",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6756-699",
       "title": "Epic 3D Passport Odyssey Scene",
       "prompt": "Epic 3D scene: a weathered passport lies open, its visa stamps erupting into the destinations they represent. Each ink impression becomes a portal—[{argument name=\"city 1\" default=\"CITY 1\"}] rises in miniature from one stamp with [{argument name=\"detail 1\" default=\"DETAIL 1\"}], [CITY 2] pushes through another with [DETAIL 2], [CITY 3] manifests with [DETAIL 3]. [LANDMARK 1], [LANDMARK 2], and [LANDMARK 3] stand at different scales across the pages. Flight paths arc overhead as glowing golden trajectories weaving between all the worlds. Coffee stains become lakes. Worn edges erode into coastlines. [ATMOSPHERIC ELEMENT 1] drifts from one destination while [ATMOSPHERIC ELEMENT 2] swirls near another. Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. The bureaucratic document transformed into a living archive of adventures.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6756-697-Epic-3D-Passport-Odyssey-Scene.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6756-699-Epic-3D-Passport-Odyssey-Scene.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -932,21 +913,40 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11302-173",
-      "title": "Hyper-realistic Sabrina Carpenter Biometric Prompt",
-      "prompt": "{ \"subject\": { \"identity\": { \"biometric_reference\": \"{argument name=\"biometric reference\" default=\"Sabrina Carpenter\"}\", \"facial_structure\": \"Heart-shaped face morphology with a defined, narrow mandibular angle and prominent zygomatic arches; specific philtrum depth and pronounced Cupid's bow on full vermilion lips; distinct nasal bridge linearity.\", \"hair\": { \"style\": \"Voluminous blonde hair styled in soft, cinematic waves; signature thick curtain bangs framing the face with precise layering; high-fidelity strand separation and natural movement.\", \"color\": \"#FBF2D5 pale honey blonde with subtle platinum highlights\", \"physics\": \"Natural hair luster with realistic subsurface scattering on fine strands; zero synthetic clumpiness.\" }, \"ocular_details\": \"Iris pattern with intricate radial furrows in a blue-grey #7A9E9F hue; visible limbal rings; anatomically correct sclera hydration; realistic lacrimal caruncle placement.\", \"dentition\": \"Standard human dental alignment with natural incisor transparency and subtle occlusal surface textures; visible when lips are slightly parted.\" }, \"body\": { \"somatotype\": \"Ecto-mesomorphic petite frame with a high waist-to-hip ratio; precise anatomical muscle definition in the rectus femoris and gastrocnemius; defined clavicle and suprasternal notch visibility.\", \"skin_physics\": { \"base_tone\": \"#F5E1D2 creamy porcelain\", \"surface_properties\": \"High-fidelity subsurface scattering (SSS) on epidermal layers; visible follicular pores and micro-creases on joints; zero artificial smoothing filters.\", \"details\": \"Natural mole and freckle distribution mapped to biometric reference; absence of digital artifacts.\" } } }, \"wardrobe\": { \"primary_garment\": { \"type\": \"Form-fitting corset-style mini-dress\", \"color\": \"#E8ACC0 pale pink and #FFFFFF optic white gingham pattern\", \"material_physics\": \"Fine-weave cotton gingham fabric with subtle texture; realistic fabric micro-creases indicating tension; structural bodice construction with defined waist cinching.\" }, \"neckwear\": { \"type\": \"Matching gingham bowtie with a white detachable Peter Pan collar\", \"color\": \"Bowtie: #E8ACC0 and #FFFFFF gingham; Collar: #FFFFFF optic white\", \"material_physics\": \"Structured fabric bowtie with realistic knot compression; crisp, starched cotton collar texture.\" }, \"gloves\": { \"type\": \"Short white lace gloves\", \"color\": \"#FFFFFF optic white\", \"material_physics\": \"Intricate lace micro-patterns with variable translucency; realistic folding around finger joints and palm.\" }, \"earrings\": { \"type\": \"Flower-shaped studs\", \"color\": \"#E8ACC0 pale pink\", \"material_physics\": \"Detailed multi-petal floral structure; matte ceramic finish with subtle glossy center.\" } }, \"pose_action\": { \"description\": \"Seated centrall",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11292-173",
+      "title": "Intimate Bohemian Portrait Prompt (Jenna Ortega & Emma Myers)",
+      "prompt": "{ \"title\": \"Intimate Artistic Portrait of Two Women in Cozy Bohemian Bedroom\", \"description\": \"Ultra-realistic cinematic portrait of two young adult women sitting closely together on a colorful bed inside a cozy, softly lit bohemian-style bedroom. The mood is intimate, emotional, and tender rather than explicit. The composition captures a quiet, vulnerable moment between them.\", \"subjects\": [ { \"gender\": \"female\", \"age\": \"young adult (20-25)\", \"hair\": \"jet black hair styled in two loose braids with soft bangs framing the face\", \"expression\": \"serious, contemplative, slightly guarded\", \"pose\": \"sitting cross-legged on bed, torso slightly turned toward the other woman, one hand lightly holding her shirt near the chest\", \"outfit\": \"oversized black pinstriped button-down shirt, partially unbuttoned, subtle glimpse of midriff\", \"accessories\": \"black lace knee-high stockings\", \"skin_tone\": \"fair with natural soft texture\", \"makeup\": \"minimal, soft eyeliner, natural lips\" }, { \"gender\": \"female\", \"age\": \"young adult (20-25)\", \"hair\": \"shoulder-length platinum blonde hair with subtle pastel lavender tint, soft waves\", \"expression\": \"gentle, affectionate, slightly intense gaze directed at the other woman\", \"pose\": \"sitting very close, knees touching, leaning inward, one hand resting lightly near the other woman's chest\", \"outfit\": \"oversized lavender striped button-down shirt, partially unbuttoned\", \"accessories\": \"white lace ankle socks\", \"skin_tone\": \"fair with smooth natural finish\", \"makeup\": \"soft pink lips, subtle blush, natural eye makeup\" } ], \"environment\": { \"location\": \"cozy attic-style bedroom\", \"bed\": \"small bed with colorful patterned bedspread featuring floral and abstract prints\", \"background_elements\": [ \"soft warm table lamp with yellow glow\", \"wooden interior walls\", \"colorful draped fabrics in green, red, and purple hanging from ceiling\", \"plush toys and decorative items on shelf\", \"soft ambient indoor lighting\" ], \"atmosphere\": \"warm, intimate, dreamy, slightly bohemian aesthetic\" }, \"lighting\": { \"type\": \"soft cinematic indoor lighting\", \"key_light\": \"warm lamp light from upper left side creating gentle highlights\", \"fill_light\": \"subtle ambient fill to maintain skin detail\", \"shadows\": \"soft natural shadows with depth\", \"color_temperature\": \"warm golden tones balanced with natural skin colors\" }, \"camera\": { \"angle\": \"eye-level medium full shot\", \"framing\": \"vertical portrait orientation\", \"lens\": \"85mm portrait lens\", \"aperture\": \"f/1.8\", \"depth_of_field\": \"shallow depth of field, softly blurred background\", \"focus\": \"sharp focus on faces and hands\", \"resolution\": \"8K ultra-detailed\" }, \"style\": { \"photorealism\": \"hyper-realistic",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11302-173-Hyper-realistic-Sabrina-Carpenter-Biometric-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11292-173-Intimate-Bohemian-Portrait-Prompt-Jenna-Ortega-Emma-Myers.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-31264-174",
+      "title": "Elegant Mirror Selfie with Parrot",
+      "prompt": "Create a highly realistic, elegant indoor mirror-selfie portrait of a young woman relaxing on a polished light-colored floor, accompanied by a {argument name=\"bird color\" default=\"small green parrot\"} perched gently on top of her head. 1. Subject Description, Hair, Skin, Expression & Pose: A young woman with fair, naturally textured skin and long dark-brown hair styled into a high, loose ponytail. Several soft strands naturally frame the sides of her face. Her facial features are refined and realistic, with natural eyebrows, subtle makeup, soft pink lips, and clear expressive eyes. She has a calm, thoughtful expression while looking slightly toward the mirror rather than directly into the camera lens. She is seated in a relaxed, elegant pose on the floor, with her upper body supported naturally by one arm while her other hand holds a professional camera in front of the mirror. Her posture should feel comfortable and natural, with realistic anatomy, believable proportions, relaxed shoulders, and naturally positioned hands. A small green parrot is perched safely and naturally on top of her hair. The bird has vivid green plumage, a pale face, a curved beak, darker wing details, and a long reddish-brown tail. It should appear calm and balanced, with detailed feathers and realistic anatomy. 2. Clothing & Accessories: She wears an elegant {argument name=\"dress color\" default=\"mustard-yellow\"}, floor-length dress with thin shoulder straps and a smooth, flowing fabric. The dress should have realistic textile texture, subtle folds, natural draping, and believable movement across the floor. Keep the styling sophisticated and tasteful. She holds a professional black DSLR or mirrorless camera with a large lens in one hand. The camera should have realistic buttons, dials, lens details, reflections, and construction. Keep other accessories minimal and refined so the focus remains on the subject, camera, dress, and bird. 3. Environment & Lighting: Set the scene inside a sophisticated, softly decorated interior with tall beige curtains covering the background. Include a large clean mirror creating the visible reflection and a polished pale marble or stone floor with subtle natural veining. Use {argument name=\"lighting time\" default=\"warm late-afternoon sunlight\"} entering through the curtains, producing soft golden illumination across the woman's face, hair, dress, and the parrot's feathers. Add gentle shadows on the floor and subtle highlights along the fabric. The overall environment should feel peaceful, luxurious, warm, and inviting. 4. Camera & Style: Photorealistic editorial photography, vertical 4:6 composition, realistic mirror-selfie perspective, approximately 50mm lens appearance, natural perspective, moderate depth of field, sharp focus on the woman",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-31264-174-Elegant-Mirror-Selfie-with-Parrot.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
       "license": "upstream",
       "createdAt": null
     }
