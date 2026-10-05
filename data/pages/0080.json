@@ -1,12 +1,31 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29258-301",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-24223-155",
+      "title": "Vintage Noir Ink Illustration",
+      "prompt": "{argument name=\"style\" default=\"High-contrast vintage ink illustration\"}, {argument name=\"aesthetic\" default=\"retro noir graphic novel\"} aesthetic, bold monochrome rendering with dominant black ink and off-white tones, strong silhouette emphasis, rough expressive brush strokes combined with dry-brush texture, heavy grain and paper noise, distressed print effect, halftone and ink bleed imperfections, hand-drawn cross-hatching and scratchy linework, gritty analog print style, screenprint/poster-like finish, limited color palette with striking flat background (solid {argument name=\"background color\" default=\"red\"} or bold single color), dramatic negative space usage, cinematic composition with layered collage structure, mixed scale elements (oversized upper figure + smaller narrative scene below), editorial illustration style, mid-20th century pulp magazine influence, slightly abstracted anatomy with exaggerated wrinkles and texture, raw imperfect edges, splatter and ink blot accents, matte finish with minimal gloss, high visual tension, stark lighting with deep shadows and blown highlights, minimal gradients (mostly flat tones), distressed typography integration feel (optional), vintage propaganda/poster vibe Important addition (to keep face/object consistent & usable for other objects): preserve original facial structure, maintain exact proportions and identity, no distortion on main subject, style applied only to rendering and environment, consistent facial integrity, modular composition, subject-agnostic style, adaptable to any central object without altering its form.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-24223-155-Vintage-Noir-Ink-Illustration.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29258-305",
       "title": "Cinematic Motivational Advertising Posters",
       "prompt": "A premium cinematic motivational poster featuring a {argument name=\"character\" default=\"tiny yellow bird cartoon inspired by Tweety\"} flying above gigantic mountains into a glowing sunrise while enormous eagle shadows appear beneath. Rich golden sunrise, dramatic clouds, ultra-detailed feathers, luxury advertising style. Huge typography “THINK BIGGER” with subtitle “Your Mind Creates Your Limits.” A premium motivational poster featuring a {argument name=\"hero\" default=\"muscular sailor cartoon inspired by Popeye\"} standing confidently while holding a glowing can of spinach like a trophy. Powerful rim lighting, dark navy background, cinematic smoke, hyper-realistic textures. Giant typography “DISCIPLINE” with subtitle “Small Habits Build Giant Results.” A premium cinematic advertising poster featuring a {argument name=\"subject\" default=\"gray cat cartoon inspired by Tom\"} flying through a glowing crimson sky while wearing luxurious noise-canceling headphones instead of a blindfold. Floating warning signs and obstacles surround him, but he remains unaware. Deep red cinematic lighting, volumetric clouds, ultra-r…",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29258-301-Cinematic-Motivational-Advertising-Posters.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29258-305-Cinematic-Motivational-Advertising-Posters.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32674-112",
-      "title": "Realistic Smartphone Cafe Portrait",
-      "prompt": "A completely natural, photorealistic smartphone photo of a young {argument name=\"ethnicity\" default=\"East Asian\"} woman sitting casually inside a cozy small café or restaurant, photographed spontaneously by a friend using a modern phone camera. She has very long, straight {argument name=\"hair color\" default=\"dark-brown\"} hair with soft wispy bangs, naturally smooth skin, subtle everyday makeup, glossy pink lips, and a relaxed slightly dreamy expression while looking off to the side instead of directly at the camera. She wears a {argument name=\"clothing\" default=\"fitted off-white graphic T-shirt with a blue vintage-style print\"}, loose light-wash baggy jeans, and colorful beaded bracelets on her wrist. She sits casually on a chair with her legs relaxed and her hands resting naturally near her knees, giving the photo an unposed everyday feeling. Behind her are warm wooden shelves filled with assorted bottles, jars, glasses, and small café items, creating a cozy lived-in restaurant atmosphere. Warm indoor ceiling and shelf lighting, realistic mixed exposure, natural shadows, slight smartphone HDR, mild wide-angle perspective, imperfect framing, subtle motion softness, authentic skin pores and fine hair strands, realistic fabric texture, ordinary background details, no studio setup, no cinematic lighting, no beauty filter, no excessive retouching, no artificial sharpness. The final image should look exactly like a real casual phone photograph someone took while sitting in the café, slightly imperfect but highly believable, vertical portrait composition, natural colors, realistic smartphone camera quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32676-112",
+      "title": "Anime Character Humanization",
+      "prompt": "A real {argument name=\"ethnicity\" default=\"East Asian Korean\"} woman with a similar appearance to this anime character. {argument name=\"hair style\" default=\"long black hair\"}, wearing {argument name=\"outfit\" default=\"a black beret, a black lace top, and a black skirt\"}. Realistic photo style, live-action portrait, not anime, not 3D rendering, white background",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32674-112-Realistic-Smartphone-Cafe-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32676-112-Anime-Character-Humanization.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33080-176",
-      "title": "Night City Rooftop Cinematic Portrait",
-      "prompt": "{ \"image_generation_prompt\": { \"subject\": \"{argument name=\"subject\" default=\"A young woman sitting alone on a city rooftop ledge, wearing an oversized hoodie, holding a cup of coffee, looking out at the skyline.\"}\", \"setting\": \"{argument name=\"setting\" default=\"A city rooftop at 2 AM, late-night vibe, endless stretching city lights and glowing skyline in the background.\"}\", \"atmosphere\": \"{argument name=\"atmosphere\" default=\"Moody blue-hour atmosphere, urban loneliness, emotional storytelling, authentic late-night mood.\"}\", \"lighting\": \"Subtle neon reflections, dreamy city bokeh, realistic night photography lighting.\", \"details\": \"Wind softly moving her hair, ultra-detailed skin texture.\", \"quality_modifiers\": \"Masterpiece, photorealistic, cinematic night portrait.\" } }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33097-177",
+      "title": "Mixed Media Urban Collage Portrait",
+      "prompt": "A close-up mixed-media portrait of a beautiful young woman with {argument name=\"hair color\" default=\"vibrant electric-blue\"} hair and {argument name=\"eye color\" default=\"striking cyan\"} eyes. She has scattered freckles across her nose and cheeks, glowing luminous skin, and glossy cherry-red lips slightly parted. The artwork is created in a contemporary urban collage and decollage street-art style, featuring layered textures over a {argument name=\"surface\" default=\"distressed wooden surface\"}. Overlaid elements include torn vintage ephemera, faded postage stamps, delicate architectural line sketches, scribbled pencil marks, white paint splatters, and subtle cracked textures across the canvas. High contrast, intricate details, textured mixed-media painting, fine art gallery quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33080-176-Night-City-Rooftop-Cinematic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33097-177-Mixed-Media-Urban-Collage-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29171-305",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29171-309",
       "title": "Haute Couture Storm Editorial",
       "prompt": "Ultra realistic high-fashion editorial photography using the uploaded reference image as an ABSOLUTE 1:1 reference for the couture gown, storm atmosphere and fashion aesthetic. Use the uploaded identity photo ONLY for: - exact face identity - exact facial anatomy - exact eyes - exact eyebrows - exact nose - exact lips - exact natural skin tone REFERENCE CONTROLS EVERYTHING ELSE. Canon EOS R5. 85mm lens. RAW photograph. CAMERA Very wide cinematic shot. The camera is positioned very far away. The woman appears small in the landscape, occupying only about 15–20% of the frame. She is running across the top of a grassy hill. The dramatic landscape dominates the composition. FULL BODY. The entire floor-length gown is completely visible. Nothing is cropped. POSE The woman is running naturally across the hill. She is viewed mostly from the side with a slight three-quarter angle. She is NOT looking at the camera. She looks forward toward the direction she is running. One hand tightly holds the front of the gown across her chest to keep it from blowing open. The other hand gathers part of the skirt while running. Her posture shows urgency as she struggles against the violent wind. The running motion is natural, elegant and realistic. HAIR Hair is styled into a sleek elegant low bun. Only a few loose strands escape and whip violently in the wind. STRICT DRESS LOCK Recreate EXACTLY the uploaded couture gown. Keep identical: - floor-length ivory haute couture gown - oversized balloon sleeves - deep plunging V neckline - fitted gathered waist - enormous multi-layered skirt - identical silhouette - identical proportions - identical fabric - identical stitching - identical folds - identical volume The gown MUST remain floor-length. The skirt must touch the ground exactly like the reference. Do NOT redesign the dress. Do NOT shorten the skirt. Do NOT change the sleeves. Do NOT change the neckline. Keep the jewelry identical. WIND Violent storm wind. The enormous skirt flies dramatically in multiple directions. Huge sculptural folds sweep left, right and backward. The long train streams several meters behind her while she runs. Every fabric layer moves independently with realistic couture fabric physics. The oversized sleeves inflate dramatically. The movement feels powerful but physically believable. BACKGROUND Wide grassy hill. Massive black storm clouds cover the sky. A huge bright lightning bolt strikes in the distance behind the woman, illuminating part of the clouds. Additional faint lightning flashes are visible deeper inside the storm. No buildings. No people. Only the dramatic landscape. LIGHTING Dark storm atmosphere. Soft diffused overcast light. Brief cold flashes from the lightning illuminate parts of the clouds and subtly rim-light the flowing gown. Luxury Vogue editorial lighting. REALISM Visible skin texture. Correct anatomy. Natural running motion.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29171-305-Haute-Couture-Storm-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29171-309-Haute-Couture-Storm-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32671-113",
-      "title": "Muted Maroon Hijab Selfie",
-      "prompt": "ar 9:16 High A close-up selfie portrait of a young woman with fair skin, soft rounded facial features, large expressive green-hazel eyes with long dark lashes and subtle winged eyeliner, light natural makeup with a soft pink blush on the cheeks, and glossy pink lips slightly parted. She is wearing a smooth, solid dusty-rose / muted maroon hijab that fully covers her hair and frames her face, with the fabric neatly draped over her shoulders and chest. Her right hand is raised near the side of her head, gently holding and adjusting the edge of the hijab with relaxed fingers. She is dressed in a long-sleeved, ribbed, deep red / burgundy top that matches the warm tones of the hijab. Soft, flattering indoor lighting with a gentle glow, subtle pink LED fairy lights visible in the blurred background on the left, floral-patterned wallpaper or curtain behind her, and a beige drape on the right. Shallow depth of field, high detail on the face and fabric texture, natural skin texture, realistic photography style, intimate and calm expression looking directly at the camera. - Core subject: young woman, fair skin, large green-hazel eyes, long lashes, soft pink blush, glossy lips, dusty-rose/maroon hijab, deep red ribbed long-sleeve top, right hand adjusting hijab near temple. - Pose & expression: close-up selfie angle, direct eye contact, neutral-to-soft expression with slightly parted lips, one hand raised to the hijab. - Clothing & fabric: smooth matte hijab fabric with soft folds, ribbed knit texture on the sleeves and bodice, color harmony between hijab (muted rose-maroon) and top (deeper red). - Lighting & atmosphere: soft diffused indoor light + warm pink ambient glow from fairy lights, gentle catchlights in the eyes, realistic skin texture and fabric detail. - Background: slightly out-of-focus floral wallpaper/curtain and beige drape, cozy indoor setting. Intimate close-up portrait of a young woman in a muted maroon hijab and matching deep red knit top, large expressive green eyes looking into the camera, soft natural makeup, one hand delicately holding the edge of her hijab, warm pink ambient lighting and soft bokeh fairy lights, floral patterned background, ultra-realistic skin and fabric texture, shallow depth of field, high detail.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32674-113",
+      "title": "Realistic Smartphone Cafe Portrait",
+      "prompt": "A completely natural, photorealistic smartphone photo of a young {argument name=\"ethnicity\" default=\"East Asian\"} woman sitting casually inside a cozy small café or restaurant, photographed spontaneously by a friend using a modern phone camera. She has very long, straight {argument name=\"hair color\" default=\"dark-brown\"} hair with soft wispy bangs, naturally smooth skin, subtle everyday makeup, glossy pink lips, and a relaxed slightly dreamy expression while looking off to the side instead of directly at the camera. She wears a {argument name=\"clothing\" default=\"fitted off-white graphic T-shirt with a blue vintage-style print\"}, loose light-wash baggy jeans, and colorful beaded bracelets on her wrist. She sits casually on a chair with her legs relaxed and her hands resting naturally near her knees, giving the photo an unposed everyday feeling. Behind her are warm wooden shelves filled with assorted bottles, jars, glasses, and small café items, creating a cozy lived-in restaurant atmosphere. Warm indoor ceiling and shelf lighting, realistic mixed exposure, natural shadows, slight smartphone HDR, mild wide-angle perspective, imperfect framing, subtle motion softness, authentic skin pores and fine hair strands, realistic fabric texture, ordinary background details, no studio setup, no cinematic lighting, no beauty filter, no excessive retouching, no artificial sharpness. The final image should look exactly like a real casual phone photograph someone took while sitting in the café, slightly imperfect but highly believable, vertical portrait composition, natural colors, realistic smartphone camera quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32671-113-Muted-Maroon-Hijab-Selfie.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32674-113-Realistic-Smartphone-Cafe-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33079-177",
-      "title": "Dapper Dog Restaurant Photograph",
-      "prompt": "A {argument name=\"style\" default=\"black and white, vintage and grainy\"} medium shot photograph shows a {argument name=\"subject\" default=\"great dane\"} wearing {argument name=\"outfit\" default=\"sunglasses, a pinstripe suit, a white shirt, and a tie\"}. The great dane is seated at a table in a restaurant, holding a cigar in its right hand and a glass of red wine in its left. In front of the great dane is a plate of spaghetti and a bottle of wine. The restaurant appears to be a trattoria, with a sign that reads \"Tortellini Twisters\" in the background. The overall mood of the image is sophisticated and humorous.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33085-178",
+      "title": "Editorial Fashion Portrait in Minimalist Studio",
+      "prompt": "Editorial fashion photography of a young {argument name=\"ethnicity\" default=\"East Asian woman\"} standing in a modern, minimalist studio. She is wearing a {argument name=\"outfit\" default=\"vibrant oversized orange hoodie, loose black sweatpants with cuffs gathered at the ankles, and black high-top skate sneakers with a white wave stripe\"}. She has long dark hair, delicate features, and small gold earrings, looking over her shoulder toward the camera with a calm, neutral expression. One hand is tucked into her pocket. The background is a clean, neutral-toned room with blurred, ghost-like silhouettes of moving people creating intentional long-exposure motion blur and light trails around her. Soft, diffused indoor lighting, clean tones, cool color palette contrasted with the warm orange hoodie, shot on {argument name=\"camera\" default=\"35mm film\"}, sharp focus on the central subject, cinematic street-style editorial.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33079-177-Dapper-Dog-Restaurant-Photograph.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33085-178-Editorial-Fashion-Portrait-in-Minimalist-Studio.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29037-311",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29037-315",
       "title": "Luxury Watch Commercial Sequence",
       "prompt": "Ultra-realistic cinematic luxury fashion commercial featuring a confident, well-dressed gentleman wearing an elegant premium luxury wristwatch. He is dressed in a perfectly tailored black suit, crisp white shirt, and silk tie, standing inside a modern luxury penthouse overlooking a breathtaking city skyline at golden hour. The camera begins with an extreme macro close-up of the luxury watch on his wrist, revealing the flawless sapphire crystal, polished stainless-steel case, deep sunburst dial, luminous hands, diamond-cut hour markers, and smooth sweeping second hand. As he adjusts his cuff, the watch catches the warm sunlight, creating beautiful cinematic reflections. The camera slowly circles around his wrist while the intricate mechanical movement is visible through the transparent exhibition case back. Premium leather strap with handcrafted stitching, scratch-resistant finish, exceptional craftsmanship, precision engineering, timeless elegance, luxury lifestyle, confidence, success, sophistication. Soft golden sunlight, volumetric lighting, shallow depth of field, realistic skin textures, premium fashion photography, smooth cinematic camera movement, ARRI Alexa 65 look, 8K HDR, hyper-realistic, luxury advertisement, masterpiece quality, no logos, no text, no watermark.Ultra-realistic cinematic luxury watch commercial, 8-second sequence. The film opens with an extreme macro shot of a premium luxury wristwatch emerging from darkness as a single golden spotlight slowly illuminates every detail. The camera performs a smooth 360° orbit around the watch while the polished stainless-steel case reflects elegant studio lights. The sapphire crystal sparkles with flawless clarity, revealing a deep sunburst dial with diamond-cut hour markers and precision-crafted luminous hands. The sweeping second hand moves perfectly smoothly, emphasizing the high-precision automatic movement. The camera transitions into the transparent exhibition case back, where hundreds of intricate mechanical gears, polished bridges, ruby jewels, and the oscillating balance wheel move in perfect harmony. Slow-motion water droplets glide across the scratch-resistant sapphire crystal and premium metal case, demonstrating exceptional water resistance. Fine leather strap stitching and luxury finishing are revealed through cinematic macro close-ups. Floating golden dust particles, soft volumetric lighting, elegant reflections, dramatic black background, shallow depth of field, premium product cinematography, ARRI Alexa 65 look, 8K HDR, hyper-realistic textures, smooth camera motion, luxury advertisement, timeless elegance, precision engineering, exclusivity, masterpiece quality, no text, no logos, no watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29037-311-Luxury-Watch-Commercial-Sequence.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29037-315-Luxury-Watch-Commercial-Sequence.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32668-114",
-      "title": "Neon Winking Selfie Portrait",
-      "prompt": "A close-up portrait of a young {argument name=\"subject\" default=\"East/Southeast Asian woman\"} with fair skin, long dark brown-to-black hair that falls loosely around her shoulders and partially across her face in soft, slightly messy strands. She is winking with her left eye closed while looking at the camera with a soft, playful, slightly coquettish expression and a gentle closed-mouth smile. Her right hand is raised, fingers gently running through the hair on the top of her head. She wears a {argument name=\"outfit\" default=\"simple black spaghetti-strap camisole/top\"} that shows her collarbones and upper chest. A delicate thin silver chain necklace with a small clear teardrop or heart-shaped pendant rests at the base of her neck. Strong cinematic {argument name=\"lighting\" default=\"purple and magenta neon lighting\"} bathes the scene, casting soft pink-purple highlights and rim light on her hair, face, and shoulders, creating a moody, intimate atmosphere. The background is a plain indoor wall with soft purple ambient glow, slightly out of focus. Shot from a slightly high angle in a selfie style, shallow depth of field, realistic skin texture, natural soft makeup with defined eyebrows, subtle eyeliner, and soft pink-coral lips. High detail, photorealistic, soft bokeh, atmospheric lighting.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32671-114",
+      "title": "Muted Maroon Hijab Selfie",
+      "prompt": "ar 9:16 High A close-up selfie portrait of a young woman with fair skin, soft rounded facial features, large expressive green-hazel eyes with long dark lashes and subtle winged eyeliner, light natural makeup with a soft pink blush on the cheeks, and glossy pink lips slightly parted. She is wearing a smooth, solid dusty-rose / muted maroon hijab that fully covers her hair and frames her face, with the fabric neatly draped over her shoulders and chest. Her right hand is raised near the side of her head, gently holding and adjusting the edge of the hijab with relaxed fingers. She is dressed in a long-sleeved, ribbed, deep red / burgundy top that matches the warm tones of the hijab. Soft, flattering indoor lighting with a gentle glow, subtle pink LED fairy lights visible in the blurred background on the left, floral-patterned wallpaper or curtain behind her, and a beige drape on the right. Shallow depth of field, high detail on the face and fabric texture, natural skin texture, realistic photography style, intimate and calm expression looking directly at the camera. - Core subject: young woman, fair skin, large green-hazel eyes, long lashes, soft pink blush, glossy lips, dusty-rose/maroon hijab, deep red ribbed long-sleeve top, right hand adjusting hijab near temple. - Pose & expression: close-up selfie angle, direct eye contact, neutral-to-soft expression with slightly parted lips, one hand raised to the hijab. - Clothing & fabric: smooth matte hijab fabric with soft folds, ribbed knit texture on the sleeves and bodice, color harmony between hijab (muted rose-maroon) and top (deeper red). - Lighting & atmosphere: soft diffused indoor light + warm pink ambient glow from fairy lights, gentle catchlights in the eyes, realistic skin texture and fabric detail. - Background: slightly out-of-focus floral wallpaper/curtain and beige drape, cozy indoor setting. Intimate close-up portrait of a young woman in a muted maroon hijab and matching deep red knit top, large expressive green eyes looking into the camera, soft natural makeup, one hand delicately holding the edge of her hijab, warm pink ambient lighting and soft bokeh fairy lights, floral patterned background, ultra-realistic skin and fabric texture, shallow depth of field, high detail.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32668-114-Neon-Winking-Selfie-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32671-114-Muted-Maroon-Hijab-Selfie.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33101-179",
-      "title": "Hyper-Realistic Desert Portrait with Planet",
-      "prompt": "Ultra-realistic portrait, HD, 8K, high definition, rich in professional photographic detail and hyper-realistic textures. Photograph of a {argument name=\"subject\" default=\"slender, fair-skinned woman\"} with long dark hair, wearing an {argument name=\"clothing\" default=\"oversized white sweater\"}, barefoot, beautiful feet, 5 toes for feet, walk in a desert with a big planet in the sky",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33100-179",
+      "title": "Cinematic Coastal Cliff Sunset Portrait",
+      "prompt": "Captured from behind, a {argument name=\"subject\" default=\"lone, young barefoot woman\"} stands poised on the rugged, wind-worn edge of a towering coastal cliff at dramatic sunset. She wears a {argument name=\"clothing\" default=\"long, flowing white cotton dress\"} that billows and dances around her, swept upward by the ocean breeze. Her long, dark-brown hair is also caught in the strong wind, blowing away from her face, complementing the fluid movement of her dress. Her arms are fully stretched wide, encompassing the endless, vast ocean horizon that glows with a stunning golden and orange hue. A rich tapestry of large, textured, and colorful dramatic clouds fill the upper sky, painted in deep purples, fiery oranges, and golden lights, reflecting the sun's last warm rays. The steep, rocky cliffs and wind-swept golden grasses in the foreground add to the sense of isolation and raw nature. The composition is a breathtaking cinematic landscape portrait, evoking a profound, deep, emotional feeling of freedom, liberation, and spiritual healing. The image has natural golden lighting, photorealistic details, and a dreamy atmosphere. The texture of the rugged rocks, the soft lens bloom on the light, and the realistic movement in the fabric and hair are intricate.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33101-179-Hyper-Realistic-Desert-Portrait-with-Planet.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33100-179-Cinematic-Coastal-Cliff-Sunset-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29057-313",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-29057-317",
       "title": "Creative 3D Brand Advertisement",
       "prompt": "Creative 3D ad for {argument name=\"brand\" default=\"[BRAND]\"}, with surreal object made from it, matching background color, real slogan below, logo on top, miniature person interacting, minimal and clever concept",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29057-313-Creative-3D-Brand-Advertisement.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-29057-317-Creative-3D-Brand-Advertisement.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -533,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32663-115",
-      "title": "Dreamy Portrait of Woman Blowing Bubbles",
-      "prompt": "A photorealistic portrait of a beautiful young {argument name=\"ethnicity\" default=\"East Asian\"} woman with {argument name=\"hair style\" default=\"long, voluminous, wavy black hair\"} cascading over her shoulders and down her back, soft curtain bangs framing her face. She has fair porcelain skin, delicate features, large expressive brown eyes looking upward and slightly to the side with a soft, dreamy, serene expression, full lips gently pursed as she blows soap bubbles. She is wearing an {argument name=\"clothing\" default=\"elegant white lace blouse\"} with intricate floral lace detailing around the high neckline, cuffs, and front, soft and romantic in style. Her nails are painted a soft pastel blue. In her right hand she holds a white bubble wand close to her mouth, actively blowing a stream of iridescent soap bubbles; her left hand holds a small clear bottle of bubble solution with a gold-colored cap. Dozens of translucent, rainbow-iridescent soap bubbles of varying sizes float all around her — some sharp and close to the camera, others softly blurred in the background — catching the light with vibrant prismatic reflections. Setting: outdoor park on a bright sunny day, soft golden-hour-like natural light filtering through green trees, creating a dreamy bokeh background of lush foliage and circular light orbs. Warm sunlight highlights her hair and the bubbles, with gentle rim lighting. Shallow depth of field, cinematic composition, medium close-up portrait, high detail, soft ethereal atmosphere, whimsical and romantic mood. Style: ultra-realistic photography, sharp focus on the subject’s face and hands, creamy bokeh, natural skin texture, delicate lighting, aesthetic and feminine.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32668-115",
+      "title": "Neon Winking Selfie Portrait",
+      "prompt": "A close-up portrait of a young {argument name=\"subject\" default=\"East/Southeast Asian woman\"} with fair skin, long dark brown-to-black hair that falls loosely around her shoulders and partially across her face in soft, slightly messy strands. She is winking with her left eye closed while looking at the camera with a soft, playful, slightly coquettish expression and a gentle closed-mouth smile. Her right hand is raised, fingers gently running through the hair on the top of her head. She wears a {argument name=\"outfit\" default=\"simple black spaghetti-strap camisole/top\"} that shows her collarbones and upper chest. A delicate thin silver chain necklace with a small clear teardrop or heart-shaped pendant rests at the base of her neck. Strong cinematic {argument name=\"lighting\" default=\"purple and magenta neon lighting\"} bathes the scene, casting soft pink-purple highlights and rim light on her hair, face, and shoulders, creating a moody, intimate atmosphere. The background is a plain indoor wall with soft purple ambient glow, slightly out of focus. Shot from a slightly high angle in a selfie style, shallow depth of field, realistic skin texture, natural soft makeup with defined eyebrows, subtle eyeliner, and soft pink-coral lips. High detail, photorealistic, soft bokeh, atmospheric lighting.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32663-115-Dreamy-Portrait-of-Woman-Blowing-Bubbles.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32668-115-Neon-Winking-Selfie-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33087-180",
-      "title": "Mediterranean Riviera Editorial",
-      "prompt": "A ruggedly handsome man sits casually facing the camera in the bottom left quadrant, exuding a candid, serious expression with neutral lips and his gaze directed off-camera to the left, hidden behind {argument name=\"accessory\" default=\"classic dark wayfarer sunglasses\"}. He is dressed in a crisp yet slightly rumpled {argument name=\"clothing\" default=\"white linen suit\"}, unbuttoned at the top to reveal warm, realistic skin textures, completely barefoot with his legs crossed. His relaxed shoulders center his weight as his left hand drapes naturally over his raised right shin, while his right forearm rests comfortably on the armrest of his chair, fingers pointing down and softly obscured by shadow. He is seated in a weathered, thick branch-like rustic wooden armchair featuring a white cushion and distinct orange rope bindings on the front leg, resting on large pale grey square floor tiles separated by prominent dark grout lines. To his immediate left in the midground, a vintage, tall dark metal lantern with intricate cutouts sits atop a square table edged in dark iron with a black, white, and grey geometric tile top, all positioned in front of a dominant, thriving wall of rough, matte stone entirely consumed by deeply shadowed, lush dark green ivy. To the right, the deep spatial depth opens up to a pristine background where steep rocky cliffs drop into a sweeping expanse of calm, dark blue-grey ocean waters beneath a slightly hazy sky, creating an asymmetrical balance that draws the eye from the man across to the sea. The scene is illuminated by a single, highly directional source of bright, warm golden natural sunlight from the front, producing a dramatic, dappled effect that casts harsh, defined, deep black shadows under the subject and against the foliage. This hard light generates a split-complementary color palette of moderate saturation, striking high contrast by intentionally blowing out the highlights on the linen white clothing without any ambient fill, perfectly capturing a sophisticated, luxurious {argument name=\"setting\" default=\"Mediterranean summer afternoon\"} of effortless Old Money elegance. Captured as a tack-sharp, grain-free digital editorial photograph shot straight on with a 50mm lens at f/8, 1/500s, and ISO 100 to maintain a deep depth of field from the structured foreground to the distant cliffs, the image channels Classic Hollywood Riviera styling, enhanced in post-processing with deepened shadows, pushed highlights on the linen to emphasize the harsh sunlight, and a slight desaturation of the oceanic blues for a vintage cinematic feel, all perfectly framed in a 2:3 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33103-180",
+      "title": "Cinematic Summer Tropical Pier Portrait",
+      "prompt": "Ultra-realistic cinematic summer portrait of a young woman sitting on a rustic wooden pier above crystal-clear tropical water, vertical 4:5 composition. She wears a {argument name=\"clothing\" default=\"flowing turquoise-blue cotton maxi dress\"} with thin straps, a fitted waist, subtle textured fabric, and a long flowing skirt. She wears shell jewelry, small earrings, and delicate bracelets. Her short brown hair is naturally windblown by the ocean breeze. She smiles brightly toward the camera.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33087-180-Mediterranean-Riviera-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33103-180-Cinematic-Summer-Tropical-Pier-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-28960-318",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-28960-322",
       "title": "Minimalist Product Photography on Grassy Hill",
       "prompt": "Minimalist product photography, {argument name=\"subject\" default=\"product from uploaded photo\"} placed on top of a {argument name=\"setting\" default=\"small rounded green grassy hill\"}, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside it with a single ceramic coffee cup, soft warm golden hour lighting, clear pale blue sky gradient transitioning to warm cream near the horizon, serene and calm atmosphere, negative space composition, vertical mobile wallpaper format, photorealistic, soft natural shadows, muted earthy color palette, high-end editorial product photography, 8k resolution",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-28960-318-Minimalist-Product-Photography-on-Grassy-Hill.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-28960-322-Minimalist-Product-Photography-on-Grassy-Hill.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32578-116",
-      "title": "Gentleman's Editorial Mirror Selfie",
-      "prompt": "A {argument name=\"subject\" default=\"well-dressed handsome male\"} stands perfectly centered in a classic portrait pose, taking a mirror selfie. He maintains a serious, deliberately posed expression with a closed neutral mouth and a direct gaze. His glossy, medium-short hair features a classic gentleman's cut with a deep side part and a subtle front quiff, styled with a slightly wet pomade finish that still reveals natural flyaways and stray hairs along the top crown and sides, with moderate volume at the front hairline that slicks flatter towards the back. He wears a {argument name=\"outfit\" default=\"deep black double-breasted blazer\"} over a {argument name=\"shirt\" default=\"light blue button-up dress shirt\"}, complemented by a white pocket square and off-white pleated trousers. His right hand rests casually tucked into his trouser pocket, revealing only his thumb, wrist, and a polished gold wristwatch, while his left hand is held at chest height, securely gripping the edges of a white smartphone with his index finger relaxed along the back. He is framed symmetrically within a pristine, large oval mirror that reflects a deep, luxurious upscale dressing room. The background showcases perfectly smooth, matte warm cream walls with structurally clean recessed alcoves and polished gold brass floor-to-ceiling vertical architectural divider poles. Above, a light oak wood ceiling accent panel features a single recessed spotlight, while the midground to the left reveals a smaller oval mirror reflecting a pristine white sink vanity, a minimalist silver faucet, and a dark cylindrical bottle resting on the counter. The atmosphere is sophisticated, confident, and private, bathed in warm, golden mixed lighting from diffused overhead sources and ambient room fill. This soft light casts short, gradual gray shadows under his chin, beneath his jacket lapels, and inside his shirt collar, while catching subtle specular highlights on his forehead, nose bridge, the white phone case, his gold watch, and the brass background fixtures. The complementary color palette strikes a high-contrast balance between the warm creams of the background and the deep blacks and off-whites of his attire. Shot with tack-sharp digital photography mimicking a 24mm equivalent smartphone lens at f/2.2 for a medium depth of field, the pristine, grain-free image channels a clean menswear editorial and lifestyle influencer aesthetic. The rendering employs an ISO 100 exposure with spot metering on the face, enhanced by warm color grading that pushes yellow and cream tones, along with subtle clarity adjustments to retain the rich texture of the black blazer fabric, all beautifully framed in a 9:16 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32663-116",
+      "title": "Dreamy Portrait of Woman Blowing Bubbles",
+      "prompt": "A photorealistic portrait of a beautiful young {argument name=\"ethnicity\" default=\"East Asian\"} woman with {argument name=\"hair style\" default=\"long, voluminous, wavy black hair\"} cascading over her shoulders and down her back, soft curtain bangs framing her face. She has fair porcelain skin, delicate features, large expressive brown eyes looking upward and slightly to the side with a soft, dreamy, serene expression, full lips gently pursed as she blows soap bubbles. She is wearing an {argument name=\"clothing\" default=\"elegant white lace blouse\"} with intricate floral lace detailing around the high neckline, cuffs, and front, soft and romantic in style. Her nails are painted a soft pastel blue. In her right hand she holds a white bubble wand close to her mouth, actively blowing a stream of iridescent soap bubbles; her left hand holds a small clear bottle of bubble solution with a gold-colored cap. Dozens of translucent, rainbow-iridescent soap bubbles of varying sizes float all around her — some sharp and close to the camera, others softly blurred in the background — catching the light with vibrant prismatic reflections. Setting: outdoor park on a bright sunny day, soft golden-hour-like natural light filtering through green trees, creating a dreamy bokeh background of lush foliage and circular light orbs. Warm sunlight highlights her hair and the bubbles, with gentle rim lighting. Shallow depth of field, cinematic composition, medium close-up portrait, high detail, soft ethereal atmosphere, whimsical and romantic mood. Style: ultra-realistic photography, sharp focus on the subject’s face and hands, creamy bokeh, natural skin texture, delicate lighting, aesthetic and feminine.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32578-116-Gentleman-s-Editorial-Mirror-Selfie.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32663-116-Dreamy-Portrait-of-Woman-Blowing-Bubbles.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32984-181",
-      "title": "Voluminous Ginger Hair Forest Portrait",
-      "prompt": "A photorealistic vertical portrait photograph of a young woman with {argument name=\"skin type\" default=\"pale, freckled skin\"} and long, voluminous, wavy {argument name=\"hair color\" default=\"ginger\"} hair standing in a sunlit forest clearing. She is positioned with her back mostly to the viewer, turning her head to look over her left shoulder with a soft, direct gaze. Her eyes are a {argument name=\"eye color\" default=\"pale blue-grey\"}, her face is dusted with freckles across the nose and cheeks, and her lips are slightly parted in a neutral, ethereal expression.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33098-181",
+      "title": "Ultra-Photorealistic Indian Woman with Roses",
+      "prompt": "Roses, Red & Romance 🌹❤️✨ Create an ultra-photorealistic 9:16 vertical fashion portrait, preserving the exact same pose, body posture, head angle, side-profile direction, hand placement, bouquet position, shoulder angle, hairstyle silhouette, camera perspective and overall composition of the provided photo. A {argument name=\"subject\" default=\"graceful young Indian woman\"} stands on a lively urban street, captured from behind in a sophisticated three-quarter back pose, her face turned gently toward the left in a soft side profile while looking downward toward a single red rose held delicately in her raised hand. Her other arm naturally supports a large bouquet of fresh deep-red roses positioned at her left side exactly as shown. Keep the elegant low textured bun with a few loose face-framing strands, refined natural makeup, softly defined eyes, rosy lips and realistic warm luminous Indian skin. Dress her in an {argument name=\"attire\" default=\"elegant ivory-white lightweight saree\"} with a sheer translucent texture, delicate scattered red floral embroidery and a rich red embroidered border, paired with a stylish open-back blouse featuring fine red detailing and graceful thin tie-back elements. Add elegant traditional gold-and-red statement earrings and subtle matching bangles, keeping the jewelry refined and realistic. Preserve the romantic urban atmosphere: softly blurred city buildings, pedestrians and a classic yellow taxi in the background, warm late-afternoon sunlight creating a beautiful golden glow, natural street depth and creamy cinematic bokeh.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32984-181-Voluminous-Ginger-Hair-Forest-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33098-181-Ultra-Photorealistic-Indian-Woman-with-Roses.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-28860-322",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-28860-326",
       "title": "Bunnies Detailing a Car",
       "prompt": "A group of cute baby bunnies cleaning and polishing a {argument name=\"car color\" default=\"[COLOR]\"} {argument name=\"car model\" default=\"[CAR MODEL]\"}, some bunnies vacuuming the interior, others polishing the exterior with microfiber cloths, surrounded by colorful Easter eggs, cheerful spring atmosphere, soft natural lighting, high detail, ultra-realistic style, car detailing scene, 8k",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-28860-322-Bunnies-Detailing-a-Car.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-28860-326-Bunnies-Detailing-a-Car.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32575-117",
-      "title": "Classic Gentleman Mirror Selfie",
-      "prompt": "A well-dressed handsome male stands perfectly centered in a classic portrait pose, taking a mirror selfie. He maintains a serious, deliberately posed expression with a closed neutral mouth and a direct gaze. His glossy, medium-short hair features a classic gentleman's cut with a deep side part and a subtle front quiff, styled with a slightly wet pomade finish that still reveals natural flyaways and stray hairs along the top crown and sides, with moderate volume at the front hairline that slicks flatter towards the back. He wears a deep black double-breasted blazer over a light blue button-up dress shirt, complemented by a white pocket square and off-white pleated trousers. His right hand rests casually tucked into his trouser pocket, revealing only his thumb, wrist, and a polished gold wristwatch, while his left hand is held at chest height, securely gripping the edges of a white smartphone with his index finger relaxed along the back. He is framed symmetrically within a pristine, large oval mirror that reflects a deep, luxurious upscale dressing room. The background showcases perfectly smooth, matte warm cream walls with structurally clean recessed alcoves and polished gold brass floor-to-ceiling vertical architectural divider poles. Above, a light oak wood ceiling accent panel features a single recessed spotlight, while the midground to the left reveals a smaller oval mirror reflecting a pristine white sink vanity, a minimalist silver faucet, and a dark cylindrical bottle resting on the counter. The atmosphere is sophisticated, confident, and private, bathed in warm, golden mixed lighting from diffused overhead sources and ambient room fill. This soft light casts short, gradual gray shadows under his chin, beneath his jacket lapels, and inside his shirt collar, while catching subtle specular highlights on his forehead, nose bridge, the white phone case, his gold watch, and the brass background fixtures. The complementary color palette strikes a high-contrast balance between the warm creams of the background and the deep blacks and off-whites of his attire. Shot with tack-sharp digital photography mimicking a 24mm equivalent smartphone lens at f/2.2 for a medium depth of field, the pristine, grain-free image channels a clean menswear editorial and lifestyle influencer aesthetic. The rendering employs an ISO 100 exposure with spot metering on the face, enhanced by warm color grading that pushes yellow and cream tones, along with subtle clarity adjustments to retain the rich texture of the black blazer fabric, all beautifully framed in a 9:16 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-32578-117",
+      "title": "Gentleman's Editorial Mirror Selfie",
+      "prompt": "A {argument name=\"subject\" default=\"well-dressed handsome male\"} stands perfectly centered in a classic portrait pose, taking a mirror selfie. He maintains a serious, deliberately posed expression with a closed neutral mouth and a direct gaze. His glossy, medium-short hair features a classic gentleman's cut with a deep side part and a subtle front quiff, styled with a slightly wet pomade finish that still reveals natural flyaways and stray hairs along the top crown and sides, with moderate volume at the front hairline that slicks flatter towards the back. He wears a {argument name=\"outfit\" default=\"deep black double-breasted blazer\"} over a {argument name=\"shirt\" default=\"light blue button-up dress shirt\"}, complemented by a white pocket square and off-white pleated trousers. His right hand rests casually tucked into his trouser pocket, revealing only his thumb, wrist, and a polished gold wristwatch, while his left hand is held at chest height, securely gripping the edges of a white smartphone with his index finger relaxed along the back. He is framed symmetrically within a pristine, large oval mirror that reflects a deep, luxurious upscale dressing room. The background showcases perfectly smooth, matte warm cream walls with structurally clean recessed alcoves and polished gold brass floor-to-ceiling vertical architectural divider poles. Above, a light oak wood ceiling accent panel features a single recessed spotlight, while the midground to the left reveals a smaller oval mirror reflecting a pristine white sink vanity, a minimalist silver faucet, and a dark cylindrical bottle resting on the counter. The atmosphere is sophisticated, confident, and private, bathed in warm, golden mixed lighting from diffused overhead sources and ambient room fill. This soft light casts short, gradual gray shadows under his chin, beneath his jacket lapels, and inside his shirt collar, while catching subtle specular highlights on his forehead, nose bridge, the white phone case, his gold watch, and the brass background fixtures. The complementary color palette strikes a high-contrast balance between the warm creams of the background and the deep blacks and off-whites of his attire. Shot with tack-sharp digital photography mimicking a 24mm equivalent smartphone lens at f/2.2 for a medium depth of field, the pristine, grain-free image channels a clean menswear editorial and lifestyle influencer aesthetic. The rendering employs an ISO 100 exposure with spot metering on the face, enhanced by warm color grading that pushes yellow and cream tones, along with subtle clarity adjustments to retain the rich texture of the black blazer fabric, all beautifully framed in a 9:16 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32575-117-Classic-Gentleman-Mirror-Selfie.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-32578-117-Gentleman-s-Editorial-Mirror-Selfie.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32990-182",
-      "title": "Golden Hour Lifestyle Fashion Collage",
-      "prompt": "Ultra realistic lifestyle fashion collage of a {argument name=\"subject\" default=\"beautiful young woman\"} in a {argument name=\"setting\" default=\"wide open green park\"} during golden hour sunset, soft warm sunlight, cinematic natural lighting, aesthetic Korean fashion vibe, wearing a {argument name=\"outfit\" default=\"deep burgundy oversized button-up shirt\"}, light blue wide-leg denim jeans, white sneakers, carrying a dark brown leather shoulder bag. Multi-frame collage layout with 5 candid moments.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33093-182",
+      "title": "Cinematic Sunset Fashion Portrait",
+      "prompt": "Cinematic fashion portrait of a young woman standing beneath an intensely dramatic {argument name=\"sky color\" default=\"sunset\"} sky, centered slightly below the middle of the frame, facing the camera with a subtle three-quarter turn, direct gaze, clearly recognizable face, distinctive natural features, softly asymmetrical face, strong brows, slightly hooded almond-shaped eyes, defined nose, full natural lips, realistic skin texture, {argument name=\"hair length\" default=\"dark shoulder-length\"} hair moving freely in the wind, simple oversized black T-shirt. Vast sky dominating the composition, luminous pale yellow at the top shifting into warm amber, burnt orange, saturated coral and deep crimson near the horizon, soft smoky cloud bands suspended across the red sky, atmospheric haze, glowing backlight outlining her hair and shoulders, low-key exposure on the clothing, warm reflected light shaping the face, moody editorial photography, authentic 35mm film scan, visible grain, subtle halation, rich contrast, cinematic color depth, no text, no logos, no watermark --chaos 4 --ar 4:5 --raw --profile f7ca75c --stylize 140 --weird 5 --hd --preview",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32990-182-Golden-Hour-Lifestyle-Fashion-Collage.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33093-182-Cinematic-Sunset-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-28784-325",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-28784-329",
       "title": "Premium Sports Editorial Poster",
       "prompt": "Ultra-premium sports editorial poster collage of a powerful {argument name=\"athlete\" default=\"female basketball athlete\"} in a {argument name=\"uniform color\" default=\"red and white\"} uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “{argument name=\"main slogan\" default=\"THINK BETTER\"}”, clean luxury sports branding, intense confident poses. Top panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography. Bottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”. Bottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details. Color palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-28784-325-Premium-Sports-Editorial-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-28784-329-Premium-Sports-Editorial-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-11565-322",
-      "title": "Floating Miniature Diorama Prompt",
-      "prompt": "SCENE: A trading settlement built around a large stone bridge crossing a deep river gorge with shops, storage sheds, and stairways leading to dock platforms below. Tiny traders move goods while birds glide along canyon walls. STYLE: Create a premium stylized miniature diorama where canyon terrain and river water form a continuous sculpted base integrated with market structures. The entire diorama floats in mid-air inside a blank single-color background environment that contrasts with the rocky terrain. Use stylized resin water, compact shops, and rope docks. Include miniature traders, carts, birds, barrels, crates, and rope details to reinforce handcrafted miniature storytelling scale. Lock the render to 4:3. LIGHTING: The scene occurs in late evening after sunset with very low natural light. Ambient lighting remains dim while lanterns, shop lights, and small lamps illuminate the bridge and market stalls. These lights create warm glowing pockets of illumination across the trading post while surrounding canyon surfaces remain darker, producing strong contrast and dramatic miniature depth. CAMERA: Use an isometric camera capturing the entire floating diorama clearly from top to bottom and side to side.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-11565-322-Floating-Miniature-Diorama-Prompt.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Game Asset"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
       "license": "upstream",
       "createdAt": null
     }
