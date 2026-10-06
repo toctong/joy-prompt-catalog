@@ -1,7 +1,27 @@
 {
   "items": [
     {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:bfc5efeb03c08529",
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:f9a4e612db99040c",
+      "title": "游戏素材 - 表现主义写实混合风格肖像",
+      "prompt": "请使用附带的对象，尽可能还原其外观。创作一幅精致的混合风格肖像，将表现主义的绘画写实感与精致的电影感数字插画融为一体。\n\n保留原图的面部结构、表情、姿势、发型、服装、比例以及整体构图。运用清晰且自信的笔触、细腻的干笔纹理、精致的草图线条、柔和的罩染效果、自然的颜料变化以及手工绘制的瑕疵感——避免过于平滑或喷枪质感。\n\n使用温暖的桃色、珊瑚色、赤陶色、琥珀色和柔粉色作为肤色基调，并辅以淡紫色、李子色、炭灰色、浓咖啡色和板岩色的丰富阴影。在额头、鼻梁、颧骨和嘴唇处添加逼真的明亮高光。\n\n使双眼极具表现力和电影感，刻画出细腻的虹膜、逼真的倒影、精致的睫毛以及受控的眼神光。保持面部解剖结构的真实、优雅与成熟感。\n\n头发和服装应呈现出流畅的绘画笔触、自然的褶皱、局部的锐利细节以及松散的表现主义边缘。运用富有戏剧性的定向电影光效、微妙的轮廓光、大气阴影以及柔和的背景融合效果。\n\n整体风格：融合了传统手绘质感、印象派写实主义、优雅线条、电影级质感与精致角色插画的高端当代概念艺术。\n\n极简的大气背景，采用高级暖中性色调，重点聚焦于面部与眼神。\n\n长宽比：9:16 竖屏。",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1788849667276_jgbjdx_HRnd81AbIAAhBz1.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "游戏素材",
+        "Zayan"
+      ],
+      "author": "Zayan",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/HustleXR/status/2096951148515385716",
+      "license": "upstream",
+      "createdAt": "2026-09-07"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:96421a2cad251d44",
       "title": "游戏素材 - Artifact Diorama SQL 生成",
       "prompt": "16:9 select * from artifact_diorama_archives where subject_media = '{argument name=\"media title\" default=\"[media_title]\"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name=\"media title\" default=\"[media_title]\"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name=\"media title\" default=\"[media_title]\"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';",
       "media": "image",
@@ -21,7 +41,7 @@
       "createdAt": "2026-09-04"
     },
     {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:037d10ce78affff8",
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:2c412dc5e7691658",
       "title": "游戏素材 - Woodpunk 动力木质雕塑自动机",
       "prompt": "1. 语义推理引擎（动态材质映射）：\n输入 A 为任意主题（物体、动物、植物或概念）。\n分析主题的固有属性并将其映射到手工材质：\n主体（底盘）：推断主题的主要颜色/重量，并分配相应的硬木。\n装饰（镶嵌）：推断主题的图案或细节，并分配对比鲜明的细木镶嵌材质。\n机械结构（骨架）：推断主题的关节或动力源，并分配金属五金件。\n2. “不可变”容器（自动机）：\n目标：“达芬奇工作室”风格的产品摄影。\n物体：将主题渲染为一个复杂的、独立的木制机械玩具。\n底座：模型矗立在代表其语义环境的手工雕刻木块上。\n比例：桌面物体的微距摄影（约 12 英寸高）。\n3. 发条内部（变形）：\n剖面：视觉上移除或铰接打开部分外部“木壳”。\n内部：内部的生物或机械构造被发条装置取代。\n规则：可见的齿轮、自行车链条、手表发条和黄铜飞轮必须暗示物体通过发条动力驱动。\n紧固件：木材接缝处可见微小的黄铜螺丝、铆钉和铰链。\n4. 叙事角色（操作员）：\n角色：场景中集成了一个标准的关节木制人体模型（艺术家玩偶风格）。\n职责：该角色作为主题的维护者、骑手或操作员。\n互动：他们正在爬梯子擦拭物体、转动巨大的发条钥匙，或驾驶野兽/机器。\n配件：玩偶穿着与语境相符的雕刻木质装备。\n5. 灯光与氛围：\n灯光：柔光箱摄影棚灯光。漫射的高端商业灯光，在涂漆的曲线上营造出优雅的长条高光。\n背景：中性摄影棚灰。无缝无限背景，聚焦于材质纹理。\n质感：高光清漆。木材必须看起来昂贵、光滑且色彩饱和度深。\n输出：一张图片，1:1 纵横比，产品摄影，“Woodpunk”美学，8k 分辨率。",
       "media": "image",
@@ -41,7 +61,7 @@
       "createdAt": "2026-09-04"
     },
     {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:4727b6b49cf7a7bd",
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:b55ba07f8784e785",
       "title": "游戏素材 - 漫画桌面立体模型套件",
       "prompt": "{ \"Aesthetic\": \"实体桌面立体模型，树脂与粘土模型套件\", \"Subject\": \"{argument name=\"franchise\" default=\"[FRANCHISE]\"}\", \"Physical_Components\": { \"The_Archway\": \"拼写为 {argument name=\"franchise name\" default=\"[FRANCHISE]\"} 的巨型 3D 字母，纹理采用 AI_INFER(符合原作设定的材质)。\", \"The_Vessel\": \"一个中空、切开的古董碗/容器，承载着整个世界。\", \"The_Ecosystem\": { \"Terrain\": \"AI_INFER(微缩山脉、城堡或城市)。\", \"Fluids\": \"半透明、光泽的浇注环氧树脂，模拟水或熔岩。\", \"Inhabitants\": \"与地形互动的微型、超精细人偶。\" } }, \"Lighting\": \"电影级产品摄影。轮廓光突显 3D 字体边缘。\" }",
       "media": "image",
@@ -61,7 +81,7 @@
       "createdAt": "2026-09-04"
     },
     {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:ee5ad7df7e933b51",
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:25bc6cfe5e6ba35a",
       "title": "游戏素材 - 空灵女子花卉发饰肖像",
       "prompt": "特写肖像，主角为一位 {argument name=\"subject\" default=\"空灵的年轻女子\"}，拥有瓷器般的肌肤和富有表现力的榛褐色双眼，双唇微启，如瀑布般波浪状的 {argument name=\"hair color\" default=\"午夜蓝与钴蓝色\"} 秀发中巧妙地交织着盛开的 {argument name=\"flowers\" default=\"白色牡丹\"} 和深蓝色花藤，有机植物风格的服饰与蓝色叶片及白色花朵完美融合，深色极简背景，戏剧性的明暗对比照明，流畅的数字概念艺术，柔和的电影感阴影，照片级真实细节，精细线条艺术，ArtStation 热门趋势，8k 分辨率，长宽比 9:16",
       "media": "image",
@@ -77,26 +97,6 @@
       "author": "𝑨𝒇𝒓𝒊𝒏",
       "source": "youmind-nano-banana-pro",
       "sourceUrl": "https://x.com/afrinxai/status/2095749951464919337",
-      "license": "upstream",
-      "createdAt": "2026-09-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:25030c65b1618fb0",
-      "title": "游戏素材 - 动漫朋克风格女性插画",
-      "prompt": "一幅动漫风格的数字插画，描绘了一位充满活力的年轻女性，展现出大胆的朋克风格，基于 {argument name=\"reference image\" default=\"image_0.png\"}。她留着一头飘逸的挑染长发，右侧为 {argument name=\"right hair color\" default=\"明亮的青蓝色\"}，左侧为 {argument name=\"left hair color\" default=\"鲜艳的红色\"}，扎成凌乱的双丸子头。她露着自信的笑容，明亮的蓝色眼睛搭配红黑相间的眼妆（眼下有十字图案），佩戴多个耳环和黑色颈圈。她的左臂覆盖着细致且色彩丰富的“新传统”风格纹身（花卉与生物），腹部则有复杂的纹身，包括一个身着红衣的角色和一些小巧的人物图案。她身穿深青色运动内衣，内搭白色抹胸，外罩一件超大号黄色羽绒服，羽绒服半滑落至肩头，上面带有抽象的蓝/粉色补丁和风格化的日文片假名。整体造型搭配深色短裤和黑色皮带。背景为干净的米白色摄影棚。中景特写镜头，动态灯光，呈现出细腻的漫画艺术风格。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788591084657_67012g_HRVdSThbkAA-5ar.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "游戏素材",
-        "𝑨𝒇𝒓𝒊𝒏"
-      ],
-      "author": "𝑨𝒇𝒓𝒊𝒏",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/afrinxai/status/2095734348712423924",
       "license": "upstream",
       "createdAt": "2026-09-04"
     },

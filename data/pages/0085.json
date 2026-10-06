@@ -39,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11821-142",
-      "title": "Cinematic Portrait of Ancient Turkic Woman and Horse in Snow",
-      "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"historical_turkic_woman_horse_portrait\", \"language\": \"en\", \"priority\": \"highest\", \"version\": \"v1.0_SNOW_TURKIC_WOMAN_HORSE_BOND\" }, \"input\": { \"mode\": \"text_to_image\", \"notes\": \"Create a cinematic intimate portrait of a beautiful ancient Turkic woman standing close to her horse in a snowy landscape, sharing a quiet spiritual bond.\" }, \"output_settings\": { \"aspect_ratio\": \"4:5\", \"orientation\": \"portrait\", \"resolution_target\": \"ultra_high_res\", \"num_images\": 1, \"render_style\": \"cinematic_historical_realism\", \"sharpness\": \"editorial_crisp\", \"grain\": \"subtle_film\", \"color_grade\": \"cold_natural_cinematic\", \"dynamic_range\": \"natural_not_hdr\", \"skin_rendering\": \"real_texture_no_retouch\" }, \"scene\": { \"environment\": \"snow-covered open steppe or mountain plain, soft winter haze, quiet white landscape, light snowfall in the air\", \"lighting\": \"soft overcast winter daylight, delicate highlights on skin, hair, leather, and horse fur, realistic cold atmosphere\", \"mood\": \"ancestral, tender, spiritual, noble, calm, unforgettable\" }, \"subject\": { \"description\": \"one beautiful ancient Turkic woman with a calm powerful presence\", \"skin\": \"natural realistic skin texture with soft winter tone\", \"hair\": \"long dark hair with old Turkic inspired braids, small beads and thread details woven into sections\", \"makeup\": \"historically inspired subtle beauty styling, softly defined eyes with earth-charcoal tones, natural skin, muted lips, no modern glam finish\", \"nails\": \"short natural nails appropriate for a historical old Turkic woman, no modern manicure\", \"expression\": \"eyes gently closed or softly lowered, peaceful, strong, deeply connected to the horse\" }, \"wardrobe\": { \"outfit\": \"ancient Turkic winter attire with layered leather and wool garments, dark earth-toned shoulder armor, fur accents, practical yet noble nomadic clothing\", \"materials\": \"aged leather, wool, felt, fur, braided cords, weathered metal details\", \"styling\": \"authentic Central Asian steppe aesthetic, not fantasy cosplay, not medieval European\" }, \"horse\": { \"type\": \"strong dark horse with a broad face and white blaze markings\", \"tack\": \"historically inspired decorated bridle with metal ornaments and weathered leather straps\", \"anatomy\": \"realistic horse anatomy, calm noble temperament, winter coat detail\" }, \"composition\": { \"pose\": \"woman standing very close to the horse, forehead or face near the horse’s face, one hand gently holding the bridle and the other resting against the horse, intimate and protective posture\", \"framing\": \"medium portrait with the horse’s head dominant in frame and the woman in side",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11793-142",
+      "title": "Universal Random Punk Scene Generator for Nano Banana Pro",
+      "prompt": "Universal Random Punk Scene Generator 1. PUNK_STYLE = [{argument name=\"punk style\" default=\"Choose one punk aesthetic. If left blank, one style will be automatically selected at random from LIST_OF_PUNK_STYLES.\"}] 2. LIST_OF_PUNK_STYLES = [Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk] 3. SUBSTYLE = • If a specific SUBSTYLE is provided → use it exactly as written. • If SUBSTYLE is set to **none** → do not apply a substyle layer. • If SUBSTYLE is left **blank** → automatically infer a logical SUBSTYLE based on the chosen PUNK_STYLE. 4. TECHNOLOGY_LEVEL = • If a specific TECHNOLOGY_LEVEL is provided → use it exactly as written. • If TECHNOLOGY_LEVEL is set to **none** → do not apply a technology modifier. • If TECHNOLOGY_LEVEL is left **blank** → automatically infer an appropriate technology level based on the chosen PUNK_STYLE. 5. ENVIRONMENT = • If a specific ENVIRONMENT is provided → use it exactly as written. • If ENVIRONMENT is set to **none** → do not apply an environmental modifier. • If ENVIRONMENT is left **blank** → automatically infer a logical environment based on the other active layers. 6. CULTURE = • If a specific CULTURE is provided → use it exactly as written. • If CULTURE is set to **none** → do not apply a cultural modifier. • If CULTURE is left **blank** → automatically infer a cultural framework appropriate to the world. 7. ROOM_OR_SETTING = [{argument name=\"room or setting\" default=\"IF BLANK: Generate a compelling location consistent with the active world layers.\"}] 8. LIST_OF_OBJECTS = [IF BLANK: Infer 4–6 logical objects belonging to the environment.] 9. CAMERA_FRAMEWORK = [IF BLANK: Infer the best cinematic framing for the environment.] 10. LIGHTING_FRAMEWORK = [IF BLANK: Infer lighting derived from the technology and environment.] 11. MATERIAL_SYSTEM = [IF BLANK: Infer dominant materials and structural systems derived from the style layers.] --- ### STYLE SELECTION DIRECTIVE If **PUNK_STYLE is left blank**, randomly select **one style from LIST_OF_PUNK_STYLES** and apply it as the active world aesthetic. All subsequent inference systems must use the chosen PUNK_STYLE. --- ### WORLD INTERPRETER ENGINE Analyze all active layers: PUNK_STYLE * optional SUBSTYLE * optional TECHNOLOGY_LEVEL * optional ENVIRONMENT * optional CULTURE From these layers infer: • dominant materials • architectural forms • infrastructure systems • lig",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11821-142-Cinematic-Portrait-of-Ancient-Turkic-Woman-and-Horse-in-Snow.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11793-142-Universal-Random-Punk-Scene-Generator-for-Nano-Banana-Pro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,16 +77,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32673-217",
-      "title": "Rose Gold Shimmer City Walk",
-      "prompt": "Full-body photograph of a young curvey woman walking down a city street, wearing a {argument name=\"outfit\" default=\"metallic rose gold two-piece set featuring a cropped tank top and a matching high-waisted asymmetrical maxi skirt, both covered in layered, shimmering fringe\"}. Her {argument name=\"hair style\" default=\"long light-brown hair is styled in loose beach waves\"}, and she wears simple black strappy heeled sandals. The shot is captured from a {argument name=\"camera angle\" default=\"straight-on perspective with a shallow depth of field\"}, blurring the urban background and focus on her. Natural afternoon sunlight highlights the textures and sparkle of the fringe. A cursive delicate tiny minimalist .",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32667-215",
+      "title": "Ultra-Realistic Fashion Portrait Consistency",
+      "prompt": "{ \"prompt\": \"Using the uploaded image above with 100% facial accuracy, body size, haircut and shape, create a breathtaking 16K ultra-realistic editorial fashion portrait of the same beautiful African woman. Preserve every facial feature exactly as in the uploaded image, including her face shape, warm brown skin tone, expressive eyes, eyebrows, nose, lips, smile, natural makeup, body proportions, hairstyle, head wrap, braided locs, jewelry placement, and confident pose. Maintain her right hand resting on her head and her left hand placed on her waist exactly as shown. She is wearing the same black bandeau-style wrap top with a long draped scarf in the center, low-rise light blue denim jeans, waist chain, bracelets, rings, necklace, and matching accessories. The background is a warm golden studio backdrop with the soft circular spotlight glow, identical lighting direction, smooth wall texture, and shallow depth of field. Illuminate the subject with luxurious golden-hour cinematic lighting, soft key light, subtle rim lighting, realistic shadows, and natural skin reflections. Capture with a professional full-frame cinema camera using an 85mm f/1.2 portrait lens, producing creamy bokeh, crystal-clear eyes, ultra-detailed skin pores, natural melanin texture, realistic hair strands, detailed fabric textures, physically accurate lighting, HDR, RAW image quality, ray-traced global illumination, volumetric lighting, subsurface scattering, premium fashion magazine quality, luxury editorial photography, masterpiece composition, hyper-realistic rendering, true-to-life colors, flawless anatomy, no distortion, no AI artifacts, and maximum photorealism.\", \"negative_prompt\": \"cartoon, anime, CGI, illustration, painting, blurry, low quality, pixelated, noisy, oversharpened, overexposed, underexposed, plastic skin, fake skin texture, deformed anatomy, inaccurate facial features, extra fingers, missing fingers, extra limbs, duplicated body parts, crossed eyes, distorted proportions, bad hands, watermark, logo, text, frame, cropped body, unrealistic lighting, unnatural colors, compression artifacts\", \"aspect_ratio\": \"16:9\", \"resolution\": \"15360x8640\", \"quality\": \"16K Ultra HD\", \"style\": \"Ultra-Realistic Editorial Fashion Photography\", \"camera\": { \"model\": \"Sony A1 II\", \"lens\": \"Sony FE 85mm f/1.2 GM\", \"focal_length\": \"85mm\", \"aperture\": \"f/1.2\", \"iso\": 100, \"shutter_speed\": \"1/200 sec\", \"focus\": \"Eye Autofocus\" }, \"lighting\": { \"style\": \"Golden cinematic studio lighting\", \"key_light\": \"Large warm softbox positioned front-left\", \"fill_light\": \"Soft reflected fill\", \"rim_light\": \"Warm edge light for subject separation\", \"background_light\": \"Soft circular golden spotlight matching the reference image\", \"hdr\": true }, \"render_settings\": { \"engine\": \"Photorealistic\", \"ray_tracing\": true, \"global_illumination\": true, \"ambient_oc",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32673-217-Rose-Gold-Shimmer-City-Walk.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32667-215-Ultra-Realistic-Fashion-Portrait-Consistency.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -134,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26310-417",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26310-420",
       "title": "Cherry Blossom Beauty Campaign",
       "prompt": "{argument name=\"product\" default=\"Elegant blush pink bottle\"} surrounded by {argument name=\"elements\" default=\"cherry blossom petals floating in air, soap bubbles reflecting soft pink light\"}, glossy podium, premium Japanese beauty advertisement style, {argument name=\"mood\" default=\"dreamy cinematic atmosphere\"}, ultra realistic, luxury skincare campaign.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26310-417-Cherry-Blossom-Beauty-Campaign.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26310-420-Cherry-Blossom-Beauty-Campaign.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,16 +191,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11814-143",
-      "title": "Fisheye Perspective of a Fish and Seagull",
-      "prompt": "Fisheye lens photo captured from the perspective of the fish that's about to be eaten by a [seagull] (varies seegull)",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11821-143",
+      "title": "Cinematic Portrait of Ancient Turkic Woman and Horse in Snow",
+      "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"historical_turkic_woman_horse_portrait\", \"language\": \"en\", \"priority\": \"highest\", \"version\": \"v1.0_SNOW_TURKIC_WOMAN_HORSE_BOND\" }, \"input\": { \"mode\": \"text_to_image\", \"notes\": \"Create a cinematic intimate portrait of a beautiful ancient Turkic woman standing close to her horse in a snowy landscape, sharing a quiet spiritual bond.\" }, \"output_settings\": { \"aspect_ratio\": \"4:5\", \"orientation\": \"portrait\", \"resolution_target\": \"ultra_high_res\", \"num_images\": 1, \"render_style\": \"cinematic_historical_realism\", \"sharpness\": \"editorial_crisp\", \"grain\": \"subtle_film\", \"color_grade\": \"cold_natural_cinematic\", \"dynamic_range\": \"natural_not_hdr\", \"skin_rendering\": \"real_texture_no_retouch\" }, \"scene\": { \"environment\": \"snow-covered open steppe or mountain plain, soft winter haze, quiet white landscape, light snowfall in the air\", \"lighting\": \"soft overcast winter daylight, delicate highlights on skin, hair, leather, and horse fur, realistic cold atmosphere\", \"mood\": \"ancestral, tender, spiritual, noble, calm, unforgettable\" }, \"subject\": { \"description\": \"one beautiful ancient Turkic woman with a calm powerful presence\", \"skin\": \"natural realistic skin texture with soft winter tone\", \"hair\": \"long dark hair with old Turkic inspired braids, small beads and thread details woven into sections\", \"makeup\": \"historically inspired subtle beauty styling, softly defined eyes with earth-charcoal tones, natural skin, muted lips, no modern glam finish\", \"nails\": \"short natural nails appropriate for a historical old Turkic woman, no modern manicure\", \"expression\": \"eyes gently closed or softly lowered, peaceful, strong, deeply connected to the horse\" }, \"wardrobe\": { \"outfit\": \"ancient Turkic winter attire with layered leather and wool garments, dark earth-toned shoulder armor, fur accents, practical yet noble nomadic clothing\", \"materials\": \"aged leather, wool, felt, fur, braided cords, weathered metal details\", \"styling\": \"authentic Central Asian steppe aesthetic, not fantasy cosplay, not medieval European\" }, \"horse\": { \"type\": \"strong dark horse with a broad face and white blaze markings\", \"tack\": \"historically inspired decorated bridle with metal ornaments and weathered leather straps\", \"anatomy\": \"realistic horse anatomy, calm noble temperament, winter coat detail\" }, \"composition\": { \"pose\": \"woman standing very close to the horse, forehead or face near the horse’s face, one hand gently holding the bridle and the other resting against the horse, intimate and protective posture\", \"framing\": \"medium portrait with the horse’s head dominant in frame and the woman in side",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11814-143-Fisheye-Perspective-of-a-Fish-and-Seagull.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11821-143-Cinematic-Portrait-of-Ancient-Turkic-Woman-and-Horse-in-Snow.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -229,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32677-220",
-      "title": "Male Winter Portrait at Ice Rink",
-      "prompt": "A realistic, high-contrast portrait of a {argument name=\"subject\" default=\"handsome young adult male\"} positioned in the center and has messy hair with subtle natural imperfections. He projects a genuine, happy demeanor with a warm closed smile and relaxed eyes, standing naturally with relaxed shoulders and his hands tucked warmly inside the pockets of his {argument name=\"coat color\" default=\"heavy, deep navy-black overcoat\"} layered over a crisp white t-shirt. Directly in front of him in the foreground is a weathered, ornate dark metal railing featuring intricate circular patterns, its surface slightly frosted and wet with small patches of piled snow resting just behind it. Beyond the railing, the deep midground opens up to a massive, {argument name=\"location\" default=\"brightly illuminated outdoor ice skating rink\"}, its icy blue-white surface heavily scratched and scored from skate blades, highly reflective and dotted with small distant figures skating. The deep background reveals a historic, aged stone castle building on the left, featuring rough stone masonry, large arched windows, and a pointed tower roof entirely washed in warm amber-gold architectural uplighting. A tall stadium light pole with fiercely bright, blown-out white LED floodlights stands on the left edge, alongside bare, weathered deciduous trees against a dark cloudy night sky reflecting the ambient cloudy night gray city glow. The crisp, energetic winter atmosphere is sculpted by hard, highly directional mixed artificial lighting, producing harsh, deep black shadows under the chin, within the heavy folds of the coat, and cast behind the subject, while specular highlights gently illuminate his forehead and nose. Shot straight on with a 35mm lens at f/2.8 and 1/125s to keep the subject tack sharp against a slightly soft but readable background, the image is rendered with a split-complementary color palette, enhanced contrast, and an ISO of 1600 that introduces organic digital noise and grain into the sky, framed in a 3:4 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32675-216",
+      "title": "Grand Library Reader Portrait",
+      "prompt": "{ \"title\": \"{argument name=\"title\" default=\"THE READER OF THE GRAND LIBRARY\"}\", \"scene\": \"{argument name=\"scene description\" default=\"Inside an enormous historic library with towering wooden bookshelves reaching toward an ornate vaulted ceiling. A tall arched window overlooks the quiet world outside as golden afternoon sunlight streams through, illuminating countless floating dust particles.\"}\", \"subject\": \"{argument name=\"subject\" default=\"A beautiful young woman sits gracefully beside the arched window, reading an old leather-bound book. She wears an elegant dark green classic dress with a refined posture and a gentle, thoughtful smile, completely immersed in the timeless atmosphere of the library.\"}\", \"detail\": \"Rich mahogany bookshelves are lined with thousands of antique books. Intricate carved woodwork, vintage brass lamps, worn leather bindings, polished wooden floors, and elegant architectural details enhance the luxurious interior. Soft rays of sunlight highlight the pages of the book while delicate dust motes shimmer in the warm light. Every fabric fold, hair strand, and skin texture is rendered with exceptional realism.\", \"atmosphere\": \"Luxurious, peaceful, intellectual, nostalgic, elegant, timeless, cinematic, and inviting.\", \"lighting\": \"Golden afternoon sunlight pouring through the tall arched window, Renaissance-inspired lighting, warm cinematic glow, soft natural shadows, volumetric light rays, realistic global illumination, and subtle ambient lighting.\", \"composition\": \"Intimate cinematic portrait with the subject positioned beside the arched window, towering bookshelves framing the scene, eye-level perspective, shallow depth of field, creamy bokeh, and balanced editorial composition.\", \"style\": \"Photorealistic, cinematic editorial photography, Renaissance-inspired lighting, Kodak Portra film colors, ultra realistic textures, realistic skin details, masterpiece, HDR, highly detailed, film grain, shallow depth of field, volumetric lighting, 8K.\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32677-220-Male-Winter-Portrait-at-Ice-Rink.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32675-216-Grand-Library-Reader-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26309-419",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26309-422",
       "title": "Matcha Skincare Product Ad",
       "prompt": "{argument name=\"product\" default=\"Premium green bottle\"} placed on stone podium, surrounded by {argument name=\"surroundings\" default=\"matcha powder clouds, green tea leaves and creamy foam\"}, Japanese spa aesthetic, {argument name=\"composition\" default=\"minimal luxury composition\"}, soft natural lighting, highly realistic skincare advertisement, 8K.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26309-419-Matcha-Skincare-Product-Ad.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26309-422-Matcha-Skincare-Product-Ad.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11810-144",
-      "title": "Fisheye Perspective of a Mouse and Owl",
-      "prompt": "Fisheye lens photo captured from the perspective of a mouse that's about to be captured by an owl",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11814-144",
+      "title": "Fisheye Perspective of a Fish and Seagull",
+      "prompt": "Fisheye lens photo captured from the perspective of the fish that's about to be eaten by a [seagull] (varies seegull)",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11810-144-Fisheye-Perspective-of-a-Mouse-and-Owl.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11814-144-Fisheye-Perspective-of-a-Fish-and-Seagull.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32579-222",
-      "title": "Olive Green Cinematic Editorial Transformation",
-      "prompt": "Transform the uploaded image into an ultra-realistic, high-end cinematic fashion editorial portrait. Preserve the subject’s appearance, outfit, and natural proportions while creating a sophisticated {argument name=\"color scheme\" default=\"monochromatic olive-green\"} interior with {argument name=\"furniture\" default=\"sculptural furniture\"}, {argument name=\"forms\" default=\"curved forms\"} and warm golden-hour lighting. Use realistic skin texture, detailed fabric, soft cinematic shadows, natural reflections, premium editorial photography aesthetics, professional DSLR look, shallow depth of field, HDR, cinematic color grading, and ultra-detailed 4K quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32669-218",
+      "title": "Surrealist Honeycomb Fashion Editorial",
+      "prompt": "{\"vibe_title_en\": \"Amber Defiance\", \"master_prompt\": \"A hyper-realistic, high-fashion surrealist editorial shot on Hasselblad H6D-100c with a 100mm f/2.2 lens on Kodak Portra 800 film. [SUBJECT]: The Protagonist, gender-neutral, embodying 'The Quiet Rebel', standing perfectly still with a defiant, calm posture while the world moves fast around them. [SETTING]: Shot completely THROUGH an intricate foreground of dripping, translucent amber beeswax and fast-moving, out-of-focus bees. The environment is a once-opulent hall now entirely consumed by colossal, organic honeycomb structures. [WARDROBE]: The subject wears a high-couture architectural garment woven from actual raw honeycomb and fine golden silk, glistening with highly realistic, viscous liquid honey. [LIGHTING]: Cinematic chiaroscuro; soft, warm volumetric golden hour light pierces through the hive canopy, casting rich amber hues and deep tactile shadows. [TECHNICAL]: Flawless practical effect simulation, ultra-detailed skin texture and pores, optical light refraction through the dripping honey. Intense motion blur on the flying swarm emphasizes the chaotic speed of the environment against the subject's absolute, unyielding stillness. Raw analog texture, pure photographic fidelity, NO NEON.\", \"meta\": {\"intent\": \"Surrealist High-Fashion Editorial\", \"priorities\": \"Tactile textures, extreme depth of field, narrative contrast between motion and stillness\", \"device_profile\": \"Medium Format Analog Camera\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"Center-framed portrait, framed through dense foreground elements\", \"layout\": \"Symmetrical core anchored by the subject, surrounded by chaotic dynamic framing\", \"camera_angle\": \"Eye-level, shooting intimately through a narrow gap in a honeycomb structure\", \"tilt_roll_degrees\": \"0\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Quiet Rebel\", \"demographics\": \"Ageless, ethereal yet grounded\", \"face\": \"Calm, defiant, unyielding, featuring highly textured, hyper-realistic skin\", \"hair\": \"Slicked back, coated in a subtle, organic golden mist\", \"body\": \"Standing tall, perfectly still, exuding a regal and grounded posture\", \"expression\": \"A defiant, calm stare piercing directly through the surrounding chaos\", \"pose\": \"Standing motionless, grounding the kinetic energy of the chaotic scene\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Sculptural avant-garde gown\", \"material\": \"Raw organic honeycomb and golden silk\", \"color\": \"Translucent amber and liquid gold\", \"fit\": \"Structured, architectural, and imposing\"}], \"accessories\": [{\"item\": \"Dripping viscous accents\", \"color\": \"Warm amber\", \"material\": \"Realistic liquid honey\", \"brand_style\": \"Surrealist high-couture practical effects\"}]}, \"environment\": {\"setting\": \"An opulent, forgotten hall completely overtaken by colossal organic beehives\", \"surfaces\": \"Sticky, highly textured beeswax, crumbling ornate stone, and dripping amber\", \"depth\": \"Extreme deep space behind the subject, heavily layered and obstructed foreground\", \"atmosphere\": \"Thick, humid, buzzing with kinetic energy, glowing with suspended golden dust motes\", \"lens_interaction\": \"Motion-blurred flying bees and dripping wax passing directly in front of the lens\"}, \"lighting\": {\"key\": \"Soft, directional warm volumetric light piercing down from the hive canopy\", \"fill\": \"Bounced ambient amber light radiating from the surrounding beeswax\", \"rim\": \"Sharp golden rim light separating the subject from the dark, cavernous background\", \"shadows\": \"Deep, rich brown and warm black chiaroscuro, heavily textured\", \"color_temperature\": \"Warm (3200K - 3800K)\", \"sensor_flare\": \"Subtle warm halation around the specular highlights of the liquid honey\"}, \"camera\": {\"lens_type\": \"Medium Format Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.2\", \"focus\": \"Tack sharp on the subject's eyes, extreme motion blur and bokeh on the surrounding swarm\", \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Zero compression, natural and intimate portrait distance\"}, \"post_processing\": {\"color\": \"Rich Kodak Portra 800 tones, deep ambers, muted golds, warm shadows\", \"tonality\": \"High contrast with carefully preserved highlight details in the dripping viscous elements\", \"texture\": \"Heavy, organic film grain, prominent skin pores, tactile viscosity\", \"digital_sharpening\": \"None, pure optical sharpness\", \"chromatic_aberration\": \"Slight organic edge fringing on the extreme out-of-focus foreground elements\"}, \"negative_specifications\": [\"neon lights\", \"cyberpunk\", \"plastic skin\", \"CGI\", \"digital illustration\", \"flat lighting\", \"rooftops\", \"minimalist office\", \"coffee shop\", \"static background\", \"clean modern architecture\", \"cartoonish bees\", \"fantasy art\"]}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32579-222-Olive-Green-Cinematic-Editorial-Transformation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32669-218-Surrealist-Honeycomb-Fashion-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -438,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26329-421",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26329-424",
       "title": "3D Miniature City Diorama",
       "prompt": "A hyper-realistic 3D square display of {argument name=\"city\" default=\"Istanbul\"}; the bottom shows an excavated terrain structure of rocks, roots, and soil layers. The top features a fairy-tale city landscape containing iconic buildings, architecture, and cultural elements of {argument name=\"city\" default=\"Istanbul\"}. Modern and concise text for '{argument name=\"city\" default=\"Istanbul\"}' is naturally integrated into the composition. DSLR photo quality, clear and vivid magical realism aesthetics. Dimensions: 1080x1080.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26329-421-3D-Miniature-City-Diorama.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26329-424-3D-Miniature-City-Diorama.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,16 +495,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11822-145",
-      "title": "Cinematic Portrait of Old Turkic Noblewoman on Black Horse (Image-to-Image)",
-      "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"historical_turkic_warrior_woman_portrait\", \"language\": \"en\", \"priority\": \"highest\", \"version\": \"v1.0_OLD_TURKIC_BLACK_HORSE_FACE_LOCK\" }, \"input\": { \"mode\": \"image_to_image\", \"reference_image_usage\": \"maximum\", \"preserve_identity\": true, \"preserve_facial_features\": true, \"notes\": \"Create a powerful cinematic portrait of a beautiful old Turkic noblewoman mounted on a black horse. The uploaded woman must remain the exact same person with maximum facial similarity. Keep the exact same face shape, eyes, eyebrows, nose, lips, jawline, chin, skin tone, and facial harmony. Do not turn her into a different girl. Adapt only the styling into an old Turkic steppe aesthetic with historically inspired beauty details.\" }, \"output_settings\": { \"aspect_ratio\": \"4:5\", \"orientation\": \"portrait\", \"resolution_target\": \"ultra_high_res\", \"num_images\": 1, \"render_style\": \"cinematic_historical_editorial\", \"sharpness\": \"editorial_crisp\", \"grain\": \"subtle_film\", \"color_grade\": \"rich_natural_cinematic\", \"dynamic_range\": \"natural_not_hdr\", \"skin_rendering\": \"real_texture_no_retouch\" }, \"scene\": { \"environment\": \"open steppe landscape with distant mountains and expansive sky, historical Turkic nomadic atmosphere\", \"horse\": \"majestic black horse with strong elegant build, dark mane, historically styled saddle and reins\", \"lighting\": \"soft natural daylight with noble cinematic highlights on face, fur, metal ornaments, and horse\", \"mood\": \"strong, regal, ancestral, feminine, magnetic, unforgettable\" }, \"subject\": { \"description\": \"one striking old Turkic noblewoman, mounted on a black horse, elegant and powerful\", \"identity_rule\": \"the woman must remain the exact same person as the uploaded face reference\", \"face\": \"exact same face, same eye shape, same eyebrow shape, same nose bridge and nose tip, same lip shape, same chin, same jawline, same cheek structure, same skin tone, same facial proportions\", \"hair\": \"dark long hair styled in old Turkic inspired braids and sections, neat but slightly windswept, historically elegant and feminine\", \"makeup\": \"beauty styling inspired by old Turkic women, refined and natural, softly defined eyes, subtle earth-toned contour, naturally tinted lips, no modern glam exaggeration\", \"nails\": \"clean natural nails or softly groomed short nails appropriate for a historical old Turkic noblewoman, no modern acrylic look, no flashy modern manicure\", \"expression\": \"calm, strong, captivating, proud, quietly commanding\" }, \"wardrobe\": { \"outfit\": \"luxurious old Turkic noblewoman attire with dark layered fabric, rich fur trim, fitted waist, structured historical silhouette, elegant nomadic warri",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11810-145",
+      "title": "Fisheye Perspective of a Mouse and Owl",
+      "prompt": "Fisheye lens photo captured from the perspective of a mouse that's about to be captured by an owl",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11822-145-Cinematic-Portrait-of-Old-Turkic-Noblewoman-on-Black-Horse-Image-to-Image.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11810-145-Fisheye-Perspective-of-a-Mouse-and-Owl.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -533,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32576-224",
-      "title": "Urban Café Candid Snapshot",
-      "prompt": "A straight on medium shot captures a woman lounging indoors at what appears to be a café or restaurant setting. She is wearing large headphones over her hair and sports dark sunglasses. Her attire includes an oversized {argument name=\"sweatshirt color\" default=\"navy blue\"} sweatshirt and she pairs it with white socks and {argument name=\"sneaker style\" default=\"green and white Nike\"} sneakers. She casually sips an iced beverage, suggesting a relaxed mood. The background features a combination of a {argument name=\"wall tile color\" default=\"deep green\"} tiled lower wall and a neutral, beige upper wall, adding a geometric texture to the scene. The lighting is soft and diffused, likely from natural ambient sources, casting minimal shadows and creating a neutral color palette dominated by green, navy, and beige tones. Likely captured on a smartphone, the image is a candid, urban snapshot with a casual, laid back atmosphere.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32673-220",
+      "title": "Rose Gold Shimmer City Walk",
+      "prompt": "Full-body photograph of a young curvey woman walking down a city street, wearing a {argument name=\"outfit\" default=\"metallic rose gold two-piece set featuring a cropped tank top and a matching high-waisted asymmetrical maxi skirt, both covered in layered, shimmering fringe\"}. Her {argument name=\"hair style\" default=\"long light-brown hair is styled in loose beach waves\"}, and she wears simple black strappy heeled sandals. The shot is captured from a {argument name=\"camera angle\" default=\"straight-on perspective with a shallow depth of field\"}, blurring the urban background and focus on her. Natural afternoon sunlight highlights the textures and sparkle of the fringe. A cursive delicate tiny minimalist .",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32576-224-Urban-Caf-Candid-Snapshot.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32673-220-Rose-Gold-Shimmer-City-Walk.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +590,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26200-427",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26200-430",
       "title": "Rose Gold Perfume Advertisement",
       "prompt": "Premium rose-colored bottle with gold cap placed on layered marble podium, surrounded by blooming pink roses and silky fabric waves, floating bubbles, luxury perfume advertisement style, cinematic lighting, soft shadows, ultra realistic skincare campaign, high-end aesthetic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26200-427-Rose-Gold-Perfume-Advertisement.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26200-430-Rose-Gold-Perfume-Advertisement.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,16 +647,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11791-146",
-      "title": "Fisheye Perspective of a Fish",
-      "prompt": "Fisheye lens photo captured from the perspective of the fish that's about to be eaten by a seagull",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11822-146",
+      "title": "Cinematic Portrait of Old Turkic Noblewoman on Black Horse (Image-to-Image)",
+      "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"historical_turkic_warrior_woman_portrait\", \"language\": \"en\", \"priority\": \"highest\", \"version\": \"v1.0_OLD_TURKIC_BLACK_HORSE_FACE_LOCK\" }, \"input\": { \"mode\": \"image_to_image\", \"reference_image_usage\": \"maximum\", \"preserve_identity\": true, \"preserve_facial_features\": true, \"notes\": \"Create a powerful cinematic portrait of a beautiful old Turkic noblewoman mounted on a black horse. The uploaded woman must remain the exact same person with maximum facial similarity. Keep the exact same face shape, eyes, eyebrows, nose, lips, jawline, chin, skin tone, and facial harmony. Do not turn her into a different girl. Adapt only the styling into an old Turkic steppe aesthetic with historically inspired beauty details.\" }, \"output_settings\": { \"aspect_ratio\": \"4:5\", \"orientation\": \"portrait\", \"resolution_target\": \"ultra_high_res\", \"num_images\": 1, \"render_style\": \"cinematic_historical_editorial\", \"sharpness\": \"editorial_crisp\", \"grain\": \"subtle_film\", \"color_grade\": \"rich_natural_cinematic\", \"dynamic_range\": \"natural_not_hdr\", \"skin_rendering\": \"real_texture_no_retouch\" }, \"scene\": { \"environment\": \"open steppe landscape with distant mountains and expansive sky, historical Turkic nomadic atmosphere\", \"horse\": \"majestic black horse with strong elegant build, dark mane, historically styled saddle and reins\", \"lighting\": \"soft natural daylight with noble cinematic highlights on face, fur, metal ornaments, and horse\", \"mood\": \"strong, regal, ancestral, feminine, magnetic, unforgettable\" }, \"subject\": { \"description\": \"one striking old Turkic noblewoman, mounted on a black horse, elegant and powerful\", \"identity_rule\": \"the woman must remain the exact same person as the uploaded face reference\", \"face\": \"exact same face, same eye shape, same eyebrow shape, same nose bridge and nose tip, same lip shape, same chin, same jawline, same cheek structure, same skin tone, same facial proportions\", \"hair\": \"dark long hair styled in old Turkic inspired braids and sections, neat but slightly windswept, historically elegant and feminine\", \"makeup\": \"beauty styling inspired by old Turkic women, refined and natural, softly defined eyes, subtle earth-toned contour, naturally tinted lips, no modern glam exaggeration\", \"nails\": \"clean natural nails or softly groomed short nails appropriate for a historical old Turkic noblewoman, no modern acrylic look, no flashy modern manicure\", \"expression\": \"calm, strong, captivating, proud, quietly commanding\" }, \"wardrobe\": { \"outfit\": \"luxurious old Turkic noblewoman attire with dark layered fabric, rich fur trim, fitted waist, structured historical silhouette, elegant nomadic warri",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11791-146-Fisheye-Perspective-of-a-Fish.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11822-146-Cinematic-Portrait-of-Old-Turkic-Noblewoman-on-Black-Horse-Image-to-Image.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -685,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32580-225",
-      "title": "Minimalist Indoor Lifestyle Portrait",
-      "prompt": "Ultra-realistic full-body portrait of {argument name=\"subject\" default=\"him\"} sitting casually on the floor indoors, leaning back against a {argument name=\"background\" default=\"plain off-white minimalist wall\"} with sunlight casting a soft, natural shadow. No headphones. Outfit: {argument name=\"outfit\" default=\"a plain white t-shirt, paired with slightly loose light blue ripped jeans and classic black-and-white Converse sneakers\"}. Accessories include a simple leather bracelet and a casual watch. A notebook and pencil are placed casually beside him on the floor. His pose is relaxed and effortless, with a clean, modern, minimalist aesthetic and natural lifestyle photography style",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32677-223",
+      "title": "Male Winter Portrait at Ice Rink",
+      "prompt": "A realistic, high-contrast portrait of a {argument name=\"subject\" default=\"handsome young adult male\"} positioned in the center and has messy hair with subtle natural imperfections. He projects a genuine, happy demeanor with a warm closed smile and relaxed eyes, standing naturally with relaxed shoulders and his hands tucked warmly inside the pockets of his {argument name=\"coat color\" default=\"heavy, deep navy-black overcoat\"} layered over a crisp white t-shirt. Directly in front of him in the foreground is a weathered, ornate dark metal railing featuring intricate circular patterns, its surface slightly frosted and wet with small patches of piled snow resting just behind it. Beyond the railing, the deep midground opens up to a massive, {argument name=\"location\" default=\"brightly illuminated outdoor ice skating rink\"}, its icy blue-white surface heavily scratched and scored from skate blades, highly reflective and dotted with small distant figures skating. The deep background reveals a historic, aged stone castle building on the left, featuring rough stone masonry, large arched windows, and a pointed tower roof entirely washed in warm amber-gold architectural uplighting. A tall stadium light pole with fiercely bright, blown-out white LED floodlights stands on the left edge, alongside bare, weathered deciduous trees against a dark cloudy night sky reflecting the ambient cloudy night gray city glow. The crisp, energetic winter atmosphere is sculpted by hard, highly directional mixed artificial lighting, producing harsh, deep black shadows under the chin, within the heavy folds of the coat, and cast behind the subject, while specular highlights gently illuminate his forehead and nose. Shot straight on with a 35mm lens at f/2.8 and 1/125s to keep the subject tack sharp against a slightly soft but readable background, the image is rendered with a split-complementary color palette, enhanced contrast, and an ISO of 1600 that introduces organic digital noise and grain into the sky, framed in a 3:4 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32580-225-Minimalist-Indoor-Lifestyle-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32677-223-Male-Winter-Portrait-at-Ice-Rink.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26194-429",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26194-432",
       "title": "Themed Knolling Flat-Lay Grid",
       "prompt": "2x2 grid, do this for 4 AI inferred themes and shapes Anchor: A perfectly organized top-down knolling flat-lay of every object associated with {argument name=\"theme\" default=\"a Surfer / a Baker / Tokyo / the 1980s\"} ::4 Macro Shape: Objects arranged so their collective outline forms the silhouette of {argument name=\"silhouette\" default=\"a wave / a chef's hat / Mount Fuji\"} — order within, meaning at the edge. Infer 20–30 fitting items ::5 Composition: Strict 90° grid alignment, even spacing, generous margin ::3 Material Physics: Real objects, soft studio shadows, consistent matte finish ::2 Illumination: Flat overhead softbox, no glare ::2 Render Stack: Knolling photography, organized-neatly aesthetic, product flat-lay ::1 Negative: [tilted objects, overlap, mess, motion blur, duplicate items, off-theme objects] :: -1",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26194-429-Themed-Knolling-Flat-Lay-Grid.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26194-432-Themed-Knolling-Flat-Lay-Grid.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,12 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11746-147",
-      "title": "Surrealist Painter Dreamscape Diorama Prompt Template",
-      "prompt": "2x2 grid, do this for 4 Surrealist Painters (e.g. Dali, Magritte) input: `{argument name=\"painter name\" default=\"Painter Name\"}` Anchor: `A dreamscape diorama of the artist holding a melting object (clock, apple), standing on a checkerboard floor that dissolves into clouds, defy-gravity physics::3.5` Morphology: `Fluid distortion, impossible geometry, stretching forms, dream logic, merging objects::3` Material Physics: `Liquid chrome, soft wax, floating clouds, glass, mirror surfaces::3` Illumination: `Strange desert twilight, long shadows, surreal color palette (cyan/orange)::1.5` Render Stack: `Digital surrealism, 3D render, smooth gradients, clean lines::1` Negative: `[Realistic, gritty, dirty, standard physics, rigid, boring]:: -1`",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11791-147",
+      "title": "Fisheye Perspective of a Fish",
+      "prompt": "Fisheye lens photo captured from the perspective of the fish that's about to be eaten by a seagull",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11746-147-Surrealist-Painter-Dreamscape-Diorama-Prompt-Template.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11791-147-Fisheye-Perspective-of-a-Fish.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32581-226",
-      "title": "Miniature Inuit Fishing on Cracked Phone",
-      "prompt": "{ \"prompt\": \"{argument name=\"subject\" default=\"Miniature, cracked smartphone with two inuits fishing\"}, ultra realistic, ultra detailed\", \"parameters\": { \"version\": 7, \"stylize\": 50 } }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32579-225",
+      "title": "Olive Green Cinematic Editorial Transformation",
+      "prompt": "Transform the uploaded image into an ultra-realistic, high-end cinematic fashion editorial portrait. Preserve the subject’s appearance, outfit, and natural proportions while creating a sophisticated {argument name=\"color scheme\" default=\"monochromatic olive-green\"} interior with {argument name=\"furniture\" default=\"sculptural furniture\"}, {argument name=\"forms\" default=\"curved forms\"} and warm golden-hour lighting. Use realistic skin texture, detailed fabric, soft cinematic shadows, natural reflections, premium editorial photography aesthetics, professional DSLR look, shallow depth of field, HDR, cinematic color grading, and ultra-detailed 4K quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32581-226-Miniature-Inuit-Fishing-on-Cracked-Phone.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32579-225-Olive-Green-Cinematic-Editorial-Transformation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26088-434",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26088-437",
       "title": "Futuristic Sports Campaign Perspective",
       "prompt": "A dynamic futuristic sportswear advertising campaign featuring a {argument name=\"subject\" default=\"young male basketball athlete\"}, captured from an extreme low-angle 18mm wide-angle lens perspective. The athlete is seated in a powerful pose while gripping a large matte-black basketball in the foreground, creating dramatic perspective distortion with an oversized hand and ball dominating the frame. He wears a premium {argument name=\"jacket colors\" default=\"color-blocked sports windbreaker jacket in vibrant pink, teal, and black\"}, paired with dark athletic shorts, white crew socks, and black basketball sneakers. His face is turned upward with a confident, inspired expression. The environment is a {argument name=\"court style\" default=\"stylized futuristic basketball court designed entirely in vibrant pink and coral gradients\"}, featuring smooth curved architecture, circular court markings, abstract geometric shapes, and clean sports-branding aesthetics. Neon-green 3D energy ribbons emerge from and wrap around the basketball, flowing dynamically across the floor and through the scene, creating a sense of speed, power, and motion. Bold graphic design elements, sweeping curves, and modern commercial sports poster composition fill the background. Ultra-realistic sports fashion photography, premium athletic advertising, Nike-style campaign aesthetic, dramatic depth, cinematic composition, vibrant color contrast, clean studio lighting, glossy surfaces, volumetric light, high-detail textures, sharp focus, energetic atmosphere, futuristic branding, magazine-cover quality, hyper-realistic, HDR, 8K, professional commercial photography, award-winning sports advertisement. Negative Prompt: low quality, blurry, pixelated, bad anatomy, deformed hands, extra fingers, extra limbs, duplicate body parts, distorted face, cropped subject, text, watermark, logo, oversaturated skin, poor lighting, motion blur, noise, artifacts, low contrast, unrealistic proportions, out of frame Generate image Aspect ratio 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26088-434-Futuristic-Sports-Campaign-Perspective.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26088-437-Futuristic-Sports-Campaign-Perspective.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
