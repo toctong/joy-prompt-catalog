@@ -39,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-5753-129",
-      "title": "Thumbnail Generation Prompt for Sales Content (Brain/Tips/Note)",
-      "prompt": "# Role You are a professional graphic designer who creates \"sellable\" eye-catching images for Brain, Tips, and note. # Task Use the [Title] and [Sub-Catchphrase] below to create a high-quality thumbnail that is highly visible and conveys authority and expectation. # Design Style - Composition: Based on the layout of the attached image. 1. [Top]: Place a black, rounded-corner band (badge) in the upper left and write the [Achievement/Urgency Word] there. 2. [Upper Center]: Place the [Sub-Catchphrase] in bold white text (with orange or yellow borders). 3. [Center]: Place the main [Title] as huge, bold text spanning the screen. The text color should be the most prominent color that contrasts with the background, such as a \"yellow-to-white gradient\" or \"neon glow,\" with multiple borders and a drop shadow for three-dimensionality. 4. [Bottom]: Place two \"Benefit Boxes\" (rectangles) on the left and right. Place a ribbon or badge labeled \"Benefit 01\" and \"Benefit 02\" above each. Write the [Benefit Content] inside the boxes. 5. [Decoration]: Place a cute or intellectual character (person or animal) related to the theme at either the left or right edge of the screen. - Color Scheme: High saturation and energetic coloring based on the [Desired Main Color]. - Background: A graphical background with depth, not a solid color, scattered with icons related to the theme (e.g., SNS, money, graphs). # Input Data - 【Main Color】: {argument name=\"main color\" default=\"Blue system\"} - 【Achievement/Urgency Word】: {argument name=\"achievement/urgency word\" default=\"Achieved 100k in 5 days of entry!\"} - 【Sub-Catchphrase】: {argument name=\"sub-catchphrase\" default=\"No product creation! OK without achievements! In as little as 1 month\"} - 【Title】: {argument name=\"title\" default=\"Threads × Affiliate Strategy Course\"} - 【Benefit 01 Content】: {argument name=\"benefit 01 content\" default=\"10 days of actual selling posts\"} - 【Benefit 02 Content】: {argument name=\"benefit 02 content\" default=\"Includes AI automatic generation tool\"} # Constraints - Accurately depict Japanese text. - Use a thick, powerful Gothic or design font. - Output in a 16:9 aspect ratio. __________________________",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-6051-126",
+      "title": "Weekly Schedule Template for VTubers",
+      "prompt": "Create a \"Weekly Schedule\" template image for VTubers and streamers. Horizontal 16:9, size 1920x1080, flat, neat, print-like design (vector style). The overall look should be cute pastel tones (gentle colors like pale pink, mint, lavender), prioritizing readability without clutter. Layout specification: ・Place the schedule section top-aligned on the left 60% of the screen. ・7 rows (Days of the week: \"Mon, Tue, Wed, Thu, Fri, Sat, Sun\"). ・Each row consists of a \"Day label (small round badge)\" + \"Horizontal blank box for writing plans.\" ・The blank box must be completely empty. Absolutely do not include sample text (e.g., 'Plan here', 'SAMPLE', 'MEMO', etc.). ・The right 40% of the screen is empty space for later synthesis of a standing character image. Do not draw people, animals, mascots, or silhouettes. The background should only be a faint gradient and subtle abstract patterns of small stars/hearts/dots. Text specification: ・The only text to include is \"Weekly Schedule\" and \"Mon Tue Wed Thu Fri Sat Sun\" (in Japanese). ・Do not include any other text (SNS, date range, warnings, logos, hashtags, watermarks). ・The font should be rounded Gothic style, easy to read, and legible even on a white background. Finishing: ・Ensure ample margin around the perimeter, and elements on the left and right sides do not overlap. ・No logo.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-5753-129-Thumbnail-Generation-Prompt-for-Sales-Content-Brain-Tips-Note.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-6051-126-Weekly-Schedule-Template-for-VTubers.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-29848-74",
-      "title": "Cinematic Mid-Air Action Shot",
-      "prompt": "A dynamic mid-air action shot of an {argument name=\"subject\" default=\"man with short black hair and black rectangular glasses\"}, captured at the peak of a powerful jump. He is frozen in a dramatic leaping pose: body twisted slightly to the side, right leg bent sharply at the knee and pushed forward, left leg extended straight backward and downward, both feet pointed. His right arm is stretched high above his head with fingers splayed open as if reaching or balancing, while his left arm is bent close to his body with a black gloved hand tensed. He wears a {argument name=\"outfit\" default=\"tight black long-sleeve shirt, black trousers, black gloves, and black shoes\"}, with a dark jacket half-slipping off his shoulders from the force of the jump. His facial expression is intense and focused — brows furrowed, teeth slightly gritted, eyes sharp behind the glasses — conveying pure determination mixed with controlled effort.The man is suspended high in the air against a {argument name=\"background\" default=\"hazy, foggy outdoor background of distant green hills and trees under an overcast white sky\"}. Camera angle is a low-angle three-quarter shot looking slightly upward, emphasizing the height and power of the leap, with the subject filling most of the frame. Realistic physics of motion: clothing fabric and jacket flaps pulled backward by air resistance, body weight shifted forward as if he just launched from a higher surface, limbs arranged in a classic action-hero jump silhouette that shows both explosive energy and temporary weightlessness. The overall feeling is intense, cinematic, and heroic — a frozen moment of raw physical power, focus, and mid-air freedom, as if captured from an action film sequence. Highly detailed, photorealistic, sharp focus on the subject, soft atmospheric fog in the background.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-30079-74",
+      "title": "Minimalist Editorial Fashion Sketch",
+      "prompt": "A refined, expressive fashion sketch illustration style, combining elegant, thick black ink lines with soft monochrome wash renderings. Sharp, smooth, confident black brushstrokes blend with loose, gestural sketch lines, featuring line thicknesses varying from ultra-thin hairlines to bold, expressive accents. Soft, controlled shading using subtle, cool gray watercolor strokes and light, graphite-like gradients creates a soft dimension without overwhelming contrast. The color palette remains very limited: crisp white, soft neutral gray, and charcoal black, with carefully placed dark gray accents appearing only on fabrics or specific design elements. The facial rendering is delicate and luminous, with soft, transparent shadows around the eyes, nose, lips, and jawline. Fine crosshatching and feathery strokes are applied sparingly to enhance depth while maintaining a clean look. The hair is rendered using flowing, energetic ink strokes with overlapping strands and a semi-abstract brush texture. The clothing is rendered in solid black! The background is {argument name=\"background color\" default=\"deep orange\"}! The overall technique resembles a {argument name=\"illustration style\" default=\"luxurious editorial fashion illustration\"} created with ink brushes, fineliners, diluted watercolors, and graphite pencils on smooth white paper. Dynamic, unfinished sketch strokes remain visible around the silhouettes, giving the artwork a spontaneous, hand-drawn feel. High negative space, elegant minimalism, a sophisticated balance between precision and expressive sketching, no typography, no logos, no watermarks, vertical composition, 9:16 aspect ratio!",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-29848-74-Cinematic-Mid-Air-Action-Shot.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-30079-74-Minimalist-Editorial-Fashion-Sketch.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-24098-222",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-24098-223",
       "title": "Cosmic Science Visualization Portrait",
       "prompt": "Ultra-detailed cinematic portrait of a visionary young woman gazing upward in awe, her face illuminated by glowing mathematical equations, sacred geometry, scientific formulas, celestial maps, DNA helixes, and quantum symbols projected across her skin; piercing blue eyes reflecting infinite knowledge and curiosity, surrounded by a vast cosmic background filled with galaxies, nebulae, stars, and radiant energy fields. Hyper-realistic skin texture,￼ intricate luminous overlays, ethereal golden and blue lighting, futuristic science-meets-mysticism aesthetic, sharp focus, extraordinary detail, volumetric glow, depth and dimension, awe-inspiring atmosphere, masterpiece digital art, 8K ultra-high resolution, HDR, cinematic composition, perfect symmetry, vibrant colors, surreal intelligence visualization, photorealistic fantasy, award-winning concept art.￼",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-24098-222-Cosmic-Science-Visualization-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-24098-223-Cosmic-Science-Visualization-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-20439-49",
-      "title": "Miniature Character Earbuds Case",
-      "prompt": "Ultra-realistic 3D cartoon-style miniature character portrait of a cute young man relaxing inside an open premium white wireless earbuds charging case branded with the elegant logo “{argument name=\"brand\" default=\"LYNTILLA\"}” engraved subtly on the front of the case. The tiny stylized character is sitting comfortably inside the charging case with one arm resting on the edge, smiling confidently toward the camera. The character has fluffy curly black hair, thick eyebrows, expressive brown eyes, neatly trimmed beard, medium warm brown skin tone, and a charming Pixar-inspired facial design while maintaining realistic skin texture and proportions. He is wearing a {argument name=\"clothing\" default=\"faded black vintage graphic t-shirt\"}, relaxed dark pants, and clean white sneakers. Next to the earbuds case is a modern smartphone standing vertically on the wooden desk. The phone should also prominently display the {argument name=\"brand\" default=\"LYNTILLA\"} branding on the screen interface and subtly on the phone back or lock screen wallpaper. The screen shows a sleek luxury dark-mode music player UI with elegant typography, glowing playback controls, and premium branding aesthetics. Two wireless earbuds branded with {argument name=\"brand\" default=\"LYNTILLA\"} are naturally placed in the foreground on the desk with realistic reflections and glossy materials. Add a small indoor plant, warm lamp glow, and cinematic blurry background elements to create a cozy premium indoor atmosphere. Scene styling: cozy warm indoor cinematic lighting, premium luxury product photography aesthetic, cinematic depth of field, realistic shadows and reflections, ultra detailed textures, shallow focus photography, soft orange tungsten lighting, dreamy modern ambiance, photorealistic materials, miniature toy-scale proportions, balanced luxury composition. Style references: Pixar-style realism + Disney 3D character design + Apple-style product photography + luxury lifestyle branding aesthetic. Camera: close-up eye-level cinematic shot with natural perspective depth. Rendering: 8K ultra detailed, octane render, unreal engine, ray tracing, global illumination, HDR lighting, hyper realistic textures. Negative Prompt: blurry image, low quality, deformed anatomy, extra limbs, duplicate objects, messy composition, distorted face, unrealistic reflections, bad typography, oversaturated lighting, watermark, cropped objects, floating earbuds, noisy render, low detail textures. Use uploaded image as reference and generate image",
+      "id": "xianyu-multi-model:ym-ai-skill-others-20748-49",
+      "title": "Whimsical Spooky Fabric Doll",
+      "prompt": "A handmade fabric doll with a whimsical, slightly spooky appearance stands against a patchwork quilt background. The doll has a rectangular body made of {argument name=\"fabric color\" default=\"light pink\"} fabric, with a patch of {argument name=\"patch fabric\" default=\"blue denim\"} covering the left side of its face. Two mismatched buttons serve as eyes: a large blue button on the denim patch and a white button on the pink fabric. A stitched mouth with jagged teeth adds to its quirky expression. A fluffy orange bow tie is attached at the neck. The doll wears denim shorts with a black button and belt loops, and its legs are made of plaid fabric. Its arms are thin and striped with orange, blue, and yellow. The doll's hair is made of frayed yarn in shades of brown and gray, sticking out in tufts.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-20439-49-Miniature-Character-Earbuds-Case.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-20748-49-Whimsical-Spooky-Fabric-Doll.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,16 +229,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-5598-130",
-      "title": "Premium Esports Gamer Portrait Prompt",
-      "prompt": "Esports gamer, premium style portrait, fiery glow lighting, {argument name=\"background color\" default=\"red-orange\"} gradient background, minimal or no patterns, dramatic lighting, high-end aesthetic, ultra-detailed face and gear, professional gaming headset, cinematic tone, sharp contrast, sleek and modern look, energetic pose, intense focus, dynamic depth, smooth glossy elements, trending on Behance, studio-quality render, 8K resolution",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-5753-130",
+      "title": "Thumbnail Generation Prompt for Sales Content (Brain/Tips/Note)",
+      "prompt": "# Role You are a professional graphic designer who creates \"sellable\" eye-catching images for Brain, Tips, and note. # Task Use the [Title] and [Sub-Catchphrase] below to create a high-quality thumbnail that is highly visible and conveys authority and expectation. # Design Style - Composition: Based on the layout of the attached image. 1. [Top]: Place a black, rounded-corner band (badge) in the upper left and write the [Achievement/Urgency Word] there. 2. [Upper Center]: Place the [Sub-Catchphrase] in bold white text (with orange or yellow borders). 3. [Center]: Place the main [Title] as huge, bold text spanning the screen. The text color should be the most prominent color that contrasts with the background, such as a \"yellow-to-white gradient\" or \"neon glow,\" with multiple borders and a drop shadow for three-dimensionality. 4. [Bottom]: Place two \"Benefit Boxes\" (rectangles) on the left and right. Place a ribbon or badge labeled \"Benefit 01\" and \"Benefit 02\" above each. Write the [Benefit Content] inside the boxes. 5. [Decoration]: Place a cute or intellectual character (person or animal) related to the theme at either the left or right edge of the screen. - Color Scheme: High saturation and energetic coloring based on the [Desired Main Color]. - Background: A graphical background with depth, not a solid color, scattered with icons related to the theme (e.g., SNS, money, graphs). # Input Data - 【Main Color】: {argument name=\"main color\" default=\"Blue system\"} - 【Achievement/Urgency Word】: {argument name=\"achievement/urgency word\" default=\"Achieved 100k in 5 days of entry!\"} - 【Sub-Catchphrase】: {argument name=\"sub-catchphrase\" default=\"No product creation! OK without achievements! In as little as 1 month\"} - 【Title】: {argument name=\"title\" default=\"Threads × Affiliate Strategy Course\"} - 【Benefit 01 Content】: {argument name=\"benefit 01 content\" default=\"10 days of actual selling posts\"} - 【Benefit 02 Content】: {argument name=\"benefit 02 content\" default=\"Includes AI automatic generation tool\"} # Constraints - Accurately depict Japanese text. - Use a thick, powerful Gothic or design font. - Output in a 16:9 aspect ratio. __________________________",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-5598-130-Premium-Esports-Gamer-Portrait-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-5753-130-Thumbnail-Generation-Prompt-for-Sales-Content-Brain-Tips-Note.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -248,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-29845-75",
-      "title": "Cosmic Mural Studio Portrait Sequence",
-      "prompt": "A sequence of studio photographs captures the same {argument name=\"subject\" default=\"young woman with short red hair and a mint-green dress\"} against a vibrant teal wall featuring a large, intricate line-art mural of a woman intertwined with cosmic and floral elements. In one image, she stands profile-view, looking up and extending her hands in a welcoming or presenting gesture. Next, she stands facing slightly more towards the camera, maintaining the uplifted gaze but resting one hand on her hip. Finally, she is shown seated on a light-wood stool, looking off-camera with a thoughtful expression, hand on her chin. The consistent backdrop and subject create a cohesive narrative across the three poses.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-29848-75",
+      "title": "Cinematic Mid-Air Action Shot",
+      "prompt": "A dynamic mid-air action shot of an {argument name=\"subject\" default=\"man with short black hair and black rectangular glasses\"}, captured at the peak of a powerful jump. He is frozen in a dramatic leaping pose: body twisted slightly to the side, right leg bent sharply at the knee and pushed forward, left leg extended straight backward and downward, both feet pointed. His right arm is stretched high above his head with fingers splayed open as if reaching or balancing, while his left arm is bent close to his body with a black gloved hand tensed. He wears a {argument name=\"outfit\" default=\"tight black long-sleeve shirt, black trousers, black gloves, and black shoes\"}, with a dark jacket half-slipping off his shoulders from the force of the jump. His facial expression is intense and focused — brows furrowed, teeth slightly gritted, eyes sharp behind the glasses — conveying pure determination mixed with controlled effort.The man is suspended high in the air against a {argument name=\"background\" default=\"hazy, foggy outdoor background of distant green hills and trees under an overcast white sky\"}. Camera angle is a low-angle three-quarter shot looking slightly upward, emphasizing the height and power of the leap, with the subject filling most of the frame. Realistic physics of motion: clothing fabric and jacket flaps pulled backward by air resistance, body weight shifted forward as if he just launched from a higher surface, limbs arranged in a classic action-hero jump silhouette that shows both explosive energy and temporary weightlessness. The overall feeling is intense, cinematic, and heroic — a frozen moment of raw physical power, focus, and mid-air freedom, as if captured from an action film sequence. Highly detailed, photorealistic, sharp focus on the subject, soft atmospheric fog in the background.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-29845-75-Cosmic-Mural-Studio-Portrait-Sequence.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-29848-75-Cinematic-Mid-Air-Action-Shot.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +305,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-23738-227",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-23738-228",
       "title": "Impasto Oil Painting Portrait Style",
       "prompt": "Impasto oil painting, {argument name=\"brush strokes\" default=\"thick palette knife brushstrokes\"}, highly textured canvas surface, expressive painterly rendering, visible paint buildup, {argument name=\"color palette\" default=\"vibrant yet harmonious color palette\"}, bold color blocking, contemporary {argument name=\"art style\" default=\"fine art portrait style\"}, rich tonal transitions, handcrafted oil-on-canvas aesthetic, dynamic brush textures, gallery-quality artwork, impressionistic realism, tactile paint texture, artistic light interplay, loose expressive strokes, museum-grade oil painting, modern impressionist technique, high-detail traditional painting.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-23738-227-Impasto-Oil-Painting-Portrait-Style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-23738-228-Impasto-Oil-Painting-Portrait-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-20183-50",
-      "title": "Rock Dog Characters on Sofa",
-      "prompt": "{argument name=\"characters\" default=\"Both couples\"} on the {argument name=\"furniture\" default=\"sofa\"}.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-20439-50",
+      "title": "Miniature Character Earbuds Case",
+      "prompt": "Ultra-realistic 3D cartoon-style miniature character portrait of a cute young man relaxing inside an open premium white wireless earbuds charging case branded with the elegant logo “{argument name=\"brand\" default=\"LYNTILLA\"}” engraved subtly on the front of the case. The tiny stylized character is sitting comfortably inside the charging case with one arm resting on the edge, smiling confidently toward the camera. The character has fluffy curly black hair, thick eyebrows, expressive brown eyes, neatly trimmed beard, medium warm brown skin tone, and a charming Pixar-inspired facial design while maintaining realistic skin texture and proportions. He is wearing a {argument name=\"clothing\" default=\"faded black vintage graphic t-shirt\"}, relaxed dark pants, and clean white sneakers. Next to the earbuds case is a modern smartphone standing vertically on the wooden desk. The phone should also prominently display the {argument name=\"brand\" default=\"LYNTILLA\"} branding on the screen interface and subtly on the phone back or lock screen wallpaper. The screen shows a sleek luxury dark-mode music player UI with elegant typography, glowing playback controls, and premium branding aesthetics. Two wireless earbuds branded with {argument name=\"brand\" default=\"LYNTILLA\"} are naturally placed in the foreground on the desk with realistic reflections and glossy materials. Add a small indoor plant, warm lamp glow, and cinematic blurry background elements to create a cozy premium indoor atmosphere. Scene styling: cozy warm indoor cinematic lighting, premium luxury product photography aesthetic, cinematic depth of field, realistic shadows and reflections, ultra detailed textures, shallow focus photography, soft orange tungsten lighting, dreamy modern ambiance, photorealistic materials, miniature toy-scale proportions, balanced luxury composition. Style references: Pixar-style realism + Disney 3D character design + Apple-style product photography + luxury lifestyle branding aesthetic. Camera: close-up eye-level cinematic shot with natural perspective depth. Rendering: 8K ultra detailed, octane render, unreal engine, ray tracing, global illumination, HDR lighting, hyper realistic textures. Negative Prompt: blurry image, low quality, deformed anatomy, extra limbs, duplicate objects, messy composition, distorted face, unrealistic reflections, bad typography, oversaturated lighting, watermark, cropped objects, floating earbuds, noisy render, low detail textures. Use uploaded image as reference and generate image",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-20183-50-Rock-Dog-Characters-on-Sofa.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-20439-50-Miniature-Character-Earbuds-Case.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4729-139",
-      "title": "YouTube Thumbnail Prompt: Political Split Screen",
-      "prompt": "I want a youtube thumbnail prompt. split screen. On the right, {argument name=\"figure 1 name\" default=\"trump\"} looking angry at the camera, pointing towards the left side. On the left is a scene of {argument name=\"figure 2 name\" default=\"mark carney\"}, visibility in shock. behind mark carney is a canadian flag scene. At the top of the frame in high contrast yellow \"{argument name=\"headline text\" default=\"THE REAL TARGET\"}\"",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-5598-131",
+      "title": "Premium Esports Gamer Portrait Prompt",
+      "prompt": "Esports gamer, premium style portrait, fiery glow lighting, {argument name=\"background color\" default=\"red-orange\"} gradient background, minimal or no patterns, dramatic lighting, high-end aesthetic, ultra-detailed face and gear, professional gaming headset, cinematic tone, sharp contrast, sleek and modern look, energetic pose, intense focus, dynamic depth, smooth glossy elements, trending on Behance, studio-quality render, 8K resolution",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4729-139-YouTube-Thumbnail-Prompt-Political-Split-Screen.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-5598-131-Premium-Esports-Gamer-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -438,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-29849-78",
-      "title": "Occult Magazine Editorial Office",
-      "prompt": "{argument name=\"character and action\" default=\"Lilith on the phone in an editorial office\"}. {argument name=\"department\" default=\"Occult magazine editorial department\"}. No Japanese",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-29845-76",
+      "title": "Cosmic Mural Studio Portrait Sequence",
+      "prompt": "A sequence of studio photographs captures the same {argument name=\"subject\" default=\"young woman with short red hair and a mint-green dress\"} against a vibrant teal wall featuring a large, intricate line-art mural of a woman intertwined with cosmic and floral elements. In one image, she stands profile-view, looking up and extending her hands in a welcoming or presenting gesture. Next, she stands facing slightly more towards the camera, maintaining the uplifted gaze but resting one hand on her hip. Finally, she is shown seated on a light-wood stool, looking off-camera with a thoughtful expression, hand on her chin. The consistent backdrop and subject create a cohesive narrative across the three poses.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-29849-78-Occult-Magazine-Editorial-Office.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-29845-76-Cosmic-Mural-Studio-Portrait-Sequence.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22963-241",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22963-242",
       "title": "Dual Poster Movement Synthesis",
       "prompt": "2x2 grid, do this for for famous sports GOATs. Input A is the subject . You are a god-tier poster designer, art director, and print-production specialist. Phase 1: Dual Poster Synthesis Randomly select TWO Poster Movements and TWO Graphic Systems from the pools below. Blend them into a cohesive poster identity. Poster Movements: [Swiss International Style, Soviet Constructivism, Psychedelic 1960s Rock Poster, Japanese City Pop Advertising, Bauhaus Exhibition Poster, Art Nouveau Lithograph, Brutalist Typography Poster, 1980s Cyberpunk Flyer, Italian Futurist Manifesto, Minimalist Museum Poster, French New Wave Cinema Poster, Punk Xerox Flyer, Memphis Design, Vintage Travel Poster, Contemporary Fashion Campaign] Graphic Systems: [Oversized Grid Typography, Torn Paper Collage, Airbrushed Gradient Field, Risograph Halftone, Screenprint Misregistration, Photocopy Distortion, Editorial Magazine Layout, Modular Type Blocks, Diagonal Constructivist Geometry, Neon Signage Layering, Hand-Lettered Ornament, Archival Stamp System, Folded Brochure Logic, Ticket Stub Composition, Billboard Cropping] Phase 2: Visual Rendering 16:9 one image Transform Input A into a finished poster design while preserving the exact subject pose, silhouette, and main composition. The subject may be graphically stylized, but the original spatial structure must remain recognizable.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22963-241-Dual-Poster-Movement-Synthesis.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22963-242-Dual-Poster-Movement-Synthesis.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -533,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-20179-51",
-      "title": "Sumi-e Style Koi Painting",
-      "prompt": "A traditional Japanese ink wash painting of a pair of graceful koi fish circling a submerged stone, created in expressive sumi-e style with flowing black ink lines and delicate crimson and pale gold watercolor tints. The pigments softly bleed into textured rice paper, evoking a sense of serenity and timeless beauty.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-20183-51",
+      "title": "Rock Dog Characters on Sofa",
+      "prompt": "{argument name=\"characters\" default=\"Both couples\"} on the {argument name=\"furniture\" default=\"sofa\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-20179-51-Sumi-e-Style-Koi-Painting.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-20183-51-Rock-Dog-Characters-on-Sofa.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +609,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4635-142",
-      "title": "Political YouTube Thumbnail (Trump and Document)",
-      "prompt": "Powerful youtube thumbnail: {argument name=\"figure 1\" default=\"Trump\"} (Right Side): Well-lit close-up. Expression: A very confident smirk or a \"winning\" smile. Left Side: An official UK House of Lords document which clearly says \"{argument name=\"document text\" default=\"ignore the President\"}\" in bright neon green. Tilt the document slightly for dynamism. The Text (Top, Yellow): {argument name=\"overlay text\" default=\"CAUGHT ON TAPE\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4729-140",
+      "title": "YouTube Thumbnail Prompt: Political Split Screen",
+      "prompt": "I want a youtube thumbnail prompt. split screen. On the right, {argument name=\"figure 1 name\" default=\"trump\"} looking angry at the camera, pointing towards the left side. On the left is a scene of {argument name=\"figure 2 name\" default=\"mark carney\"}, visibility in shock. behind mark carney is a canadian flag scene. At the top of the frame in high contrast yellow \"{argument name=\"headline text\" default=\"THE REAL TARGET\"}\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4635-142-Political-YouTube-Thumbnail-Trump-and-Document.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4729-140-YouTube-Thumbnail-Prompt-Political-Split-Screen.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -628,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-29571-81",
-      "title": "Japanese Woman Autumn Garden Kimono",
-      "prompt": "A graceful {argument name=\"subject\" default=\"Japanese woman\"} in a traditional kimono kneels gracefully by a serene garden pond adorned with vibrant red autumn leaves, moss-covered rocks, and a classic stone lantern. In the first scene, she carefully arranges delicate floral stems in a ceramic vase, while the second captures a peaceful moment as she holds a small teacup near a traditional wooden pavilion and arched bridge, all beautifully rendered in a soft watercolor style with gentle mist and vivid reflections dancing on the water's surface.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-29849-79",
+      "title": "Occult Magazine Editorial Office",
+      "prompt": "{argument name=\"character and action\" default=\"Lilith on the phone in an editorial office\"}. {argument name=\"department\" default=\"Occult magazine editorial department\"}. No Japanese",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-29571-81-Japanese-Woman-Autumn-Garden-Kimono.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-29849-79-Occult-Magazine-Editorial-Office.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22959-242",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22959-243",
       "title": "Godzilla in a Flower Field",
       "prompt": "{argument name=\"monster\" default=\"Godzilla\"}, a large, blue, reptilian monster, standing in a field of {argument name=\"flowers\" default=\"vibrant, colorful flowers\"}. Godzilla is holding a {argument name=\"object\" default=\"large, red heart\"} in its hands, with its mouth open in a roar. The overall mood of the image is whimsical and unexpected, contrasting the fearsome appearance of Godzilla with the gentle imagery of flowers and a heart.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22959-242-Godzilla-in-a-Flower-Field.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22959-243-Godzilla-in-a-Flower-Field.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -723,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-19790-52",
-      "title": "Minimalist Abstract Pencil Drawing",
-      "prompt": "create the most minimal abstract representation of this through the medium of a {argument name=\"medium\" default=\"terrible pencil drawing\"} (clean, new {argument name=\"paper type\" default=\"white paper\"})",
+      "id": "xianyu-multi-model:ym-ai-skill-others-20179-52",
+      "title": "Sumi-e Style Koi Painting",
+      "prompt": "A traditional Japanese ink wash painting of a pair of graceful koi fish circling a submerged stone, created in expressive sumi-e style with flowing black ink lines and delicate crimson and pale gold watercolor tints. The pigments softly bleed into textured rice paper, evoking a sense of serenity and timeless beauty.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-19790-52-Minimalist-Abstract-Pencil-Drawing.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-20179-52-Sumi-e-Style-Koi-Painting.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,16 +799,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4579-144",
-      "title": "Documentary Style Image Generation with Nano Banana Pro",
-      "prompt": "Generate differential images based on the attached image, in the style of the documentary program \"{argument name=\"program theme\" default=\"24-Hour Ramen Shop, Beautiful Solo Female Staff\"}\". The image is composed of four scenes divided into a 2x2 grid. Generate superimposed text (telop) and a picture-in-picture (wipe) as if it were a TV program.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4635-143",
+      "title": "Political YouTube Thumbnail (Trump and Document)",
+      "prompt": "Powerful youtube thumbnail: {argument name=\"figure 1\" default=\"Trump\"} (Right Side): Well-lit close-up. Expression: A very confident smirk or a \"winning\" smile. Left Side: An official UK House of Lords document which clearly says \"{argument name=\"document text\" default=\"ignore the President\"}\" in bright neon green. Tilt the document slightly for dynamism. The Text (Top, Yellow): {argument name=\"overlay text\" default=\"CAUGHT ON TAPE\"}",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4579-144-Documentary-Style-Image-Generation-with-Nano-Banana-Pro.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4635-143-Political-YouTube-Thumbnail-Trump-and-Document.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -818,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-29275-82",
-      "title": "Final Episode Realization Scene",
-      "prompt": "{argument name=\"version\" default=\"Final episode version having realized something\"}. {argument name=\"additions\" default=\"Accompanied by friends who suppress immense power\"}.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-29571-82",
+      "title": "Japanese Woman Autumn Garden Kimono",
+      "prompt": "A graceful {argument name=\"subject\" default=\"Japanese woman\"} in a traditional kimono kneels gracefully by a serene garden pond adorned with vibrant red autumn leaves, moss-covered rocks, and a classic stone lantern. In the first scene, she carefully arranges delicate floral stems in a ceramic vase, while the second captures a peaceful moment as she holds a small teacup near a traditional wooden pavilion and arched bridge, all beautifully rendered in a soft watercolor style with gentle mist and vivid reflections dancing on the water's surface.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-29275-82-Final-Episode-Realization-Scene.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-29571-82-Japanese-Woman-Autumn-Garden-Kimono.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22807-245",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22807-246",
       "title": "Fractured Chronology Editorial",
       "prompt": "{\"vibe_title_en\": \"Fractured Chronology\", \"master_prompt\": \"A hyper-realistic, medium format editorial photograph of The Protagonist and a twin figure standing side-by-side in a relentlessly busy, chaotic wasteland. The environment is overwhelmingly dense, swirling with thousands of suspended rusted pocket watches, tangled copper wires, and a violent flurry of airborne dust and dried thistles blowing across the frame. Both figures wear meticulously textured, heavily weathered vintage crimson dresses with stained, delicate lace collars. SURREALISM: Their heads are replaced by massive, high-budget practical-effect retro teal alarm clocks made of heavy, scuffed enameled metal and solid brass bells. NARRATIVE ENERGY: The glass face of the Protagonist's clock-head is violently fractured, revealing a single, mysterious human eye glaring sharply at the camera from the deep shadows of the internal mechanics, delivering an enigmatic, piercing glance. FRAMING & LIGHTING: The Cinematic Flare-Out. A blazing, low-angle sun is positioned directly behind the subjects, heavily backlighting them. The intense light bleeds violently around the edges of the teal metal and frayed red fabric, creating a dreamy, hazy editorial glow with intentional, massive anamorphic lens flares washing over the lens. The figures are partially silhouetted, with only the micro-textures of the wind-blown fabric and the scuffed metal catching the blinding rim light. Shot on Hasselblad H6D-100c, f/2.8, Kodak Portra 400, authentic film grain, physical light refraction, hyper-tactile, NO NEON.\", \"meta\": {\"intent\": \"To create a surreal, highly textured cinematic editorial utilizing heavy backlighting and practical-effect absurdity within a densely packed, chaotic environment.\", \"priorities\": \"Photorealism of impossible elements, intense backlit lens flares, dense environmental clutter, and analog film texture.\", \"device_profile\": \"Hasselblad H6D-100c\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"Symmetrical dual-subject focus, center-weighted, waist-up framing.\", \"layout\": \"Subjects standing side-by-side in the foreground, background layered thickly with chaotic flying debris and suspended objects.\", \"camera_angle\": \"Slightly low angle, shooting directly into the light source.\", \"tilt_roll_degrees\": \"0\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Protagonist and her identical twin\", \"demographics\": \"Ageless, largely obscured identity\", \"face\": \"Obscured by a giant clock helmet, except for one sharp, mysterious eye visible through fractured glass and heavy mechanical shadow.\", \"hair\": \"Hidden entirely beneath the clock apparatus.\", \"body\": \"Static, rigid, eerie posture, standing perfectly straight.\", \"expression\": \"Enigmatic, piercing glance cutting through the dark mechanics.\", \"pose\": \"Standing perfectly still, facing forward, contrasting the violent wind around them.\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Vintage long-sleeve dress\", \"material\": \"Heavy woven cotton and delicate lace\", \"color\": \"Weathered crimson red\", \"fit\": \"Tailored bodice, loose pleated skirt\"}], \"accessories\": [{\"item\": \"Giant retro alarm clock helmet\", \"color\": \"Faded teal and tarnished brass\", \"material\": \"Enameled metal, glass, and solid brass\", \"brand_style\": \"1950s Soviet industrial or mid-century surrealist prop\"}]}, \"environment\": {\"setting\": \"A barren, dusty wasteland transformed into a chaotic storm of floating timepieces and mechanical debris.\", \"surfaces\": \"Dry, cracked earth, rusted metal gears, scuffed enamel, and flying dust.\", \"depth\": \"Extremely dense and layered, with foreground, midground, and background filled with rapidly moving airborne clutter.\", \"atmosphere\": \"Violent, dusty, blindingly bright, hazy, and overwhelmingly chaotic.\", \"lens_interaction\": \"Massive intentional anamorphic lens flares, light bleeding, dreamy hazy soft edges.\"}, \"lighting\": {\"key\": \"None (Silhouette/Backlit dominant).\", \"fill\": \"Very soft, bounced ambient light reflecting off the dusty ground, leaving deep shadows on the front.\", \"rim\": \"Blazing, intense, hard golden rim light wrapping heavily around the metal and fabric edges.\", \"shadows\": \"Deep, crushing shadows on the front of the subjects, obscuring details except where the eye peeks through.\", \"color_temperature\": \"Very warm, golden-hour amber (3200K - 4000K).\", \"sensor_flare\": \"Heavy anamorphic streaks and glowing blooming halation over the lens.\"}, \"camera\": {\"lens_type\": \"Prime Anamorphic\", \"focal_length\": \"50mm\", \"aperture\": \"f/2.8\", \"focus\": \"Tack sharp on the fractured glass and the visible human eye, allowing the flying debris to beautifully blur out of focus.\", \"sensor_format\": \"Medium Format\", \"perspective_distortion\": \"None, slight optical compression of the dense background.\"}, \"post_processing\": {\"color\": \"Faded, warm, earthy tones with dominant weathered reds, teals, and golds.\", \"tonality\": \"High contrast at the edges, milky and lifted in the shadows due to heavy optical flare.\", \"texture\": \"Heavy Kodak Portra 400 film grain, tactile dust motes visible in the light rays.\", \"digital_sharpening\": \"None. Purely optical sharpness mixed with hazy light bleeding.\", \"chromatic_aberration\": \"Subtle optical fringing around the edges of the high-contrast rim light.\"}, \"negative_specifications\": [\"neon\", \"cyberpunk\", \"plastic skin\", \"CGI\", \"digital illustration\", \"flat lighting\", \"clean environment\", \"empty background\", \"modern clothing\", \"cheerful expression\", \"standard portrait\"]}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22807-245-Fractured-Chronology-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22807-246-Fractured-Chronology-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-18966-53",
-      "title": "Scribbly MS Paint Redraw",
-      "prompt": "Take the exact face from the attached reference image as the primary subject. Use the precise facial features, bone structure, eye shape, nose, lips, jawline, skin tone, and expression of the woman shown in the reference photo. Maintain her exact face with high fidelity as the core element, but redraw the entire image in the most {argument name=\"style\" default=\"clumsy, scribbly, and utterly pathetic way\"} possible. Create a terrible amateur {argument name=\"software\" default=\"MS Paint drawing\"} on a {argument name=\"background\" default=\"pure white background\"} using only a mouse, with jagged, uneven lines, horrible proportions, and obvious mistakes everywhere. Make the hair look like it was drawn with the pencil tool in 5-pixel strokes, messy and scribbly with random stray lines sticking out. The eyes should be slightly misaligned, one bigger than the other, with crooked eyelashes and uneven pupils. The nose should be awkwardly shaped, the mouth lopsided and poorly filled. Skin should have visible pixelation, blotchy coloring, and bad airbrush attempts. Add terrible shading that looks like it was done with the spray can tool in MS Paint, with harsh edges and color bleeding. Dress her in a poorly drawn version of the reference outfit using blocky shapes, wrong perspective, and mismatched colors. The hands and fingers must look broken and deformed, with extra or missing fingers. Pose her in a similar position to the reference but make the anatomy completely wrong — shoulders at odd angles, neck too long or too short, head floating unnaturally. Emphasize the low-quality pixel-by-pixel feel with visible compression artifacts, dithering, and 1990s Windows 95 aesthetic. The overall drawing should be vaguely similar to the reference but also not really — kind of matching but off in a confusing, awkward, and hilarious way. Proportions should be ridiculous, symmetry completely broken, colors oversaturated or completely wrong in places. Include random MS Paint artifacts like leftover selection marquees, thick black outlines that don’t match, and clumsy fill bucket overflows. The background must be completely white with no extra elements except maybe a few accidental scribbles or stray pixels. Make it look like a child or a very unskilled adult spent 10 minutes struggling in MS Paint. Prioritize maximum pathetic quality — the worse it looks, the better. Exaggerate every flaw while still keeping the core identity of the exact face from the reference image recognizable but hilariously distorted. Photorealistic accuracy is forbidden. Only crude, low-resolution, mouse-drawn MS Paint style is allowed. Maximum chaos, maximum awkwardness, maximum comedy in the terrible execution.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-19790-53",
+      "title": "Minimalist Abstract Pencil Drawing",
+      "prompt": "create the most minimal abstract representation of this through the medium of a {argument name=\"medium\" default=\"terrible pencil drawing\"} (clean, new {argument name=\"paper type\" default=\"white paper\"})",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-18966-53-Scribbly-MS-Paint-Redraw.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-19790-53-Minimalist-Abstract-Pencil-Drawing.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

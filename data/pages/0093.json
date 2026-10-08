@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23386-645",
+      "title": "Cinematic Black-and-White Suit Portrait",
+      "prompt": "A high-end 8K cinematic black-and-white portrait of a {argument name=\"subject\" default=\"man in a sharp, professional suit\"}, looking away from the camera with a focused, stoic expression. He is standing in a three-quarter profile against a solid, deep black background. The man has styled, dark wavy hair and a clean-shaven face with refined, natural skin textures. He is wearing a {argument name=\"outfit\" default=\"dark, tailored blazer over a crisp white dress shirt with an open collar\"}. His hands are positioned at chest level: his left hand is adjusted by his right hand, prominently displaying a large, detailed {argument name=\"accessory\" default=\"luxury silver chronograph watch with a black face\"}. The lighting is dramatic and directional, creating high-contrast highlights on the side of his face, the fabric of his lapel, and the metallic shine of the watch and ring. Hyper-realistic details capture the individual hairs, the weave of the suit fabric, and a sharp, lifelike glint in his eyes.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23386-645-Cinematic-Black-and-White-Suit-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Product Marketing"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:ym-ai-skill-game-asset-9274-445",
       "title": "Vast Open-World Game Environment Generator",
       "prompt": "[THEME] = \"{argument name=\"theme\" default=\"Enter a theme here\"}\" Make a wide cinematic fantasy game environment illustration inspired by [THEME]. Use a distant environment-focused camera with an expansive sense of scale and exploration. Set the scene as a vast open world shaped entirely by the logic, atmosphere and materials implied by [THEME]. Show a monumental sky feature or celestial presence that visually defines the world and reinforces the theme. Let the terrain, colors, surface forms and horizon geometry emerge naturally from [THEME] without explicit constraints. Keep the environment uninhabited with no characters, creatures, vehicles or structures. Use soft, immersive lighting appropriate to the world, favoring mood and scale over realism. Apply game-style atmospheric perspective to suggest depth, distance and exploration. Compose the scene to feel like a high-budget open-world game vista rather than a photograph. Ensure the final image feels serene, epic and discovery-driven, clearly readable as a game world shaped by [THEME].",
@@ -20,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4639-763",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4639-764",
       "title": "Fireworks Forming a Subject Silhouette",
       "prompt": "Fireworks form the shape of {argument name=\"subject\" default=\"[SUBJECT]\"} in the night sky above a waterfront city. The design is inspired by the colors, proportions, and silhouette of {argument name=\"subject 2\" default=\"[SUBJECT]\"}, clearly readable and visually striking against the dark sky. Long-exposure, photorealistic fireworks photography with smoke trails, city skyline silhouette, and colorful reflections on the water. Cinematic composition, sharp detail, ultra-high-resolution 4K.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4639-763-Fireworks-Forming-a-Subject-Silhouette.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4639-764-Fireworks-Forming-a-Subject-Silhouette.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11145-192",
-      "title": "Map to Anime Panorama Conversion",
-      "prompt": "Make me a panorama of this location in anime style.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11147-192",
+      "title": "Google Maps to Anime Panorama Conversion",
+      "prompt": "Make me a panorama of this location in an anime style",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11145-192-Map-to-Anime-Panorama-Conversion.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11147-192-Google-Maps-to-Anime-Panorama-Conversion.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-19418-263",
-      "title": "Cyclops with Eye Patch",
-      "prompt": "{argument name=\"subject\" default=\"Cyclops\"} with an {argument name=\"accessory\" default=\"eye patch\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-19402-262",
+      "title": "Celestial Dragon Sky Fantasy",
+      "prompt": "A giant {argument name=\"dragon\" default=\"icy-blue celestial dragon\"} flying through a bright blue cloudy sky, ultra realistic fantasy scene, glowing crystal scales, sharp horns, fierce eyes, cinematic low-angle view, dramatic daylight, detailed clouds and shadows. On a lonely dirt road, an {argument name=\"girl\" default=\"extremely tall 8-feet girl\"} standing with arms open, back facing camera, same exact pose and angle. She wears a {argument name=\"outfit\" default=\"dark green-black oversized check shirt\"} over a white t-shirt, loose dark blue baggy jeans, white sneakers, long black hair, full body visible. Same abandoned structure on left, trees and dry grass on sides, same dirt pathway, same dragon position, same framing, same lighting, same atmosphere, nothing changed in background. Hyper realistic, sharp focus, high contrast, cinematic fantasy style, 4K, vertical 9:16 composition.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-19418-263-Cyclops-with-Eye-Patch.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-19402-262-Celestial-Dragon-Sky-Fantasy.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4589-770",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4589-771",
       "title": "Movie Poster Style Ad Generation Prompt",
       "prompt": "Theme: {argument name=\"theme\" default=\"Movie poster style\"}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4589-770-Movie-Poster-Style-Ad-Generation-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4589-771-Movie-Poster-Style-Ad-Generation-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,16 +210,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10929-193",
-      "title": "Debussy's 'En Bateau' in Monet Style Prompt",
-      "prompt": "Debussy Petite Suite \"En Bateau\" Make it a painting like Monet's \"Boating\" Make the water color sparkling blue!",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11145-193",
+      "title": "Map to Anime Panorama Conversion",
+      "prompt": "Make me a panorama of this location in anime style.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10929-193-Debussy-s-En-Bateau-in-Monet-Style-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11145-193-Map-to-Anime-Panorama-Conversion.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -267,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-19188-265",
-      "title": "Whimsical Folk-Art Illustration Scene",
-      "prompt": "Create a whimsical folk-art scene that combines the characters and settings of image into a unified, storybook-inspired illustration. The composition should feature both figures together in a {argument name=\"setting\" default=\"vibrant art studio filled with playful doodle aesthetics\"}, quirky {argument name=\"motifs\" default=\"cat and bird motifs\"}, and decorative floral patterns. Use a {argument name=\"palette\" default=\"bold, fresh palette of teal, magenta, and sunny yellow\"}, applying textured brush-like fills and soft, irregular outlines to give the piece an intentionally imperfect, handcrafted feel—as if sketched on white paper with paint pens and markers.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-19418-264",
+      "title": "Cyclops with Eye Patch",
+      "prompt": "{argument name=\"subject\" default=\"Cyclops\"} with an {argument name=\"accessory\" default=\"eye patch\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-19188-265-Whimsical-Folk-Art-Illustration-Scene.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-19418-264-Cyclops-with-Eye-Patch.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4394-774",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4394-775",
       "title": "Early 2000s Rom-Com Movie Poster",
       "prompt": "{ \"scene_summary\": \"Clean early-2000s rom-com studio poster composite. Two adults stand back-to-back in a playful confident stance, both glancing sideways at each other with amused expressions.\", \"composition\": \"Woman on the left, arms crossed, elegant posture. Man on the right, hands in pockets, relaxed lean. Full-body visible with generous negative space for title.\", \"wardrobe\": \"Woman: sleeveless/strapless satin yellow-gold floor-length gown with smooth sheen, minimal jewelry. Man: dark charcoal or black tailored suit, white shirt, no tie or subtle tie.\", \"props\": \"None.\", \"background\": \"Warm pale yellow/cream sky gradient with extremely subtle city/park blur at the bottom; clean studio cutout feel.\", \"lighting\": \"High-key studio lighting with softbox key + gentle rim light; crisp edges, natural shadows.\", \"typography\": { \"title_text_exact\": \"{argument name=\"movie title\" default=\"HOW TO LOSE A GUY IN 10 DAYS\"}\", \"font_vibe\": \"classic rom-com serif with refined spacing\", \"color_and_harmony\": \"primary black with tasteful red/green accents that match the warm background without clashing\", \"placement\": \"center-lower, stacked like a classic rom-com poster\" } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4394-774-Early-2000s-Rom-Com-Movie-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4394-775-Early-2000s-Rom-Com-Movie-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,16 +362,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10935-194",
-      "title": "Nano Banana 2 vs. Pro Surreal Kitchen Scene Prompt",
-      "prompt": "Convert a photo of a normal, realistic kitchen into a world entirely made of Lego blocks. However, only the inside of the refrigerator should remain a surreal image where real food is still visible.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10929-194",
+      "title": "Debussy's 'En Bateau' in Monet Style Prompt",
+      "prompt": "Debussy Petite Suite \"En Bateau\" Make it a painting like Monet's \"Boating\" Make the water color sparkling blue!",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10935-194-Nano-Banana-2-vs.-Pro-Surreal-Kitchen-Scene-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10929-194-Debussy-s-En-Bateau-in-Monet-Style-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -419,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-18988-267",
-      "title": "The Silent Aquarium Surreal Portrait",
-      "prompt": "{ \"vibe_title_en\": \"The Silent Aquarium\", \"master_prompt\": \"A hyper-realistic, surreal close-up portrait of The Protagonist submerged in a deep, viscous twilight-blue fluid. A massive, over-scaled Ryukin Goldfish with iridescent, metallic orange scales glides slowly past the subject's cheek, occupying the negative space. The subject maintains 'The Stoic Ghost' demeanor: a thousand-yard stare, absolutely emotionally detached, muscles relaxed, looking through the lens with haunting apathy. The hair is suspended in the water, creating a halo of floating strands. Lighting is cinematic and aquatic, with caustic light ripples projecting across the face. Shot on a Hasselblad H6D-100c with a 100mm Macro lens to capture the microscopic texture of wet skin pores and the slimy sheen of the fish scales. Color grading mimics Fujifilm Pro 400H—cool cyans, muted teals, and piercing orange highlights. High-budget practical effects style, no CGI gloss.\", \"meta\": { \"intent\": \"Editorial Surrealism\", \"priorities\": \"Texture Fidelity, Emotional Detachment, Scale Contrast\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Aquatic Stoic\", \"face\": \"Pale, wet skin texture, visible pores, water droplets\", \"hair\": \"Floating, weightless, wet-look, suspended in fluid\", \"expression\": \"The Stoic Ghost: Deadpan, detached, minimal muscle tension, hauntingly calm\", \"pose\": \"Static, facing forward, slight head tilt away from the fish\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Victorian High-Collar Dress\", \"material\": \"Sheer Lace and Silk\", \"color\": \"Ghost White\", \"fit\": \"Clinging (Wet)\" } ] }, \"environment\": { \"setting\": \"Submerged Botanical Tank\", \"surfaces\": \"Water, Glass, Fish Scales\", \"depth\": \"Shallow Depth of Field (f/2.8)\", \"atmosphere\": \"Murky, Viscous, Particulate Matter (Marine Snow)\" }, \"lighting\": { \"key\": \"Caustic Projection (Water Ripples)\", \"fill\": \"Soft Cool Cyan Bounce\", \"rim\": \"Subtle Bioluminescent Glow\", \"shadows\": \"Deep, Soft, Teal-Tinted\" } }",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-19188-266",
+      "title": "Whimsical Folk-Art Illustration Scene",
+      "prompt": "Create a whimsical folk-art scene that combines the characters and settings of image into a unified, storybook-inspired illustration. The composition should feature both figures together in a {argument name=\"setting\" default=\"vibrant art studio filled with playful doodle aesthetics\"}, quirky {argument name=\"motifs\" default=\"cat and bird motifs\"}, and decorative floral patterns. Use a {argument name=\"palette\" default=\"bold, fresh palette of teal, magenta, and sunny yellow\"}, applying textured brush-like fills and soft, irregular outlines to give the piece an intentionally imperfect, handcrafted feel—as if sketched on white paper with paint pens and markers.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-18988-267-The-Silent-Aquarium-Surreal-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-19188-266-Whimsical-Folk-Art-Illustration-Scene.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4324-776",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4324-777",
       "title": "City Ribbon Poster Design Prompt",
       "prompt": "A silk ribbon unfurls diagonally across the canvas, twisting gently in mid-air. Within the folds of the ribbon exists a miniature sculpted city of {argument name=\"city\" default=\"[CITY]\"}, carved as a 3D bas-relief emerging from woven fabric textures. Inside the ribbon: Landmarks, streets, and skyline rhythms of {argument name=\"city\" default=\"[CITY]\"}, flowing naturally with the ribbon’s curvature, layered in subtle depth. Style: Fabric realism fused with sculptural relief. Soft highlights, tactile folds, elegant poster design. Color palette: Derived from the national flag of {argument name=\"country\" default=\"[COUNTRY]\"}, woven seamlessly into the fabric tones. View & background: Top-down minimalist layout, off-white museum paper texture, strong negative space. Typography: Title: “{argument name=\"title\" default=\"[CITY] UNFOLDED\"}” Refined serif subtitle with poetic geographic language. Composition rules: All architectural detail remains strictly inside the ribbon shape. Ultra-detailed, HDR, gallery-grade, 8K poster aesthetic.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4324-776-City-Ribbon-Poster-Design-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4324-777-City-Ribbon-Poster-Design-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,16 +514,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10856-195",
-      "title": "Vintage Photo Restoration to Modern Portrait Prompt",
-      "prompt": "Create an ultra-realistic modern recreation of an old vintage photo, maintaining 99% facial likeness with no changes to the original face. Transform it into a high-quality digital portrait featuring vibrant, updated colors, smooth natural skin texture, and soft realistic lighting. Upgrade the outfit and background to a clean, contemporary style, while preserving the authentic pose, emotion, and essence of the original image.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10935-195",
+      "title": "Nano Banana 2 vs. Pro Surreal Kitchen Scene Prompt",
+      "prompt": "Convert a photo of a normal, realistic kitchen into a world entirely made of Lego blocks. However, only the inside of the refrigerator should remain a surreal image where real food is still visible.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10856-195-Vintage-Photo-Restoration-to-Modern-Portrait-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10935-195-Nano-Banana-2-vs.-Pro-Surreal-Kitchen-Scene-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -571,12 +590,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-18977-268",
-      "title": "Medieval Desert Battlefield Warrior",
-      "prompt": "A historical desert battlefield warrior prompt, featuring a woman in antique armor riding a donkey.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-18988-268",
+      "title": "The Silent Aquarium Surreal Portrait",
+      "prompt": "{ \"vibe_title_en\": \"The Silent Aquarium\", \"master_prompt\": \"A hyper-realistic, surreal close-up portrait of The Protagonist submerged in a deep, viscous twilight-blue fluid. A massive, over-scaled Ryukin Goldfish with iridescent, metallic orange scales glides slowly past the subject's cheek, occupying the negative space. The subject maintains 'The Stoic Ghost' demeanor: a thousand-yard stare, absolutely emotionally detached, muscles relaxed, looking through the lens with haunting apathy. The hair is suspended in the water, creating a halo of floating strands. Lighting is cinematic and aquatic, with caustic light ripples projecting across the face. Shot on a Hasselblad H6D-100c with a 100mm Macro lens to capture the microscopic texture of wet skin pores and the slimy sheen of the fish scales. Color grading mimics Fujifilm Pro 400H—cool cyans, muted teals, and piercing orange highlights. High-budget practical effects style, no CGI gloss.\", \"meta\": { \"intent\": \"Editorial Surrealism\", \"priorities\": \"Texture Fidelity, Emotional Detachment, Scale Contrast\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Aquatic Stoic\", \"face\": \"Pale, wet skin texture, visible pores, water droplets\", \"hair\": \"Floating, weightless, wet-look, suspended in fluid\", \"expression\": \"The Stoic Ghost: Deadpan, detached, minimal muscle tension, hauntingly calm\", \"pose\": \"Static, facing forward, slight head tilt away from the fish\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Victorian High-Collar Dress\", \"material\": \"Sheer Lace and Silk\", \"color\": \"Ghost White\", \"fit\": \"Clinging (Wet)\" } ] }, \"environment\": { \"setting\": \"Submerged Botanical Tank\", \"surfaces\": \"Water, Glass, Fish Scales\", \"depth\": \"Shallow Depth of Field (f/2.8)\", \"atmosphere\": \"Murky, Viscous, Particulate Matter (Marine Snow)\" }, \"lighting\": { \"key\": \"Caustic Projection (Water Ripples)\", \"fill\": \"Soft Cool Cyan Bounce\", \"rim\": \"Subtle Bioluminescent Glow\", \"shadows\": \"Deep, Soft, Teal-Tinted\" } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-18977-268-Medieval-Desert-Battlefield-Warrior.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-18988-268-The-Silent-Aquarium-Surreal-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -628,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4444-778",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4444-779",
       "title": "Designing an Album Jacket Font with Nano Banana Pro",
       "prompt": "I entrusted the new album jacket font to it, and it designed the original image on the right like this",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4444-778-Designing-an-Album-Jacket-Font-with-Nano-Banana-Pro.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4444-779-Designing-an-Album-Jacket-Font-with-Nano-Banana-Pro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,16 +666,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10931-196",
-      "title": "Image generation prompt for Nano Banana Pro: Monet's 'Boating' in an ethereal style",
-      "prompt": "Monet {argument name=\"theme\" default=\"Boating\"} {argument name=\"style\" default=\"Ethereal\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10856-196",
+      "title": "Vintage Photo Restoration to Modern Portrait Prompt",
+      "prompt": "Create an ultra-realistic modern recreation of an old vintage photo, maintaining 99% facial likeness with no changes to the original face. Transform it into a high-quality digital portrait featuring vibrant, updated colors, smooth natural skin texture, and soft realistic lighting. Upgrade the outfit and background to a clean, contemporary style, while preserving the authentic pose, emotion, and essence of the original image.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10931-196-Image-generation-prompt-for-Nano-Banana-Pro-Monet-s-Boating-in-an-ethereal-style.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10856-196-Vintage-Photo-Restoration-to-Modern-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -723,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-18969-269",
-      "title": "The Arcanist's Ledger Character Sheet",
-      "prompt": "A detailed character design sheet for a male mage titled \"The Arcanist's Ledger.\" The character has {argument name=\"hair\" default=\"short, tousled auburn hair\"}, pointed ears, and {argument name=\"horns\" default=\"crystalline blue horns\"}. He wears an ornate, floor-length {argument name=\"robe color\" default=\"navy blue\"} robe decorated with glowing celestial constellations and gold embroidery. The layout includes full front and back views, a side-profile headshot, and close-up technical drawings of his magical accessories: a crystal-tipped staff, a circular geometric pendant, and intricate ear cuffs. The aesthetic is a clean, vintage parchment style with structured annotations and calligraphic headings.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-18977-269",
+      "title": "Medieval Desert Battlefield Warrior",
+      "prompt": "A historical desert battlefield warrior prompt, featuring a woman in antique armor riding a donkey.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-18969-269-The-Arcanist-s-Ledger-Character-Sheet.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-18977-269-Medieval-Desert-Battlefield-Warrior.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,12 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4097-803",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4097-804",
       "title": "Santa Claus Fireworks over City Skyline",
       "prompt": "Fireworks form the shape of Santa Claus in the night sky above a waterfront city. The design is inspired by the colors, proportions, and silhouette of Santa Claus, clearly readable and visually striking against the dark sky. Long-exposure, photorealistic fireworks photography with smoke trails, city skyline silhouette, and colorful reflections on the water. Cinematic composition, sharp detail, ultra-high-resolution 4K.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4097-803-Santa-Claus-Fireworks-over-City-Skyline.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4097-804-Santa-Claus-Fireworks-over-City-Skyline.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,16 +818,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10858-197",
-      "title": "Vintage Photo Restoration to DSLR Quality Prompt (Truncated)",
-      "prompt": "\"Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......\"",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10931-197",
+      "title": "Image generation prompt for Nano Banana Pro: Monet's 'Boating' in an ethereal style",
+      "prompt": "Monet {argument name=\"theme\" default=\"Boating\"} {argument name=\"style\" default=\"Ethereal\"}",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10858-197-Vintage-Photo-Restoration-to-DSLR-Quality-Prompt-Truncated.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10931-197-Image-generation-prompt-for-Nano-Banana-Pro-Monet-s-Boating-in-an-ethereal-style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -875,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-18972-270",
-      "title": "Cinematic Military Woman Portrait",
-      "prompt": "Use the provided face reference as the exact identity base, preserving all facial structure, proportions, and expression with high fidelity. Generate a hyper realistic cinematic portrait of a {argument name=\"subject\" default=\"beautiful woman\"} with strong, defined facial features, sharp jawline, high cheekbones, and piercing intense eyes that convey determination and emotional depth. Her hair is tightly controlled with no loose strands, styled in a practical, combat ready manner such as a tight bun or secured braid to maintain a disciplined military appearance. She is wearing a fitted {argument name=\"clothing\" default=\"black sleeveless tactical shirt\"} layered under a high quality, rugged military vest equipped with realistic straps, buckles, and subtle wear marks indicating prolonged field use. Ensure the outfit is clean in design but battle ready in function, with no excessive branding or stylization. Her arms are visible and completely free of tattoos, showing natural skin texture with realistic dirt smudges, sweat, minor scratches, and faint bruising that suggest recent combat exposure. Her physique appears athletic and functional rather than stylized, emphasizing strength and endurance. The subject is crouched forward in a low tactical stance, with both forearms resting on her knees. Her hands are loosely clasped together in front of her, showing calm control rather than tension. Her posture communicates readiness, discipline, and survival instinct in a hostile environment. Her expression is fierce, focused, and emotionally hardened, with eyes locked directly into the camera lens, creating an intense psychological connection with the viewer. Subtle facial imperfections such as dust particles, minor cuts, and sweat sheen should be visible to enhance realism. The environment is a {argument name=\"environment\" default=\"war torn urban battlefield\"}, featuring destroyed concrete buildings, collapsed structures, scattered debris, and partially burned vehicles in the background. Smoke drifts through the scene with faint embers glowing in the air, adding depth and movement. Lighting should be cinematic and dramatic, using high contrast with soft directional key light illuminating her face while maintaining deep shadows for mood. The overall color grading should feel desaturated, gritty, and realistic, emphasizing survival and tension. Render in ultra photorealistic detail, shallow depth of field, 8K resolution, film still quality, with a strong focus on realism, emotional intensity, and atmospheric war photography aesthetics.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-18969-270",
+      "title": "The Arcanist's Ledger Character Sheet",
+      "prompt": "A detailed character design sheet for a male mage titled \"The Arcanist's Ledger.\" The character has {argument name=\"hair\" default=\"short, tousled auburn hair\"}, pointed ears, and {argument name=\"horns\" default=\"crystalline blue horns\"}. He wears an ornate, floor-length {argument name=\"robe color\" default=\"navy blue\"} robe decorated with glowing celestial constellations and gold embroidery. The layout includes full front and back views, a side-profile headshot, and close-up technical drawings of his magical accessories: a crystal-tipped staff, a circular geometric pendant, and intricate ear cuffs. The aesthetic is a clean, vintage parchment style with structured annotations and calligraphic headings.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-18972-270-Cinematic-Military-Woman-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-18969-270-The-Arcanist-s-Ledger-Character-Sheet.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-4156-804",
-      "title": "Photorealistic Long-Exposure Fireworks over a City Skyline",
-      "prompt": "Fireworks draw the shape of {argument name=\"subject\" default=\"SUBJECT\"} in the night sky over a waterfront city. The design is inspired by the colors, proportions, and silhouette of {argument name=\"subject\" default=\"SUBJECT\"}, vividly emerging against the dark night sky, creating a strong visual impact. A photorealistic fireworks photograph taken with long exposure, capturing the trails of smoke, the silhouette of the city skyline, and the colorful reflections on the water surface. Cinematic composition, sharp details, ultra-high resolution 4K.",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-4156-804-Photorealistic-Long-Exposure-Fireworks-over-a-City-Skyline.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Poster / Flyer"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
       "license": "upstream",
       "createdAt": null
     }

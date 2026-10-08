@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29956-230",
+      "title": "Painterly Gold Light Portrait",
+      "prompt": "A dramatic, painterly portrait of {argument name=\"subject\" default=\"a woman with dark hair tied back in an updo\"}, featuring loose strands framing her face. She has striking eyes, defined brows, and bold red lips. Warm, directional light falls across her face and collarbone, creating deep shadows in a chiaroscuro style against a dark, moody background. She is wearing {argument name=\"clothing\" default=\"a delicate gold chain necklace and a black camisole top\"}, captured in an {argument name=\"aesthetic\" default=\"artistic, textured oil-painting aesthetic\"}.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29956-230-Painterly-Gold-Light-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31156-353",
       "title": "Dark Cinematic Window Lighting Portrait",
       "prompt": "Use the exact same face from the reference image and generate a dark cinematic portrait where a single window is the only light source in the world — the room in absolute darkness except for the precise column of natural light falling through the glass and striking the face with surgical beauty. The subject positioned close to a large window — body at a natural angle, one shoulder almost touching the window frame, the face turned partially toward the glass so the window light strikes at a precise 45 to 60 degree angle across the facial planes. Not standing formally — leaning very slightly, completely natural, the specific body language of someone drawn unconsciously toward the only light in a dark room. Wearing a {argument name=\"clothing\" default=\"dark fitted turtleneck\"} or {argument name=\"alternative clothing\" default=\"heavy dark shirt\"} — the clothing dissolving completely into the surrounding darkness, only the face and the very edge of the shoulder existing in the light. The window itself is the silent protagonist — large steel-framed industrial panes or old wooden-framed glass, the glass slightly imperfect with natural waviness creating very subtle light distortion, the exterior beyond the glass completely overcast or pre-dawn — a flat grey-white light source outside that is bright without being warm, cold natural daylight pressing through the glass into the dark interior. The window frame casting its own precise shadow geometry across the face and wall — the vertical and horizontal frame bars creating a cross-shadow pattern that falls across the cheek and forehead, the window grid shadow dividing the face into geometric light and shadow zones. The specific graphic beauty of window frame shadows on a human face — architectural geometry imposed on biological curves. Expression is the most quietly devastating yet — eyes directed toward the window light rather than the camera, not looking out but looking at the light itself, the specific expression of someone who has been sitting in darkness for a long time and is feeling the first light touch their face. Lips slightly parted, jaw completely relaxed, every guard completely down. The most private and human expression possible — caught in a moment of solitary communion with natural light. Skin at full forensic obsession under the specific quality of cold window light — the most honest and unforgiving light that exists, the flat grey natural light from an overcast exterior revealing every skin surface detail simultaneously from every direction without creating harsh shadows that obscure detail. Every individual pore in three-dimensional relief under the window light. Stubble hairs casting micro-shadows across the surrounding skin. The window frame shadow lines crossing the face — the skin texture equally visible in the light zones and the frame-shadow zones, the shadow not obscuring detail but simply darkening it. The specific way cold northern window light renders real skin",
@@ -39,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14707-321",
-      "title": "Chasing Inner Light",
-      "prompt": "{argument name=\"subject\" default=\"Man with wings\"}, {argument name=\"action\" default=\"chasing light within\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14706-319",
+      "title": "Cinematic Action Collage Split-Screen",
+      "prompt": "{ \"image_style\": \"{argument name=\\\"image style\\\" default=\\\"Cinematic Action Collage\\\"}\", \"layout\": \"Diagonal 4-panel split-screen\", \"effects\": [\"Radial speed lines\", \"High contrast\", \"Manga-inspired borders\"], \"panels\": [ { \"position\": \"top_left\", \"subject\": \"Woman with sword\", \"outfit\": \"Black leather jacket\", \"color_palette\": \"{argument name=\\\"primary color\\\" default=\\\"Emerald green\\\"}\", \"vibe\": \"Heroic action\" }, { \"position\": \"top_right\", \"subject\": \"Man in navy coat\", \"outfit\": \"Professional winter attire\", \"color_palette\": \"Electric blue\", \"vibe\": \"Sophisticated urban\" }, { \"position\": \"bottom_left\", \"subject\": \"Fashionable woman\", \"outfit\": \"Orange tailored jumpsuit\", \"color_palette\": \"Golden amber\", \"vibe\": \"Elegant glamour\" }, { \"position\": \"bottom_right\", \"subject\": \"Man in biker jacket\", \"outfit\": \"Black leather motorcycle jacket\", \"color_palette\": \"Deep crimson red\", \"vibe\": \"Intense brooding\" } ], \"render_quality\": \"{argument name=\\\"render quality\\\" default=\\\"Masterpiece, 8k, photorealistic characters, volumetric lighting\\\"}\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14707-321-Chasing-Inner-Light.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14706-319-Cinematic-Action-Collage-Split-Screen.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1911-894",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1911-895",
       "title": "Image Transformation to Minimal Vector Poster",
       "prompt": "{ \"task\": \"Transform the provided image into a minimal vector-style poster.\", \"style\": { \"overall_look\": \"Flat-design, geometric simplification, minimalist vector art\", \"color_palette\": { \"type\": \"restricted\", \"description\": \"Use a reduced palette of 3–6 harmonious colors with clean tonal separation and no gradients.\", \"constraints\": [ \"No photorealistic rendering\", \"No texture or noise\", \"Avoid excessive detail\" ] }, \"shapes\": { \"treatment\": \"Reduce all forms to essential geometric contours and solid shapes.\", \"linework\": \"Use clean, even-weight line art or optionally no outlines depending on poster coherence.\", \"abstraction_level\": \"High, but not so high that the subject becomes unrecognizable.\" }, \"lighting\": { \"handling\": \"Remove realistic lighting. Replace shadows and highlights with simplified, flat blocks of color or omit them entirely.\", \"allowed_effects\": [\"Hard-edge shadow shapes\", \"Subtle tonal areas\"], \"forbidden_effects\": [\"Soft shadows\", \"Complex reflections\", \"Photographic highlights\"] } }, \"subject_preservation\": { \"identity\": \"Maintain recognizable identity through silhouette, proportions, key facial landmarks, and essential features.\", \"proportions\": \"Keep accurate relative scale of body, head, and major elements.\", \"essential_details\": [ \"Define only the most important features needed for recognition.\", \"Remove fine texture, hair strands, pores, and small clothing details.\" ] }, \"composition\": { \"framing\": \"Match the original crop unless specified otherwise.\", \"background\": { \"treatment\": \"Simplify into 1–2 large flat color fields or abstract geometric forms.\", \"forbidden_details\": [\"Real textures\", \"Complex scenery\", \"Photographic depth of field\"] }, \"hierarchy\": \"Subject should remain the focal point, with background serving as supportive minimal structure.\" }, \"color_and_balance\": { \"poster_aesthetic\": \"High clarity, bold contrast, and legible silhouette.\", \"white_balance\": \"Neutral; avoid warm or cool photographic shifts.\", \"edge_integrity\": \"All edges must be crisp, clean, and consistently stylized.\" }, \"output_requirements\": { \"format\": \"Flat, poster-like vector appearance (though raster output is acceptable).\", \"resolution\": \"Match original image resolution unless otherwise instructed.\", \"consistency\": \"No added text, logos, watermarks, or elements not present in the original.\" }, \"prohibited_changes\": [ \"Do not alter identity.\", \"Do not add new objects or remove essential ones.\", \"No stylization that contradicts minimal vector aesthetics (e.g., painterly strokes, gradients, 3D shading).\" ], \"goal_summary\": \"Create a clean, minimalist vector-style interpretation of the original image, preserving silhouette, proportions, and essential identity while removing all non-essential details and realistic lighting cues.\" }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1911-894-Image-Transformation-to-Minimal-Vector-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1911-895-Image-Transformation-to-Minimal-Vector-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,16 +134,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10420-230",
-      "title": "Generate Debussy's 'Petit Suite: En Bateau' in Monet's Style with Color Modification",
-      "prompt": "Visualize Debussy's Petit Suite 'En Bateau' in the style of Monet's 'Boating'! After that, Change the water color to sparkling blue!",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10370-230",
+      "title": "Image Editing Prompt: Remove Phone and Text",
+      "prompt": "Remove the phone and the hand should be just in a relaxed position. Remove the number 4 on the top left",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10420-230-Generate-Debussy-s-Petit-Suite-En-Bateau-in-Monet-s-Style-with-Color-Modification.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10370-230-Image-Editing-Prompt-Remove-Phone-and-Text.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -191,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14298-326",
-      "title": "Futuristic store visualization",
-      "prompt": "{argument name=\"timeframe\" default=\"several years later\"} {argument name=\"store\" default=\"7-Eleven\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14707-322",
+      "title": "Chasing Inner Light",
+      "prompt": "{argument name=\"subject\" default=\"Man with wings\"}, {argument name=\"action\" default=\"chasing light within\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14298-326-Futuristic-store-visualization.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14707-322-Chasing-Inner-Light.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1930-896",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1930-897",
       "title": "Amazon KDP Book Cover Design",
       "prompt": "Create a high-resolution Amazon KDP book cover design (front only). Clean layout, bold title, strong central image, premium typography, {argument name=\"trim size aesthetic\" default=\"6x9 trim aesthetic\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1930-896-Amazon-KDP-Book-Cover-Design.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1930-897-Amazon-KDP-Book-Cover-Design.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,16 +286,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10311-231",
-      "title": "Repetitive Prompting Instruction",
-      "prompt": "Prompt them what you are going to prompt them, prompt them, prompt them what you just prompt them",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10420-231",
+      "title": "Generate Debussy's 'Petit Suite: En Bateau' in Monet's Style with Color Modification",
+      "prompt": "Visualize Debussy's Petit Suite 'En Bateau' in the style of Monet's 'Boating'! After that, Change the water color to sparkling blue!",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10311-231-Repetitive-Prompting-Instruction.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10420-231-Generate-Debussy-s-Petit-Suite-En-Bateau-in-Monet-s-Style-with-Color-Modification.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -343,16 +362,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14292-327",
-      "title": "Old Japanese Haunted House",
-      "prompt": "{argument name=\"subject\" default=\"Old Japanese haunted house\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14298-327",
+      "title": "Futuristic store visualization",
+      "prompt": "{argument name=\"timeframe\" default=\"several years later\"} {argument name=\"store\" default=\"7-Eleven\"}",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14292-327-Old-Japanese-Haunted-House.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14298-327-Futuristic-store-visualization.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Comic / Storyboard"
       ],
       "author": "YouMind OpenLab",
@@ -400,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1937-899",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1937-900",
       "title": "Roswell Incident Magazine Cover",
       "prompt": "Create a beautiful, photo book style magazine cover that fully utilizes the 9:16 aspect ratio. Place the attached people at the precise coordinates of {argument name=\"latitude\" default=\"33°57'01\\\"N\"}, {argument name=\"longitude\" default=\"105°18'51\\\"W\"} on {argument name=\"date\" default=\"24 June 1947\"} research the major historic event that happened there on that date and place the subjects witnessing it seamlessly blending the subjects into the scene as if they are sightseeing. Approach this task with the understanding that this is a critical page that will significantly influence visitor numbers. Include magazine stories about the specific location and reference the main interesting facts about the location, do not display the coordinates on the image but do include a small minimap of geographic location.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1937-899-Roswell-Incident-Magazine-Cover.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1937-900-Roswell-Incident-Magazine-Cover.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,16 +438,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10377-232",
-      "title": "Tropical Island in a Puddle Prompt",
-      "prompt": "A hyper-realistic, low-angle ground-level shot of a miniature tropical island paradise inside a rainwater puddle on a rough asphalt suburban street. The island features tiny white sand, microscopic palm trees, a yellow lifeguard tower, a blue beach shack, and several miniature people sunbathing and swimming. The reflection of the trees is visible in the clear puddle water. In the background, out-of-focus (bokeh) suburban houses and parked cars line the street under a bright blue sky. Tilt-shift effect, whimsical, highly detailed, 8k resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10311-232",
+      "title": "Repetitive Prompting Instruction",
+      "prompt": "Prompt them what you are going to prompt them, prompt them, prompt them what you just prompt them",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10377-232-Tropical-Island-in-a-Puddle-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10311-232-Repetitive-Prompting-Instruction.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -495,16 +514,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14115-328",
-      "title": "Japanese Anime Character Sheet Prompt",
-      "prompt": "Character setting sheet style layout, facial expression variations for a {argument name=\"girl 1\" default=\"pink braided girl in armor\"} on the left, full body and SD character for a {argument name=\"girl 2\" default=\"light blue-haired girl in Japanese clothing (Kicho)\"} on the right, background is {argument name=\"background style\" default=\"washi paper design\"}, simple and easy-to-see composition, expressions: smile, surprise, fatigue, with Japanese labels, clean design. negative: cluttered, distorted text, low resolution",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14292-328",
+      "title": "Old Japanese Haunted House",
+      "prompt": "{argument name=\"subject\" default=\"Old Japanese haunted house\"}",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14115-328-Japanese-Anime-Character-Sheet-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14292-328-Old-Japanese-Haunted-House.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Comic / Storyboard"
       ],
       "author": "YouMind OpenLab",
@@ -552,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-2017-900",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-2017-901",
       "title": "Drone Light Show Logo Transformation Prompt",
       "prompt": "The first image is a drone formation. The light points are all drones. Change the drone arrangement to the logo in the second image, using the light colors according to the actual logo [briefly describe the key features of the logo]. The atmosphere should be like the first image: night, stadium stage, blue fog, and light show lighting.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-2017-900-Drone-Light-Show-Logo-Transformation-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-2017-901-Drone-Light-Show-Logo-Transformation-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,16 +590,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10406-233",
-      "title": "Ana de Armas Painting a Realistic Mural of Herself",
-      "prompt": "{ \"type\": \"image_generation\", \"style\": \"ultra-realistic cinematic portrait photography\", \"resolution\": \"8K UHD\", \"aspect_ratio\": \"2:3 vertical\", \"face_preservation\": { \"preserve_identity\": true, \"preserve_face_shape\": true, \"preserve_eyes\": true, \"preserve_nose\": true, \"preserve_lips\": true, \"preserve_expression\": true, \"preserve_skin_texture\": true, \"preserve_proportions\": true, \"no_beautification_filter\": true, \"no_face_modification\": true }, \"scene\": { \"location\": \"cozy artistic café interior\", \"environment_description\": \"A warm yet naturally lit café with textured plaster walls, wooden flooring, soft neutral-toned furniture, and an intimate creative atmosphere. The wall has a natural, slightly rough texture with subtle imperfections visible.\", \"mural_concept\": \"The woman is painting a large, realistic artistic mural of her own face on the café wall. The mural face must match her real facial features and exact expression perfectly, as if she is painting her own reflection. The mural style is hyper-detailed realism with painterly brush textures visible upon close inspection.\", \"decor_elements\": { \"white_decorative_pots\": \"Elegant matte white ceramic pots arranged near the wall and around the floor area.\", \"flowers\": \"Various colors of fresh roses including red, pink, peach, white, and soft yellow.\", \"plants\": \"Delicate green vines and climbing plants trailing naturally around the mural edges and along the wall corners.\", \"ambience\": \"Artistic, cozy, creative café vibe with subtle decorative charm.\" } }, \"subject\": { \"position\": \"Standing slightly angled toward the wall while painting\", \"action\": \"Holding a paintbrush mid-stroke while working on the mural\", \"expression\": \"Exactly the same as in the uploaded reference image\", \"pose_details\": \"Natural relaxed posture, focused and immersed in painting, realistic hand placement holding brush and palette\", \"clothing\": \"Casual yet stylish café-artist outfit, soft neutral or earthy tones, natural fabric texture\", \"hair\": \"Exactly as in the original image, no changes\", \"makeup\": \"Natural and realistic, matching the original photo\" }, \"lighting\": { \"type\": \"soft natural daylight\", \"direction\": \"Light entering gently from a nearby window\", \"temperature\": \"Neutral daylight (not too warm, not overly golden)\", \"shadow_style\": \"Soft diffused shadows with realistic depth\", \"skin_tone_rendering\": \"True-to-life color accuracy without oversaturation\" }, \"camera_settings\": { \"camera_type\": \"Full-frame professional DSLR\", \"lens\": \"85mm portrait lens\", \"aperture\": \"f/2.0\", \"depth_of_field\": \"Shallow depth of field with sharp focus on subject and mural face\", \"focus\": \"Crisp facial details on both real face and painted mural face\", \"dynamic_range\": \"High dynamic range wit",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10377-233",
+      "title": "Tropical Island in a Puddle Prompt",
+      "prompt": "A hyper-realistic, low-angle ground-level shot of a miniature tropical island paradise inside a rainwater puddle on a rough asphalt suburban street. The island features tiny white sand, microscopic palm trees, a yellow lifeguard tower, a blue beach shack, and several miniature people sunbathing and swimming. The reflection of the trees is visible in the clear puddle water. In the background, out-of-focus (bokeh) suburban houses and parked cars line the street under a bright blue sky. Tilt-shift effect, whimsical, highly detailed, 8k resolution.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10406-233-Ana-de-Armas-Painting-a-Realistic-Mural-of-Herself.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10377-233-Tropical-Island-in-a-Puddle-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -647,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14118-329",
-      "title": "Photorealistic Character Design Sheet",
-      "prompt": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, white background",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14115-329",
+      "title": "Japanese Anime Character Sheet Prompt",
+      "prompt": "Character setting sheet style layout, facial expression variations for a {argument name=\"girl 1\" default=\"pink braided girl in armor\"} on the left, full body and SD character for a {argument name=\"girl 2\" default=\"light blue-haired girl in Japanese clothing (Kicho)\"} on the right, background is {argument name=\"background style\" default=\"washi paper design\"}, simple and easy-to-see composition, expressions: smile, surprise, fatigue, with Japanese labels, clean design. negative: cluttered, distorted text, low resolution",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14118-329-Photorealistic-Character-Design-Sheet.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14115-329-Japanese-Anime-Character-Sheet-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1626-906",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1626-907",
       "title": "Chaotic Maximalist Anime Poster Prompt (100 Girls)",
       "prompt": "[{argument name=\"number and clothing\" default=\"100 girls with high school uniform\"}] Chaotic and anime illustration poster design featuring the subject. Theme: Visual overload, maximalism, and disordered composition. Interpret the subject into a fragmented explosion of related concepts and abstract shapes. Randomly redraw input subject and chaotically arrange elements similar to the input subject, creating a sense of visual noise and repetition. Style: Mixed media collage, glitch art, acid graphics, random scattered objects. No negative space, fill every corner with details. High saturation, clashing colors, psychedelic atmosphere.Chaotic visual layout.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1626-906-Chaotic-Maximalist-Anime-Poster-Prompt-100-Girls.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1626-907-Chaotic-Maximalist-Anime-Poster-Prompt-100-Girls.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -723,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10379-234",
-      "title": "Photo-Style Line Drawing Sketch Prompt",
-      "prompt": "Create a photo-style line drawing / ink sketch of the person identical to the uploaded image — keep every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10406-234",
+      "title": "Ana de Armas Painting a Realistic Mural of Herself",
+      "prompt": "{ \"type\": \"image_generation\", \"style\": \"ultra-realistic cinematic portrait photography\", \"resolution\": \"8K UHD\", \"aspect_ratio\": \"2:3 vertical\", \"face_preservation\": { \"preserve_identity\": true, \"preserve_face_shape\": true, \"preserve_eyes\": true, \"preserve_nose\": true, \"preserve_lips\": true, \"preserve_expression\": true, \"preserve_skin_texture\": true, \"preserve_proportions\": true, \"no_beautification_filter\": true, \"no_face_modification\": true }, \"scene\": { \"location\": \"cozy artistic café interior\", \"environment_description\": \"A warm yet naturally lit café with textured plaster walls, wooden flooring, soft neutral-toned furniture, and an intimate creative atmosphere. The wall has a natural, slightly rough texture with subtle imperfections visible.\", \"mural_concept\": \"The woman is painting a large, realistic artistic mural of her own face on the café wall. The mural face must match her real facial features and exact expression perfectly, as if she is painting her own reflection. The mural style is hyper-detailed realism with painterly brush textures visible upon close inspection.\", \"decor_elements\": { \"white_decorative_pots\": \"Elegant matte white ceramic pots arranged near the wall and around the floor area.\", \"flowers\": \"Various colors of fresh roses including red, pink, peach, white, and soft yellow.\", \"plants\": \"Delicate green vines and climbing plants trailing naturally around the mural edges and along the wall corners.\", \"ambience\": \"Artistic, cozy, creative café vibe with subtle decorative charm.\" } }, \"subject\": { \"position\": \"Standing slightly angled toward the wall while painting\", \"action\": \"Holding a paintbrush mid-stroke while working on the mural\", \"expression\": \"Exactly the same as in the uploaded reference image\", \"pose_details\": \"Natural relaxed posture, focused and immersed in painting, realistic hand placement holding brush and palette\", \"clothing\": \"Casual yet stylish café-artist outfit, soft neutral or earthy tones, natural fabric texture\", \"hair\": \"Exactly as in the original image, no changes\", \"makeup\": \"Natural and realistic, matching the original photo\" }, \"lighting\": { \"type\": \"soft natural daylight\", \"direction\": \"Light entering gently from a nearby window\", \"temperature\": \"Neutral daylight (not too warm, not overly golden)\", \"shadow_style\": \"Soft diffused shadows with realistic depth\", \"skin_tone_rendering\": \"True-to-life color accuracy without oversaturation\" }, \"camera_settings\": { \"camera_type\": \"Full-frame professional DSLR\", \"lens\": \"85mm portrait lens\", \"aperture\": \"f/2.0\", \"depth_of_field\": \"Shallow depth of field with sharp focus on subject and mural face\", \"focus\": \"Crisp facial details on both real face and painted mural face\", \"dynamic_range\": \"High dynamic range wit",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10379-234-Photo-Style-Line-Drawing-Sketch-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10406-234-Ana-de-Armas-Painting-a-Realistic-Mural-of-Herself.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14117-330",
-      "title": "Basic Character Sheet Template",
-      "prompt": "photorealism, Character sheet, three-view, {argument name=\"view type\" default=\"full figure only\"}, {argument name=\"background\" default=\"white background\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-14118-330",
+      "title": "Photorealistic Character Design Sheet",
+      "prompt": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, white background",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14117-330-Basic-Character-Sheet-Template.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-14118-330-Photorealistic-Character-Design-Sheet.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1600-907",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-1600-908",
       "title": "Cute Clay Style Theme Poster Template",
       "prompt": "Cute clay style theme poster, supporting various themes, which can be movies, art styles, writers, or even objects. The poster scene closely adheres to the theme, the image has a strong sense of design, is highly imaginative and artistic, and the generation success rate is very high. The prompt template is in the reply section 👇.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1600-907-Cute-Clay-Style-Theme-Poster-Template.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-1600-908-Cute-Clay-Style-Theme-Poster-Template.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,16 +894,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10316-235",
-      "title": "Welcome Home Scenario Prompt",
-      "prompt": "Welcome home 🤍🩷🩵 I was cooking a cake and I saw you arrived 🏰 Were you with someone...? 😇🔪 Nano Banana Pro 🍌",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10379-235",
+      "title": "Photo-Style Line Drawing Sketch Prompt",
+      "prompt": "Create a photo-style line drawing / ink sketch of the person identical to the uploaded image — keep every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10316-235-Welcome-Home-Scenario-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10379-235-Photo-Style-Line-Drawing-Sketch-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-6244-273",
-      "title": "Exploded-View Structural Cutaway for Food Photography",
-      "prompt": "Using the first image as the base, create a clean exploded-view structural cutaway. Separate each ingredient vertically one by one, keep perfect alignment, spacing, and scale. White studio background, labeled diagram style, ultra sharp, realistic.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-6244-273-Exploded-View-Structural-Cutaway-for-Food-Photography.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Infographic / Education"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
       "license": "upstream",
       "createdAt": null
     }

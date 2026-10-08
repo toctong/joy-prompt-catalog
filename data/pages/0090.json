@@ -1,16 +1,35 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11296-173",
-      "title": "Hyper-Realistic Sabrina Carpenter Portrait Prompt",
-      "prompt": "{ \"subject\": { \"identity\": { \"biometric_reference\": \"{argument name=\"Character Reference\" default=\"Sabrina Carpenter\"}\", \"facial_structure\": { \"morphology\": \"Heart-shaped facial architecture with soft malar definition and a delicate mandibular line. High-fidelity replication of the philtrum and a pronounced Cupid's bow.\", \"eyes\": \"Almond-shaped ocular structure with complex blue iris patterns (Hex: #5D8AA8). Hyper-realistic limbal rings and symmetrical lash distribution.\", \"skin\": \"Fair complexion with authentic dermis textures, including fine pores and natural subsurface scattering (Hex: #FCE5D6). No digital smoothing or artificial filters.\", \"lips\": \"Neutral closed-mouth posture with a high-gloss satin pink finish (Hex: #F48FB1). Precise vermilion border definition with anatomical lip volume preservation.\" }, \"body\": { \"somatotype\": \"Petite and slender ectomorphic build. Accurate representation of the subject's 1.52m height-to-frame proportions with a high waist-to-hip ratio.\", \"lower_extremities\": \"Complete exposure of the lower limbs with high-resolution epidermal rendering. Detailed patellar (kneecap) anatomy and visible muscular tone in the quadriceps. No hosiery, no stockings, no fabric coverage on legs.\", \"extremities\": \"Anatomically perfect hands and feet. Five distinct fingers and toes with realistic nail bed textures and joint articulation. One hand interacting naturally with the pigtail hair.\", \"integrity\": \"Zero tolerance for skeletal distortion. Correct bone-to-muscle ratio in the clavicle and limb regions.\" } }, \"hair\": { \"style\": \"Signature voluminous honey-blonde (#EADFB4) hair partitioned into high twin pigtails. Individual strand rendering with fine texture and natural specular highlights.\", \"accessories\": \"Decorated with various pastel geometric clips. Left side: blue star (#87CEEB), purple flower (#DA70D6), pink star (#FF69B4), green rectangle (#32CD32). Right side: purple star, blue star, yellow star.\" }, \"wardrobe\": { \"top\": \"Baby pink (Hex: #F8C3CD) sleeveless cropped tank top. Heavyweight ribbed cotton-poly blend with visible fiber weaving. Form-fitting silhouette with zero text or commercial branding.\", \"graphic_on_top\": \"Central high-fidelity graphic of a stylized white feline character featuring a pink bow (Hex: #FF69B4), green attire (Hex: #8BC34A), and yellow accents.\", \"bottom\": \"Compact-cut checkered bottoms with a high-waisted athletic hemline. Woven pattern consists of alternating yellow (Hex: #FFD700) and lime green (Hex: #D4E157) squares.\", \"accessories\": \"Pink (Hex: #F48FB1) ribbed-knit fingerless arm warmers on both forearms with clear 1x1 knit texture definition.\" }, \"pose_action\": { \"description\": \"Seated centrally on a plush surface, facing the lens with a direct gaze. Left hand hol",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6756-701",
+      "title": "Epic 3D Passport Odyssey Scene",
+      "prompt": "Epic 3D scene: a weathered passport lies open, its visa stamps erupting into the destinations they represent. Each ink impression becomes a portal—[{argument name=\"city 1\" default=\"CITY 1\"}] rises in miniature from one stamp with [{argument name=\"detail 1\" default=\"DETAIL 1\"}], [CITY 2] pushes through another with [DETAIL 2], [CITY 3] manifests with [DETAIL 3]. [LANDMARK 1], [LANDMARK 2], and [LANDMARK 3] stand at different scales across the pages. Flight paths arc overhead as glowing golden trajectories weaving between all the worlds. Coffee stains become lakes. Worn edges erode into coastlines. [ATMOSPHERIC ELEMENT 1] drifts from one destination while [ATMOSPHERIC ELEMENT 2] swirls near another. Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. The bureaucratic document transformed into a living archive of adventures.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11296-173-Hyper-Realistic-Sabrina-Carpenter-Portrait-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6756-701-Epic-3D-Passport-Odyssey-Scene.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
         "AI Image Model",
+        "Poster / Flyer"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-others-11299-173",
+      "title": "Sabrina Carpenter Lookalike in Retro Maid Outfit",
+      "prompt": "{ “subject”: { “description”: “A full-body photograph of a woman resembling {argument name=\"celebrity name\" default=\"Sabrina Carpenter\"} posing in a vintage 1950s kitchen.”, “body”: { “physique”: “A striking, curvaceous hourglass figure with pronounced natural proportions. She has an ample, full bust with deep cleavage pushed up by the outfit, a narrow, defined waist creating a strong curve, and shapely wide hips and rounded glutes creating a voluptuous silhouette prominent in the sitting pose.”, “pose”: “Sitting elegantly on the dark retro Formica countertop, posing like a professional model. Her legs are crossed gracefully, showing off the stockings and heels. One hand is delicately placed on her thigh, the other rests on the counter behind her, supporting a slightly leaned-back, arched posture that emphasizes her hourglass silhouette. Her head is turned to look directly at the camera.”, “features”: “Uncanny resemblance to Sabrina Carpenter. Signature blonde hair with bangs styled in retro waves with volume. A small white lace maid headpiece. Playful makeup with red lips and natural skin texture. Sultry, alluring expression with a slight smile.” }, “wardrobe”: { “outfit”: “An extremely short micro-mini black satin french maid dress featuring elaborate white lace trim and frills, a small white apron tied at the waist, sheer black stockings with visible garters, and black high heels. The fit is extremely tight and corset-style in the bodice, snugly containing her curves.”, “accessories”: “White lace maid headpiece.” } }, “pose_action”: “Sabrina Carpenter lookalike in a skimpy maid costume sitting elegantly on a retro kitchen counter, posing like a model with legs crossed and looking at the camera.”, “scene”: { “environment”: “A retro 1950s style kitchen with a vintage, nostalgic, kitschy aesthetic.”, “elements”: “Distinctive red, white, and black geometric patterned linoleum floor, green tiled lower walls, white cabinetry with red trim and handles, dark countertops, a vintage green stool, and a fruit-patterned wallpaper border near the ceiling.”, “composition”: “A vertical (9:16) amateur full-body photograph framing her completely while seated on the counter.” }, “lighting”: { “setup”: “Bright retro indoor lighting mixed with natural light from a window.”, “details”: “Creating a vintage film glow. No filter, sharp focus.” }, “camera”: { “technical”: “Ultra_photorealistic, raw style, 8k image captured on an iPhone 15 Pro Max. Amateur full-body photograph style.”, “aspect_ratio”: “9:16” } }",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11299-173-Sabrina-Carpenter-Lookalike-in-Retro-Maid-Outfit.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -77,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20418-237",
-      "title": "Gritty urban pencil sketch portrait",
-      "prompt": "This pencil sketch depicts a {argument name=\"subject\" default=\"young woman\"} leaning against a {argument name=\"background\" default=\"brick wall\"} in a narrow, gritty alleyway. She is dressed in a leather jacket, a striped shirt, and a beanie, holding a cigarette as wisps of smoke curl into the air. The scene is detailed with urban elements like a drainage pipe, graffiti, and trash cans, creating a moody, contemplative atmosphere through fine cross-hatching and textured shading.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20431-237",
+      "title": "Steampunk Commando Woman Portrait",
+      "prompt": "A {argument name=\"subject\" default=\"woman commando\"} in a {argument name=\"setting\" default=\"steampunk setting\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20418-237-Gritty-urban-pencil-sketch-portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20431-237-Steampunk-Commando-Woman-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6669-701",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6669-702",
       "title": "Sanrio Tarot Card Risograph Simulation",
       "prompt": "Create a single Major Arcana tarot card featuring one randomly selected official Sanrio character from this list: Hello Kitty, My Melody, Kuromi, Cinnamoroll, Pompompurin, Keroppi, Badtz-Maru, Little Twin Stars (Kiki & Lala), Chococat, Tuxedo Sam, Gudetama, Aggretsuko, Hangyodon, Dear Daniel, or Usahana. CRITICAL: The character MUST be assigned a randomly chosen zodiac theme AND a randomly chosen Major Arcana card (The Fool, The Magician, The High Priestess, The Empress, The Emperor, The Hierophant, The Lovers, The Chariot, Strength, The Hermit, Wheel of Fortune, Justice, The Hanged Man, Death, Temperance, The Devil, The Tower, The Star, The Moon, The Sun, Judgement, The World) - both assignments are non-negotiable and mandatory. The zodiac symbolism must be woven into the tarot card's meaning and visual metaphors. Render in traditional tarot card proportions (2.75:4.75 ratio, portrait orientation) with an ornate decorative border featuring Art Nouveau-inspired flowing lines, celestial motifs, and geometric patterns that reference both the zodiac sign and tarot symbolism. The character must be depicted with 100% canonical accuracy maintaining exact official Sanrio proportions and features, positioned centrally as the card's main subject in a pose that embodies the tarot card's archetypal meaning. The entire composition must be a high-quality risograph print simulation featuring authentic soy-based ink grain texture that mimics absorption on uncoated 80-120gsm paper stock, stochastic dot stippling using randomized diffusion dither patterns (not regular halftone grids), fine sand-like noise within all color fills simulating Grain Touch screening mode, organic ink density variations creating tonal shifts without smooth gradients, slight dot gain effect at color boundaries, and spot color separation logic with translucent ink layering behavior rather than CMYK process colors. Colors must be bold, flat, vibrant, and fully saturated (80-100% chroma) with maximum brightness, utilizing fluorescent ink vibrancy where appropriate and showing no fading, desaturation, or washed-out pastels. The border design should use a maximum of 3-4 spot colors plus black, with the character surrounded by a thick uniform black outline (3-4pt stroke weight). Background within the border should be cream/off-white (#FFF8E7) to simulate aged tarot card stock. The output must be 3000×5200px resolution in sRGB, containing absolutely no text labels, character names, tarot card titles, zodiac symbols (♈♉♊♋♌♍♎♏♐♑♒♓), Roman numerals, descriptive typography, or dimensional effects like drop shadows.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6669-701-Sanrio-Tarot-Card-Risograph-Simulation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6669-702-Sanrio-Tarot-Card-Risograph-Simulation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11292-174",
-      "title": "Intimate Bohemian Portrait Prompt (Jenna Ortega & Emma Myers)",
-      "prompt": "{ \"title\": \"Intimate Artistic Portrait of Two Women in Cozy Bohemian Bedroom\", \"description\": \"Ultra-realistic cinematic portrait of two young adult women sitting closely together on a colorful bed inside a cozy, softly lit bohemian-style bedroom. The mood is intimate, emotional, and tender rather than explicit. The composition captures a quiet, vulnerable moment between them.\", \"subjects\": [ { \"gender\": \"female\", \"age\": \"young adult (20-25)\", \"hair\": \"jet black hair styled in two loose braids with soft bangs framing the face\", \"expression\": \"serious, contemplative, slightly guarded\", \"pose\": \"sitting cross-legged on bed, torso slightly turned toward the other woman, one hand lightly holding her shirt near the chest\", \"outfit\": \"oversized black pinstriped button-down shirt, partially unbuttoned, subtle glimpse of midriff\", \"accessories\": \"black lace knee-high stockings\", \"skin_tone\": \"fair with natural soft texture\", \"makeup\": \"minimal, soft eyeliner, natural lips\" }, { \"gender\": \"female\", \"age\": \"young adult (20-25)\", \"hair\": \"shoulder-length platinum blonde hair with subtle pastel lavender tint, soft waves\", \"expression\": \"gentle, affectionate, slightly intense gaze directed at the other woman\", \"pose\": \"sitting very close, knees touching, leaning inward, one hand resting lightly near the other woman's chest\", \"outfit\": \"oversized lavender striped button-down shirt, partially unbuttoned\", \"accessories\": \"white lace ankle socks\", \"skin_tone\": \"fair with smooth natural finish\", \"makeup\": \"soft pink lips, subtle blush, natural eye makeup\" } ], \"environment\": { \"location\": \"cozy attic-style bedroom\", \"bed\": \"small bed with colorful patterned bedspread featuring floral and abstract prints\", \"background_elements\": [ \"soft warm table lamp with yellow glow\", \"wooden interior walls\", \"colorful draped fabrics in green, red, and purple hanging from ceiling\", \"plush toys and decorative items on shelf\", \"soft ambient indoor lighting\" ], \"atmosphere\": \"warm, intimate, dreamy, slightly bohemian aesthetic\" }, \"lighting\": { \"type\": \"soft cinematic indoor lighting\", \"key_light\": \"warm lamp light from upper left side creating gentle highlights\", \"fill_light\": \"subtle ambient fill to maintain skin detail\", \"shadows\": \"soft natural shadows with depth\", \"color_temperature\": \"warm golden tones balanced with natural skin colors\" }, \"camera\": { \"angle\": \"eye-level medium full shot\", \"framing\": \"vertical portrait orientation\", \"lens\": \"85mm portrait lens\", \"aperture\": \"f/1.8\", \"depth_of_field\": \"shallow depth of field, softly blurred background\", \"focus\": \"sharp focus on faces and hands\", \"resolution\": \"8K ultra-detailed\" }, \"style\": { \"photorealism\": \"hyper-realistic",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11296-174",
+      "title": "Hyper-Realistic Sabrina Carpenter Portrait Prompt",
+      "prompt": "{ \"subject\": { \"identity\": { \"biometric_reference\": \"{argument name=\"Character Reference\" default=\"Sabrina Carpenter\"}\", \"facial_structure\": { \"morphology\": \"Heart-shaped facial architecture with soft malar definition and a delicate mandibular line. High-fidelity replication of the philtrum and a pronounced Cupid's bow.\", \"eyes\": \"Almond-shaped ocular structure with complex blue iris patterns (Hex: #5D8AA8). Hyper-realistic limbal rings and symmetrical lash distribution.\", \"skin\": \"Fair complexion with authentic dermis textures, including fine pores and natural subsurface scattering (Hex: #FCE5D6). No digital smoothing or artificial filters.\", \"lips\": \"Neutral closed-mouth posture with a high-gloss satin pink finish (Hex: #F48FB1). Precise vermilion border definition with anatomical lip volume preservation.\" }, \"body\": { \"somatotype\": \"Petite and slender ectomorphic build. Accurate representation of the subject's 1.52m height-to-frame proportions with a high waist-to-hip ratio.\", \"lower_extremities\": \"Complete exposure of the lower limbs with high-resolution epidermal rendering. Detailed patellar (kneecap) anatomy and visible muscular tone in the quadriceps. No hosiery, no stockings, no fabric coverage on legs.\", \"extremities\": \"Anatomically perfect hands and feet. Five distinct fingers and toes with realistic nail bed textures and joint articulation. One hand interacting naturally with the pigtail hair.\", \"integrity\": \"Zero tolerance for skeletal distortion. Correct bone-to-muscle ratio in the clavicle and limb regions.\" } }, \"hair\": { \"style\": \"Signature voluminous honey-blonde (#EADFB4) hair partitioned into high twin pigtails. Individual strand rendering with fine texture and natural specular highlights.\", \"accessories\": \"Decorated with various pastel geometric clips. Left side: blue star (#87CEEB), purple flower (#DA70D6), pink star (#FF69B4), green rectangle (#32CD32). Right side: purple star, blue star, yellow star.\" }, \"wardrobe\": { \"top\": \"Baby pink (Hex: #F8C3CD) sleeveless cropped tank top. Heavyweight ribbed cotton-poly blend with visible fiber weaving. Form-fitting silhouette with zero text or commercial branding.\", \"graphic_on_top\": \"Central high-fidelity graphic of a stylized white feline character featuring a pink bow (Hex: #FF69B4), green attire (Hex: #8BC34A), and yellow accents.\", \"bottom\": \"Compact-cut checkered bottoms with a high-waisted athletic hemline. Woven pattern consists of alternating yellow (Hex: #FFD700) and lime green (Hex: #D4E157) squares.\", \"accessories\": \"Pink (Hex: #F48FB1) ribbed-knit fingerless arm warmers on both forearms with clear 1x1 knit texture definition.\" }, \"pose_action\": { \"description\": \"Seated centrally on a plush surface, facing the lens with a direct gaze. Left hand hol",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11292-174-Intimate-Bohemian-Portrait-Prompt-Jenna-Ortega-Emma-Myers.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11296-174-Hyper-Realistic-Sabrina-Carpenter-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20428-238",
-      "title": "Whimsical Lollipop and Pigeons Illustration",
-      "prompt": "a vibrant, colorful illustration of a giant glossy {argument name=\"candy\" default=\"lollipop\"} planted in the ground, with {argument name=\"bird count\" default=\"three\"} plump {argument name=\"bird type\" default=\"pigeons\"} perched playfully on top of it, each pigeon in a slightly different pose, simple soft background, whimsical cartoon style, clean lines, high detail, bright cheerful lighting",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20418-238",
+      "title": "Gritty urban pencil sketch portrait",
+      "prompt": "This pencil sketch depicts a {argument name=\"subject\" default=\"young woman\"} leaning against a {argument name=\"background\" default=\"brick wall\"} in a narrow, gritty alleyway. She is dressed in a leather jacket, a striped shirt, and a beanie, holding a cigarette as wisps of smoke curl into the air. The scene is detailed with urban elements like a drainage pipe, graffiti, and trash cans, creating a moody, contemplative atmosphere through fine cross-hatching and textured shading.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20428-238-Whimsical-Lollipop-and-Pigeons-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20418-238-Gritty-urban-pencil-sketch-portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +305,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6399-704",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6399-705",
       "title": "Photorealistic Romantic Movie Poster (The Lake House Style)",
       "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"text_to_image_photoreal_movie_poster_the_lake_house_style\", \"version\": \"v1.0\", \"priority\": \"high\" }, \"references\": { \"reference_images\": { \"female_reference\": \"UPLOAD_FEMALE_REFERENCE_IMAGE (REQUIRED)\", \"male_reference\": \"UPLOAD_MALE_REFERENCE_IMAGE (REQUIRED)\" }, \"reference_rules\": { \"preserve_identity_female\": true, \"preserve_identity_male\": true, \"identity_lock_strength_female\": 0.995, \"identity_lock_strength_male\": 0.995, \"face_similarity_priority\": \"MAX\", \"preserve_facial_proportions\": true, \"preserve_eye_shape_nose_lips_jawline\": true, \"no_beautify_no_face_morph\": true, \"keep_age_and_gender_consistent\": true, \"do_not_copy_any_unprovided_identity\": true, \"natural_skin_texture\": true } }, \"output_settings\": { \"aspect_ratio\": \"9:16\", \"orientation\": \"portrait\", \"resolution\": \"ultra_high_res\", \"render_style\": \"photorealistic_romantic_cinematic_poster_print_ready\", \"sharpness\": \"high\", \"film_grain\": \"subtle\", \"color_grade\": \"soft_cool_winter_pastel\" }, \"creative_prompt\": { \"scene_summary\": \"Create a photoreal romantic movie poster with a clean two-tier layout. EXACTLY TWO people only (one woman, one man). Upper half: an intimate close-up profile-to-profile shot where the woman (left) and man (right) face each other at very close distance, calm emotional expressions, shallow depth of field, soft natural daylight. Their faces must match the uploaded references exactly with realistic skin texture. Styling: soft winter palette; the man wears a beige/tan coat with a ribbed turtleneck sweater; the woman wears a muted red coat or scarf accent, short natural hair. Lower half: a serene winter lakeside scene with a small modern lake house on stilts over the water, muted sky, bare trees, and a classic red mailbox in the foreground on the left. A clean white horizontal band separates the two halves and provides space for the title. Overall tone: wistful, gentle, timeless romance; premium poster composite, print-ready.\", \"composition\": { \"layout\": \"two-tier poster: top close-up faces, bottom environment scene\", \"top_section\": \"tight close-up of faces facing each other, woman left, man right\", \"separator_band\": \"clean white horizontal band across the middle\", \"bottom_section\": \"lake house on stilts over water, winter setting, red mailbox foreground left\", \"negative_space\": \"keep the middle band uncluttered for title readability\" }, \"wardrobe_and_styling\": { \"female_outfit\": \"muted red coat or scarf accent, natural grooming, minimal makeup\", \"male_outfit\": \"tan/beige coat, ribbed turtleneck sweater, understated styling\", \"environment\" } } } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6399-704-Photorealistic-Romantic-Movie-Poster-The-Lake-House-Style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6399-705-Photorealistic-Romantic-Movie-Poster-The-Lake-House-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,16 +324,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11302-175",
-      "title": "Hyper-realistic Sabrina Carpenter Biometric Prompt",
-      "prompt": "{ \"subject\": { \"identity\": { \"biometric_reference\": \"{argument name=\"biometric reference\" default=\"Sabrina Carpenter\"}\", \"facial_structure\": \"Heart-shaped face morphology with a defined, narrow mandibular angle and prominent zygomatic arches; specific philtrum depth and pronounced Cupid's bow on full vermilion lips; distinct nasal bridge linearity.\", \"hair\": { \"style\": \"Voluminous blonde hair styled in soft, cinematic waves; signature thick curtain bangs framing the face with precise layering; high-fidelity strand separation and natural movement.\", \"color\": \"#FBF2D5 pale honey blonde with subtle platinum highlights\", \"physics\": \"Natural hair luster with realistic subsurface scattering on fine strands; zero synthetic clumpiness.\" }, \"ocular_details\": \"Iris pattern with intricate radial furrows in a blue-grey #7A9E9F hue; visible limbal rings; anatomically correct sclera hydration; realistic lacrimal caruncle placement.\", \"dentition\": \"Standard human dental alignment with natural incisor transparency and subtle occlusal surface textures; visible when lips are slightly parted.\" }, \"body\": { \"somatotype\": \"Ecto-mesomorphic petite frame with a high waist-to-hip ratio; precise anatomical muscle definition in the rectus femoris and gastrocnemius; defined clavicle and suprasternal notch visibility.\", \"skin_physics\": { \"base_tone\": \"#F5E1D2 creamy porcelain\", \"surface_properties\": \"High-fidelity subsurface scattering (SSS) on epidermal layers; visible follicular pores and micro-creases on joints; zero artificial smoothing filters.\", \"details\": \"Natural mole and freckle distribution mapped to biometric reference; absence of digital artifacts.\" } } }, \"wardrobe\": { \"primary_garment\": { \"type\": \"Form-fitting corset-style mini-dress\", \"color\": \"#E8ACC0 pale pink and #FFFFFF optic white gingham pattern\", \"material_physics\": \"Fine-weave cotton gingham fabric with subtle texture; realistic fabric micro-creases indicating tension; structural bodice construction with defined waist cinching.\" }, \"neckwear\": { \"type\": \"Matching gingham bowtie with a white detachable Peter Pan collar\", \"color\": \"Bowtie: #E8ACC0 and #FFFFFF gingham; Collar: #FFFFFF optic white\", \"material_physics\": \"Structured fabric bowtie with realistic knot compression; crisp, starched cotton collar texture.\" }, \"gloves\": { \"type\": \"Short white lace gloves\", \"color\": \"#FFFFFF optic white\", \"material_physics\": \"Intricate lace micro-patterns with variable translucency; realistic folding around finger joints and palm.\" }, \"earrings\": { \"type\": \"Flower-shaped studs\", \"color\": \"#E8ACC0 pale pink\", \"material_physics\": \"Detailed multi-petal floral structure; matte ceramic finish with subtle glossy center.\" } }, \"pose_action\": { \"description\": \"Seated centrall",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11292-175",
+      "title": "Intimate Bohemian Portrait Prompt (Jenna Ortega & Emma Myers)",
+      "prompt": "{ \"title\": \"Intimate Artistic Portrait of Two Women in Cozy Bohemian Bedroom\", \"description\": \"Ultra-realistic cinematic portrait of two young adult women sitting closely together on a colorful bed inside a cozy, softly lit bohemian-style bedroom. The mood is intimate, emotional, and tender rather than explicit. The composition captures a quiet, vulnerable moment between them.\", \"subjects\": [ { \"gender\": \"female\", \"age\": \"young adult (20-25)\", \"hair\": \"jet black hair styled in two loose braids with soft bangs framing the face\", \"expression\": \"serious, contemplative, slightly guarded\", \"pose\": \"sitting cross-legged on bed, torso slightly turned toward the other woman, one hand lightly holding her shirt near the chest\", \"outfit\": \"oversized black pinstriped button-down shirt, partially unbuttoned, subtle glimpse of midriff\", \"accessories\": \"black lace knee-high stockings\", \"skin_tone\": \"fair with natural soft texture\", \"makeup\": \"minimal, soft eyeliner, natural lips\" }, { \"gender\": \"female\", \"age\": \"young adult (20-25)\", \"hair\": \"shoulder-length platinum blonde hair with subtle pastel lavender tint, soft waves\", \"expression\": \"gentle, affectionate, slightly intense gaze directed at the other woman\", \"pose\": \"sitting very close, knees touching, leaning inward, one hand resting lightly near the other woman's chest\", \"outfit\": \"oversized lavender striped button-down shirt, partially unbuttoned\", \"accessories\": \"white lace ankle socks\", \"skin_tone\": \"fair with smooth natural finish\", \"makeup\": \"soft pink lips, subtle blush, natural eye makeup\" } ], \"environment\": { \"location\": \"cozy attic-style bedroom\", \"bed\": \"small bed with colorful patterned bedspread featuring floral and abstract prints\", \"background_elements\": [ \"soft warm table lamp with yellow glow\", \"wooden interior walls\", \"colorful draped fabrics in green, red, and purple hanging from ceiling\", \"plush toys and decorative items on shelf\", \"soft ambient indoor lighting\" ], \"atmosphere\": \"warm, intimate, dreamy, slightly bohemian aesthetic\" }, \"lighting\": { \"type\": \"soft cinematic indoor lighting\", \"key_light\": \"warm lamp light from upper left side creating gentle highlights\", \"fill_light\": \"subtle ambient fill to maintain skin detail\", \"shadows\": \"soft natural shadows with depth\", \"color_temperature\": \"warm golden tones balanced with natural skin colors\" }, \"camera\": { \"angle\": \"eye-level medium full shot\", \"framing\": \"vertical portrait orientation\", \"lens\": \"85mm portrait lens\", \"aperture\": \"f/1.8\", \"depth_of_field\": \"shallow depth of field, softly blurred background\", \"focus\": \"sharp focus on faces and hands\", \"resolution\": \"8K ultra-detailed\" }, \"style\": { \"photorealism\": \"hyper-realistic",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11302-175-Hyper-realistic-Sabrina-Carpenter-Biometric-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11292-175-Intimate-Bohemian-Portrait-Prompt-Jenna-Ortega-Emma-Myers.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -381,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20454-240",
-      "title": "Traditional Japanese Ink Children Illustration",
-      "prompt": "These illustrations feature a {argument name=\"art style\" default=\"charming, hand-drawn aesthetic inspired by traditional Japanese ink wash and watercolor paintings\"}. The scenes depict a {argument name=\"subject\" default=\"group of spirited children in rustic, historical attire\"} living a simple life amidst a {argument name=\"environment\" default=\"lush, misty forest\"}. Whether it is a young boy diligently splitting wood with a small axe or a group of friends playfully splashing and sailing leaf boats in a clear mountain stream, the artwork captures a sense of nostalgic wonder, innocence, and a deep, harmonious connection with the natural world.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20428-239",
+      "title": "Whimsical Lollipop and Pigeons Illustration",
+      "prompt": "a vibrant, colorful illustration of a giant glossy {argument name=\"candy\" default=\"lollipop\"} planted in the ground, with {argument name=\"bird count\" default=\"three\"} plump {argument name=\"bird type\" default=\"pigeons\"} perched playfully on top of it, each pigeon in a slightly different pose, simple soft background, whimsical cartoon style, clean lines, high detail, bright cheerful lighting",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20454-240-Traditional-Japanese-Ink-Children-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20428-239-Whimsical-Lollipop-and-Pigeons-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -438,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6075-710",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-6075-711",
       "title": "Blaxploitation Comic Art 'I Got 5 On It' Prompt",
       "prompt": "A highly stylized, hyper-exaggerated Comic caricature in the vein of 70s Blaxploitation movie posters. The hip-hop duo Luniz are depicted as larger-than-life, over-the-top 70s pimp archetypes inside a gritty, neon-lit strip club. One member, wearing an exaggerated wide-lapel velvet suit and massive gold chains, has a comically oversized hand placed on the hip of a stylized go-go dancer in retro attire. A bold, jagged comic book speech bubble erupts from his mouth containing the heavy block text: \"{argument name=\"speech bubble text\" default=\"I GOT 5 ON IT\"}\". The other member stands beside him, laughing with a stack of cash. The scene features thick outlines, heavy black inking, vibrant flat colors, and a prominent halftone dot texture. Lighting is high-contrast and dramatic, using a deep color palette of burnt orange, mustard yellow, deep purple, and electric blue neon hues. The background is crowded with stylized patrons, abstract neon signs like \"{argument name=\"neon sign text\" default=\"THE LOONY JOINT\"}\", and heavy smoke. Cel-shaded, graphic novel illustration, cinematic composition, highly detailed caricature action scene.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6075-710-Blaxploitation-Comic-Art-I-Got-5-On-It-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-6075-711-Blaxploitation-Comic-Art-I-Got-5-On-It-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11300-176",
-      "title": "Political Speaker in Provocative Military Uniform",
-      "prompt": "{ \"subject\": { \"description\": \"A young blonde Caucasian woman delivering a speech at a podium, wearing a highly stylized, fitted olive green military uniform jacket paired with a provocatively short mini skirt and sheer black pantyhose.\", \"mirror_rules\": \"None, direct shot.\", \"age\": \"late 20s\", \"expression\": { \"eyes\": { \"look\": \"focused forward, intense and determined\", \"energy\": \"authoritative, commanding attention\", \"direction\": \"straight ahead, slightly elevated\" }, \"mouth\": { \"position\": \"open, actively speaking into the microphone\", \"energy\": \"confident, articulate\" }, \"overall\": \"serious, resolute, holding the room's attention\" }, \"face\": { \"preserve_original\": true, \"makeup\": \"clean professional makeup, matte foundation, subtle contouring, pale natural lips\" }, \"hair\": { \"color\": \"light platinum blonde\", \"style\": \"sleek, tightly pulled back into a neat low bun\", \"effect\": \"smooth and disciplined, catching the overhead stage light\" }, \"body\": { \"frame\": \"fit and strong posture, standing tall, prominent toned leg muscles\", \"skin\": { \"visible_areas\": \"face, hands, legs\", \"tone\": \"pale warm ivory\", \"texture\": \"legs are wrapped tightly in smooth, sheer black nylon, emphasizing the firm musculature underneath\", \"lighting_effect\": \"harsh overhead stage lighting creating a subtle rim light on the hair and shoulders\" } }, \"pose\": { \"position\": \"standing behind a wooden podium, body facing slightly left but head facing forward\", \"base\": \"standing firmly in black stiletto pumps\", \"overall\": \"formal, imposing, yet physically provocative due to the attire\" }, \"clothing\": { \"top\": { \"type\": \"fitted military service uniform jacket\", \"color\": \"dark olive green\", \"details\": \"colorful ribbon racks on the chest, silver badges, Staff Sergeant chevron patches on the sleeves, gold buttons\", \"effect\": \"tailored and authoritative\" }, \"bottom\": { \"type\": \"ultra-short mini skirt with sheer black pantyhose\", \"color\": \"olive green skirt, translucent black tights\", \"details\": \"tight fit, exposing the full length of the legs, paired with black pointed-toe stiletto heels\" } } }, \"accessories\": { \"headwear\": \"\", \"jewelry\": \"\", \"device\": \"two black microphones on gooseneck stands attached to the podium\", \"prop\": \"a clear glass teleprompter panel positioned to the left, a wooden podium with a blue and white sign reading 'BORDER OF PEACE'\" }, \"photography\": { \"camera_style\": \"press photography, photojournalism, political rally coverage\", \"angle\": \"slight low angle, shooting up at the speaker from the floor or press pit\", \"shot_type\": \"full body to medium-full shot, capturing from the feet up\", \"aspect_ratio\": \"4:5\", \"texture\": \"sharp subject focus, slight digital grain typical of high-ISO event photography, cinematic tension\", \"lighting\": \"stadium event lighting, bright spotlights on the speaker, darker ambient light in the audience\", \"depth_of_field\": \"telephoto lens compression (e.g., 200mm), keeping the VIPs in the immediate backgr",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11302-176",
+      "title": "Hyper-realistic Sabrina Carpenter Biometric Prompt",
+      "prompt": "{ \"subject\": { \"identity\": { \"biometric_reference\": \"{argument name=\"biometric reference\" default=\"Sabrina Carpenter\"}\", \"facial_structure\": \"Heart-shaped face morphology with a defined, narrow mandibular angle and prominent zygomatic arches; specific philtrum depth and pronounced Cupid's bow on full vermilion lips; distinct nasal bridge linearity.\", \"hair\": { \"style\": \"Voluminous blonde hair styled in soft, cinematic waves; signature thick curtain bangs framing the face with precise layering; high-fidelity strand separation and natural movement.\", \"color\": \"#FBF2D5 pale honey blonde with subtle platinum highlights\", \"physics\": \"Natural hair luster with realistic subsurface scattering on fine strands; zero synthetic clumpiness.\" }, \"ocular_details\": \"Iris pattern with intricate radial furrows in a blue-grey #7A9E9F hue; visible limbal rings; anatomically correct sclera hydration; realistic lacrimal caruncle placement.\", \"dentition\": \"Standard human dental alignment with natural incisor transparency and subtle occlusal surface textures; visible when lips are slightly parted.\" }, \"body\": { \"somatotype\": \"Ecto-mesomorphic petite frame with a high waist-to-hip ratio; precise anatomical muscle definition in the rectus femoris and gastrocnemius; defined clavicle and suprasternal notch visibility.\", \"skin_physics\": { \"base_tone\": \"#F5E1D2 creamy porcelain\", \"surface_properties\": \"High-fidelity subsurface scattering (SSS) on epidermal layers; visible follicular pores and micro-creases on joints; zero artificial smoothing filters.\", \"details\": \"Natural mole and freckle distribution mapped to biometric reference; absence of digital artifacts.\" } } }, \"wardrobe\": { \"primary_garment\": { \"type\": \"Form-fitting corset-style mini-dress\", \"color\": \"#E8ACC0 pale pink and #FFFFFF optic white gingham pattern\", \"material_physics\": \"Fine-weave cotton gingham fabric with subtle texture; realistic fabric micro-creases indicating tension; structural bodice construction with defined waist cinching.\" }, \"neckwear\": { \"type\": \"Matching gingham bowtie with a white detachable Peter Pan collar\", \"color\": \"Bowtie: #E8ACC0 and #FFFFFF gingham; Collar: #FFFFFF optic white\", \"material_physics\": \"Structured fabric bowtie with realistic knot compression; crisp, starched cotton collar texture.\" }, \"gloves\": { \"type\": \"Short white lace gloves\", \"color\": \"#FFFFFF optic white\", \"material_physics\": \"Intricate lace micro-patterns with variable translucency; realistic folding around finger joints and palm.\" }, \"earrings\": { \"type\": \"Flower-shaped studs\", \"color\": \"#E8ACC0 pale pink\", \"material_physics\": \"Detailed multi-petal floral structure; matte ceramic finish with subtle glossy center.\" } }, \"pose_action\": { \"description\": \"Seated centrall",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11300-176-Political-Speaker-in-Provocative-Military-Uniform.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11302-176-Hyper-realistic-Sabrina-Carpenter-Biometric-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -533,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20148-241",
-      "title": "Spiritual Soulmate Visualization",
-      "prompt": "Using the referenced image, create a captivating spiritual visualization: A {argument name=\"subject\" default=\"man’s physical form\"} is rendered with a unique {argument name=\"effect\" default=\"semi-translucent, ethereal effect\"}, appearing alongside a serene meditating woman. He emerges from a column of {argument name=\"environment\" default=\"swirling smoke\"}, while a serene meditating woman is seated next to him, bathed in the soft glow of a warm, candlelit room. A moment of connection and spiritual presence.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20454-241",
+      "title": "Traditional Japanese Ink Children Illustration",
+      "prompt": "These illustrations feature a {argument name=\"art style\" default=\"charming, hand-drawn aesthetic inspired by traditional Japanese ink wash and watercolor paintings\"}. The scenes depict a {argument name=\"subject\" default=\"group of spirited children in rustic, historical attire\"} living a simple life amidst a {argument name=\"environment\" default=\"lush, misty forest\"}. Whether it is a young boy diligently splitting wood with a small axe or a group of friends playfully splashing and sailing leaf boats in a clear mountain stream, the artwork captures a sense of nostalgic wonder, innocence, and a deep, harmonious connection with the natural world.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20148-241-Spiritual-Soulmate-Visualization.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20454-241-Traditional-Japanese-Ink-Children-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +609,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-5964-713",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-5964-714",
       "title": "Arnold Schwarzenegger Silhouette with Volumetric Mountain Forest",
       "prompt": "**Prompt Title:** The Austrian Oak's Volumetric Anatomy **Prompt:** A monumental, highly graphic, high-contrast silhouette of Arnold Schwarzenegger in his 1970s prime, perfectly executing a classic Side Chest pose. The exterior outline of the physique is rendered as a razor-sharp, pure black (0% light) shape, creating an extreme visual boundary. The entire internal negative space within the silhouette is intricately filled with a photorealistic, dense Austrian mountain forest landscape—specifically, deep coniferous pines and firs of the Hohe Tauern region. The scene within the body is captured at the peak of Golden Hour sunset. Deep, rich hues of fire orange, crimson, and violet dominate the internal sky. Crucially, intense, focused volumetric god rays and sun shafts cut dramatically through the thick forest canopy, filtering dust and mist. These light shafts meticulously trace and illuminate the underlying anatomy: the beams define the striations of the pectoral muscle, the peaks of the biceps, and the separation of the deltoids. The light filtering through the trees *is* the muscle definition. **Camera Settings:** Shot on Hasselblad X2D, 135mm prime lens. Wide aperture (f/2.8) for maximum environmental detail within the silhouette. **Lighting Details:** Extreme hard backlighting defines the silhouette against a neutral, slightly hazy background. Internal lighting is Deep Golden Hour, intense volumetric mist/fog, strong rim light defining individual tree branches and forming anatomical detail. **Stylistic Notes:** Masterpiece cinematic photography. Hyper-detailed realism within the silhouette. Maximal resolution. Aspect ratio 16:9. --ar 16:9 --v 6.0 --s 750",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-5964-713-Arnold-Schwarzenegger-Silhouette-with-Volumetric-Mountain-Forest.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-5964-714-Arnold-Schwarzenegger-Silhouette-with-Volumetric-Mountain-Forest.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,16 +628,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11333-177",
-      "title": "Sharpening and Text Insertion Prompt",
-      "prompt": "Make the lines sharper and add the following text back in \"(original unhallucinated text)\"",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11300-177",
+      "title": "Political Speaker in Provocative Military Uniform",
+      "prompt": "{ \"subject\": { \"description\": \"A young blonde Caucasian woman delivering a speech at a podium, wearing a highly stylized, fitted olive green military uniform jacket paired with a provocatively short mini skirt and sheer black pantyhose.\", \"mirror_rules\": \"None, direct shot.\", \"age\": \"late 20s\", \"expression\": { \"eyes\": { \"look\": \"focused forward, intense and determined\", \"energy\": \"authoritative, commanding attention\", \"direction\": \"straight ahead, slightly elevated\" }, \"mouth\": { \"position\": \"open, actively speaking into the microphone\", \"energy\": \"confident, articulate\" }, \"overall\": \"serious, resolute, holding the room's attention\" }, \"face\": { \"preserve_original\": true, \"makeup\": \"clean professional makeup, matte foundation, subtle contouring, pale natural lips\" }, \"hair\": { \"color\": \"light platinum blonde\", \"style\": \"sleek, tightly pulled back into a neat low bun\", \"effect\": \"smooth and disciplined, catching the overhead stage light\" }, \"body\": { \"frame\": \"fit and strong posture, standing tall, prominent toned leg muscles\", \"skin\": { \"visible_areas\": \"face, hands, legs\", \"tone\": \"pale warm ivory\", \"texture\": \"legs are wrapped tightly in smooth, sheer black nylon, emphasizing the firm musculature underneath\", \"lighting_effect\": \"harsh overhead stage lighting creating a subtle rim light on the hair and shoulders\" } }, \"pose\": { \"position\": \"standing behind a wooden podium, body facing slightly left but head facing forward\", \"base\": \"standing firmly in black stiletto pumps\", \"overall\": \"formal, imposing, yet physically provocative due to the attire\" }, \"clothing\": { \"top\": { \"type\": \"fitted military service uniform jacket\", \"color\": \"dark olive green\", \"details\": \"colorful ribbon racks on the chest, silver badges, Staff Sergeant chevron patches on the sleeves, gold buttons\", \"effect\": \"tailored and authoritative\" }, \"bottom\": { \"type\": \"ultra-short mini skirt with sheer black pantyhose\", \"color\": \"olive green skirt, translucent black tights\", \"details\": \"tight fit, exposing the full length of the legs, paired with black pointed-toe stiletto heels\" } } }, \"accessories\": { \"headwear\": \"\", \"jewelry\": \"\", \"device\": \"two black microphones on gooseneck stands attached to the podium\", \"prop\": \"a clear glass teleprompter panel positioned to the left, a wooden podium with a blue and white sign reading 'BORDER OF PEACE'\" }, \"photography\": { \"camera_style\": \"press photography, photojournalism, political rally coverage\", \"angle\": \"slight low angle, shooting up at the speaker from the floor or press pit\", \"shot_type\": \"full body to medium-full shot, capturing from the feet up\", \"aspect_ratio\": \"4:5\", \"texture\": \"sharp subject focus, slight digital grain typical of high-ISO event photography, cinematic tension\", \"lighting\": \"stadium event lighting, bright spotlights on the speaker, darker ambient light in the audience\", \"depth_of_field\": \"telephoto lens compression (e.g., 200mm), keeping the VIPs in the immediate backgr",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11333-177-Sharpening-and-Text-Insertion-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11300-177-Political-Speaker-in-Provocative-Military-Uniform.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -685,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20171-243",
-      "title": "Chaotic Crayon Sketch Style",
-      "prompt": "turn this photo into a chaotic hand-drawn crayon sketch with a {argument name=\"signature style\" default=\"VERY consistent signature art style\"}, {argument name=\"background\" default=\"white paper background\"}, thick dark-brown scratchy outlines drawn with cheap colored pencils, large circular bug-like eyes with tiny pupils and heavy uneven outlines, elongated distorted face shape caused by exaggerated fisheye perspective, tiny compressed mouth, detailed wrinkled under-eyes and chaotic facial shading made from layered crayon strokes, skin colored using rough overlapping pink, peach and red scribbles instead of smooth coloring, messy visible wax crayon texture everywhere, rough uneven coloring outside the lines, aggressive crosshatching and random sketch marks, hands drawn slightly too large with awkward finger anatomy, background filled with childish doodles,random flowers, handwritten words, arrows and chaotic notebook-style decorations, intentionally overcrowded composition, every object outlined with the same dark scratchy pencil style, hyperactive kindergarten sketchbook energy, weirdly expressive and funny, visually consistent recognizable drawing style",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20148-242",
+      "title": "Spiritual Soulmate Visualization",
+      "prompt": "Using the referenced image, create a captivating spiritual visualization: A {argument name=\"subject\" default=\"man’s physical form\"} is rendered with a unique {argument name=\"effect\" default=\"semi-translucent, ethereal effect\"}, appearing alongside a serene meditating woman. He emerges from a column of {argument name=\"environment\" default=\"swirling smoke\"}, while a serene meditating woman is seated next to him, bathed in the soft glow of a warm, candlelit room. A moment of connection and spiritual presence.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20171-243-Chaotic-Crayon-Sketch-Style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20148-242-Spiritual-Soulmate-Visualization.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-5866-715",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-5866-716",
       "title": "Graphic Design Poster Generator",
       "prompt": "Graphic design poster with any {argument name=\"person\" default=\"PERSON\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-5866-715-Graphic-Design-Poster-Generator.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-5866-716-Graphic-Design-Poster-Generator.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11297-178",
-      "title": "Multi-Subject Editorial Fashion Prompt (Sadie Sink, Ana de Armas, Sydney Sweeney)",
-      "prompt": "[ { \"biographical_info\": { \"full_name\": \"{argument name=\"Character 1 Name\" default=\"Sadie Elizabeth Sink\"}\", \"profession\": \"American Actress\", \"birth_year\": 2002, \"notable_works\": [\"Stranger Things (Max Mayfield)\", \"The Whale\", \"All Too Well: The Short Film\"] }, \"visual_analysis\": { \"physical_traits\": { \"hair_style\": \"Long, wavy, natural ginger/red hair\", \"eye_color\": \"Blue\", \"pose\": \"Sitting on floor, finger on lip direct gaze\" }, \"wardrobe_details\": { \"upper_garment\": \"Forest green corset-style top with black lace trim\", \"sleeves\": \"Detachable long black floral lace gloves/sleeves\", \"lower_garment\": \"High-waisted blue and white plaid pleated mini skirt\", \"hosiery\": \"Sheer black tights with small velvet heart patterns\", \"footwear\": \"Classic white pointed-toe stiletto pumps\", \"jewelry\": \"Thin white choker and a silver necklace with a red gemstone pendant\" } }, \"environment_metadata\": { \"location_type\": \"Indoor Studio/Room\", \"color_palette\": [\"Deep Red\", \"Emerald Green\", \"Warm Wood\"], \"background_props\": [ \"Large classical oil painting depicting a romantic couple\", \"Pink neon 'Keor Unreal' sign on the wall\", \"Light oak wooden sideboard/cabinet\", \"Polished hardwood flooring with natural sunlight shadows\" ] } \"biographical_info\": { \"full_name\": \"{argument name=\"Character 2 Name\" default=\"Ana Celia de Armas Caso\"}\", \"profession\": \"Cuban-Spanish Actress\", \"notable_works\": [\"Blonde\", \"No Time to Die\", \"Blade Runner 2049\", \"Knives Out\"] }, \"visual_analysis\": { \"physical_traits\": { \"hair_style\": \"Long, dark brown flowing hair with the center part\", \"eye_color\": \"Green/Hazel\", \"pose\": \"Seated on a white fur stool, reflective expression\" }, \"wardrobe_details\": { \"upper_garment\": \"Royal blue satin corset with black lace overlays\", \"sleeves\": \"Full-length black lace sleeves covering hands\", \"lower_garment\": \"Matching blue plaid schoolgirl-style skirt\", \"hosiery\": \"Denim-blue tinted tights with heart embroidery\", \"footwear\": \"Red strappy high heels worn over black ankle socks\", \"jewelry\": \"Thick blue velvet choker\" } }, \"environment_metadata\": { \"location_type\": \"Modern Minimalist Interior\", \"lighting\": \"Soft natural side-lighting\", \"background_elements\": [ \"Beige/Neutral matte walls\", \"Light-colored wooden floor planks\", \"White fluffy sheepskin-style seating\", \"Clean, uncluttered architectural line's }, \"biographical_info\": { \"full_name\": \"{argument name=\"Character 3 Name\" default=\"Sydney Bernice Sweeney\"}\", \"profession\": \"American Actress & Producer\", \"notable_works\": [\"Euphoria (Cassie Howard)\", \"The White Lotus\", \"Anyone But You\"] }, \"visual_analysis\": { \"physi",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11333-178",
+      "title": "Sharpening and Text Insertion Prompt",
+      "prompt": "Make the lines sharper and add the following text back in \"(original unhallucinated text)\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11297-178-Multi-Subject-Editorial-Fashion-Prompt-Sadie-Sink-Ana-de-Armas-Sydney-Sweeney.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11333-178-Sharpening-and-Text-Insertion-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20150-245",
-      "title": "Whimsical Purple Hippo Illustration",
-      "prompt": "A whimsical illustration features a {argument name=\"subject\" default=\"large, purple hippopotamus\"} partially submerged in {argument name=\"water color\" default=\"turquoise water\"}. The hippo's head and snout are prominent, with large, expressive eyes and a wide, pink mouth. A small, {argument name=\"bird\" default=\"blue bird\"} perches on top of the hippo's head. A school of small, pink fish swims around the hippo. The overall style is flat and graphic, with a textured, painterly quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-20171-244",
+      "title": "Chaotic Crayon Sketch Style",
+      "prompt": "turn this photo into a chaotic hand-drawn crayon sketch with a {argument name=\"signature style\" default=\"VERY consistent signature art style\"}, {argument name=\"background\" default=\"white paper background\"}, thick dark-brown scratchy outlines drawn with cheap colored pencils, large circular bug-like eyes with tiny pupils and heavy uneven outlines, elongated distorted face shape caused by exaggerated fisheye perspective, tiny compressed mouth, detailed wrinkled under-eyes and chaotic facial shading made from layered crayon strokes, skin colored using rough overlapping pink, peach and red scribbles instead of smooth coloring, messy visible wax crayon texture everywhere, rough uneven coloring outside the lines, aggressive crosshatching and random sketch marks, hands drawn slightly too large with awkward finger anatomy, background filled with childish doodles,random flowers, handwritten words, arrows and chaotic notebook-style decorations, intentionally overcrowded composition, every object outlined with the same dark scratchy pencil style, hyperactive kindergarten sketchbook energy, weirdly expressive and funny, visually consistent recognizable drawing style",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20150-245-Whimsical-Purple-Hippo-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-20171-244-Chaotic-Crayon-Sketch-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-5888-717",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-5888-718",
       "title": "Music Curation: Audio-Visual Dioramas for Pink Floyd Fans",
       "prompt": "Do this for {argument name=\"input band\" default=\"Pink Floyd\"}: Input Variable: [INSERT BAND/ALBUM] (e.g., Pink Floyd, Daft Punk, Nirvana) System Instruction: Act as a Music Historian and Set Designer. Create a 2x2 Grid of \"Audio-Visual Dioramas.\" 1. The Curation Logic (The Deep Cuts): Analyze Input: Identify the genre and sonic signature of the Input Band. Select 4 Hidden Gems: Identify 4 lesser-known albums from other bands that share this sonic DNA but offer a different visual flavor. The Translation: For each album, define the \"Sonic Materiality\": If Heavy Metal: Rusty Iron, Fire, Spikes. If Synth-Pop: Neon Glass, Chrome, Laser Grids. If Folk/Acoustic: Mossy Wood, Stone, Candlelight. If Prog Rock: Surreal Marble, Floating Prisms, Clouds. 2. The \"Immutable\" Container (The Vinyl Stage): The Base: Each diorama is built on top of a Spinning Vinyl Record acting as the circular stage floor. The Plinth: The record sits on a high-end, thick Audiophile Turntable Base (Wood or Brushed Aluminum). The Nameplate (CRITICAL TEXT FIX): On the vertical front face of the Plinth, there is a Polished Brass or Digital Display Plate. Text Rule: It must clearly display the [ARTIST NAME] in bold, legible, capital letters. 3. The Composition (The Sound Made Solid): CRITICAL: Do not just recreate the album cover. Build a world that feels like the music. The Structure: Architecture rises from the grooves of the vinyl record. Example: A wall of amplifiers, a surreal floating prism, a crumbling brick wall, or a forest of microphone stands. The Atmosphere: Use particle effects to visualize the sound waves. Visuals: Floating musical notes made of smoke, vibrating liquid surfaces, or shattered glass suspended in mid-air. The Figures: Tiny 1:87 scale band members performing inside this surreal landscape. 4. Visual Syntax (Per Panel): Panel A: Album 1 (Focus on Surrealism/Scale). Panel B: Album 2 (Focus on Technology/Machinery). Panel C: Album 3 (Focus on Nature/Organic Textures). Panel D: Album 4 (Focus on Light/Color). 5. Lighting & Atmosphere: Concert Lighting: Each box is lit like a stage show. Spotlights, laser beams, and stage haze. Depth: Shallow depth of field (Tilt-Shift) to make the vinyl record look massive. Background: Seamless Slate Grey to keep the focus on the colors. Output: 2x2 Grid, Hyper-Realistic Miniature Set Design, 8k Resolution, \"Audiophile\" Aesthetic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-5888-717-Music-Curation-Audio-Visual-Dioramas-for-Pink-Floyd-Fans.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-5888-718-Music-Curation-Audio-Visual-Dioramas-for-Pink-Floyd-Fans.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,40 +932,21 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11363-179",
-      "title": "Nano Banana 2 General Image Generation Prompt",
-      "prompt": "A sketch of a {argument name=\"subject\" default=\"snow leopard\"} is drawn on a notebook on the table, and the lifelike entity stands on or emerges from the sketch. Centered profile, detailed texture, low-angle shot, close-up, studio lighting, hyper-realistic, 8K --ar 1:1",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11297-179",
+      "title": "Multi-Subject Editorial Fashion Prompt (Sadie Sink, Ana de Armas, Sydney Sweeney)",
+      "prompt": "[ { \"biographical_info\": { \"full_name\": \"{argument name=\"Character 1 Name\" default=\"Sadie Elizabeth Sink\"}\", \"profession\": \"American Actress\", \"birth_year\": 2002, \"notable_works\": [\"Stranger Things (Max Mayfield)\", \"The Whale\", \"All Too Well: The Short Film\"] }, \"visual_analysis\": { \"physical_traits\": { \"hair_style\": \"Long, wavy, natural ginger/red hair\", \"eye_color\": \"Blue\", \"pose\": \"Sitting on floor, finger on lip direct gaze\" }, \"wardrobe_details\": { \"upper_garment\": \"Forest green corset-style top with black lace trim\", \"sleeves\": \"Detachable long black floral lace gloves/sleeves\", \"lower_garment\": \"High-waisted blue and white plaid pleated mini skirt\", \"hosiery\": \"Sheer black tights with small velvet heart patterns\", \"footwear\": \"Classic white pointed-toe stiletto pumps\", \"jewelry\": \"Thin white choker and a silver necklace with a red gemstone pendant\" } }, \"environment_metadata\": { \"location_type\": \"Indoor Studio/Room\", \"color_palette\": [\"Deep Red\", \"Emerald Green\", \"Warm Wood\"], \"background_props\": [ \"Large classical oil painting depicting a romantic couple\", \"Pink neon 'Keor Unreal' sign on the wall\", \"Light oak wooden sideboard/cabinet\", \"Polished hardwood flooring with natural sunlight shadows\" ] } \"biographical_info\": { \"full_name\": \"{argument name=\"Character 2 Name\" default=\"Ana Celia de Armas Caso\"}\", \"profession\": \"Cuban-Spanish Actress\", \"notable_works\": [\"Blonde\", \"No Time to Die\", \"Blade Runner 2049\", \"Knives Out\"] }, \"visual_analysis\": { \"physical_traits\": { \"hair_style\": \"Long, dark brown flowing hair with the center part\", \"eye_color\": \"Green/Hazel\", \"pose\": \"Seated on a white fur stool, reflective expression\" }, \"wardrobe_details\": { \"upper_garment\": \"Royal blue satin corset with black lace overlays\", \"sleeves\": \"Full-length black lace sleeves covering hands\", \"lower_garment\": \"Matching blue plaid schoolgirl-style skirt\", \"hosiery\": \"Denim-blue tinted tights with heart embroidery\", \"footwear\": \"Red strappy high heels worn over black ankle socks\", \"jewelry\": \"Thick blue velvet choker\" } }, \"environment_metadata\": { \"location_type\": \"Modern Minimalist Interior\", \"lighting\": \"Soft natural side-lighting\", \"background_elements\": [ \"Beige/Neutral matte walls\", \"Light-colored wooden floor planks\", \"White fluffy sheepskin-style seating\", \"Clean, uncluttered architectural line's }, \"biographical_info\": { \"full_name\": \"{argument name=\"Character 3 Name\" default=\"Sydney Bernice Sweeney\"}\", \"profession\": \"American Actress & Producer\", \"notable_works\": [\"Euphoria (Cassie Howard)\", \"The White Lotus\", \"Anyone But You\"] }, \"visual_analysis\": { \"physi",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11363-179-Nano-Banana-2-General-Image-Generation-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11297-179-Multi-Subject-Editorial-Fashion-Prompt-Sadie-Sink-Ana-de-Armas-Sydney-Sweeney.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-31155-180",
-      "title": "Glacial Ice Warrior Facial Transformation",
-      "prompt": "Use my uploaded photo as the EXACT facial identity reference. Preserve my real identity with extremely high accuracy. Keep my facial structure, face shape, forehead, eyes, eyebrows, nose, lips, jawline, cheekbones, beard/facial hair, skin texture, and natural proportions recognizable and consistent with my reference photo. Transform me into an ultra-realistic {argument name=\"warrior style\" default=\"ancient glacial ice warrior\"}, inspired by a terrifying supernatural frozen king. Do NOT replace my face with another person's face. My face must remain clearly recognizable as me. COMPOSITION: Create a dramatic cinematic vertical 4:5 portrait. Head-and-shoulders framing, centered composition, facing directly toward the camera. The camera is positioned at eye level with a slightly intimidating perspective. Strong symmetrical facial composition. My expression is cold, powerful, intimidating and emotionless, with an intense supernatural stare. GLACIAL TRANSFORMATION: My skin appears extremely pale, frozen and slightly translucent, as if my entire body has been exposed to centuries of supernatural winter. Preserve realistic human skin anatomy underneath the transformation. Cover parts of my face with naturally formed translucent white-blue ice. Create intricate frozen textures around the forehead, temples, cheekbones, eyebrows, beard and jaw. The ice should look physically attached to my skin, with realistic thickness, transparency, frost crystals, tiny cracks and subtle internal depth. Do not completely cover my face. My facial identity must remain visible and recognizable. EYES: Make my eyes extremely striking and supernatural while retaining the original shape and proportions of my eyes. One eye can have an icy electric-blue glow while the other has a subtle pale amber/orange supernatural glow. The glow must be realistic and integrated into the eyes, not cartoonish. HAIR: Transform my real hairstyle into long, thick, windswept frozen hair while preserving the general character of my original hair. Hair should appear naturally coated with frost and tiny ice crystals. Individual strands must remain highly detailed and photorealistic. FACIAL ICE: Add dramatic frozen formations around portions of the forehead, cheekbones and jaw. Create thin translucent ice sheets, frost patterns and delicate icicles extending naturally from the beard/jaw area. MOUTH / LOWER FACE: Create a dark supernatural frozen respirator-like ice formation over the lower mouth and chin area, constructed entirely from translucent white and blue ice. It should feel organically grown from the frozen environment rather than like a manufactured mask. Keep enough of my facial structure visible to maintain my identity. CLOTHING: Transform my clothing into a dark ancient winter-warrior outfit covered with layers of frost and translucent ice. Add realistic frozen fabric, icy armor-like textures and subtle crystalline details around the shoulders and neck. ENVIRONMENT: Place me in a mass",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-31155-180-Glacial-Ice-Warrior-Facial-Transformation.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Profile / Avatar"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
       "license": "upstream",
       "createdAt": null
     }

@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-26480-412",
+      "title": "Monochrome Avant-Garde Fashion Portrait",
+      "prompt": "Ultra-realistic monochrome editorial portrait of {argument name=\"subject\" default=\"Arthur Ferreira\"}, preserving exact facial identity, natural skin texture, dark short curly hair with volume, thick eyebrows with slit on right eyebrow, centered close-up composition, wearing futuristic premium {argument name=\"eyewear\" default=\"reflective sports visor sunglasses\"}, oversized avant-garde {argument name=\"outfit\" default=\"black fashion garment\"} with structured collar, white minimalist studio background, dramatic high contrast lighting, sharp facial details, shallow depth of field, subtle vignette, luxury Nike campaign aesthetic, premium fashion editorial style, hyper realistic skin texture, cinematic monochrome tones, ultra detailed 8k",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-26480-412-Monochrome-Avant-Garde-Fashion-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Product Marketing"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:ym-ai-skill-game-asset-10918-365",
       "title": "X-Treme 90s PlayStation Game Case",
       "prompt": "PlayStation game case that's so full of \"X-Treme\" 90s marketing that you can't tell what the actual game is about",
@@ -20,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10054-594",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10054-595",
       "title": "Samurai Sniper Dynamic Battle Scene Prompt",
       "prompt": "Masterpiece quality, theatrical anime-scale dynamic battle scene. A samurai character is the main subject (preserving a traditional samurai feel, optionally blended with subtle modern gear elements). Prone firing pose (low-profile/propped close to the roof surface), body flattened to the tiles, elbows braced for stability. Cheek pressed to the stock while peering through the scope, one eye narrowed, an intense focused stare and clenched teeth conveying tension and determination. Composition and angle: the camera is placed almost on the roof tiles—an extreme ground-level ultra low-angle. Wide-angle lens with exaggerated perspective and strong depth. A diagonal composition: the sniper rifle runs from the extreme lower foreground into the midground, leading the viewer’s eye directly to the samurai’s gaze. The muzzle and muzzle flash dominate the extreme foreground, appearing oversized and close enough to “break the screen,” while the face (especially the eyes) stays crisp and sharp. Action: captured at the exact instant of firing. A large, stylized muzzle flash erupts in the foreground; sparks, glowing embers, and thin smoke burst outward. Ejected brass and scattered casings on the tiles reinforce the sense of ongoing fire. A faint luminous streak suggests the bullet’s path slicing through the night air. Subtle recoil pushes the rifle and shoulder back; dynamic motion blur on the weapon and sleeves, while the eyes and brow remain tack-sharp. The scope glass reflects a cold blue-green sheen; metal surfaces show finely detailed reflections and crisp edge highlights. Setting: the rooftop of a white Japanese castle keep (white plaster walls), under a clear night sky. Clean moonlight creates strong rim lighting along roof ridges and the samurai’s silhouette. Traditional roof features—curved ceramic tiles, ridge lines, gables, and shachihoko ornaments—read clearly in silhouette and detail. The firing shock and weight shift chip and crack tiles; fragments and dust jump up and arc toward the camera. High-contrast cinematic lighting with a dramatic warm–cool split: warm muzzle flash versus cool moonlight. Filmic particles (dust, embers) in the air. Vertical cinematic poster composition, 9:16 aspect ratio, no text.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10054-594-Samurai-Sniper-Dynamic-Battle-Scene-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10054-595-Samurai-Sniper-Dynamic-Battle-Scene-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11793-142",
-      "title": "Universal Random Punk Scene Generator for Nano Banana Pro",
-      "prompt": "Universal Random Punk Scene Generator 1. PUNK_STYLE = [{argument name=\"punk style\" default=\"Choose one punk aesthetic. If left blank, one style will be automatically selected at random from LIST_OF_PUNK_STYLES.\"}] 2. LIST_OF_PUNK_STYLES = [Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk] 3. SUBSTYLE = • If a specific SUBSTYLE is provided → use it exactly as written. • If SUBSTYLE is set to **none** → do not apply a substyle layer. • If SUBSTYLE is left **blank** → automatically infer a logical SUBSTYLE based on the chosen PUNK_STYLE. 4. TECHNOLOGY_LEVEL = • If a specific TECHNOLOGY_LEVEL is provided → use it exactly as written. • If TECHNOLOGY_LEVEL is set to **none** → do not apply a technology modifier. • If TECHNOLOGY_LEVEL is left **blank** → automatically infer an appropriate technology level based on the chosen PUNK_STYLE. 5. ENVIRONMENT = • If a specific ENVIRONMENT is provided → use it exactly as written. • If ENVIRONMENT is set to **none** → do not apply an environmental modifier. • If ENVIRONMENT is left **blank** → automatically infer a logical environment based on the other active layers. 6. CULTURE = • If a specific CULTURE is provided → use it exactly as written. • If CULTURE is set to **none** → do not apply a cultural modifier. • If CULTURE is left **blank** → automatically infer a cultural framework appropriate to the world. 7. ROOM_OR_SETTING = [{argument name=\"room or setting\" default=\"IF BLANK: Generate a compelling location consistent with the active world layers.\"}] 8. LIST_OF_OBJECTS = [IF BLANK: Infer 4–6 logical objects belonging to the environment.] 9. CAMERA_FRAMEWORK = [IF BLANK: Infer the best cinematic framing for the environment.] 10. LIGHTING_FRAMEWORK = [IF BLANK: Infer lighting derived from the technology and environment.] 11. MATERIAL_SYSTEM = [IF BLANK: Infer dominant materials and structural systems derived from the style layers.] --- ### STYLE SELECTION DIRECTIVE If **PUNK_STYLE is left blank**, randomly select **one style from LIST_OF_PUNK_STYLES** and apply it as the active world aesthetic. All subsequent inference systems must use the chosen PUNK_STYLE. --- ### WORLD INTERPRETER ENGINE Analyze all active layers: PUNK_STYLE * optional SUBSTYLE * optional TECHNOLOGY_LEVEL * optional ENVIRONMENT * optional CULTURE From these layers infer: • dominant materials • architectural forms • infrastructure systems • lig",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11828-142",
+      "title": "Neon Wireframe 3D Prompt Template",
+      "prompt": "Title: Neon Wireframe 3D Replace the element in brackets [ ] and create your own image!",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11793-142-Universal-Random-Punk-Scene-Generator-for-Nano-Banana-Pro.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11828-142-Neon-Wireframe-3D-Prompt-Template.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22263-197",
-      "title": "Yoshiwara Hall Fire Scene",
-      "prompt": "A scene of {argument name=\"location\" default=\"Yoshiwara Hall\"} on fire with {argument name=\"effects\" default=\"firecrackers and rocket fireworks\"} flying around.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22266-196",
+      "title": "Cyberpunk Horror Mashup",
+      "prompt": "{argument name=\"style\" default=\"Cyberpunk\"} {argument name=\"building\" default=\"Cruising Tower\"} {argument name=\"location\" default=\"Clock Tower\"} Haunted Mansion Resident Evil Splatterhouse",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22263-197-Yoshiwara-Hall-Fire-Scene.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22266-196-Cyberpunk-Horror-Mashup.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10057-595",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10057-596",
       "title": "Samurai Sniper Extreme Low-Angle Prompt",
       "prompt": "Masterpiece quality, theatrical anime-scale dynamic battle scene. A samurai character is the main subject. Extreme ground-level low-angle viewpoint with a wide-angle lens and exaggerated depth. Bold framing with the sniper rifle’s barrel and muzzle dominating the foreground, thrusting toward the viewer, while the samurai’s razor-sharp gaze anchors the back of the composition. Captured at the exact instant of firing. Cheek pressed to the stock, eye locked through the scope, teeth clenched in determination. A blinding muzzle flash blooms; sparks and fine embers scatter forward. A streak suggesting the bullet’s path slices through the night air, while the shock kicks up dust and tiny fragments of roof tile. Subtle recoil pushes the rifle and shoulder back; cloth and hair lag behind with dynamic motion blur. The scope glass catches a cold blue-green reflection, and the rifle’s metal surfaces show finely detailed reflections and crisp edge highlights. Setting: the rooftop of a white Japanese castle keep (white plaster walls), high above the grounds. Clear night sky with crisp air; moonlight creates strong rim lighting along roof ridges and the samurai’s silhouette. Shachihoko ornaments, gables, white walls, and wooden structures read clearly in silhouette and detail. The impact and movement crack roof tiles; broken pieces skitter and tumble. In the distance, quiet castle-town lights glow, with a few thin clouds drifting slowly across the sky. High-contrast dramatic lighting, cinematic contrast between warm foreground flash and cool moonlight. Filmic particles (dust, sparks) in the air. Vertical cinematic poster composition, 9:16 aspect ratio, no text.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10057-595-Samurai-Sniper-Extreme-Low-Angle-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10057-596-Samurai-Sniper-Extreme-Low-Angle-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11821-143",
-      "title": "Cinematic Portrait of Ancient Turkic Woman and Horse in Snow",
-      "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"historical_turkic_woman_horse_portrait\", \"language\": \"en\", \"priority\": \"highest\", \"version\": \"v1.0_SNOW_TURKIC_WOMAN_HORSE_BOND\" }, \"input\": { \"mode\": \"text_to_image\", \"notes\": \"Create a cinematic intimate portrait of a beautiful ancient Turkic woman standing close to her horse in a snowy landscape, sharing a quiet spiritual bond.\" }, \"output_settings\": { \"aspect_ratio\": \"4:5\", \"orientation\": \"portrait\", \"resolution_target\": \"ultra_high_res\", \"num_images\": 1, \"render_style\": \"cinematic_historical_realism\", \"sharpness\": \"editorial_crisp\", \"grain\": \"subtle_film\", \"color_grade\": \"cold_natural_cinematic\", \"dynamic_range\": \"natural_not_hdr\", \"skin_rendering\": \"real_texture_no_retouch\" }, \"scene\": { \"environment\": \"snow-covered open steppe or mountain plain, soft winter haze, quiet white landscape, light snowfall in the air\", \"lighting\": \"soft overcast winter daylight, delicate highlights on skin, hair, leather, and horse fur, realistic cold atmosphere\", \"mood\": \"ancestral, tender, spiritual, noble, calm, unforgettable\" }, \"subject\": { \"description\": \"one beautiful ancient Turkic woman with a calm powerful presence\", \"skin\": \"natural realistic skin texture with soft winter tone\", \"hair\": \"long dark hair with old Turkic inspired braids, small beads and thread details woven into sections\", \"makeup\": \"historically inspired subtle beauty styling, softly defined eyes with earth-charcoal tones, natural skin, muted lips, no modern glam finish\", \"nails\": \"short natural nails appropriate for a historical old Turkic woman, no modern manicure\", \"expression\": \"eyes gently closed or softly lowered, peaceful, strong, deeply connected to the horse\" }, \"wardrobe\": { \"outfit\": \"ancient Turkic winter attire with layered leather and wool garments, dark earth-toned shoulder armor, fur accents, practical yet noble nomadic clothing\", \"materials\": \"aged leather, wool, felt, fur, braided cords, weathered metal details\", \"styling\": \"authentic Central Asian steppe aesthetic, not fantasy cosplay, not medieval European\" }, \"horse\": { \"type\": \"strong dark horse with a broad face and white blaze markings\", \"tack\": \"historically inspired decorated bridle with metal ornaments and weathered leather straps\", \"anatomy\": \"realistic horse anatomy, calm noble temperament, winter coat detail\" }, \"composition\": { \"pose\": \"woman standing very close to the horse, forehead or face near the horse’s face, one hand gently holding the bridle and the other resting against the horse, intimate and protective posture\", \"framing\": \"medium portrait with the horse’s head dominant in frame and the woman in side",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11793-143",
+      "title": "Universal Random Punk Scene Generator for Nano Banana Pro",
+      "prompt": "Universal Random Punk Scene Generator 1. PUNK_STYLE = [{argument name=\"punk style\" default=\"Choose one punk aesthetic. If left blank, one style will be automatically selected at random from LIST_OF_PUNK_STYLES.\"}] 2. LIST_OF_PUNK_STYLES = [Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk] 3. SUBSTYLE = • If a specific SUBSTYLE is provided → use it exactly as written. • If SUBSTYLE is set to **none** → do not apply a substyle layer. • If SUBSTYLE is left **blank** → automatically infer a logical SUBSTYLE based on the chosen PUNK_STYLE. 4. TECHNOLOGY_LEVEL = • If a specific TECHNOLOGY_LEVEL is provided → use it exactly as written. • If TECHNOLOGY_LEVEL is set to **none** → do not apply a technology modifier. • If TECHNOLOGY_LEVEL is left **blank** → automatically infer an appropriate technology level based on the chosen PUNK_STYLE. 5. ENVIRONMENT = • If a specific ENVIRONMENT is provided → use it exactly as written. • If ENVIRONMENT is set to **none** → do not apply an environmental modifier. • If ENVIRONMENT is left **blank** → automatically infer a logical environment based on the other active layers. 6. CULTURE = • If a specific CULTURE is provided → use it exactly as written. • If CULTURE is set to **none** → do not apply a cultural modifier. • If CULTURE is left **blank** → automatically infer a cultural framework appropriate to the world. 7. ROOM_OR_SETTING = [{argument name=\"room or setting\" default=\"IF BLANK: Generate a compelling location consistent with the active world layers.\"}] 8. LIST_OF_OBJECTS = [IF BLANK: Infer 4–6 logical objects belonging to the environment.] 9. CAMERA_FRAMEWORK = [IF BLANK: Infer the best cinematic framing for the environment.] 10. LIGHTING_FRAMEWORK = [IF BLANK: Infer lighting derived from the technology and environment.] 11. MATERIAL_SYSTEM = [IF BLANK: Infer dominant materials and structural systems derived from the style layers.] --- ### STYLE SELECTION DIRECTIVE If **PUNK_STYLE is left blank**, randomly select **one style from LIST_OF_PUNK_STYLES** and apply it as the active world aesthetic. All subsequent inference systems must use the chosen PUNK_STYLE. --- ### WORLD INTERPRETER ENGINE Analyze all active layers: PUNK_STYLE * optional SUBSTYLE * optional TECHNOLOGY_LEVEL * optional ENVIRONMENT * optional CULTURE From these layers infer: • dominant materials • architectural forms • infrastructure systems • lig",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11821-143-Cinematic-Portrait-of-Ancient-Turkic-Woman-and-Horse-in-Snow.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11793-143-Universal-Random-Punk-Scene-Generator-for-Nano-Banana-Pro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22240-198",
-      "title": "Vogue Fashion Illustration Sketch",
-      "prompt": "Turn this photo into a {argument name=\"style\" default=\"Vogue-style fashion illustration\"}, preserving identity and facial features. Minimalist hand-drawn fashion sketch with elegant elongated proportions, bold black ink contours, loose confident linework, flat marker colors, abstract blush accents, graphic lips, stylized eyes, expressive ink hair, and simplified geometric clothing. Clean white background, scanned paper texture, modern luxury editorial fashion illustration",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22263-198",
+      "title": "Yoshiwara Hall Fire Scene",
+      "prompt": "A scene of {argument name=\"location\" default=\"Yoshiwara Hall\"} on fire with {argument name=\"effects\" default=\"firecrackers and rocket fireworks\"} flying around.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22240-198-Vogue-Fashion-Illustration-Sketch.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22263-198-Yoshiwara-Hall-Fire-Scene.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10060-596",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10060-597",
       "title": "Kusarigama Warrior Dynamic Battle Scene Prompt",
       "prompt": "Masterpiece quality, theatrical anime-scale dynamic battle scene. A Japanese-style warrior is the main subject. Intense low-angle perspective with exaggerated depth; extreme perspective and bold framing with the weapon thrusting forward as if breaking through the screen. Weapon: a kusarigama. The sickle blade gleams sharply; the chain whips in a wide arc, and the weighted end rushes toward the camera with heavy motion blur. Captured at the exact instant of launching the attack—piercing gaze, taut determined expression. The chain’s movement slices the air, leaving a pale platinum spark-like luminous trail as an afterimage. Setting: a collapsing old shrine deep in the mountains at night. Wet stone steps, a fallen torii gate, cracked stone lanterns. The impact shatters the stone pavement; fragments and splashing water burst upward. Violent wind sends talismans and paper scraps swirling; clothing and hair whip wildly. High-contrast dramatic lighting: cold moonlight crossing with warm red lantern light, deep shadows. Background filled with thick mist and dark storm clouds, tree branches bending and flying in the gale. Wide-angle lens, dynamic motion blur, cinematic. Vertical cinematic poster composition, 9:16 aspect ratio, no text.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10060-596-Kusarigama-Warrior-Dynamic-Battle-Scene-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10060-597-Kusarigama-Warrior-Dynamic-Battle-Scene-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,16 +362,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11814-144",
-      "title": "Fisheye Perspective of a Fish and Seagull",
-      "prompt": "Fisheye lens photo captured from the perspective of the fish that's about to be eaten by a [seagull] (varies seegull)",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11821-144",
+      "title": "Cinematic Portrait of Ancient Turkic Woman and Horse in Snow",
+      "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"historical_turkic_woman_horse_portrait\", \"language\": \"en\", \"priority\": \"highest\", \"version\": \"v1.0_SNOW_TURKIC_WOMAN_HORSE_BOND\" }, \"input\": { \"mode\": \"text_to_image\", \"notes\": \"Create a cinematic intimate portrait of a beautiful ancient Turkic woman standing close to her horse in a snowy landscape, sharing a quiet spiritual bond.\" }, \"output_settings\": { \"aspect_ratio\": \"4:5\", \"orientation\": \"portrait\", \"resolution_target\": \"ultra_high_res\", \"num_images\": 1, \"render_style\": \"cinematic_historical_realism\", \"sharpness\": \"editorial_crisp\", \"grain\": \"subtle_film\", \"color_grade\": \"cold_natural_cinematic\", \"dynamic_range\": \"natural_not_hdr\", \"skin_rendering\": \"real_texture_no_retouch\" }, \"scene\": { \"environment\": \"snow-covered open steppe or mountain plain, soft winter haze, quiet white landscape, light snowfall in the air\", \"lighting\": \"soft overcast winter daylight, delicate highlights on skin, hair, leather, and horse fur, realistic cold atmosphere\", \"mood\": \"ancestral, tender, spiritual, noble, calm, unforgettable\" }, \"subject\": { \"description\": \"one beautiful ancient Turkic woman with a calm powerful presence\", \"skin\": \"natural realistic skin texture with soft winter tone\", \"hair\": \"long dark hair with old Turkic inspired braids, small beads and thread details woven into sections\", \"makeup\": \"historically inspired subtle beauty styling, softly defined eyes with earth-charcoal tones, natural skin, muted lips, no modern glam finish\", \"nails\": \"short natural nails appropriate for a historical old Turkic woman, no modern manicure\", \"expression\": \"eyes gently closed or softly lowered, peaceful, strong, deeply connected to the horse\" }, \"wardrobe\": { \"outfit\": \"ancient Turkic winter attire with layered leather and wool garments, dark earth-toned shoulder armor, fur accents, practical yet noble nomadic clothing\", \"materials\": \"aged leather, wool, felt, fur, braided cords, weathered metal details\", \"styling\": \"authentic Central Asian steppe aesthetic, not fantasy cosplay, not medieval European\" }, \"horse\": { \"type\": \"strong dark horse with a broad face and white blaze markings\", \"tack\": \"historically inspired decorated bridle with metal ornaments and weathered leather straps\", \"anatomy\": \"realistic horse anatomy, calm noble temperament, winter coat detail\" }, \"composition\": { \"pose\": \"woman standing very close to the horse, forehead or face near the horse’s face, one hand gently holding the bridle and the other resting against the horse, intimate and protective posture\", \"framing\": \"medium portrait with the horse’s head dominant in frame and the woman in side",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11814-144-Fisheye-Perspective-of-a-Fish-and-Seagull.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11821-144-Cinematic-Portrait-of-Ancient-Turkic-Woman-and-Horse-in-Snow.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -419,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22050-202",
-      "title": "Martian Astronaut and Alien Exchange",
-      "prompt": "A girl in a fully closed modern white spacesuit with a tinted visor stands on the surface of Mars. Red-orange rocky desert, dusty pinkish sky. Opposite her stands a tall humanoid {argument name=\"alien description\" default=\"alien with pale pink semi-transparent skin, an elongated skull, large black almond-shaped eyes, and a graceful slender body\"} in a tight-fitting bio-organic suit of silvery-pearl color. Realistic detailed anatomy. The girl is handing him an {argument name=\"human item\" default=\"iPhone in a pink case\"}. The alien is handing her a {argument name=\"alien item\" default=\"crystal vial glowing from within, containing a shimmering blue substance\"}. The moment of exchange. Both are looking at each other with cautious curiosity. In the background: a landing module and a strange organic alien ship, a setting Martian sun, long shadows, dust in the air, cinematic epic lighting, 8k, photorealism.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22240-199",
+      "title": "Vogue Fashion Illustration Sketch",
+      "prompt": "Turn this photo into a {argument name=\"style\" default=\"Vogue-style fashion illustration\"}, preserving identity and facial features. Minimalist hand-drawn fashion sketch with elegant elongated proportions, bold black ink contours, loose confident linework, flat marker colors, abstract blush accents, graphic lips, stylized eyes, expressive ink hair, and simplified geometric clothing. Clean white background, scanned paper texture, modern luxury editorial fashion illustration",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22050-202-Martian-Astronaut-and-Alien-Exchange.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22240-199-Vogue-Fashion-Illustration-Sketch.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10062-597",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-10062-598",
       "title": "Samurai Swordsman Dynamic Battle Scene Prompt",
       "prompt": "Masterpiece quality, theatrical animation-scale dynamic battle scene, Japanese-style swordsman (samurai) character, intense low-angle perspective with exaggerated depth, bold framing where the blade thrusts forward as if piercing through the screen. Captured in the exact moment of unleashing a powerful slash, sharp gaze and teeth clenched in determination. As he steps forward, the ground shatters beneath him and the rocky surface cracks from the impact. Standing along a mountain ridge, violent winds spiral around him, haori and hair whipping like a raging storm. A single cutting arc slices through the air, leaving a blue-white luminous trail as an afterimage. The pressure of the strike sends surrounding dust and debris flying in sweeping arcs. Wide-angle perspective emphasizing depth, dynamic motion blur conveying speed, high-contrast dramatic lighting creating intense tension. Background: desolate rocky mountains beneath a sky covered in heavy clouds, layered clouds streaming rapidly in the wind. The katana features finely detailed metallic reflections and a clearly defined hamon shimmering along the blade. Vertical cinematic poster composition, 9:16 aspect ratio, no text.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10062-597-Samurai-Swordsman-Dynamic-Battle-Scene-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-10062-598-Samurai-Swordsman-Dynamic-Battle-Scene-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11810-145",
-      "title": "Fisheye Perspective of a Mouse and Owl",
-      "prompt": "Fisheye lens photo captured from the perspective of a mouse that's about to be captured by an owl",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11814-145",
+      "title": "Fisheye Perspective of a Fish and Seagull",
+      "prompt": "Fisheye lens photo captured from the perspective of the fish that's about to be eaten by a [seagull] (varies seegull)",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11810-145-Fisheye-Perspective-of-a-Mouse-and-Owl.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11814-145-Fisheye-Perspective-of-a-Fish-and-Seagull.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,12 +590,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22069-203",
-      "title": "Cosmic Space Opera Dark Emperor",
-      "prompt": "Cinematic space opera realism, masterpiece quality. Camera Position: high overhead bird's-eye angle, slightly tilted | Framing: looking down at the emperor and throne from above, the black hole opening directly beneath/behind the throne into infinite darkness, planetary destruction radiating outward in a circular composition. Subject: A dark emperor seated on a colossal floating throne, viewed from a high overhead angle that emphasizes his solitude and dominance against the incomprehensible scale of the black hole below. The throne floats at the exact tipping point of the event horizon — a tiny figure in absolute command of cosmic destruction. Clothing: black robes spread dramatically outward from the throne seat, dissolving into dark smoke that curls into the gravitational pull below. The robe dissolution creates a visual wing-like silhouette when seen from above, giving the emperor a dark angelic geometry. Crown: the crown's golden light projects upward toward the camera, blazing directly at the viewer — a concentrated point of warm radiance against the darkness. Throne: the massive obsidian throne becomes a centerpiece in the circular composition, its edges catching accretion disk amber light, casting long shadows outward in all directions. Background: radiating outward from the throne in a circle: shattered planets at various stages of destruction — some still partially intact with visible surface geography and cloud cover, others reduced to orbiting fragments and glowing magma trails. The black hole's accretion disk forms an enormous ring of fire that fills the extreme background, gravitational lensing creating concentric arcs of bent starlight around the void. The depth of the black hole stretches downward into absolute darkness below the throne. Primary Light: accretion disk light radiating inward from all sides — warm amber-gold casting circular light patterns on the throne and robe spread. Secondary Light: crown's golden upward blaze creating a spotlight-like cone toward the viewer. Ambient: cold blue-white starlight and gravitational lens arcs creating fine rim highlights on planet fragments. Color Grade: radial color — warm gold and amber at the edges from the accretion disk, deep cold black at the void center | crown warm gold beacon | robe smoke dark violet-black. Textures: detailed planetary surface geography on planet fragments, hyper-detailed robe fabric spread, rough throne stone surface with glinting mineral inclusions. Vibes: 2001 A Space Odyssey meets Avengers Endgame portal scene meets Lovecraftian cosmic scale — overwhelming, circular, mythological.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22050-203",
+      "title": "Martian Astronaut and Alien Exchange",
+      "prompt": "A girl in a fully closed modern white spacesuit with a tinted visor stands on the surface of Mars. Red-orange rocky desert, dusty pinkish sky. Opposite her stands a tall humanoid {argument name=\"alien description\" default=\"alien with pale pink semi-transparent skin, an elongated skull, large black almond-shaped eyes, and a graceful slender body\"} in a tight-fitting bio-organic suit of silvery-pearl color. Realistic detailed anatomy. The girl is handing him an {argument name=\"human item\" default=\"iPhone in a pink case\"}. The alien is handing her a {argument name=\"alien item\" default=\"crystal vial glowing from within, containing a shimmering blue substance\"}. The moment of exchange. Both are looking at each other with cautious curiosity. In the background: a landing module and a strange organic alien ship, a setting Martian sun, long shadows, dust in the air, cinematic epic lighting, 8k, photorealism.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22069-203-Cosmic-Space-Opera-Dark-Emperor.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22050-203-Martian-Astronaut-and-Alien-Exchange.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -628,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-9921-598",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-9921-599",
       "title": "Idol Poster/Banner Generation Template",
       "prompt": "poster of {argument name=\"personality\" default=\"PERSONALITY\"}| standing on hill |centered| key visual| intricate| highly detailed| breathtaking| precise lineart| vibrant| panoramic| cinematic| Carne Griffiths| Conrad Roset",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-9921-598-Idol-Poster-Banner-Generation-Template.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-9921-599-Idol-Poster-Banner-Generation-Template.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,16 +666,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11822-146",
-      "title": "Cinematic Portrait of Old Turkic Noblewoman on Black Horse (Image-to-Image)",
-      "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"historical_turkic_warrior_woman_portrait\", \"language\": \"en\", \"priority\": \"highest\", \"version\": \"v1.0_OLD_TURKIC_BLACK_HORSE_FACE_LOCK\" }, \"input\": { \"mode\": \"image_to_image\", \"reference_image_usage\": \"maximum\", \"preserve_identity\": true, \"preserve_facial_features\": true, \"notes\": \"Create a powerful cinematic portrait of a beautiful old Turkic noblewoman mounted on a black horse. The uploaded woman must remain the exact same person with maximum facial similarity. Keep the exact same face shape, eyes, eyebrows, nose, lips, jawline, chin, skin tone, and facial harmony. Do not turn her into a different girl. Adapt only the styling into an old Turkic steppe aesthetic with historically inspired beauty details.\" }, \"output_settings\": { \"aspect_ratio\": \"4:5\", \"orientation\": \"portrait\", \"resolution_target\": \"ultra_high_res\", \"num_images\": 1, \"render_style\": \"cinematic_historical_editorial\", \"sharpness\": \"editorial_crisp\", \"grain\": \"subtle_film\", \"color_grade\": \"rich_natural_cinematic\", \"dynamic_range\": \"natural_not_hdr\", \"skin_rendering\": \"real_texture_no_retouch\" }, \"scene\": { \"environment\": \"open steppe landscape with distant mountains and expansive sky, historical Turkic nomadic atmosphere\", \"horse\": \"majestic black horse with strong elegant build, dark mane, historically styled saddle and reins\", \"lighting\": \"soft natural daylight with noble cinematic highlights on face, fur, metal ornaments, and horse\", \"mood\": \"strong, regal, ancestral, feminine, magnetic, unforgettable\" }, \"subject\": { \"description\": \"one striking old Turkic noblewoman, mounted on a black horse, elegant and powerful\", \"identity_rule\": \"the woman must remain the exact same person as the uploaded face reference\", \"face\": \"exact same face, same eye shape, same eyebrow shape, same nose bridge and nose tip, same lip shape, same chin, same jawline, same cheek structure, same skin tone, same facial proportions\", \"hair\": \"dark long hair styled in old Turkic inspired braids and sections, neat but slightly windswept, historically elegant and feminine\", \"makeup\": \"beauty styling inspired by old Turkic women, refined and natural, softly defined eyes, subtle earth-toned contour, naturally tinted lips, no modern glam exaggeration\", \"nails\": \"clean natural nails or softly groomed short nails appropriate for a historical old Turkic noblewoman, no modern acrylic look, no flashy modern manicure\", \"expression\": \"calm, strong, captivating, proud, quietly commanding\" }, \"wardrobe\": { \"outfit\": \"luxurious old Turkic noblewoman attire with dark layered fabric, rich fur trim, fitted waist, structured historical silhouette, elegant nomadic warri",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11810-146",
+      "title": "Fisheye Perspective of a Mouse and Owl",
+      "prompt": "Fisheye lens photo captured from the perspective of a mouse that's about to be captured by an owl",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11822-146-Cinematic-Portrait-of-Old-Turkic-Noblewoman-on-Black-Horse-Image-to-Image.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11810-146-Fisheye-Perspective-of-a-Mouse-and-Owl.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -723,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22067-204",
-      "title": "Aero & Chic Minimalist Character Sketch",
-      "prompt": "A minimalist character portrait sketch sheet in a clean, \"{argument name=\"style\" default=\"Aero & Chic\"}\" style. The artwork features two characters—a profile view of a woman with medium-length dark hair and a front-facing view of a man with neat parted dark hair—both wearing round wire-rim glasses, cozy textured knit sweaters, and holding a warm mug of coffee. The art uses precise, delicate line work paired with a soft watercolor wash and a nostalgic aesthetic. Each portrait includes isolated close-up detail boxes for the sweater texture, the eyewear, and the hands holding the mug. The design is presented on a clean background with a muted color palette breakdown (incorporating earth tones like sage green, denim blue, warm wood browns, and cream beiges) alongside a \"Style Notes\" description box, capturing a calm, modern minimalist vibe.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22069-204",
+      "title": "Cosmic Space Opera Dark Emperor",
+      "prompt": "Cinematic space opera realism, masterpiece quality. Camera Position: high overhead bird's-eye angle, slightly tilted | Framing: looking down at the emperor and throne from above, the black hole opening directly beneath/behind the throne into infinite darkness, planetary destruction radiating outward in a circular composition. Subject: A dark emperor seated on a colossal floating throne, viewed from a high overhead angle that emphasizes his solitude and dominance against the incomprehensible scale of the black hole below. The throne floats at the exact tipping point of the event horizon — a tiny figure in absolute command of cosmic destruction. Clothing: black robes spread dramatically outward from the throne seat, dissolving into dark smoke that curls into the gravitational pull below. The robe dissolution creates a visual wing-like silhouette when seen from above, giving the emperor a dark angelic geometry. Crown: the crown's golden light projects upward toward the camera, blazing directly at the viewer — a concentrated point of warm radiance against the darkness. Throne: the massive obsidian throne becomes a centerpiece in the circular composition, its edges catching accretion disk amber light, casting long shadows outward in all directions. Background: radiating outward from the throne in a circle: shattered planets at various stages of destruction — some still partially intact with visible surface geography and cloud cover, others reduced to orbiting fragments and glowing magma trails. The black hole's accretion disk forms an enormous ring of fire that fills the extreme background, gravitational lensing creating concentric arcs of bent starlight around the void. The depth of the black hole stretches downward into absolute darkness below the throne. Primary Light: accretion disk light radiating inward from all sides — warm amber-gold casting circular light patterns on the throne and robe spread. Secondary Light: crown's golden upward blaze creating a spotlight-like cone toward the viewer. Ambient: cold blue-white starlight and gravitational lens arcs creating fine rim highlights on planet fragments. Color Grade: radial color — warm gold and amber at the edges from the accretion disk, deep cold black at the void center | crown warm gold beacon | robe smoke dark violet-black. Textures: detailed planetary surface geography on planet fragments, hyper-detailed robe fabric spread, rough throne stone surface with glinting mineral inclusions. Vibes: 2001 A Space Odyssey meets Avengers Endgame portal scene meets Lovecraftian cosmic scale — overwhelming, circular, mythological.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22067-204-Aero-Chic-Minimalist-Character-Sketch.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22069-204-Cosmic-Space-Opera-Dark-Emperor.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,12 +799,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-9614-605",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-9614-606",
       "title": "Digital Painterly Portrait with Street Art Feel",
       "prompt": "A bold, high contrast digital portrait of a young man in side profile, facing left. The style is expressive and painterly, with dynamic brush strokes and paint splashes flowing from the head and shoulders, creating a sense of motion and energy. Strong black shadows define the face, with sharp highlights for depth and drama. The background is a solid vibrant {argument name=\"background color\" default=\"yellow\"}, minimal and striking. Accents of deep blue and black paint strokes wrap around the subject, giving a modern street art and sports poster feel. Cinematic lighting, high detail, gritty texture, confident and focused expression, contemporary illustration style, ultra sharp, poster quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-9614-605-Digital-Painterly-Portrait-with-Street-Art-Feel.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-9614-606-Digital-Painterly-Portrait-with-Street-Art-Feel.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,16 +818,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11791-147",
-      "title": "Fisheye Perspective of a Fish",
-      "prompt": "Fisheye lens photo captured from the perspective of the fish that's about to be eaten by a seagull",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11822-147",
+      "title": "Cinematic Portrait of Old Turkic Noblewoman on Black Horse (Image-to-Image)",
+      "prompt": "{ \"generation_request\": { \"meta_data\": { \"tool\": \"NanoBanana Pro\", \"task_type\": \"historical_turkic_warrior_woman_portrait\", \"language\": \"en\", \"priority\": \"highest\", \"version\": \"v1.0_OLD_TURKIC_BLACK_HORSE_FACE_LOCK\" }, \"input\": { \"mode\": \"image_to_image\", \"reference_image_usage\": \"maximum\", \"preserve_identity\": true, \"preserve_facial_features\": true, \"notes\": \"Create a powerful cinematic portrait of a beautiful old Turkic noblewoman mounted on a black horse. The uploaded woman must remain the exact same person with maximum facial similarity. Keep the exact same face shape, eyes, eyebrows, nose, lips, jawline, chin, skin tone, and facial harmony. Do not turn her into a different girl. Adapt only the styling into an old Turkic steppe aesthetic with historically inspired beauty details.\" }, \"output_settings\": { \"aspect_ratio\": \"4:5\", \"orientation\": \"portrait\", \"resolution_target\": \"ultra_high_res\", \"num_images\": 1, \"render_style\": \"cinematic_historical_editorial\", \"sharpness\": \"editorial_crisp\", \"grain\": \"subtle_film\", \"color_grade\": \"rich_natural_cinematic\", \"dynamic_range\": \"natural_not_hdr\", \"skin_rendering\": \"real_texture_no_retouch\" }, \"scene\": { \"environment\": \"open steppe landscape with distant mountains and expansive sky, historical Turkic nomadic atmosphere\", \"horse\": \"majestic black horse with strong elegant build, dark mane, historically styled saddle and reins\", \"lighting\": \"soft natural daylight with noble cinematic highlights on face, fur, metal ornaments, and horse\", \"mood\": \"strong, regal, ancestral, feminine, magnetic, unforgettable\" }, \"subject\": { \"description\": \"one striking old Turkic noblewoman, mounted on a black horse, elegant and powerful\", \"identity_rule\": \"the woman must remain the exact same person as the uploaded face reference\", \"face\": \"exact same face, same eye shape, same eyebrow shape, same nose bridge and nose tip, same lip shape, same chin, same jawline, same cheek structure, same skin tone, same facial proportions\", \"hair\": \"dark long hair styled in old Turkic inspired braids and sections, neat but slightly windswept, historically elegant and feminine\", \"makeup\": \"beauty styling inspired by old Turkic women, refined and natural, softly defined eyes, subtle earth-toned contour, naturally tinted lips, no modern glam exaggeration\", \"nails\": \"clean natural nails or softly groomed short nails appropriate for a historical old Turkic noblewoman, no modern acrylic look, no flashy modern manicure\", \"expression\": \"calm, strong, captivating, proud, quietly commanding\" }, \"wardrobe\": { \"outfit\": \"luxurious old Turkic noblewoman attire with dark layered fabric, rich fur trim, fitted waist, structured historical silhouette, elegant nomadic warri",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11791-147-Fisheye-Perspective-of-a-Fish.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11822-147-Cinematic-Portrait-of-Old-Turkic-Noblewoman-on-Black-Horse-Image-to-Image.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -875,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22021-205",
-      "title": "Fluorescent Comic Book Monster Encounter",
-      "prompt": "A {argument name=\"character\" default=\"young girl\"} with {argument name=\"hair color\" default=\"blue\"} hair and a distressed expression stands in front of a giant, {argument name=\"monster color\" default=\"fluorescent pink\"} stitched monster with fluorescent yellow eyes and a wide, toothy grin. The monster's mouth is fluorescent green, revealing large, blocky teeth. The girl wears a brightly colored, polka dot-patterned t-shirt in fluorescent pink, green, and yellow and has fluorescent pink and green pigtails. The overall style is reminiscent of a comic book or graphic novel, with bold outlines and vibrant, contrasting fluorescent pink, green, and yellow colors dominating the scene. The background is a solid fluorescent yellow-green color.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-22067-205",
+      "title": "Aero & Chic Minimalist Character Sketch",
+      "prompt": "A minimalist character portrait sketch sheet in a clean, \"{argument name=\"style\" default=\"Aero & Chic\"}\" style. The artwork features two characters—a profile view of a woman with medium-length dark hair and a front-facing view of a man with neat parted dark hair—both wearing round wire-rim glasses, cozy textured knit sweaters, and holding a warm mug of coffee. The art uses precise, delicate line work paired with a soft watercolor wash and a nostalgic aesthetic. Each portrait includes isolated close-up detail boxes for the sweater texture, the eyewear, and the hands holding the mug. The design is presented on a clean background with a muted color palette breakdown (incorporating earth tones like sage green, denim blue, warm wood browns, and cream beiges) alongside a \"Style Notes\" description box, capturing a calm, modern minimalist vibe.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22021-205-Fluorescent-Comic-Book-Monster-Encounter.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-22067-205-Aero-Chic-Minimalist-Character-Sketch.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-9536-606",
-      "title": "Ana De Armas as Wonder Woman Studio Portrait",
-      "prompt": "\"Ultra-realistic studio portrait photograph of Sattached celebrity as Wonder Woman in classic heroic costume, standing in a confident three-quarter pose facing camera, left arm bent holding a large round bronze shield with eagle emblem at chest level, right hand resting near hip holding coiled golden lasso, wearing metallic bronze and red-gold strapless armored corset with scale texture and crossed leather straps, dark blue leather skirt with gold-trimmed segmented panels, golden eagle-motif gauntlets, golden tiara with red star centerpiece, tall black boots with gold details, long dark wavy hair, natural heroic makeup with defined features and subtle lip color, clean neutral gray studio background, soft even key lighting with gentle rim light for depth, professional cinematic style, shot on 35mm film emulation with light grain, shallow depth of field, highly detailed armor and leather textures, realistic skin and metallic reflections, photorealistic 8K\"",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-9536-606-Ana-De-Armas-as-Wonder-Woman-Studio-Portrait.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Poster / Flyer"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/poster-flyer.json",
       "license": "upstream",
       "createdAt": null
     }

@@ -58,16 +58,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2890-183",
-      "title": "Multi-Angle Scene Generation Prompt (Oshi no Ko Style)",
-      "prompt": "Read the motif depicted in the attached image, generate multi-angle shots, and create four scenes divided into a 2x2 grid. [Action 1] The senior colleague (senpai) is looking at books on a shelf. The photographer presses a button on a remote control in their hand, and a distinctive electronic sound/chime rings. [Dialogue 1] The senpai is surprised, immediately turns to the camera, and playfully says, \"Stop it.\" [Action 2] The photographer rings the electronic sound again. [Action 3] The senpai looks down shyly, squats momentarily, then stands up, laughing and covering their face with their hands. [Text Overlay] \"{argument name=\"text overlay 1\" default=\"Tried pressing the senpai's switch while they were shopping at the bookstore\"}\" \"{argument name=\"text overlay 2\" default=\"#This feeling is too cute www\"}\" \"{argument name=\"text overlay 3\" default=\"#Definitely inviting me www\"}\"",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3135-178",
+      "title": "Corporate Tech/Anime Eyecatch Image Prompt",
+      "prompt": "metadata: model_context: \"Corporate Tech, High-Energy Business Youtube Thumbnail mixed with Anime Art\" image_structure: composition_type: \"Diagonal Split Layout (Arrowhead Shape)\" visual_flow: \"Left Text (Problem/Solution) -> Right Visual (Result/Character)\" layers: layer_background_left: shape: \"Geometric polygon covering left 60% of screen, with a sharp arrow-point extending into the right side\" color: \"Matte Black (#1A1A1A)\" texture: \"Subtle carbon fiber or mesh pattern to add tech depth\" layer_typography: location: \"Centered within the left black area\" alignment: \"Left-aligned or Centered\" elements: - type: \"Headline (Main)\" text: \"{argument name=\"main headline\" default=\"Design to Earn\\nwith AI Side Jobs\"}\" style: \"Extremely bold, heavy Gothic font (Impact style). White text.\" highlight: \"Apply Bright Yellow (#FFD700) color to the word '稼ぐ' (Earn) and 'AI'\" - type: \"Sub-Headline (Detail)\" text: \"{argument name=\"sub headline\" default=\"Complete Guide to Nano Banana Pro\"}\" style: \"Smaller white sans-serif text, clean and readable\" - type: \"Body Text (Explanation)\" text: \"{argument name=\"explanation text\" default=\"From beginner to professional quality.\\nCourse aiming for monetization via the shortest route.\"}\" style: \"Small, thin grey or white text block, justified layout\" layer_cta_button: shape: \"Rounded Pill Shape\" color: \"Bright Yellow (#FFD700)\" text: \"{argument name=\"CTA text\" default=\"Apply Now ▶\"}\" text_color: \"Black\" location: \"Bottom left, below the text block\" style: \"Flat design with slight drop shadow\" layer_visual_right: shape: \"Fills the remaining right side (behind the arrow overlap)\" content: \"Japanese Kawaii Anime Girl illustration\" style: \"2D Cel-shaded anime art, high detail, vibrant colors\" details: subject: \"A cute anime girl with a futuristic / cyber-fashion look\" appearance: hair: \"Pastel pink and blue gradient bob cut, with cyber hair clips\" eyes: \"Large sparkling anime eyes, confident smile\" clothing: \"Stylish tech-wear hoodie with yellow accents to match the background theme\" pose: \"Dynamic pose, pointing finger towards the text on the left or giving a thumbs up\" background_context: \"Simple light grey or white background with abstract pop patterns (dots/stars) to make the character stand out\" style_and_tone: art_style: \"Modern Corporate Tech Design mixed with Japanese Anime aesthetics\" color_palette: primary: \"Black, Yellow\" secondary: \"Pastel Pink/Blue (Character), White\"",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2890-183-Multi-Angle-Scene-Generation-Prompt-Oshi-no-Ko-Style.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3135-178-Corporate-Tech-Anime-Eyecatch-Image-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -77,16 +77,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27862-104",
-      "title": "8-Panel Retro Game Manga",
-      "prompt": "8-panel manga A retro game called 'The World' {argument name=\"dialogue\" default=\"Yikes! This is a total ultra-super-special crap game!\"} I pressed the reset button.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27973-104",
+      "title": "4-Panel Manga Vision Test",
+      "prompt": "{argument name=\"format\" default=\"4-panel manga\"} {argument name=\"theme\" default=\"vision test using symbols\"} Eye exam using {argument name=\"brand name\" default=\"Chanel\"}'s Azura Azura!",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27862-104-8-Panel-Retro-Game-Manga.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27973-104-4-Panel-Manga-Vision-Test.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Comic / Storyboard"
       ],
       "author": "YouMind OpenLab",
@@ -134,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-21011-301",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-21011-302",
       "title": "Evening Red Satin Dress Portrait",
       "prompt": "Ultra-realistic indoor portrait of a woman seated on a {argument name=\"furniture\" default=\"black leather sofa\"} in a modern apartment at night, wearing a {argument name=\"dress\" default=\"deep red satin mini dress\"} with lace-up corset detailing, soft warm ambient lighting, sheer curtains in the background, glamorous makeup, {argument name=\"hair\" default=\"long wavy blonde hair\"}, cinematic composition, shallow depth of field, high detail, photorealistic",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-21011-301-Evening-Red-Satin-Dress-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-21011-302-Evening-Red-Satin-Dress-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-13277-70",
-      "title": "Nano Banana Pro Explains Itself",
-      "prompt": "explain how to best to use itself for generating shots of a character.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-13286-70",
+      "title": "South Asian Male Character Illustration Prompt for Gemini Nano Banana Pro",
+      "prompt": "\"A high-quality digital illustration of a handsome South Asian male character with a well-groomed beard and stylishly swept-back dark hair. He is wearing a traditional cream-colored kurta with an intricate white embroidered neckline and a blue floral patterned shawl draped over his shoulders. The art style is a blend of clean semi-realism and watercolor aesthetic. The background features a vintage study setting with aged parchment papers, floating feathers, ink splatters, and a wooden desk with a quill and lamp. Soft, warm lighting with a focus on fine facial details and a scholarly, artistic atmosphere.\" ​Key Elements for Consistency: ​Art Style: Semi-realistic digital painting with watercolor textures. ​Color Palette: Cream, muted teal/blue, and earthy parchment tones. ​Motifs: Calligraphy papers, feathers, and ink blots to maintain the \"writer/scholar\" vibe.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13277-70-Nano-Banana-Pro-Explains-Itself.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13286-70-South-Asian-Male-Character-Illustration-Prompt-for-Gemini-Nano-Banana-Pro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,16 +229,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2852-186",
-      "title": "Blade Runner Opening Style Image",
-      "prompt": "Create an image like the opening of Blade Runner",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2890-184",
+      "title": "Multi-Angle Scene Generation Prompt (Oshi no Ko Style)",
+      "prompt": "Read the motif depicted in the attached image, generate multi-angle shots, and create four scenes divided into a 2x2 grid. [Action 1] The senior colleague (senpai) is looking at books on a shelf. The photographer presses a button on a remote control in their hand, and a distinctive electronic sound/chime rings. [Dialogue 1] The senpai is surprised, immediately turns to the camera, and playfully says, \"Stop it.\" [Action 2] The photographer rings the electronic sound again. [Action 3] The senpai looks down shyly, squats momentarily, then stands up, laughing and covering their face with their hands. [Text Overlay] \"{argument name=\"text overlay 1\" default=\"Tried pressing the senpai's switch while they were shopping at the bookstore\"}\" \"{argument name=\"text overlay 2\" default=\"#This feeling is too cute www\"}\" \"{argument name=\"text overlay 3\" default=\"#Definitely inviting me www\"}\"",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2852-186-Blade-Runner-Opening-Style-Image.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2890-184-Multi-Angle-Scene-Generation-Prompt-Oshi-no-Ko-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -248,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27863-105",
-      "title": "Supermarket Discount War",
-      "prompt": "{argument name=\"scene\" default=\"In the middle of a scramble with older women for discounted side dishes at a supermarket\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27862-105",
+      "title": "8-Panel Retro Game Manga",
+      "prompt": "8-panel manga A retro game called 'The World' {argument name=\"dialogue\" default=\"Yikes! This is a total ultra-super-special crap game!\"} I pressed the reset button.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27863-105-Supermarket-Discount-War.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27862-105-8-Panel-Retro-Game-Manga.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +305,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-20772-309",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-20772-310",
       "title": "Y2K Cyberpunk Cyberpop Poster",
       "prompt": "​A high-energy, {argument name=\"style\" default=\"Y2K cyberpunk cyberpop poster\"} featuring a {argument name=\"subject\" default=\"model with short dark hair\"}, futuristic metallic silver sunglasses, a black crop top, an oversized acid-washed grey denim blazer, and matching loose cargo jeans. The character wears chunky, glowing metallic silver and aqua sneakers. The background is a {argument name=\"background\" default=\"chaotic, vibrant glitch-art collage of a neon city\"} at night in shades of hot pink, purple, and electric blue, overlaid with glowing cyan neon outlines, geometric 3D wireframe shapes, digital motherboard textures, holographic prisms, and distressed torn-paper textures. Bold, glitchy futuristic typography anchors the composition with an edgy, Y2K rave graphic design aesthetic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-20772-309-Y2K-Cyberpunk-Cyberpop-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-20772-310-Y2K-Cyberpunk-Cyberpop-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-13274-71",
-      "title": "Image generation prompt for Carmen in a Kinkade style",
-      "prompt": "{argument name=\"subject\" default=\"Bizet\"} {argument name=\"theme\" default=\"Carmen\"} {argument name=\"style\" default=\"Lassen style\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-others-13277-71",
+      "title": "Nano Banana Pro Explains Itself",
+      "prompt": "explain how to best to use itself for generating shots of a character.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13274-71-Image-generation-prompt-for-Carmen-in-a-Kinkade-style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13277-71-Nano-Banana-Pro-Explains-Itself.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2691-188",
-      "title": "Photorealistic MacBook Screen POV Selfie Prompt",
-      "prompt": "{ \"image_settings\": { \"aspect_ratio\": \"3:4\", \"resolution\": { \"width\": 1152, \"height\": 1536 } }, \"prompt\": { \"identity_lock\": { \"reference\": \"{argument name=\"reference\" default=\"input_photo\"}\", \"preserve\": [ \"{argument name=\"preserve 1\" default=\"face\"}\", \"{argument name=\"preserve 2\" default=\"facial proportions\"}\", \"{argument name=\"preserve 3\" default=\"eye shape\"}\", \"{argument name=\"preserve 4\" default=\"nose\"}\", \"{argument name=\"preserve 5\" default=\"lips\"}\", \"{argument name=\"preserve 6\" default=\"skin tone\"}\", \"{argument name=\"preserve 7\" default=\"skin texture\"}\", \"{argument name=\"preserve 8\" default=\"hairline\"}\", \"{argument name=\"preserve 9\" default=\"overall identity\"}\" ], \"rules\": [ \"{argument name=\"rule 1\" default=\"no face swap\"}\", \"{argument name=\"rule 2\" default=\"no beautify\"}\", \"{argument name=\"rule 3\" default=\"no smoothing\"}\", \"{argument name=\"rule 4\" default=\"no reshaping\"}\", \"{argument name=\"rule 5\" default=\"no AI look\"}\" ] }, \"scene\": { \"camera_angle\": \"{argument name=\"camera angle\" default=\"high-angle downward shot, POV\"}\", \"composition\": \"{argument name=\"composition\" default=\"MacBook screen fills most of the frame, thin strip of physical keyboard visible at the bottom\"}\", \"screen_surface\": [ \"{argument name=\"screen surface 1\" default=\"visible RGB pixel grid\"}\", \"{argument name=\"screen surface 2\" default=\"subtle moire effect\"}\", \"{argument name=\"screen surface 3\" default=\"micro dust on glass\"}\", \"{argument name=\"screen surface 4\" default=\"faint fingerprints\"}\", \"{argument name=\"screen surface 5\" default=\"soft ambient reflections\"}\" ] }, \"digital_interface\": { \"os\": \"{argument name=\"os\" default=\"macOS dark mode\"}\", \"background_app\": { \"name\": \"{argument name=\"background app name\" default=\"Spotify\"}\", \"view\": \"{argument name=\"background app view\" default=\"Liked Songs\"}\", \"visible_tracks\": [ \"{argument name=\"track 1\" default=\"Blank Space – Taylor Swift\"}\", \"{argument name=\"track 2\" default=\"Shake It Off – Taylor Swift\"}\", \"{argument name=\"track 3\" default=\"Cruel Summer – Taylor Swift\"}\", \"{argument name=\"track 4\" default=\"Love Story – Taylor Swift\"}\" ] }, \"foreground_app\": { \"name\": \"{argument name=\"foreground app name\" default=\"Photo Booth\"}\", \"state\": \"{argument name=\"foreground app state\" default=\"live preview window\"}\", \"position\": \"{argument name=\"foreground app position\" default=\"floating, center-right\"}\" } }, \"photo_booth_content\": { \"environment\": { \"room\": \"{argument name=\"room\" default=\"dim bedroom\"}\", \"background\": \"{argument name=\"background\" default=\"off-white wall, rumpled bedding\"}\", \"lighting\": \"{argument name=\"lighting\" default=\"low-light, nocturnal, cool screen glow mixed with warm skin tones\"}\" }, \"subject\": { \"pose\": \"{argument name=\"subject pose\" default=\"lying down, relaxed, candid\"}\", \"expression\": \"{argument name=\"subject expression\" default=\"natural, slightly relaxed\"}\", \"outfit\": \"{argument name=\"subject outfit\" default=\"light-colored tank top\"}\", \"prop\": { \"item\": \"{argument name=\"prop item\" default=\"iPhone 15 Pro\"}\", \"hand\": \"{argument name=\"prop hand\" default=\"right hand\"}\" } } }, \"realism_rules\": [ \"{argument name=\"realism rule 1\" default=\"this is a photo of a screen, not a screenshot\"}\", \"{argument name=\"realism rule 2\" default=\"raw smartphone photo look\"}\", \"{argument name=\"realism rule 3\" default=\"natural noise\"}\", \"{argument name=\"realism rule 4\" default=\"imperfect glass\"}\", \"{argument name=\"realism rule 5\" default=\"no studio lighting\"}\", \"{argument name=\"realism rule 6\" default=\"no HD polish\"}\" ] }, \"negative_prompt\": [ \"{argument name=\"negative 1\" default=\"screenshot\"}\", \"{argument name=\"negative 2\" default=\"flat UI\"}\", \"{argument name=\"negative 3\" default=\"perfect screen\"}\", \"{argument name=\"negative 4\" default=\"clean glass\"}\", \"{argument name=\"negative 5\" default=\"studio lighting\"}\", \"{argument name=\"negative 6\" default=\"beauty filter\"}\", \"{argument name=\"negative 7\" default=\"cartoon\"}\", \"{argument name=\"negative 8\" default=\"3d render\"}\", \"{argument name=\"negative 9\" default=\"painting\"}\", \"{argument name=\"negative 10\" default=\"watermark\"}\", \"{argument name=\"negative 11\" default=\"blurred face\"}\" ] }",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2852-187",
+      "title": "Blade Runner Opening Style Image",
+      "prompt": "Create an image like the opening of Blade Runner",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2691-188-Photorealistic-MacBook-Screen-POV-Selfie-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2852-187-Blade-Runner-Opening-Style-Image.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,16 +419,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27850-106",
-      "title": "Cinematic Rainy Night Noir Triptych",
-      "prompt": "Use the uploaded person image as the ONLY strict identity reference. Preserve the exact facial features, face shape, eyes, eyebrows, nose, lips, skin texture, age, hair color, hairstyle and overall identity with maximum resemblance. The woman must be instantly recognizable as the reference image. Do not beautify, retouch or alter facial proportions in any way. Create a cinematic vertical triptych of the reference woman during a {argument name=\"weather\" default=\"heavy rainy night\"} in an {argument name=\"location\" default=\"empty city\"}. Top panel: Extreme close-up portrait through a rain-covered window. Wet hair sticks to her face. She looks slightly away from the camera with a distant, melancholic expression. Cold cyan and teal neon lights illuminate her face. Large neon bokeh glows behind her. Middle panel: The woman lies on rain-soaked asphalt. Camera at ground level beside her face. Wet pavement creates a mirror-like reflection. Rain falls continuously, creating ripples and splashes around her. Her soaked hair spreads across the street. Bottom panel: The woman stands alone in the middle of an empty city street under heavy rain. {argument name=\"clothing\" default=\"Black clothing\"} completely soaked and clinging to her body. She looks directly toward the camera with a calm but emotionally exhausted expression. The city behind her fades into blue neon haze and reflections. Color palette: deep cyan blue, teal neon, turquoise reflections, dark navy shadows, wet black asphalt, cool white highlights. Minimal warm colors. Atmosphere: heavy rain, wet skin, rain droplets on lens, atmospheric haze, reflective streets, cinematic loneliness, emotional noir. Inspired by Blade Runner 2049, The Batman, Korean noir cinema, Wong Kar-wai night scenes. Ultra-realistic photography, photorealistic skin texture, realistic rain simulation, shallow depth of field, cinematic bokeh, subtle film grain, anamorphic lens characteristics, masterpiece cinematic storytelling, vertical composition 9:16. Additional Banana Pro emphasis: VERTICAL TRIPTYCH COMPOSITION, HEAVY RAIN, WET HAIR AND SKIN, CYAN TEAL NEON, REFLECTIVE WET ASPHALT, EMOTIONAL NOIR, FEMININE GRACE, MELANCHOLIC EXPRESSION, SOAKED BLACK CLOTHING, CINEMATIC RAIN EFFECTS, LATE-NIGHT LONELINESS. text, watermark, logo, extra people, beauty filter, CGI look, cartoon, illustration, plastic skin, distorted anatomy, dry hair, warm color grading, bright lighting, altered identity, masculine features.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27863-106",
+      "title": "Supermarket Discount War",
+      "prompt": "{argument name=\"scene\" default=\"In the middle of a scramble with older women for discounted side dishes at a supermarket\"}",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27850-106-Cinematic-Rainy-Night-Noir-Triptych.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27863-106-Supermarket-Discount-War.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Comic / Storyboard"
       ],
       "author": "YouMind OpenLab",
@@ -476,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-20763-310",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-20763-311",
       "title": "Personalized Fashion Identity Character Board",
       "prompt": "Create a signature look character board / fashion identity poster for me based on everything you know about my personality, vibe, mindset, energy, and aesthetic preferences. I want this to feel deeply personal and psychologically accurate, like a stylist and personality analyst designed my visual identity. The goal is to show how I would carry myself in real life and what my signature presence would look like. IMPORTANT: This should NOT look like a random Pinterest aesthetic photoshoot or generic moodboard. It should feel like “this is MY signature look” — something memorable and cohesive. Include a full-body character design (head-to-toe visible) showing: Signature outfit style {argument name=\"outfit style\" default=\"Dress\"} Shoes/heels and why they fit my vibe Accessories (jewelry, bag, watch, rings, perfume vibe) Hairstyle (texture, length, styling, why it suits me) Makeup style (minimal but defining features) Color palette that matches my aura/personality Posture/body language/facial expression showing how I carry myself Overall energy/aura people feel around me Add very minimal text only (clean, elegant, aesthetic — not cluttered). Small labels explaining WHY each choice fits my personality in 1–2 lines max. Avoid: excessive text Make it look polished, cohesive, attractive, and deeply “me.” Show the complete outfit head-to-toe.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-20763-310-Personalized-Fashion-Identity-Character-Board.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-20763-311-Personalized-Fashion-Identity-Character-Board.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,16 +495,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-13239-72",
-      "title": "Four Divine Beasts (Shishin) Generation",
-      "prompt": "The part '🔴' is replaced by \"{argument name=\"divine beast\" default=\"Azure Dragon, Black Tortoise, Vermilion Bird, White Tiger\"}\"",
+      "id": "xianyu-multi-model:ym-ai-skill-others-13274-72",
+      "title": "Image generation prompt for Carmen in a Kinkade style",
+      "prompt": "{argument name=\"subject\" default=\"Bizet\"} {argument name=\"theme\" default=\"Carmen\"} {argument name=\"style\" default=\"Lassen style\"}",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13239-72-Four-Divine-Beasts-Shishin-Generation.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13274-72-Image-generation-prompt-for-Carmen-in-a-Kinkade-style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -571,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2152-192",
-      "title": "Cognitive Science-Based High-CTR Thumbnail Design Prompt",
-      "prompt": "You are an expert in the \"Adaptive Salience Model,\" creatively integrating knowledge from cognitive science (neuroscience, psychology, behavioral economics), and you are a top-tier art director. Deeply analyze the [Input Text (Article Title or Beginning)] provided at the end, and generate a thumbnail image that maximizes the CTR (Click-Through Rate) for that article. If a reference image is attached, place that character as the \"person presenting the article content\" and maintain consistency. ▼ Instructions for Generation Process (Thinking Process) Use Nano Banana Pro's \"Thinking Mode\" to logically formulate the composition plan in the following steps before drawing: 1. **[Step 1: Content Analysis and Hook Extraction]** * Identify the \"maximum benefit the reader gains\" or the \"risk of loss if they don't know\" from the input text (Application of Prospect Theory). * Select the most intuitive visual metaphor symbolizing the article's theme (e.g., rise, key, lightning, light, darkness, etc.). 2. **[Step 2: Optimization by Adaptive Salience Model]** * **FFA Activation (Face Fusiform Area)**: Maximize the resolution of the character's face, especially the \"eyes,\" and design the composition so that the gaze meets the viewer's (eye contact). Match the expression to the article's tone (surprise, confidence, seriousness, etc.). * **Pop-out Effect**: Use \"vivid colors (neon colors or yellow, etc.)\" that are complementary to the background color for the title text and important icons to create visual prominence. * **Cognitive Load Theory**: Do not overload the information. Limit elements to \"1 face + 1 impactful text + 1 background metaphor.\" 3. **[Step 3: Layout Design]** * Design the layout, considering the Z-pattern or F-pattern, so that the viewer's gaze flows from the \"face\" → \"high jump-rate text\" → \"clickable element.\" ▼ Design and Style Specification * **Composition**: Close-up (bust shot) or medium shot. Place the character in the center or at the intersection of the rule of thirds. * **Taste/Aesthetic**: [Optimize for the genre of the input text. Examples: For business, \"sophisticated, trustworthy\"; for entertainment, \"vibrant, high saturation\"; for technology, \"cyberpunk, futuristic\"] * **Text Rendering (Important)**: * Extract the **most catchy short phrase (recommended 10 characters or less)** from the input text. * **Font**: Use \"**Heavy Serif**\" font. To enhance readability, the text must have a **thick outline** contrasting with the background color. * **Placement (Jump Rate)**: **Set a high \"Jump Rate.\"** Place the main keywords extremely large, and auxiliary words or sub-information small, creating visual rhythm and contrast. * **Character Direction**: If there is a reference character, adjust their attire to match the article's theme (lab coat, suit, explorer, casual, etc.). ▼ Input Text {argument name=\"input text\" default=\"(Article title or content)\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2691-189",
+      "title": "Photorealistic MacBook Screen POV Selfie Prompt",
+      "prompt": "{ \"image_settings\": { \"aspect_ratio\": \"3:4\", \"resolution\": { \"width\": 1152, \"height\": 1536 } }, \"prompt\": { \"identity_lock\": { \"reference\": \"{argument name=\"reference\" default=\"input_photo\"}\", \"preserve\": [ \"{argument name=\"preserve 1\" default=\"face\"}\", \"{argument name=\"preserve 2\" default=\"facial proportions\"}\", \"{argument name=\"preserve 3\" default=\"eye shape\"}\", \"{argument name=\"preserve 4\" default=\"nose\"}\", \"{argument name=\"preserve 5\" default=\"lips\"}\", \"{argument name=\"preserve 6\" default=\"skin tone\"}\", \"{argument name=\"preserve 7\" default=\"skin texture\"}\", \"{argument name=\"preserve 8\" default=\"hairline\"}\", \"{argument name=\"preserve 9\" default=\"overall identity\"}\" ], \"rules\": [ \"{argument name=\"rule 1\" default=\"no face swap\"}\", \"{argument name=\"rule 2\" default=\"no beautify\"}\", \"{argument name=\"rule 3\" default=\"no smoothing\"}\", \"{argument name=\"rule 4\" default=\"no reshaping\"}\", \"{argument name=\"rule 5\" default=\"no AI look\"}\" ] }, \"scene\": { \"camera_angle\": \"{argument name=\"camera angle\" default=\"high-angle downward shot, POV\"}\", \"composition\": \"{argument name=\"composition\" default=\"MacBook screen fills most of the frame, thin strip of physical keyboard visible at the bottom\"}\", \"screen_surface\": [ \"{argument name=\"screen surface 1\" default=\"visible RGB pixel grid\"}\", \"{argument name=\"screen surface 2\" default=\"subtle moire effect\"}\", \"{argument name=\"screen surface 3\" default=\"micro dust on glass\"}\", \"{argument name=\"screen surface 4\" default=\"faint fingerprints\"}\", \"{argument name=\"screen surface 5\" default=\"soft ambient reflections\"}\" ] }, \"digital_interface\": { \"os\": \"{argument name=\"os\" default=\"macOS dark mode\"}\", \"background_app\": { \"name\": \"{argument name=\"background app name\" default=\"Spotify\"}\", \"view\": \"{argument name=\"background app view\" default=\"Liked Songs\"}\", \"visible_tracks\": [ \"{argument name=\"track 1\" default=\"Blank Space – Taylor Swift\"}\", \"{argument name=\"track 2\" default=\"Shake It Off – Taylor Swift\"}\", \"{argument name=\"track 3\" default=\"Cruel Summer – Taylor Swift\"}\", \"{argument name=\"track 4\" default=\"Love Story – Taylor Swift\"}\" ] }, \"foreground_app\": { \"name\": \"{argument name=\"foreground app name\" default=\"Photo Booth\"}\", \"state\": \"{argument name=\"foreground app state\" default=\"live preview window\"}\", \"position\": \"{argument name=\"foreground app position\" default=\"floating, center-right\"}\" } }, \"photo_booth_content\": { \"environment\": { \"room\": \"{argument name=\"room\" default=\"dim bedroom\"}\", \"background\": \"{argument name=\"background\" default=\"off-white wall, rumpled bedding\"}\", \"lighting\": \"{argument name=\"lighting\" default=\"low-light, nocturnal, cool screen glow mixed with warm skin tones\"}\" }, \"subject\": { \"pose\": \"{argument name=\"subject pose\" default=\"lying down, relaxed, candid\"}\", \"expression\": \"{argument name=\"subject expression\" default=\"natural, slightly relaxed\"}\", \"outfit\": \"{argument name=\"subject outfit\" default=\"light-colored tank top\"}\", \"prop\": { \"item\": \"{argument name=\"prop item\" default=\"iPhone 15 Pro\"}\", \"hand\": \"{argument name=\"prop hand\" default=\"right hand\"}\" } } }, \"realism_rules\": [ \"{argument name=\"realism rule 1\" default=\"this is a photo of a screen, not a screenshot\"}\", \"{argument name=\"realism rule 2\" default=\"raw smartphone photo look\"}\", \"{argument name=\"realism rule 3\" default=\"natural noise\"}\", \"{argument name=\"realism rule 4\" default=\"imperfect glass\"}\", \"{argument name=\"realism rule 5\" default=\"no studio lighting\"}\", \"{argument name=\"realism rule 6\" default=\"no HD polish\"}\" ] }, \"negative_prompt\": [ \"{argument name=\"negative 1\" default=\"screenshot\"}\", \"{argument name=\"negative 2\" default=\"flat UI\"}\", \"{argument name=\"negative 3\" default=\"perfect screen\"}\", \"{argument name=\"negative 4\" default=\"clean glass\"}\", \"{argument name=\"negative 5\" default=\"studio lighting\"}\", \"{argument name=\"negative 6\" default=\"beauty filter\"}\", \"{argument name=\"negative 7\" default=\"cartoon\"}\", \"{argument name=\"negative 8\" default=\"3d render\"}\", \"{argument name=\"negative 9\" default=\"painting\"}\", \"{argument name=\"negative 10\" default=\"watermark\"}\", \"{argument name=\"negative 11\" default=\"blurred face\"}\" ] }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2152-192-Cognitive-Science-Based-High-CTR-Thumbnail-Design-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2691-189-Photorealistic-MacBook-Screen-POV-Selfie-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,16 +590,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27737-107",
-      "title": "Dieselpunk Mech Action Scene",
-      "prompt": "inkpunk {argument name=\"style\" default=\"dieselpunk\"} action rainy city scene. Towering {argument name=\"mech size\" default=\"30-foot\"} riveted mech reaching to grab the speedy {argument name=\"character\" default=\"dieselpunk spy\"} wearing her turbo jetpack flying towards the viewer.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27850-107",
+      "title": "Cinematic Rainy Night Noir Triptych",
+      "prompt": "Use the uploaded person image as the ONLY strict identity reference. Preserve the exact facial features, face shape, eyes, eyebrows, nose, lips, skin texture, age, hair color, hairstyle and overall identity with maximum resemblance. The woman must be instantly recognizable as the reference image. Do not beautify, retouch or alter facial proportions in any way. Create a cinematic vertical triptych of the reference woman during a {argument name=\"weather\" default=\"heavy rainy night\"} in an {argument name=\"location\" default=\"empty city\"}. Top panel: Extreme close-up portrait through a rain-covered window. Wet hair sticks to her face. She looks slightly away from the camera with a distant, melancholic expression. Cold cyan and teal neon lights illuminate her face. Large neon bokeh glows behind her. Middle panel: The woman lies on rain-soaked asphalt. Camera at ground level beside her face. Wet pavement creates a mirror-like reflection. Rain falls continuously, creating ripples and splashes around her. Her soaked hair spreads across the street. Bottom panel: The woman stands alone in the middle of an empty city street under heavy rain. {argument name=\"clothing\" default=\"Black clothing\"} completely soaked and clinging to her body. She looks directly toward the camera with a calm but emotionally exhausted expression. The city behind her fades into blue neon haze and reflections. Color palette: deep cyan blue, teal neon, turquoise reflections, dark navy shadows, wet black asphalt, cool white highlights. Minimal warm colors. Atmosphere: heavy rain, wet skin, rain droplets on lens, atmospheric haze, reflective streets, cinematic loneliness, emotional noir. Inspired by Blade Runner 2049, The Batman, Korean noir cinema, Wong Kar-wai night scenes. Ultra-realistic photography, photorealistic skin texture, realistic rain simulation, shallow depth of field, cinematic bokeh, subtle film grain, anamorphic lens characteristics, masterpiece cinematic storytelling, vertical composition 9:16. Additional Banana Pro emphasis: VERTICAL TRIPTYCH COMPOSITION, HEAVY RAIN, WET HAIR AND SKIN, CYAN TEAL NEON, REFLECTIVE WET ASPHALT, EMOTIONAL NOIR, FEMININE GRACE, MELANCHOLIC EXPRESSION, SOAKED BLACK CLOTHING, CINEMATIC RAIN EFFECTS, LATE-NIGHT LONELINESS. text, watermark, logo, extra people, beauty filter, CGI look, cartoon, illustration, plastic skin, distorted anatomy, dry hair, warm color grading, bright lighting, altered identity, masculine features.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27737-107-Dieselpunk-Mech-Action-Scene.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27850-107-Cinematic-Rainy-Night-Noir-Triptych.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Comic / Storyboard"
       ],
       "author": "YouMind OpenLab",
@@ -647,12 +647,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-20164-316",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-20164-317",
       "title": "Alpine Watercolor Travel Poster",
       "prompt": "Watercolor travel poster that harmonizes the rugged heritage of the {argument name=\"region\" default=\"Hunza Valley\"} with the serene alpine charm of {argument name=\"destination\" default=\"Switzerland\"}. The illustration features a majestic snow-capped mountain range as the backdrop, overlooking a landscape where an ancient stone fortress and tiered agricultural terraces meet a tranquil turquoise lake dotted with small boats and a red mountain train winding through pine forests. Rendered in a {argument name=\"style\" default=\"delicate, light-wash watercolor style\"} on textured cream paper, the scene is framed with elegant minimalist typography at the top and subtle cultural seals in the corners, capturing a \"World Heritage\" aesthetic that blends the majestic heights of Gilgit-Baltistan with European alpine tranquility.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-20164-316-Alpine-Watercolor-Travel-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-20164-317-Alpine-Watercolor-Travel-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,16 +666,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-13176-73",
-      "title": "Surreal Seasonal Split Landscape",
-      "prompt": "Create a perfectly composed landscape photograph where the left half is summer and the right half is winter — split right down the middle of the frame with a razor-sharp dividing line. The SAME landscape, the SAME moment, but two completely different seasons occupying the same space. LEFT HALF — SUMMER: - Lush green grass, full leafy trees, wildflowers blooming - Bright warm sunshine, blue sky with fluffy white clouds - A lake in the mid-ground with glittering warm reflections - Mountains in the background with green slopes - A person in summer clothes ({argument name=\"summer clothing\" default=\"sundress, sandals\"}) sitting on the grass reading - A dog playing, butterflies, everything alive and warm - Color palette: vibrant greens, warm yellows, bright blues RIGHT HALF — WINTER: - The SAME landscape but in deep winter — everything covered in pristine white snow - Same trees but bare and skeletal, branches heavy with ice - Same lake but frozen solid with frost patterns on the surface - Same mountains but with heavy snow coverage - The SAME person (same position) now in winter gear ({argument name=\"winter clothing\" default=\"parka, boots, scarf\"}) still sitting in the same spot reading the same book — but on snow - A different dog (or same dog in a tiny coat) playing in snow - Color palette: whites, cool blues, pale greys, silver THE DIVIDING LINE: - The split is perfectly vertical through the center of the frame - At the dividing line: impossible things happen — a single tree has green leaves on the left and bare snowy branches on the right. The grass stops and snow begins at an exact line. The lake water is liquid on the left and frozen on the right with a visible ice edge. - This hard division is what makes it surreal — nature doesn't work this way COMPOSITION: Wide landscape, 16:9 ratio. Camera at medium distance showing the full scene with both halves balanced. The person and key trees are positioned AT the dividing line to maximize the \"same but different\" effect. LIGHTING: LEFT has warm golden afternoon sun. RIGHT has cool blue-grey winter twilight light. At the dividing line, both lighting systems meet, creating a warm-to-cool color shift. 8K, photorealistic landscape photography on both sides. The impossibility is ONLY in the seasonal split — everything else is perfectly natural.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-13239-73",
+      "title": "Four Divine Beasts (Shishin) Generation",
+      "prompt": "The part '🔴' is replaced by \"{argument name=\"divine beast\" default=\"Azure Dragon, Black Tortoise, Vermilion Bird, White Tiger\"}\"",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13176-73-Surreal-Seasonal-Split-Landscape.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13239-73-Four-Divine-Beasts-Shishin-Generation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -742,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2162-193",
-      "title": "Advanced Two-Step Prompting Strategy for Nano Banana Pro Thumbnails",
-      "prompt": "Actually, there's a trickier way to use this. First, have it systematically summarize the information → Then, based on that, have it create the output/deepen the discussion Just doing this makes the quality of the output completely different. This is because if you first create a blueprint in the AI's mind—including \"terminology,\" \"judgment criteria,\" \"prohibited items,\" \"patterns,\" and \"priorities\"— The next instructions will be output according to that blueprint, making it less likely to deviate. For example, if you want Nano Banana Pro to create a thumbnail: ① First, ask GPT-5.2: \"Thoroughly research and systematize the best practices for creating prompts for YouTube thumbnails using Nano Banana Pro. Include common mistakes as well.\" ② After that, ask: \"Based on the current system, create a prompt for making a YouTube thumbnail on the theme of {argument name=\"theme\" default=\"XX\"} using Nano Banana Pro. The video content is like this, and I want to include {argument name=\"wording\" default=\"this kind of wording\"}.\" Then, input the completed prompt into Nano Banana Pro. It becomes much easier to get the desired output. If you just ask it to \"create\" every time, the AI outputs based on the moment, leading to inconsistent results. But if you create a map (system) first, it's powerful. Moreover, this method works for side business strategies, sales copy, and video scripts. The versatility is insane. I highly recommend having the AI organize how to create good output before having it perform the task, and then having it think based on that organization. By the way, the thumbnail created this time is the third image. Since the first attempt was mediocre, I had it systematize how to create attractive YouTube thumbnails before generating the prompt.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2152-193",
+      "title": "Cognitive Science-Based High-CTR Thumbnail Design Prompt",
+      "prompt": "You are an expert in the \"Adaptive Salience Model,\" creatively integrating knowledge from cognitive science (neuroscience, psychology, behavioral economics), and you are a top-tier art director. Deeply analyze the [Input Text (Article Title or Beginning)] provided at the end, and generate a thumbnail image that maximizes the CTR (Click-Through Rate) for that article. If a reference image is attached, place that character as the \"person presenting the article content\" and maintain consistency. ▼ Instructions for Generation Process (Thinking Process) Use Nano Banana Pro's \"Thinking Mode\" to logically formulate the composition plan in the following steps before drawing: 1. **[Step 1: Content Analysis and Hook Extraction]** * Identify the \"maximum benefit the reader gains\" or the \"risk of loss if they don't know\" from the input text (Application of Prospect Theory). * Select the most intuitive visual metaphor symbolizing the article's theme (e.g., rise, key, lightning, light, darkness, etc.). 2. **[Step 2: Optimization by Adaptive Salience Model]** * **FFA Activation (Face Fusiform Area)**: Maximize the resolution of the character's face, especially the \"eyes,\" and design the composition so that the gaze meets the viewer's (eye contact). Match the expression to the article's tone (surprise, confidence, seriousness, etc.). * **Pop-out Effect**: Use \"vivid colors (neon colors or yellow, etc.)\" that are complementary to the background color for the title text and important icons to create visual prominence. * **Cognitive Load Theory**: Do not overload the information. Limit elements to \"1 face + 1 impactful text + 1 background metaphor.\" 3. **[Step 3: Layout Design]** * Design the layout, considering the Z-pattern or F-pattern, so that the viewer's gaze flows from the \"face\" → \"high jump-rate text\" → \"clickable element.\" ▼ Design and Style Specification * **Composition**: Close-up (bust shot) or medium shot. Place the character in the center or at the intersection of the rule of thirds. * **Taste/Aesthetic**: [Optimize for the genre of the input text. Examples: For business, \"sophisticated, trustworthy\"; for entertainment, \"vibrant, high saturation\"; for technology, \"cyberpunk, futuristic\"] * **Text Rendering (Important)**: * Extract the **most catchy short phrase (recommended 10 characters or less)** from the input text. * **Font**: Use \"**Heavy Serif**\" font. To enhance readability, the text must have a **thick outline** contrasting with the background color. * **Placement (Jump Rate)**: **Set a high \"Jump Rate.\"** Place the main keywords extremely large, and auxiliary words or sub-information small, creating visual rhythm and contrast. * **Character Direction**: If there is a reference character, adjust their attire to match the article's theme (lab coat, suit, explorer, casual, etc.). ▼ Input Text {argument name=\"input text\" default=\"(Article title or content)\"}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2162-193-Advanced-Two-Step-Prompting-Strategy-for-Nano-Banana-Pro-Thumbnails.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2152-193-Cognitive-Science-Based-High-CTR-Thumbnail-Design-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27621-109",
-      "title": "Fine Art Mixed-Media Portrait Illustration",
-      "prompt": "{argument name=\"style\" default=\"Ultra-realistic fine art portrait illustration\"} with accurate human anatomy and natural facial proportions. Realistic cranial structure, balanced forehead dimensions, anatomically correct neck length, natural shoulder width, and authentic facial construction. Facial features rendered with lifelike proportions, including naturally positioned eyes, realistic nose structure, balanced cheekbones, accurate jawline definition, and subtle facial asymmetry found in real human faces. Highly detailed mixed-media illustration combining refined pen-and-ink craftsmanship, observational drawing techniques, delicate watercolor rendering, and realistic painterly textures. Dense yet controlled cross-hatching, contour shading, and subtle linework enhance skin texture, pores, wrinkles, facial hair, and natural anatomical details without exaggeration. Hair rendered with thousands of individual strands, realistic volume, organic flow, and natural movement. Editorial portrait realism blended with contemporary fine-art illustration. Strong emphasis on believable anatomy, authentic facial expression, natural posture, and accurate light interaction across skin and hair. Rich observational detail, realistic depth, subtle imperfections, and sophisticated rendering quality. {argument name=\"palette\" default=\"Warm earth-tone palette\"}, aged sketchbook paper texture, restrained watercolor washes, delicate ink splatters, unfinished artistic edges, museum-quality portrait illustration, highly refined linework, and premium sketchbook presentation. Professional fine-art portraiture with realistic proportions, natural character presence, and lifelike visual authenticity. No TYPOGRAPHY, no initial, no brand and no watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27737-108",
+      "title": "Dieselpunk Mech Action Scene",
+      "prompt": "inkpunk {argument name=\"style\" default=\"dieselpunk\"} action rainy city scene. Towering {argument name=\"mech size\" default=\"30-foot\"} riveted mech reaching to grab the speedy {argument name=\"character\" default=\"dieselpunk spy\"} wearing her turbo jetpack flying towards the viewer.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27621-109-Fine-Art-Mixed-Media-Portrait-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27737-108-Dieselpunk-Mech-Action-Scene.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-20152-318",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-20152-319",
       "title": "Ballerina Golden Energy Rain Illustration",
       "prompt": "A mesmerizing digital illustration of a {argument name=\"dancer\" default=\"ballerina\"} dancing on a {argument name=\"setting\" default=\"rain-slicked city street at night\"}, where her form is a fusion of {argument name=\"visual style\" default=\"glowing golden energy and polished liquid chrome\"}. She holds a single vibrant rose, her dynamic pose captured amidst swirling ribbons of light that reflect brilliantly on the wet pavement. The background is a moody, cinematic urban alleyway with soft bokeh streetlights, creating a high-contrast atmosphere that highlights the transition from a shimmering light phantom to a solid metallic sculpture.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-20152-318-Ballerina-Golden-Energy-Rain-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-20152-319-Ballerina-Golden-Energy-Rain-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-13158-74",
-      "title": "Ultra-Realistic Viking-Inspired Cracked Paint Portrait",
-      "prompt": "\"Ultra-realistic cinematic portrait of a rugged middle-aged man with a shaved head and short beard, intense blue eyes, facing slightly to the side, dark black background. His skin is covered in intricate tattoos and symbolic markings inspired by Norse/Viking runes and tribal patterns, extending across his face, neck, and shoulders. The skin has a cracked, weathered texture like dry paint or aged clay, with bold splashes of red, blue, and ochre pigments layered across the tattoos. Some symbols resemble runes and sun motifs. The lighting is dramatic and directional, highlighting skin texture, wrinkles, pores, and paint cracks in extreme detail. Highly detailed, hyperrealistic, 8K resolution, sharp focus, shallow depth of field, cinematic lighting, studio portrait, moody atmosphere, high contrast, photorealistic skin texture, gritty and intense expression.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-13176-74",
+      "title": "Surreal Seasonal Split Landscape",
+      "prompt": "Create a perfectly composed landscape photograph where the left half is summer and the right half is winter — split right down the middle of the frame with a razor-sharp dividing line. The SAME landscape, the SAME moment, but two completely different seasons occupying the same space. LEFT HALF — SUMMER: - Lush green grass, full leafy trees, wildflowers blooming - Bright warm sunshine, blue sky with fluffy white clouds - A lake in the mid-ground with glittering warm reflections - Mountains in the background with green slopes - A person in summer clothes ({argument name=\"summer clothing\" default=\"sundress, sandals\"}) sitting on the grass reading - A dog playing, butterflies, everything alive and warm - Color palette: vibrant greens, warm yellows, bright blues RIGHT HALF — WINTER: - The SAME landscape but in deep winter — everything covered in pristine white snow - Same trees but bare and skeletal, branches heavy with ice - Same lake but frozen solid with frost patterns on the surface - Same mountains but with heavy snow coverage - The SAME person (same position) now in winter gear ({argument name=\"winter clothing\" default=\"parka, boots, scarf\"}) still sitting in the same spot reading the same book — but on snow - A different dog (or same dog in a tiny coat) playing in snow - Color palette: whites, cool blues, pale greys, silver THE DIVIDING LINE: - The split is perfectly vertical through the center of the frame - At the dividing line: impossible things happen — a single tree has green leaves on the left and bare snowy branches on the right. The grass stops and snow begins at an exact line. The lake water is liquid on the left and frozen on the right with a visible ice edge. - This hard division is what makes it surreal — nature doesn't work this way COMPOSITION: Wide landscape, 16:9 ratio. Camera at medium distance showing the full scene with both halves balanced. The person and key trees are positioned AT the dividing line to maximize the \"same but different\" effect. LIGHTING: LEFT has warm golden afternoon sun. RIGHT has cool blue-grey winter twilight light. At the dividing line, both lighting systems meet, creating a warm-to-cool color shift. 8K, photorealistic landscape photography on both sides. The impossibility is ONLY in the seasonal split — everything else is perfectly natural.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13158-74-Ultra-Realistic-Viking-Inspired-Cracked-Paint-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13176-74-Surreal-Seasonal-Split-Landscape.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,16 +913,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-1899-194",
-      "title": "Sci-Fi Book Cover with Layered Text",
-      "prompt": "Astronaut floating in space, bold title text '{argument name=\"title text\" default=\"BEYOND THE VOID\"}' layered between character and nebula background, cinematic lighting, dramatic composition",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-2162-194",
+      "title": "Advanced Two-Step Prompting Strategy for Nano Banana Pro Thumbnails",
+      "prompt": "Actually, there's a trickier way to use this. First, have it systematically summarize the information → Then, based on that, have it create the output/deepen the discussion Just doing this makes the quality of the output completely different. This is because if you first create a blueprint in the AI's mind—including \"terminology,\" \"judgment criteria,\" \"prohibited items,\" \"patterns,\" and \"priorities\"— The next instructions will be output according to that blueprint, making it less likely to deviate. For example, if you want Nano Banana Pro to create a thumbnail: ① First, ask GPT-5.2: \"Thoroughly research and systematize the best practices for creating prompts for YouTube thumbnails using Nano Banana Pro. Include common mistakes as well.\" ② After that, ask: \"Based on the current system, create a prompt for making a YouTube thumbnail on the theme of {argument name=\"theme\" default=\"XX\"} using Nano Banana Pro. The video content is like this, and I want to include {argument name=\"wording\" default=\"this kind of wording\"}.\" Then, input the completed prompt into Nano Banana Pro. It becomes much easier to get the desired output. If you just ask it to \"create\" every time, the AI outputs based on the moment, leading to inconsistent results. But if you create a map (system) first, it's powerful. Moreover, this method works for side business strategies, sales copy, and video scripts. The versatility is insane. I highly recommend having the AI organize how to create good output before having it perform the task, and then having it think based on that organization. By the way, the thumbnail created this time is the third image. Since the first attempt was mediocre, I had it systematize how to create attractive YouTube thumbnails before generating the prompt.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-1899-194-Sci-Fi-Book-Cover-with-Layered-Text.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-2162-194-Advanced-Two-Step-Prompting-Strategy-for-Nano-Banana-Pro-Thumbnails.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -932,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27525-111",
-      "title": "Semi-Realistic Digital Illustration Concept Art",
-      "prompt": "Using 100% likeness of (reference) objects, transformed into a {argument name=\"style\" default=\"dynamic, semi-realistic digital illustration style\"} with a cinematic concept art aesthetic, combining sharp anime-inspired rendering and high-end game splash art. Strong, angular brushstrokes with confident hand-painted strokes, clean yet expressive line accents, and artistic layered shading. High-contrast lighting with bright warm highlights and deep neutral shadows, creating dramatic depth and intensity. The color palette is dominated by {argument name=\"colors\" default=\"warm ivory, soft beige, sand, light gray, charcoal, and bright orange\"} as the main accents, with subtle black details. Smooth gradient transitions mixed with sharp edge highlights, realistic material rendering for metal, fabric, and hard surfaces. Energetic composition, {argument name=\"detail level\" default=\"highly detailed textures\"}, bold and smooth silhouettes. No text, no logo, no watermark. AR 9:16.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27621-110",
+      "title": "Fine Art Mixed-Media Portrait Illustration",
+      "prompt": "{argument name=\"style\" default=\"Ultra-realistic fine art portrait illustration\"} with accurate human anatomy and natural facial proportions. Realistic cranial structure, balanced forehead dimensions, anatomically correct neck length, natural shoulder width, and authentic facial construction. Facial features rendered with lifelike proportions, including naturally positioned eyes, realistic nose structure, balanced cheekbones, accurate jawline definition, and subtle facial asymmetry found in real human faces. Highly detailed mixed-media illustration combining refined pen-and-ink craftsmanship, observational drawing techniques, delicate watercolor rendering, and realistic painterly textures. Dense yet controlled cross-hatching, contour shading, and subtle linework enhance skin texture, pores, wrinkles, facial hair, and natural anatomical details without exaggeration. Hair rendered with thousands of individual strands, realistic volume, organic flow, and natural movement. Editorial portrait realism blended with contemporary fine-art illustration. Strong emphasis on believable anatomy, authentic facial expression, natural posture, and accurate light interaction across skin and hair. Rich observational detail, realistic depth, subtle imperfections, and sophisticated rendering quality. {argument name=\"palette\" default=\"Warm earth-tone palette\"}, aged sketchbook paper texture, restrained watercolor washes, delicate ink splatters, unfinished artistic edges, museum-quality portrait illustration, highly refined linework, and premium sketchbook presentation. Professional fine-art portraiture with realistic proportions, natural character presence, and lifelike visual authenticity. No TYPOGRAPHY, no initial, no brand and no watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27525-111-Semi-Realistic-Digital-Illustration-Concept-Art.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27621-110-Fine-Art-Mixed-Media-Portrait-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

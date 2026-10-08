@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28455-96",
-      "title": "Neo-Noir Sci-Fi Sky Portrait",
-      "prompt": "Create a low-angle neo-noir sci-fi still, chest-up portrait of a person with a {argument name=\"gaze\" default=\"slight upward gaze\"}. Place the subject in the lower-right third, leaving vast negative space with about 80 percent empty sky above. The subject wears a {argument name=\"coat\" default=\"matte shearling-collar heavy coat\"} over a dark knit sweater in a desaturated olive and charcoal palette. The background is a {argument name=\"sky\" default=\"blank, overcast sky\"} with subtle haze. Use soft ambient daylight with negative fill on camera-left. Use image for face reference.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28462-96",
+      "title": "Cinematic Daybreak Silhouette Portrait",
+      "prompt": "Cinematic scene, heavy silhouetting, {argument name=\"lighting\" default=\"daybreak light\"}, {argument name=\"atmosphere\" default=\"dark, foggy\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28455-96-Neo-Noir-Sci-Fi-Sky-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28462-96-Cinematic-Daybreak-Silhouette-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22047-271",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22047-272",
       "title": "Cyberwave Pop-Art Illustration",
       "prompt": "A vibrant {argument name=\"style\" default=\"cyberwave pop-art illustration\"} featuring cool characters immersed in a glowing neon city lifestyle. The scene bursts with an {argument name=\"colors\" default=\"electric palette of hot pink, neon green, bright teal, and purple\"}, styled with a graffiti-dripping aesthetic and bold outlines. On one side, stylish Black women rock voluminous afros, braided hair, and trendy multi-colored patchwork streetwear with cargo pants. On the other side, a character with curly dark hair wears oversized cyber-sunglasses and glowing headphones that emit swirling green energy smoke, dressed in a detailed graphic tee and denim jacket. The background is a {argument name=\"setting\" default=\"dense, futuristic urban cityscape filled with glowing digital grids, neon text graffiti reading 'CYBERWAVE' and 'NEON LIFE'\"}, and dripping paint effects.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22047-271-Cyberwave-Pop-Art-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22047-272-Cyberwave-Pop-Art-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,16 +77,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-15846-64",
-      "title": "Dromedary Camel in Desert",
-      "prompt": "A {argument name=\"animal\" default=\"dromedary camel\"} is resting on a sand dune in the {argument name=\"setting\" default=\"desert\"}. The camel is light brown with a fluffy mane on its hump. The desert landscape is characterized by rolling sand dunes under a clear blue sky. The lighting suggests it is daytime, with soft shadows cast by the camel.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-15855-64",
+      "title": "Nostalgic Photo Restoration Prompt",
+      "prompt": "Soft restoration in black and white. The result should not be too contrasted or too pushed in sharpness, to preserve the grain, tone and nostalgic softness of the initial photo.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-15846-64-Dromedary-Camel-in-Desert.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-15855-64-Nostalgic-Photo-Restoration-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -153,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3275-169",
-      "title": "Resort Workcation Eyecatch Prompt (YAML Structure)",
-      "prompt": "metadata: title: \"Nano Banana Pro Design Course Eyecatch - Resort Workcation Style\" model_context: \"Luxury Resort Advertisement mixed with Digital Nomad Anime aesthetics\" image_structure: composition_type: \"Scenic Wide Shot + Integrated Typography + Character Overlay\" visual_flow: \"Background Scenery -> Huge Text -> Character Details\" layers: layer_background: shape: \"Full screen background.\" content: \"Photoreal, Breathtaking tropical beach resort at golden hour (sunset/sunrise).\" details: elements: \"Turquoise ocean, white sandy beach, palm trees swaying, luxury hotel buildings in the distance.\" atmosphere: \"Relaxing, luxurious, open, and inspiring.\" lighting: \"Warm golden sunlight mixed with tropical blue shadows.\" layer_typography_integrated: location: \"Center to Left side, integrated into the sky and horizon.\" elements: - type: \"Background Big Text\" text: \"{argument name=\"large background text\" default=\"Nano Banana Pro\"}\" style: \"Massive, semi-transparent sans-serif font standing behind the hotel/trees or blending with the clouds. White or Cyan color.\" - type: \"Overlay Script Text\" text: \"{argument name=\"overlay script text\" default=\"Creative Life\"}\" style: \"Elegant, red or dark pink handwritten script font overlaying the big text. Adds a luxury touch.\" - type: \"Bottom Banner Text\" text: \"{argument name=\"bottom banner text\" default=\"Let's become a traveling designer\"}\" style: \"Clean sans-serif text in a solid bar at the bottom or floating with a shadow.\" layer_character_foreground: location: \"Right side or Bottom-Right.\" content: \"Japanese Kawaii Anime Girl enjoying workcation.\" style: \"2D Cel-shaded anime art, vibrant and cute.\" details: subject: \"A cute anime girl in resort fashion.\" appearance: hair: \"Bright color (like orange or blonde) swaying in the sea breeze.\" clothing: \"Tropical sundress, straw hat, sunglasses on head.\" props: \"Holding a high-tech tablet or laptop, smiling confidently.\" pose: \"Relaxed but productive pose, maybe sitting on a deck chair or standing on the beach.\" layer_graphic_overlay: location: \"Bottom Left corner.\" shape: \"Abstract wave or curve shape (similar to reference).\" color: \"Translucent Lime Green or Teal gradient.\" purpose: \"Adds a modern graphic design element to frame the text.\" style_and_tone: art_style: \"Travel Magazine Cover Aesthetic\" color_palette: primary: \"Turquoise, Golden Orange, White\" secondary: \"Lime Green (Accent), Pink (Script text)\" quality_tags: - \"Best quality\" - \"Scenery focus\" - \"Cinematic lighting\" - \"Detailed water\" - \"Anime key visual\"",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3272-168",
+      "title": "Christmas Angel Design Course Eyecatch Prompt (YAML Structure)",
+      "prompt": "metadata: title: \"Nano Banana Pro Design Course Eyecatch - Christmas Angel Ver.\" model_context: \"Seasonal Christmas Advertisement mixed with Cute Anime aesthetics\" image_structure: composition_type: \"Full Background + Right Character + Left Decorated Text\" visual_flow: \"Left Text (Seasonal Benefit) -> Right Character (AI Generation Result)\" layers: layer_background_full: shape: \"Covers the entire screen.\" content: \"Luxurious Christmas interior scene.\" details: elements: \"Decorated Christmas trees with glowing lights, piles of wrapped presents, warm fireplace glow, bokeh lights in the background.\" atmosphere: \"Warm, magical, festive, with soft falling snow or glitter effect.\" focus: \"Shallow depth of field, blurring the background elements to make the foreground pop.\" layer_visual_right: shape: \"Occupies the right half of the screen.\" content: \"Japanese Kawaii Anime Angel character in Christmas outfit.\" style: \"2D Cel-shaded anime art, high detail, warm and vibrant colors.\" details: subject: \"A cute anime girl with large feathered angel wings.\" appearance: hair: \"Silver or platinum blonde hair.\" eyes: \"Large, sparkling red or green eyes.\" clothing: \"A festive Santa Claus style dress with fur trim, ribbons, and bells. A small halo or Santa hat on her head.\" pose: \"Smiling warmly, making a presenting gesture towards the text on the left.\" vfx: \"Glowing particles and soft light around her wings and halo.\" layer_typography_left: location: \"Left-aligned, positioned in the middle-left area.\" container: \"Elaborate, decorative golden frame or scroll border (Christmas ornament style) around the main text.\" elements: - type: \"Header/Hook\" text: \"{argument name=\"header text\" default=\"AIで彩る、最高の冬。\"}\" style: \"Small gold or white text above the main title.\" - type: \"Main Title\" text: \"{argument name=\"main title\" default=\"Christmas\\nDesign Course\"}\" style: \"Large, ornate, gold or red gradient font with white outline and shadow. Highly decorative.\" - type: \"Sub-Title/Benefit\" text: \"{argument name=\"subtitle\" default=\"With Nano Banana Pro,\\nseasonal materials are freely available!\"}\" style: \"Smaller white or gold text below the main title.\" - type: \"Bottom Tagline\" text: \"{argument name=\"bottom tagline\" default=\"Pro-level brilliance even for beginners\"}\" style: \"Small text at the bottom, maybe on a ribbon banner element.\" style_and_tone: art_style: \"Festive Anime Illustration with Luxurious Background\" color_palette: primary: \"Red, Green, Gold\" secondary: \"White (Snow/Wings), Warm light colors\" quality_tags: - \"High resolution\" - \"Anime key visual\" - \"Detailed background\" - \"Atmospheric lighting\" - \"Festive\"",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3275-169-Resort-Workcation-Eyecatch-Prompt-YAML-Structure.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3272-168-Christmas-Angel-Design-Course-Eyecatch-Prompt-YAML-Structure.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28338-97",
-      "title": "Dark Fantasy Paladin Duel",
-      "prompt": "A {argument name=\"warrior\" default=\"heavenly paladin\"} stands in a {argument name=\"setting\" default=\"muddy clearing inside the cursed forest\"} with his longsword raised in a defensive stance. A terrifying {argument name=\"monster\" default=\"shadow creature\"} with glowing red eyes has landed several meters in front of him, crouched low like a predatory beast with elongated claws and a twisted humanoid body. Rain pours heavily as thick fog swirls around them. Ancient dead trees surround the clearing while tension fills the air moments before the battle begins. Ultra realistic medieval dark fantasy, cinematic lighting, heavy rain, volumetric fog, photorealistic, terrifying atmosphere, highly detailed armor, 16:9.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28455-97",
+      "title": "Neo-Noir Sci-Fi Sky Portrait",
+      "prompt": "Create a low-angle neo-noir sci-fi still, chest-up portrait of a person with a {argument name=\"gaze\" default=\"slight upward gaze\"}. Place the subject in the lower-right third, leaving vast negative space with about 80 percent empty sky above. The subject wears a {argument name=\"coat\" default=\"matte shearling-collar heavy coat\"} over a dark knit sweater in a desaturated olive and charcoal palette. The background is a {argument name=\"sky\" default=\"blank, overcast sky\"} with subtle haze. Use soft ambient daylight with negative fill on camera-left. Use image for face reference.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28338-97-Dark-Fantasy-Paladin-Duel.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28455-97-Neo-Noir-Sci-Fi-Sky-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22071-272",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22071-273",
       "title": "Japanese Streetwear Magazine Collage",
       "prompt": "A {argument name=\"style\" default=\"Japanese streetwear magazine-style poster collage\"} with a gritty, urban aesthetic, featuring a main portrait of a fashionable young East Asian woman alongside smaller taped-on Polaroid-style photos showing her in different candid poses. The design uses a dark, muted color palette dominated by black, charcoal, sepia, and textured grunge details, accented by bold typography. Large, weathered Japanese kanji characters are positioned vertically on the side, surrounded by street-fashion graphic elements like barcodes, date stamps, and labels like \"STREET VISION.\" The overall look is edgy, cinematic, and modern, blending raw street photography with structured editorial layout design.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22071-272-Japanese-Streetwear-Magazine-Collage.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22071-273-Japanese-Streetwear-Magazine-Collage.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-15849-65",
-      "title": "Surreal Memory Scene Prompt",
-      "prompt": "A surreal scene that reflects memories of those days.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-15846-65",
+      "title": "Dromedary Camel in Desert",
+      "prompt": "A {argument name=\"animal\" default=\"dromedary camel\"} is resting on a sand dune in the {argument name=\"setting\" default=\"desert\"}. The camel is light brown with a fluffy mane on its hump. The desert landscape is characterized by rolling sand dunes under a clear blue sky. The lighting suggests it is daytime, with soft shadows cast by the camel.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-15849-65-Surreal-Memory-Scene-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-15846-65-Dromedary-Camel-in-Desert.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,16 +324,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3178-170",
-      "title": "Split-Screen YouTube Thumbnail: JD Vance Political Commentary",
-      "prompt": "Split-screen YouTube thumbnail composition. LEFT SIDE (60%): JD Vance's face, professional warm lighting, determined confident expression with slight smirk, slight low angle shot looking up, high contrast and saturated colors, dark blurred background, heroic and resolute mood. RIGHT SIDE (40%): Shattered fractured glass effect overlaying darkened desaturated images of MAGA supporters and political figures pulling in different directions, visible crack lines and fragmentation throughout, chaotic and divided composition, dark grays and muted reds, broken and unstable visual. TOP OF ENTIRE THUMBNAIL: Bold yellow text with thick black outline reading \"{argument name=\"text\" default=\"JD VANCE DESTROYS THE PLOT\"}\", text spans across both sides at top third.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3275-170",
+      "title": "Resort Workcation Eyecatch Prompt (YAML Structure)",
+      "prompt": "metadata: title: \"Nano Banana Pro Design Course Eyecatch - Resort Workcation Style\" model_context: \"Luxury Resort Advertisement mixed with Digital Nomad Anime aesthetics\" image_structure: composition_type: \"Scenic Wide Shot + Integrated Typography + Character Overlay\" visual_flow: \"Background Scenery -> Huge Text -> Character Details\" layers: layer_background: shape: \"Full screen background.\" content: \"Photoreal, Breathtaking tropical beach resort at golden hour (sunset/sunrise).\" details: elements: \"Turquoise ocean, white sandy beach, palm trees swaying, luxury hotel buildings in the distance.\" atmosphere: \"Relaxing, luxurious, open, and inspiring.\" lighting: \"Warm golden sunlight mixed with tropical blue shadows.\" layer_typography_integrated: location: \"Center to Left side, integrated into the sky and horizon.\" elements: - type: \"Background Big Text\" text: \"{argument name=\"large background text\" default=\"Nano Banana Pro\"}\" style: \"Massive, semi-transparent sans-serif font standing behind the hotel/trees or blending with the clouds. White or Cyan color.\" - type: \"Overlay Script Text\" text: \"{argument name=\"overlay script text\" default=\"Creative Life\"}\" style: \"Elegant, red or dark pink handwritten script font overlaying the big text. Adds a luxury touch.\" - type: \"Bottom Banner Text\" text: \"{argument name=\"bottom banner text\" default=\"Let's become a traveling designer\"}\" style: \"Clean sans-serif text in a solid bar at the bottom or floating with a shadow.\" layer_character_foreground: location: \"Right side or Bottom-Right.\" content: \"Japanese Kawaii Anime Girl enjoying workcation.\" style: \"2D Cel-shaded anime art, vibrant and cute.\" details: subject: \"A cute anime girl in resort fashion.\" appearance: hair: \"Bright color (like orange or blonde) swaying in the sea breeze.\" clothing: \"Tropical sundress, straw hat, sunglasses on head.\" props: \"Holding a high-tech tablet or laptop, smiling confidently.\" pose: \"Relaxed but productive pose, maybe sitting on a deck chair or standing on the beach.\" layer_graphic_overlay: location: \"Bottom Left corner.\" shape: \"Abstract wave or curve shape (similar to reference).\" color: \"Translucent Lime Green or Teal gradient.\" purpose: \"Adds a modern graphic design element to frame the text.\" style_and_tone: art_style: \"Travel Magazine Cover Aesthetic\" color_palette: primary: \"Turquoise, Golden Orange, White\" secondary: \"Lime Green (Accent), Pink (Script text)\" quality_tags: - \"Best quality\" - \"Scenery focus\" - \"Cinematic lighting\" - \"Detailed water\" - \"Anime key visual\"",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3178-170-Split-Screen-YouTube-Thumbnail-JD-Vance-Political-Commentary.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3275-170-Resort-Workcation-Eyecatch-Prompt-YAML-Structure.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -343,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28214-98",
-      "title": "Handcrafted Paper Diorama Transformation",
-      "prompt": "Transform the {argument name=\"input\" default=\"uploaded portrait\"} into a {argument name=\"style\" default=\"whimsical handcrafted paper diorama illustration\"} with a soft cute aesthetic. Reimagine the people using {argument name=\"elements\" default=\"simplified layered paper shapes, rounded forms, and minimal facial details\"} suitable for paper craft art. Preserve the affectionate pose and emotional warmth of the original image while giving everything a charming handmade appearance.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28338-98",
+      "title": "Dark Fantasy Paladin Duel",
+      "prompt": "A {argument name=\"warrior\" default=\"heavenly paladin\"} stands in a {argument name=\"setting\" default=\"muddy clearing inside the cursed forest\"} with his longsword raised in a defensive stance. A terrifying {argument name=\"monster\" default=\"shadow creature\"} with glowing red eyes has landed several meters in front of him, crouched low like a predatory beast with elongated claws and a twisted humanoid body. Rain pours heavily as thick fog swirls around them. Ancient dead trees surround the clearing while tension fills the air moments before the battle begins. Ultra realistic medieval dark fantasy, cinematic lighting, heavy rain, volumetric fog, photorealistic, terrifying atmosphere, highly detailed armor, 16:9.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28214-98-Handcrafted-Paper-Diorama-Transformation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28338-98-Dark-Fantasy-Paladin-Duel.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22009-274",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22009-275",
       "title": "Cinematic Subway Motion Blur Portrait",
       "prompt": "Cinematic urban scene of a man as per reference photo standing still on a subway platform while a train speeds by, motion blur from the train and people passing by surrounds him, the subject remains sharp and still. Composition: subject is in the center, strong contrast between stillness and movement, blurred foreground silhouette, dynamic background streaks. Environment: subway station, urban setting, moving train with light trails, moving crowd, city atmosphere. Lighting: mixed ambient lighting, soft artificial light, subtle glow from train windows, cinematic shadow depth. Details: motion blur on trains and people, slight grain, realistic clothing textures, natural body postures, environmental reflections. Art style: cinematic realism, film still photography, high dynamic range (HDR), natural imperfections. Color grading: {argument name=\"shadow color\" default=\"deep teal/dark cyan\"} shadows across the background and moving areas, neutral cool midtones, warm {argument name=\"highlight color\" default=\"dusty orange\"} highlights from the train lights and motion trails, cinematic contrast. Camera: 35mm lens, slow shutter effect, shallow depth of field. Mood: lonely, introspective, urban, fast-paced world vs. calm mind, cinematic. Quality: very detailed, 4k, motion blur, film grain, fine bloom. Aspect ratio: 9:16. Long exposure effect, cinematic light streaks, subtle lens blur, analog film texture, soft glow highlights.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22009-274-Cinematic-Subway-Motion-Blur-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22009-275-Cinematic-Subway-Motion-Blur-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -419,16 +419,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-13310-66",
-      "title": "Image Editing Prompt for Nano Banana 2",
-      "prompt": "remove the drummer and the drum kit, leave everything else exactly as is.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-15849-66",
+      "title": "Surreal Memory Scene Prompt",
+      "prompt": "A surreal scene that reflects memories of those days.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13310-66-Image-Editing-Prompt-for-Nano-Banana-2.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-15849-66-Surreal-Memory-Scene-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -495,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3161-175",
-      "title": "Tiny People, Giant Problem Diorama Prompt",
-      "prompt": "A miniature diorama showing tiny {argument name=\"PEOPLE / CHARACTERS\" default=\"PEOPLE / CHARACTERS\"} struggling with an oversized {argument name=\"EVERYDAY OBJECT\" default=\"EVERYDAY OBJECT\"}. Exaggerated scale contrast, expressive poses, cinematic lighting. Ultra-detailed props, handcrafted realism, macro lens perspective.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3178-171",
+      "title": "Split-Screen YouTube Thumbnail: JD Vance Political Commentary",
+      "prompt": "Split-screen YouTube thumbnail composition. LEFT SIDE (60%): JD Vance's face, professional warm lighting, determined confident expression with slight smirk, slight low angle shot looking up, high contrast and saturated colors, dark blurred background, heroic and resolute mood. RIGHT SIDE (40%): Shattered fractured glass effect overlaying darkened desaturated images of MAGA supporters and political figures pulling in different directions, visible crack lines and fragmentation throughout, chaotic and divided composition, dark grays and muted reds, broken and unstable visual. TOP OF ENTIRE THUMBNAIL: Bold yellow text with thick black outline reading \"{argument name=\"text\" default=\"JD VANCE DESTROYS THE PLOT\"}\", text spans across both sides at top third.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3161-175-Tiny-People-Giant-Problem-Diorama-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3178-171-Split-Screen-YouTube-Thumbnail-JD-Vance-Political-Commentary.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28090-99",
-      "title": "Cinematic B&W Noir Rain Portrait",
-      "prompt": "A stunning cinematic black and white portrait of a {argument name=\"subject\" default=\"young male figure\"} standing alone in {argument name=\"weather\" default=\"heavy rain\"} at night, shown in three-quarter profile with head bowed slightly downward and gaze directed downward — expression heavy, melancholic, and deeply introspective, conveying quiet grief or solitary burden. He wears a {argument name=\"clothing\" default=\"dark leather jacket\"} with a high structured collar turned up slightly at the neck, layered over a dark turtleneck or base layer — the jacket surface catching rain droplets and glistening with wet leather texture. His dark curly-wavy hair is soaking wet, matted and sculpted by the rain against his forehead and temples. The rain falls heavily and dramatically throughout the entire frame — individual rain streaks rendered sharp and bright against the near-black background, falling at a very slight diagonal angle, some streaks motion-blurred into bright vertical lines while others are frozen as individual droplets. The rain is the dominant visual texture of the entire image — filling every inch of the dark background with bright falling streaks creating an almost graphic, painterly quality. The lighting is a single cold directional light from the upper left — catching the top of his wet hair, the left side of his forehead, the ridge of his nose, and the edge of his jaw and collar in bright silver-white highlights, while the right side of his face and body fall into deep black shadow. The overall black and white treatment is high contrast and graphic — deep rich blacks, bright silver highlights, no mid-grey — creating a Sin City or graphic novel aesthetic. Color palette: pure black and white, no color — deep black, bright silver-white rain streaks, grey skin tones. Photography style: cinematic high-contrast black and white, graphic noir rain portrait, 85mm lens, shallow depth of field, photorealistic, 8K. Use the provided face reference image for all facial details — bone structure, profile shape, nose, jawline, and skin tone should be taken entirely from the reference photo. Apply only the high-contrast black and white treatment, heavy rain, bowed melancholic expression, and cold directional lighting on top of the reference face.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28214-99",
+      "title": "Handcrafted Paper Diorama Transformation",
+      "prompt": "Transform the {argument name=\"input\" default=\"uploaded portrait\"} into a {argument name=\"style\" default=\"whimsical handcrafted paper diorama illustration\"} with a soft cute aesthetic. Reimagine the people using {argument name=\"elements\" default=\"simplified layered paper shapes, rounded forms, and minimal facial details\"} suitable for paper craft art. Preserve the affectionate pose and emotional warmth of the original image while giving everything a charming handmade appearance.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28090-99-Cinematic-B-W-Noir-Rain-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28214-99-Handcrafted-Paper-Diorama-Transformation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-21813-279",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-21813-280",
       "title": "The Breath of Basalt Surrealist Portrait",
       "prompt": "{\"vibe_title_en\": \"The Breath of Basalt: An Autopoiesis in Stone and Flesh\", \"master_prompt\": \"A hyper-realistic, medium format photographic masterpiece of The Protagonist, shot from the chest up in a perfectly centered, symmetrical 'Power-Mid' composition. The subject is captured in an impossible state of photographic surrealism: their lower torso and shoulders are seamlessly merged into a massive, jagged block of raw grey marble, looking as if they are chiseling themselves into existence. This surreal element is executed as a high-budget practical effect, featuring a hyper-detailed physical transition from the warm, porous texture of natural human skin to the cold, crystalline structure of fractured stone. The Protagonist looks directly through the lens with relaxed facial muscles and a timeless, contemplative gaze. The environment is an overwhelmingly dense and busy surreal quarry bordering a misty alpine lake. The frame is heavily packed with foreground occlusion: floating shards of shattered stone suspended in mid-air by invisible wires, thick clouds of coarse rock dust motes catching the light, and a heavy steel sculptor's hammer caught in frozen, blurred motion near the edge of the frame. Thick volumetric fog, atmospheric haze, and towering jagged peaks fill every inch of spatial volume, creating deep, overlapping layers of geological debris in the soft-focus background. Tack-sharp focus on the subject's eyes at f/1.8. Shot on a Hasselblad H6D-100c with an 80mm prime lens. Lighting features large soft-boxes on both sides to provide even, shadow-less illumination on the face, contrasting beautifully with the cool, misty cyan and slate-grey cinematic tones of the chaotic background. Kodak Portra 160 film stock, capturing microscopic skin pores, fine stone dust settling on eyelashes, and authentic analog film grain. No neon. A monumental collision of calm symmetry and dense environmental chaos.\", \"meta\": {\"intent\": \"To create a hyper-realistic surreal photograph blending portraiture with impossible physical materials and extreme environmental density.\", \"priorities\": \"Center symmetry, impossible skin-to-stone transition, dense volumetric atmosphere, soft-box facial lighting, shallow depth of field.\", \"device_profile\": \"High-resolution desktop and retina mobile displays\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"Centered Power-Mid, absolute horizontal symmetry\", \"layout\": \"Subject dead-center in the upper third, completely filling the midground, surrounded by highly dense foreground debris\", \"camera_angle\": \"Eye-level, direct engagement\", \"tilt_roll_degrees\": \"0 degrees, perfectly level\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless, ethereal yet grounded presence\", \"face\": \"Symmetrical, relaxed facial muscles, calm yet piercing gaze, hyper-detailed skin texture with fine stone dust on eyelashes\", \"hair\": \"Softly textured, catching side light, slightly dusted with marble powder\", \"body\": \"Chest-up visibility, lower torso physically morphing into raw, jagged marble block\", \"expression\": \"Timeless, contemplative, looking directly through the lens\", \"pose\": \"Static, statuesque, emerging from the stone base\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Geological casing acting as the lower body\", \"material\": \"Raw, jagged slate and crystalline marble\", \"color\": \"Cool grey, white, and charcoal\", \"fit\": \"Seamlessly fused with the subject's epidermis\"}], \"accessories\": [{\"item\": \"Floating shattered stone shards and rock dust\", \"color\": \"Ash grey\", \"material\": \"Granite and marble fragments\", \"brand_style\": \"High-budget practical effect props\"}, {\"item\": \"Steel sculptor's hammer (suspended in foreground)\", \"color\": \"Rusted metallic and dark wood\", \"material\": \"Steel and oak\", \"brand_style\": \"Vintage, heavy industrial\"}]}, \"environment\": {\"setting\": \"A highly dense, surreal stone quarry bordering a misty alpine lake\", \"surfaces\": \"Rough, fractured rock faces, rippling water, coarse floating debris\", \"depth\": \"Extreme depth created by volumetric fog, foreground occlusion (floating rocks), and distant towering mountains\", \"atmosphere\": \"Overwhelmingly dense, thick with rock dust motes, heavy mist, and suspended debris\", \"lens_interaction\": \"Foreground debris heavily blurred, soft-focus background, tack-sharp subject\"}, \"lighting\": {\"key\": \"Large soft-box from the left providing even facial illumination\", \"fill\": \"Large soft-box from the right ensuring shadow-less, perfectly symmetrical skin tones\", \"rim\": \"Cool daylight spilling through the dense fog to outline the rough edges of the stone\", \"shadows\": \"Deep and soft in the background, almost nonexistent on the subject's face\", \"color_temperature\": \"Cool cinematic tones (5500K-6000K) dominating the background, neutral skin tones\", \"sensor_flare\": \"Subtle blooming from the thick atmospheric mist\"}, \"camera\": {\"lens_type\": \"Medium Format Prime\", \"focal_length\": \"80mm\", \"aperture\": \"f/1.8\", \"focus\": \"Tack-sharp on the subject's irises, rapid falloff into extreme bokeh for the environment\", \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\", \"perspective_distortion\": \"None, perfectly flat and flattering portraiture perspective\"}, \"post_processing\": {\"color\": \"Muted cyan and slate-grey cinematic grading, natural well-lit skin tones\", \"tonality\": \"High micro-contrast on the stone and skin, low contrast in the misty background\", \"texture\": \"Prominent Kodak Portra 160 film grain, microscopic skin pores and crystalline rock details\", \"digital_sharpening\": \"Minimal, relying on optical lens sharpness\", \"chromatic_aberration\": \"Very subtle on the extreme foreground floating rocks\"}, \"negative_specifications\": [\"neon lighting\", \"cyberpunk elements\", \"digital painting aesthetic\", \"cartoonish physics\", \"flat studio backdrops\", \"empty or minimalist background\", \"harsh shadows on face\", \"asymmetrical framing\"]}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-21813-279-The-Breath-of-Basalt-Surrealist-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-21813-280-The-Breath-of-Basalt-Surrealist-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +590,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-13315-67",
-      "title": "Image Adjustment Prompt for Nano Banana",
-      "prompt": "Keep the person and flower the exact same but change the background colour to midnight black/slight blue",
+      "id": "xianyu-multi-model:ym-ai-skill-others-13310-67",
+      "title": "Image Editing Prompt for Nano Banana 2",
+      "prompt": "remove the drummer and the drum kit, leave everything else exactly as is.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13315-67-Image-Adjustment-Prompt-for-Nano-Banana.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13310-67-Image-Editing-Prompt-for-Nano-Banana-2.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3149-176",
-      "title": "Architectural Diorama Coin Art Grid Prompt",
-      "prompt": "A 2x2 grid of ancient currency that has morphed into architectural dioramas. [Top Left: Egypt - A gold coin where the pyramid is a cutaway revealing a {argument name=\"Random Tomb Interior\" default=\"Random Tomb Interior\"} with tiny mummies] [Top Right: Rome - A silver Denarius where the Colosseum rises up, containing a {argument name=\"Random Gladiator Fight\" default=\"Random Gladiator Fight\"} with moving figures] [Bottom Left: Aztec - A stone disk coin where the temple steps open to reveal a {argument name=\"Random Jungle Overgrowth\" default=\"Random Jungle Overgrowth\"} taking over] [Bottom Right: China - A bronze coin with a square hole, featuring the Great Wall winding out of the coin into a {argument name=\"Random Mountain Landscape\" default=\"Random Mountain Landscape\"}] Archaeological photography, dusty textures, sun-drenched lighting, distinct cultural styles, sharp focus.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3161-176",
+      "title": "Tiny People, Giant Problem Diorama Prompt",
+      "prompt": "A miniature diorama showing tiny {argument name=\"PEOPLE / CHARACTERS\" default=\"PEOPLE / CHARACTERS\"} struggling with an oversized {argument name=\"EVERYDAY OBJECT\" default=\"EVERYDAY OBJECT\"}. Exaggerated scale contrast, expressive poses, cinematic lighting. Ultra-detailed props, handcrafted realism, macro lens perspective.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3149-176-Architectural-Diorama-Coin-Art-Grid-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3161-176-Tiny-People-Giant-Problem-Diorama-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28080-100",
-      "title": "Mixed Media Cinematic Portrait Illustration",
-      "prompt": "Ultra-detailed {argument name=\"style\" default=\"neo-editorial cinematic portrait illustration\"} rendered in a hybrid semi-realistic painterly-engineering style, combining refined anatomical realism with expressive sketch abstraction and futuristic conceptual drafting. The artwork fuses elegant graphite fashion illustration, architectural blueprint aesthetics, and richly layered digital painting into a visually immersive mixed-media composition. Human anatomy is highly accurate and sculptural, featuring luminous skin gradients, tactile pores, subtle wrinkles, refined facial contours, and soft glossy highlights. Facial rendering is extremely expressive and emotionally cinematic, with sharp eyes, delicately shaded brows, natural lips, and dramatic warm rim lighting blending golden-orange glow with cool bluish atmospheric reflections. Smooth polished rendering transitions coexist with rough textured brushwork, etched shading, and visible painterly grain. Fine ultra-thin micro-line drafting overlays merge seamlessly with loose hand-drawn sketch strokes, cross-hatching, technical contour lines, and schematic construction marks. Portions of the composition intentionally retain unfinished artistic energy: faded edges, dissolving contours, partially erased strokes, and fragmented geometric segmentation inspired by cubist blueprint structures. Certain body and fabric areas transform into layered painterly abstraction with watercolor diffusion, acrylic textures, expressive oil-like sweeps, and deconstructed mixed-media detailing. Lighting is highly cinematic and directional, creating deep volumetric shadows and glowing highlights with dramatic editorial contrast. The composition balances softness and structure—warm sepia shadows, sculpted highlights, and atmospheric diffusion enhance emotional depth while maintaining precision-engineered visual control. Background features a fusion of textured parchment surfaces and futuristic technical collage aesthetics: faint diagrams, circles, architectural annotations, handwritten marks, layered scratches, drafting elements, grain textures, faded paper imperfections, and atmospheric painterly haze. The environment feels both vintage and futuristic, combining analog artistic charm with advanced conceptual design language. Color palette blends earthy sophistication with vibrant cinematic accents: {argument name=\"colors\" default=\"warm beige, creamy ivory, ochre, burnt orange, golden yellow, sepia brown, muted charcoal, deep bluish-green, cobalt blue, and subtle black-red highlights\"}. Tonal harmony emphasizes warm desaturated realism contrasted by luminous energetic accent colors. Overall aesthetic is intimate, melancholic, elegant, high-fashion, cinematic, and emotionally powerful—an artistic fusion of vintage sketchbook illustration, futuristic engineering draftsmanship, cubist fragmentation, expressive oil painting, and contemporary editorial digital realism. No text, no logo and no watermark. R 9:16.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28090-100",
+      "title": "Cinematic B&W Noir Rain Portrait",
+      "prompt": "A stunning cinematic black and white portrait of a {argument name=\"subject\" default=\"young male figure\"} standing alone in {argument name=\"weather\" default=\"heavy rain\"} at night, shown in three-quarter profile with head bowed slightly downward and gaze directed downward — expression heavy, melancholic, and deeply introspective, conveying quiet grief or solitary burden. He wears a {argument name=\"clothing\" default=\"dark leather jacket\"} with a high structured collar turned up slightly at the neck, layered over a dark turtleneck or base layer — the jacket surface catching rain droplets and glistening with wet leather texture. His dark curly-wavy hair is soaking wet, matted and sculpted by the rain against his forehead and temples. The rain falls heavily and dramatically throughout the entire frame — individual rain streaks rendered sharp and bright against the near-black background, falling at a very slight diagonal angle, some streaks motion-blurred into bright vertical lines while others are frozen as individual droplets. The rain is the dominant visual texture of the entire image — filling every inch of the dark background with bright falling streaks creating an almost graphic, painterly quality. The lighting is a single cold directional light from the upper left — catching the top of his wet hair, the left side of his forehead, the ridge of his nose, and the edge of his jaw and collar in bright silver-white highlights, while the right side of his face and body fall into deep black shadow. The overall black and white treatment is high contrast and graphic — deep rich blacks, bright silver highlights, no mid-grey — creating a Sin City or graphic novel aesthetic. Color palette: pure black and white, no color — deep black, bright silver-white rain streaks, grey skin tones. Photography style: cinematic high-contrast black and white, graphic noir rain portrait, 85mm lens, shallow depth of field, photorealistic, 8K. Use the provided face reference image for all facial details — bone structure, profile shape, nose, jawline, and skin tone should be taken entirely from the reference photo. Apply only the high-contrast black and white treatment, heavy rain, bowed melancholic expression, and cold directional lighting on top of the reference face.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28080-100-Mixed-Media-Cinematic-Portrait-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28090-100-Cinematic-B-W-Noir-Rain-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-21631-288",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-21631-289",
       "title": "Vintage Watercolor Travel Posters",
       "prompt": "A pair of vintage-style travel poster illustrations by A. Moreau, featuring a whimsical, hand-drawn {argument name=\"style\" default=\"watercolor aesthetic\"} with crisp ink outlines. The first scene depicts a charming {argument name=\"first location\" default=\"Swiss alpine village\"} street lined with traditional wooden chalets, flower-filled window boxes, a \"Café des Cimes,\" a Bernese Mountain Dog, and a yellow vintage PostAuto bus, all set against a majestic backdrop of snow-capped mountains. The second scene captures a vibrant {argument name=\"second location\" default=\"Parisian street in Montmartre\"} with colorful Haussmann-style buildings, a \"Café des Artistes,\" a French Bulldog, a classic green tram on cobblestone tracks, and the Eiffel Tower rising in the background. Both illustrations include diverse crowds of locals and tourists enjoying the scenery, dressed in classic casual attire, complete with stylized cursive and serif typography at the top celebrating each destination's unique character.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-21631-288-Vintage-Watercolor-Travel-Posters.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-21631-289-Vintage-Watercolor-Travel-Posters.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-13278-68",
-      "title": "Yin and Yang Koi Fish Sumi-e Prompt",
-      "prompt": "Yin and Yang, two koi fish, one white, one black, minimalist Japanese sumi-e ink painting, black ink on white background with Washi paper texture, big Japanese red Hanko stamp signature, zen style, centred composition, studio lighting",
+      "id": "xianyu-multi-model:ym-ai-skill-others-13315-68",
+      "title": "Image Adjustment Prompt for Nano Banana",
+      "prompt": "Keep the person and flower the exact same but change the background colour to midnight black/slight blue",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13278-68-Yin-and-Yang-Koi-Fish-Sumi-e-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13315-68-Image-Adjustment-Prompt-for-Nano-Banana.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,16 +837,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3135-177",
-      "title": "Corporate Tech/Anime Eyecatch Image Prompt",
-      "prompt": "metadata: model_context: \"Corporate Tech, High-Energy Business Youtube Thumbnail mixed with Anime Art\" image_structure: composition_type: \"Diagonal Split Layout (Arrowhead Shape)\" visual_flow: \"Left Text (Problem/Solution) -> Right Visual (Result/Character)\" layers: layer_background_left: shape: \"Geometric polygon covering left 60% of screen, with a sharp arrow-point extending into the right side\" color: \"Matte Black (#1A1A1A)\" texture: \"Subtle carbon fiber or mesh pattern to add tech depth\" layer_typography: location: \"Centered within the left black area\" alignment: \"Left-aligned or Centered\" elements: - type: \"Headline (Main)\" text: \"{argument name=\"main headline\" default=\"Design to Earn\\nwith AI Side Jobs\"}\" style: \"Extremely bold, heavy Gothic font (Impact style). White text.\" highlight: \"Apply Bright Yellow (#FFD700) color to the word '稼ぐ' (Earn) and 'AI'\" - type: \"Sub-Headline (Detail)\" text: \"{argument name=\"sub headline\" default=\"Complete Guide to Nano Banana Pro\"}\" style: \"Smaller white sans-serif text, clean and readable\" - type: \"Body Text (Explanation)\" text: \"{argument name=\"explanation text\" default=\"From beginner to professional quality.\\nCourse aiming for monetization via the shortest route.\"}\" style: \"Small, thin grey or white text block, justified layout\" layer_cta_button: shape: \"Rounded Pill Shape\" color: \"Bright Yellow (#FFD700)\" text: \"{argument name=\"CTA text\" default=\"Apply Now ▶\"}\" text_color: \"Black\" location: \"Bottom left, below the text block\" style: \"Flat design with slight drop shadow\" layer_visual_right: shape: \"Fills the remaining right side (behind the arrow overlap)\" content: \"Japanese Kawaii Anime Girl illustration\" style: \"2D Cel-shaded anime art, high detail, vibrant colors\" details: subject: \"A cute anime girl with a futuristic / cyber-fashion look\" appearance: hair: \"Pastel pink and blue gradient bob cut, with cyber hair clips\" eyes: \"Large sparkling anime eyes, confident smile\" clothing: \"Stylish tech-wear hoodie with yellow accents to match the background theme\" pose: \"Dynamic pose, pointing finger towards the text on the left or giving a thumbs up\" background_context: \"Simple light grey or white background with abstract pop patterns (dots/stars) to make the character stand out\" style_and_tone: art_style: \"Modern Corporate Tech Design mixed with Japanese Anime aesthetics\" color_palette: primary: \"Black, Yellow\" secondary: \"Pastel Pink/Blue (Character), White\"",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-3149-177",
+      "title": "Architectural Diorama Coin Art Grid Prompt",
+      "prompt": "A 2x2 grid of ancient currency that has morphed into architectural dioramas. [Top Left: Egypt - A gold coin where the pyramid is a cutaway revealing a {argument name=\"Random Tomb Interior\" default=\"Random Tomb Interior\"} with tiny mummies] [Top Right: Rome - A silver Denarius where the Colosseum rises up, containing a {argument name=\"Random Gladiator Fight\" default=\"Random Gladiator Fight\"} with moving figures] [Bottom Left: Aztec - A stone disk coin where the temple steps open to reveal a {argument name=\"Random Jungle Overgrowth\" default=\"Random Jungle Overgrowth\"} taking over] [Bottom Right: China - A bronze coin with a square hole, featuring the Great Wall winding out of the coin into a {argument name=\"Random Mountain Landscape\" default=\"Random Mountain Landscape\"}] Archaeological photography, dusty textures, sun-drenched lighting, distinct cultural styles, sharp focus.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3135-177-Corporate-Tech-Anime-Eyecatch-Image-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-3149-177-Architectural-Diorama-Coin-Art-Grid-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -856,16 +856,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-27973-103",
-      "title": "4-Panel Manga Vision Test",
-      "prompt": "{argument name=\"format\" default=\"4-panel manga\"} {argument name=\"theme\" default=\"vision test using symbols\"} Eye exam using {argument name=\"brand name\" default=\"Chanel\"}'s Azura Azura!",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-28080-101",
+      "title": "Mixed Media Cinematic Portrait Illustration",
+      "prompt": "Ultra-detailed {argument name=\"style\" default=\"neo-editorial cinematic portrait illustration\"} rendered in a hybrid semi-realistic painterly-engineering style, combining refined anatomical realism with expressive sketch abstraction and futuristic conceptual drafting. The artwork fuses elegant graphite fashion illustration, architectural blueprint aesthetics, and richly layered digital painting into a visually immersive mixed-media composition. Human anatomy is highly accurate and sculptural, featuring luminous skin gradients, tactile pores, subtle wrinkles, refined facial contours, and soft glossy highlights. Facial rendering is extremely expressive and emotionally cinematic, with sharp eyes, delicately shaded brows, natural lips, and dramatic warm rim lighting blending golden-orange glow with cool bluish atmospheric reflections. Smooth polished rendering transitions coexist with rough textured brushwork, etched shading, and visible painterly grain. Fine ultra-thin micro-line drafting overlays merge seamlessly with loose hand-drawn sketch strokes, cross-hatching, technical contour lines, and schematic construction marks. Portions of the composition intentionally retain unfinished artistic energy: faded edges, dissolving contours, partially erased strokes, and fragmented geometric segmentation inspired by cubist blueprint structures. Certain body and fabric areas transform into layered painterly abstraction with watercolor diffusion, acrylic textures, expressive oil-like sweeps, and deconstructed mixed-media detailing. Lighting is highly cinematic and directional, creating deep volumetric shadows and glowing highlights with dramatic editorial contrast. The composition balances softness and structure—warm sepia shadows, sculpted highlights, and atmospheric diffusion enhance emotional depth while maintaining precision-engineered visual control. Background features a fusion of textured parchment surfaces and futuristic technical collage aesthetics: faint diagrams, circles, architectural annotations, handwritten marks, layered scratches, drafting elements, grain textures, faded paper imperfections, and atmospheric painterly haze. The environment feels both vintage and futuristic, combining analog artistic charm with advanced conceptual design language. Color palette blends earthy sophistication with vibrant cinematic accents: {argument name=\"colors\" default=\"warm beige, creamy ivory, ochre, burnt orange, golden yellow, sepia brown, muted charcoal, deep bluish-green, cobalt blue, and subtle black-red highlights\"}. Tonal harmony emphasizes warm desaturated realism contrasted by luminous energetic accent colors. Overall aesthetic is intimate, melancholic, elegant, high-fashion, cinematic, and emotionally powerful—an artistic fusion of vintage sketchbook illustration, futuristic engineering draftsmanship, cubist fragmentation, expressive oil painting, and contemporary editorial digital realism. No text, no logo and no watermark. R 9:16.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-27973-103-4-Panel-Manga-Vision-Test.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-28080-101-Mixed-Media-Cinematic-Portrait-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Comic / Storyboard"
       ],
       "author": "YouMind OpenLab",
@@ -913,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-21461-292",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-21461-293",
       "title": "Watercolor Affirmation Illustration",
       "prompt": "A beautiful watercolor illustration of a smiling, young woman with {argument name=\"hair style\" default=\"long, wavy brown hair\"}, wearing a {argument name=\"outfit\" default=\"flowing purple dress\"}. She is surrounded by a serene background of {argument name=\"scenery\" default=\"soft purple lavender fields and delicate cherry blossom branches\"}. Taped around her are several whimsical, handwritten note snippets with uplifting affirmations like \"Embrace your magic,\" \"Kindness is powerful,\" \"You are enough, always,\" and a \"A note to self\" checklist about personal growth. The overall aesthetic is dreamy, magical, and deeply encouraging.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-21461-292-Watercolor-Affirmation-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-21461-293-Watercolor-Affirmation-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -932,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-13286-69",
-      "title": "South Asian Male Character Illustration Prompt for Gemini Nano Banana Pro",
-      "prompt": "\"A high-quality digital illustration of a handsome South Asian male character with a well-groomed beard and stylishly swept-back dark hair. He is wearing a traditional cream-colored kurta with an intricate white embroidered neckline and a blue floral patterned shawl draped over his shoulders. The art style is a blend of clean semi-realism and watercolor aesthetic. The background features a vintage study setting with aged parchment papers, floating feathers, ink splatters, and a wooden desk with a quill and lamp. Soft, warm lighting with a focus on fine facial details and a scholarly, artistic atmosphere.\" ​Key Elements for Consistency: ​Art Style: Semi-realistic digital painting with watercolor textures. ​Color Palette: Cream, muted teal/blue, and earthy parchment tones. ​Motifs: Calligraphy papers, feathers, and ink blots to maintain the \"writer/scholar\" vibe.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-13278-69",
+      "title": "Yin and Yang Koi Fish Sumi-e Prompt",
+      "prompt": "Yin and Yang, two koi fish, one white, one black, minimalist Japanese sumi-e ink painting, black ink on white background with Washi paper texture, big Japanese red Hanko stamp signature, zen style, centred composition, studio lighting",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13286-69-South-Asian-Male-Character-Illustration-Prompt-for-Gemini-Nano-Banana-Pro.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-13278-69-Yin-and-Yang-Koi-Fish-Sumi-e-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

@@ -1,12 +1,31 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-24223-155",
-      "title": "Vintage Noir Ink Illustration",
-      "prompt": "{argument name=\"style\" default=\"High-contrast vintage ink illustration\"}, {argument name=\"aesthetic\" default=\"retro noir graphic novel\"} aesthetic, bold monochrome rendering with dominant black ink and off-white tones, strong silhouette emphasis, rough expressive brush strokes combined with dry-brush texture, heavy grain and paper noise, distressed print effect, halftone and ink bleed imperfections, hand-drawn cross-hatching and scratchy linework, gritty analog print style, screenprint/poster-like finish, limited color palette with striking flat background (solid {argument name=\"background color\" default=\"red\"} or bold single color), dramatic negative space usage, cinematic composition with layered collage structure, mixed scale elements (oversized upper figure + smaller narrative scene below), editorial illustration style, mid-20th century pulp magazine influence, slightly abstracted anatomy with exaggerated wrinkles and texture, raw imperfect edges, splatter and ink blot accents, matte finish with minimal gloss, high visual tension, stark lighting with deep shadows and blown highlights, minimal gradients (mostly flat tones), distressed typography integration feel (optional), vintage propaganda/poster vibe Important addition (to keep face/object consistent & usable for other objects): preserve original facial structure, maintain exact proportions and identity, no distortion on main subject, style applied only to rendering and environment, consistent facial integrity, modular composition, subject-agnostic style, adaptable to any central object without altering its form.",
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-11715-129",
+      "title": "Kling AI + Google Nano Banana Pro Prompt (Video and Image)",
+      "prompt": "Image 1 - Studio breakfast shot where a fluffy omelette folds over itself in slow motion on a white background revealing vegetables and cheese inside. Image 2 - Exploded vertical food infographic of a fluffy omelette on a clean white studio background. The omelette separated into floating layers showing top egg layer, melted cheese layer stretching, sautéed vegetable filling (spinach, mushrooms, diced tomatoes), and bottom egg layer. Each component labeled with bold annotation blocks and clean connector lines pointing to the ingredients. Labels include Egg Layer, Cheese Melt, Spinach, Mushrooms, Tomatoes, Vegetable Filling. Minimal modern infographic design, bright commercial food photography style, crisp textures, soft studio lighting, premium recipe visualization aesthetic.",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-11715-129-Kling-AI-Google-Nano-Banana-Pro-Prompt-Video-and-Image.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-24391-155",
+      "title": "Romantic Garden Watercolor Illustration",
+      "prompt": "A soft and bright watercolor illustration of a romantic young couple sitting closely together on a rustic wooden garden bench. The man has {argument name=\"hair style\" default=\"styled strawberry blond hair\"}, wears a light blue pajama set with gold piping, and smiles warmly while holding a vibrant, hand-tied bouquet of {argument name=\"flowers\" default=\"orange ranunculus, purple irises, and delicate blue wildflowers\"}. The woman, with long wavy ginger-red hair, wears soft pink pajamas and leans affectionately against his shoulder, holding a copper mug. They are surrounded by a lush, sunlit garden filled with climbing roses and blooming flowers in soft pastel tones of peach, pink, yellow, and lavender. In the background, a white picket fence and a garden archway peek through the greenery under a light, airy sky. In the foreground, a small wooden side table holds a potted succulent and decorative lanterns in a woven basket, all rendered in a beautiful, translucent watercolor wash technique with soft, luminous lighting.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-24223-155-Vintage-Noir-Ink-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-24391-155-Romantic-Garden-Watercolor-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12222-497",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12222-498",
       "title": "Cinematic Poster of Five Models with Vertical Panel Distortion",
       "prompt": "A modern cinematic poster featuring five stylish models standing in a row, each separated by semi-transparent vertical panels that distort their silhouettes slightly. The background is a gradient of deep and light blue tones. Models are dressed in elegant contemporary outfits: {argument name=\"outfits\" default=\"red dress, maroon leather coat, red jumpsuit, gray suit with turtleneck, and black blazer with white pants\"}. Dramatic soft studio lighting highlights their faces and outfits. Minimal shadows on the floor, high-fashion composition, cinematic perspective, sleek and polished aesthetic.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12222-497-Cinematic-Poster-of-Five-Models-with-Vertical-Panel-Distortion.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12222-498-Cinematic-Poster-of-Five-Models-with-Vertical-Panel-Distortion.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-12427-111",
-      "title": "Mozart's Dies Irae in Munch's Scream Style",
-      "prompt": "Mozart Requiem in D minor, K.626 {argument name=\"piece name\" default=\"Dies Irae\"} Munch's Scream style",
+      "id": "xianyu-multi-model:ym-ai-skill-others-12430-111",
+      "title": "Mozart's Dies Irae Image Generation",
+      "prompt": "Mozart From Requiem in D minor, K.626 {argument name=\"piece name\" default=\"Dies Irae\"}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12427-111-Mozart-s-Dies-Irae-in-Munch-s-Scream-Style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12430-111-Mozart-s-Dies-Irae-Image-Generation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23899-157",
-      "title": "Renaissance Noblewoman Oil Portrait",
-      "prompt": "A Renaissance-style oil painting portrait of an {argument name=\"subject\" default=\"elegant noblewoman with pale skin and an aristocratic bearing\"}, captured with oil on canvas textures and subtle craquelure. The woman is depicted in various poses within a classic scholar's study or library, featuring a background with a latticed window overlooking a garden, heavy drapes, a landscape tapestry, and a wooden table adorned with a terrestrial globe, a small golden griffin statue, and leather-bound books. Her intricate, elaborately braided and curled hair is adorned with delicate pearl strands and jeweled tiaras. She wears a series of luxurious, {argument name=\"dress colors\" default=\"heavy velvet gowns in deep emerald green, rich royal blue, and regal burgundy tones\"}. The dresses are heavily detailed with exquisite {argument name=\"embroidery\" default=\"gold and silver embroidery, pearl accents, embedded gemstones, lace ruffs, and high collars\"}, embodying the opulent fashion of high-born Renaissance royalty.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-24223-156",
+      "title": "Vintage Noir Ink Illustration",
+      "prompt": "{argument name=\"style\" default=\"High-contrast vintage ink illustration\"}, {argument name=\"aesthetic\" default=\"retro noir graphic novel\"} aesthetic, bold monochrome rendering with dominant black ink and off-white tones, strong silhouette emphasis, rough expressive brush strokes combined with dry-brush texture, heavy grain and paper noise, distressed print effect, halftone and ink bleed imperfections, hand-drawn cross-hatching and scratchy linework, gritty analog print style, screenprint/poster-like finish, limited color palette with striking flat background (solid {argument name=\"background color\" default=\"red\"} or bold single color), dramatic negative space usage, cinematic composition with layered collage structure, mixed scale elements (oversized upper figure + smaller narrative scene below), editorial illustration style, mid-20th century pulp magazine influence, slightly abstracted anatomy with exaggerated wrinkles and texture, raw imperfect edges, splatter and ink blot accents, matte finish with minimal gloss, high visual tension, stark lighting with deep shadows and blown highlights, minimal gradients (mostly flat tones), distressed typography integration feel (optional), vintage propaganda/poster vibe Important addition (to keep face/object consistent & usable for other objects): preserve original facial structure, maintain exact proportions and identity, no distortion on main subject, style applied only to rendering and environment, consistent facial integrity, modular composition, subject-agnostic style, adaptable to any central object without altering its form.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23899-157-Renaissance-Noblewoman-Oil-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-24223-156-Vintage-Noir-Ink-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12206-498",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12206-499",
       "title": "Double Exposure Portrait with Tree Branches and Landscape",
       "prompt": "double exposure portrait of the character(reference image) in side profile looking left, blending into bare tree branches, surreal artistic composition, inside the silhouette a peaceful lake landscape with mountains and mist, a small character(of the same reference image) in a standing on mossy rocks holding a curved tree trunk, dreamy atmosphere, soft natural light, minimal white background, ethereal and poetic mood, fine art photography, ultra detailed, cinematic lighting, high resolution, poster design.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12206-498-Double-Exposure-Portrait-with-Tree-Branches-and-Landscape.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12206-499-Double-Exposure-Portrait-with-Tree-Branches-and-Landscape.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-12431-112",
-      "title": "Mozart's Don Giovanni: The Last Supper",
-      "prompt": "Mozart Don Giovanni {argument name=\"scene\" default=\"The Last Supper\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-others-12427-112",
+      "title": "Mozart's Dies Irae in Munch's Scream Style",
+      "prompt": "Mozart Requiem in D minor, K.626 {argument name=\"piece name\" default=\"Dies Irae\"} Munch's Scream style",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12431-112-Mozart-s-Don-Giovanni-The-Last-Supper.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12427-112-Mozart-s-Dies-Irae-in-Munch-s-Scream-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23882-158",
-      "title": "Anime Graphic Novel Man Illustration",
-      "prompt": "Anime graphic novel @ image illustration, hyper-detailed linework, cel-shading. High-angle bird's-eye view, looking down at a {argument name=\"subject\" default=\"confident man looking up\"}. Wearing {argument name=\"clothing\" default=\"round yellow-tinted glasses, open dark navy oversized jacket, loose white shirt, tan wide-leg trousers, brown boots, diagonal bag strap\"}. Wind-blown hair. {argument name=\"background\" default=\"Vivid electric yellow background with energy burst, floating shattered teal stone fragments, jagged yellow lightning fractures\"}. Flat overhead lighting, bold ink outlines, dynamic complementary color palette.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23899-158",
+      "title": "Renaissance Noblewoman Oil Portrait",
+      "prompt": "A Renaissance-style oil painting portrait of an {argument name=\"subject\" default=\"elegant noblewoman with pale skin and an aristocratic bearing\"}, captured with oil on canvas textures and subtle craquelure. The woman is depicted in various poses within a classic scholar's study or library, featuring a background with a latticed window overlooking a garden, heavy drapes, a landscape tapestry, and a wooden table adorned with a terrestrial globe, a small golden griffin statue, and leather-bound books. Her intricate, elaborately braided and curled hair is adorned with delicate pearl strands and jeweled tiaras. She wears a series of luxurious, {argument name=\"dress colors\" default=\"heavy velvet gowns in deep emerald green, rich royal blue, and regal burgundy tones\"}. The dresses are heavily detailed with exquisite {argument name=\"embroidery\" default=\"gold and silver embroidery, pearl accents, embedded gemstones, lace ruffs, and high collars\"}, embodying the opulent fashion of high-born Renaissance royalty.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23882-158-Anime-Graphic-Novel-Man-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23899-158-Renaissance-Noblewoman-Oil-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12114-505",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12114-506",
       "title": "Arrival Movie AI Poster Prompt",
       "prompt": "A profound scene from Story of Your Life. East Asian woman 30s short dark hair melancholic serene foreground. Non-linear time: ethereal daughter life overlays baby laughing girl playing sun teen dying hospital. Misty twilight: heptapod ships veiled fog. Dominant ultra smoky ink abstract calligraphic circular logograms East Asian ink wash smoke splatters organic tendrils floating ethereal. Moody teal amber Roger Deakins painterly Denis Villeneuve dreamlike bittersweet masterpiece 8k --ar 3:2 blurry deformed ugly bad anatomy extra limbs low quality text watermark cartoon anime horror oversaturated photorealistic spaceship.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12114-505-Arrival-Movie-AI-Poster-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12114-506-Arrival-Movie-AI-Poster-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-12328-113",
-      "title": "Surreal hyper-detailed totem stack prompt",
-      "prompt": "in the surreal, hyper-detailed art style of {argument name=\"artist\" default=\"Zhou Song\"}, a whimsical totem-like stack featuring a melting {argument name=\"top object\" default=\"ice cream cone\"} perched on top of a glossy striped beachball, which balances precariously on a heavy polished bowling ball, intricate textures and reflections on each surface, soft studio lighting with subtle colored highlights, clean minimal background to emphasize the strange vertical composition, high resolution, highly detailed, dreamlike yet slightly uncanny atmosphere",
+      "id": "xianyu-multi-model:ym-ai-skill-others-12431-113",
+      "title": "Mozart's Don Giovanni: The Last Supper",
+      "prompt": "Mozart Don Giovanni {argument name=\"scene\" default=\"The Last Supper\"}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12328-113-Surreal-hyper-detailed-totem-stack-prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12431-113-Mozart-s-Don-Giovanni-The-Last-Supper.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23725-159",
-      "title": "Fashion Week Backstage Contact Sheet",
-      "prompt": "Ultra-photorealistic editorial collage arranged as a 5x3 backstage fashion week contact sheet. Fifteen photographs capture the same striking {argument name=\"subject\" default=\"young woman\"} throughout a hectic runway day with perfect identity consistency. Same facial structure, sharp jawline, expressive eyes, realistic skin texture, subtle luxury makeup, natural hair strands, identical appearance in every frame. She wears a structured black tailored blazer over a minimalist silk outfit, paired with designer accessories and runway-ready styling. Hair is styled into a sleek fashion-week look. Each frame captures a different backstage moment: * Makeup artist making final touch-ups. * Reviewing looks in front of illuminated mirrors. * Walking through crowded backstage corridors. * Speaking with designers. * Adjusting jewelry. * Looking through garment racks. * Sitting quietly before the show. * Fast-paced candid moments between preparations. * Reflection shots through mirrors. * Runway entrance anticipation. * Close beauty portraits. * Walking beneath spotlights. * Looking over shoulder backstage. * Checking notes and schedules. * Final confident portrait before stepping onto the runway. Environment filled with makeup stations, bright vanity bulbs, clothing racks, photographers, assistants, models, and fashion industry energy. Photography style: documentary fashion photography, magazine contact sheet aesthetic, realistic flash photography, Leica and medium-format camera look, authentic behind-the-scenes storytelling. Color palette: black, silver, cream, warm skin tones, bright backstage lighting. Negative Prompt: flowers, studio backdrop, fantasy, CGI, illustration, plastic skin, duplicate poses, bad anatomy, watermark, text, blurry faces.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23882-159",
+      "title": "Anime Graphic Novel Man Illustration",
+      "prompt": "Anime graphic novel @ image illustration, hyper-detailed linework, cel-shading. High-angle bird's-eye view, looking down at a {argument name=\"subject\" default=\"confident man looking up\"}. Wearing {argument name=\"clothing\" default=\"round yellow-tinted glasses, open dark navy oversized jacket, loose white shirt, tan wide-leg trousers, brown boots, diagonal bag strap\"}. Wind-blown hair. {argument name=\"background\" default=\"Vivid electric yellow background with energy burst, floating shattered teal stone fragments, jagged yellow lightning fractures\"}. Flat overhead lighting, bold ink outlines, dynamic complementary color palette.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23725-159-Fashion-Week-Backstage-Contact-Sheet.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23882-159-Anime-Graphic-Novel-Man-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12131-506",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12131-507",
       "title": "Detailed X-ray Transparent Art of Roses Prompt",
       "prompt": "meta: title: \"X-ray Transparent Art of Roses - Single Bloom Focus, Emphasizing Central Vortex\" concept: \"An X-ray fine art image, almost monochromatic, filling the screen almost entirely with a single rose bloom, showing the central vortex intensely via extreme close-up from directly above. Only a very slight, rose-like color is hidden within the petals.\" language: \"ja\" output: aspect_ratio: \"4:5\" orientation: \"Vertical\" resolution_intent: \"High Resolution\" deliverable_type: \"Botanical X-ray of a Single Bloom with Petal Saturation and Slight Coloring\" scene: genre: \"Botanical X-ray Photography\" subject: \"Rose\" subject_count_impression: \"Almost a single bloom, only fragmented petals on the periphery\" realism_level: \"High\" environment: \"Single subject studio shot\" mood: - \"Serene\" - \"Sensual\" - \"Intricate\" - \"Tense\" - \"Absorbing central vortex\" - \"Elegant slight coloring\" background: type: \"Virtually Invisible\" color: \"#F3F3F1\" texture: \"None\" gradient: \"None\" vignette: \"None\" composition: framing: \"Extreme close-up from directly above\" camera_angle: \"Overhead Macro\" perspective: \"Flat, tight, direct overhead view, as if being drawn into the central vortex\" crop_style: \"Extremely bold crop\" subject_fill_ratio: \"97 to 100 percent of the screen\" visual_goal: \"To fill the entire screen almost exclusively with the petal layers of a single rose, making the structure of the central vortex the overwhelming main subject\" bouquet_layout: overall_shape: \"A single, giant flower head occupies the screen\" center_focus: \"Giant central vortex slightly above center or exactly in the center\" bloom_distribution: hero_bloom: role: \"Absolute main subject rose\" position: \"Near center\" scale: \"Extremely large\" openness: \"Center is tightly closed, outer edges are widely unfurled\" crop: \"Most of the outer petals are framed out on all sides\" secondary_blooms: count: 0 role: \"None\" placement: [] openness_variation: [] peripheral_petals: count_impression: \"Very few, if necessary\" role: \"Outer fragments to make the single bloom feel even larger\" treatment: \"Exist only as fragments of petals cut off at the edge, not appearing as separate flowers\" petal_flow: directionality: \"Extremely clear spiral motion\" energy: \"Very high\" motion_impression: \"Petals continuously released outwards from the central vortex\" asymmetry: \"Natural and tense asymmetry\" leaves_and_stems: visibility: \"Close to zero\" purpose: \"Generally not depicted\" leaves: placement: \"None\" crop: \"None\" shape: \"None\" amount: \"Zero\" stems: visibility: \"Zero\" arrangement: \"None\" negative_space: amount: \"Close to zero\" purpose: \"Maximize immersion\" subject_design: flower_species: \"Rose\" bouquet_style: \"Single bloom ultra-magnified composition\" botanical_accuracy: \"Realistic rose petal structure\" bloom_states: emphasis: \"Contrast between the tightness of the central vortex and the unfurling of the outer petals\" variation: - \"Very tightly closed central vortex\" - \"Mid-layer petals beginning to unfurl\" - \"Outer petals curling back significantly\" rose_centers: appearance: \"Dense, deep vortex visible in multiple layers\" clarity: \"Extremely high\" scale_emphasis: \"Larger than usual, overwhelming presence on the screen\" petals: structure: \"Very thin, silky, translucent, multi-layered\" edge_quality: \"Softly glowing and fading outlines\" curvature: \"Organic, strongly undulating outward from the center\" overlap_density: \"Extremely high\" opening_behavior: \"Unfurling from the central vortex outwards, mixing concentric circles and spirals\" dominance: \"Almost all screen information\" bouquet_density: \"Extremely high density for a single bloom\" leaf_design: style: \"None\" translucency: \"None\" prominence: \"None\" stem_bundle: impression: \"None\" xray_rendering: rendering_mode: \"Fine art botanical X-ray photograph focusing on the single bloom's petals, accompanied by very faint coloring\" density_mapping: petals: \"Based on pale silver-gray, containing a very slight amount of rose ash\" dense_petals_overlaps: \"Cool gray with a slight hint of mauve gray\" rose_centers: \"Deep gray with restrained plum gray density\" leaves: \"Not depicted\" stems: \"Not depicted\" translucency_profile: petals: \"Very high\" centers: \"Medium to slightly high\" leaves: \"None\" stems: \"None\" internal_structure_visib",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12131-506-Detailed-X-ray-Transparent-Art-of-Roses-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12131-507-Detailed-X-ray-Transparent-Art-of-Roses-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -533,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-12330-114",
-      "title": "Wide-angle landscape prompt of a dirt road",
-      "prompt": "[Subject]: A winding, sun-baked dirt road stretching endlessly towards the horizon, marked by faint tire tracks and bordered by rustic wooden fences. [Action]: The road leads the viewer's eye through the heart of the landscape, vanishing into the rolling terrain. [Environment]: Vast, lush green pastures speckled with vibrant wildflowers like {argument name=\"wildflowers\" default=\"poppies, cornflowers, and daisies\"} swaying in a gentle breeze; soft, undulating hills in the distance under a brilliant cerulean sky scattered with fluffy, white cumulus clouds. [Cinematography]: Wide-angle landscape shot ({argument name=\"lens\" default=\"24mm lens\"}), deep depth of field (f/16) ensuring sharpness from the textured gravel in the foreground to the distant peaks. [Lighting/Style]: Bright, natural daylight with soft, diffuse shadows, invoking a sense of serenity and pastoral beauty; vibrant, true-to-life colors. [Technical]: 4k resolution, ultra-realistic texture mapping, National Geographic style photography, pristine clarity.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-12328-114",
+      "title": "Surreal hyper-detailed totem stack prompt",
+      "prompt": "in the surreal, hyper-detailed art style of {argument name=\"artist\" default=\"Zhou Song\"}, a whimsical totem-like stack featuring a melting {argument name=\"top object\" default=\"ice cream cone\"} perched on top of a glossy striped beachball, which balances precariously on a heavy polished bowling ball, intricate textures and reflections on each surface, soft studio lighting with subtle colored highlights, clean minimal background to emphasize the strange vertical composition, high resolution, highly detailed, dreamlike yet slightly uncanny atmosphere",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12330-114-Wide-angle-landscape-prompt-of-a-dirt-road.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12328-114-Surreal-hyper-detailed-totem-stack-prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23731-160",
-      "title": "Haunting Dark Fantasy Rider",
-      "prompt": "A haunting dark fantasy portrait featuring a solitary hooded figure in long, flowing dark robes astride a majestic black horse. The figure's face is completely obscured by the deep hood, creating an air of mystery and ominous presence. The horse is sleek and powerful, rendered entirely in black tones with visible flowing mane and tail. The setting is a dramatic mountain canyon or gorge with towering cliff walls rising on both sides, creating a natural frame that emphasizes the isolation and grandeur of the scene. The entire landscape is shrouded in thick, rolling mist and fog that swirls around the figure and horse, creating an ethereal, supernatural quality. Atmospheric and lighting characteristics: Dense fog and mist that obscures the upper portions of the cliffs and fills the canyon Monochromatic color palette: Deep blacks, charcoal grays, and pale whites/silvers Low-key, cinematic lighting creating dramatic contrast and shadows Overcast, gloomy sky visible through the mist Ground level perspective: Rocky, desolate terrain beneath the horse and rider Volumetric fog effects: Mist appears to move and flow, adding depth and atmosphere Key emotional and thematic elements: Mysterious and ominous tone: The obscured figure suggests unknown intent Solitude and isolation: Single traveler in vast, forsaken landscape Dark fantasy aesthetic: Medieval, mythological, or supernatural in nature Cinematic drama: Resembles concept art or fantasy film imagery Gothic mood: Melancholic, haunting, introspective darkness Photography/art style: Dark fantasy concept art with cinematic lighting and atmospheric fog effects; reminiscent of medieval fantasy, witcher-style aesthetics, or gothic storytelling",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23725-160",
+      "title": "Fashion Week Backstage Contact Sheet",
+      "prompt": "Ultra-photorealistic editorial collage arranged as a 5x3 backstage fashion week contact sheet. Fifteen photographs capture the same striking {argument name=\"subject\" default=\"young woman\"} throughout a hectic runway day with perfect identity consistency. Same facial structure, sharp jawline, expressive eyes, realistic skin texture, subtle luxury makeup, natural hair strands, identical appearance in every frame. She wears a structured black tailored blazer over a minimalist silk outfit, paired with designer accessories and runway-ready styling. Hair is styled into a sleek fashion-week look. Each frame captures a different backstage moment: * Makeup artist making final touch-ups. * Reviewing looks in front of illuminated mirrors. * Walking through crowded backstage corridors. * Speaking with designers. * Adjusting jewelry. * Looking through garment racks. * Sitting quietly before the show. * Fast-paced candid moments between preparations. * Reflection shots through mirrors. * Runway entrance anticipation. * Close beauty portraits. * Walking beneath spotlights. * Looking over shoulder backstage. * Checking notes and schedules. * Final confident portrait before stepping onto the runway. Environment filled with makeup stations, bright vanity bulbs, clothing racks, photographers, assistants, models, and fashion industry energy. Photography style: documentary fashion photography, magazine contact sheet aesthetic, realistic flash photography, Leica and medium-format camera look, authentic behind-the-scenes storytelling. Color palette: black, silver, cream, warm skin tones, bright backstage lighting. Negative Prompt: flowers, studio backdrop, fantasy, CGI, illustration, plastic skin, duplicate poses, bad anatomy, watermark, text, blurry faces.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23731-160-Haunting-Dark-Fantasy-Rider.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23725-160-Fashion-Week-Backstage-Contact-Sheet.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12132-507",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12132-508",
       "title": "Subway Ad Poster Prompt for Character Image Generation (Portfolio Style)",
       "prompt": "(photorealistic:1.6), (raw photograph:1.5), highly detailed, cinematic lighting, 8k resolution, incredibly rich details. (Environment: Japanese Subway Passageway): A wide-angle landscape photograph inside a busy (Japanese subway underground passageway:1.5). Worn tiled walls, fluorescent strip lighting with slight flicker, polished concrete floor reflecting lights, overhead cables, and Japanese signage (\"Exit\", \"Subway Platform\") visible. Grimy and bustling atmosphere. (Central Focus: The Dynamic Ad Poster): Centered on the wall is a large, framed ({argument name=\"poster style\" default=\"portfolio-style movie advertisement poster\"}:1.7) behind a slightly reflective plastic cover with realistic glare. (Poster Content - Dynamic Composition & Portfolio): The poster features (multiple images of the input character:1.6) arranged in a dynamic layout. (Main Shot:1.6): A large, dominant image of the character, potentially cropped to a (dramatic bust-up or extreme close-up:1.5) to emphasize emotion and scale. The pose and expression are based on the input. (Inset Shots:1.5): Smaller, secondary images (portraits or different angles) of the same character, showing varied expressions or scenes, arranged around the main shot like a magazine spread. (Genre Inference & Text - Japanese Focus): Based on the character, infer a suitable movie genre (dramatic, action, thriller, sci-fi). Add large, stylized (Japanese movie title logo:1.7) prominently (e.g., \"{argument name=\"movie title\" default=\"Intersection of Fate\"}\", \"Tokyo Revengers\", \"The Last Hope\"). Add a compelling (Japanese catchphrase:1.5) (e.g., \"{argument name=\"catchphrase\" default=\"Survive in this city.\"}\", \"Love or Betrayal.\"). Smaller credit text and release date at the bottom. English text allowed for stylistic effect only. Background graphics and color grading *inside the poster* match the genre. (Surrounding Action: People): Crowd of commuters walking past, with (strong motion blur:1.6) conveying busy movement. Diverse Japanese people. (Technical Tags): (depth of field), (realistic textures), sharp focus on the poster, candid street photography style. (Negative prompt): (CG render outside of poster:1.5), (illustration style environment:1.5), (empty passageway), (static people), (blurry poster content), (English only text), (clean subway), (static composition), low quality.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12132-507-Subway-Ad-Poster-Prompt-for-Character-Image-Generation-Portfolio-Style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12132-508-Subway-Ad-Poster-Prompt-for-Character-Image-Generation-Portfolio-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-12354-115",
-      "title": "Kling 3.0 Video Generation from Nano Banana Pro Images",
-      "prompt": "Cinematic and warm film-like footage. Depicting a quiet moment of a woman writing in her diary amidst natural light and shallow depth of field. Capturing the delicate actions from her hand opening the notebook, a close-up of the pen tip running across the paper, a soft smile she briefly shows, to closing the notebook, expressing an intimate and emotional atmosphere.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-12330-115",
+      "title": "Wide-angle landscape prompt of a dirt road",
+      "prompt": "[Subject]: A winding, sun-baked dirt road stretching endlessly towards the horizon, marked by faint tire tracks and bordered by rustic wooden fences. [Action]: The road leads the viewer's eye through the heart of the landscape, vanishing into the rolling terrain. [Environment]: Vast, lush green pastures speckled with vibrant wildflowers like {argument name=\"wildflowers\" default=\"poppies, cornflowers, and daisies\"} swaying in a gentle breeze; soft, undulating hills in the distance under a brilliant cerulean sky scattered with fluffy, white cumulus clouds. [Cinematography]: Wide-angle landscape shot ({argument name=\"lens\" default=\"24mm lens\"}), deep depth of field (f/16) ensuring sharpness from the textured gravel in the foreground to the distant peaks. [Lighting/Style]: Bright, natural daylight with soft, diffuse shadows, invoking a sense of serenity and pastoral beauty; vibrant, true-to-life colors. [Technical]: 4k resolution, ultra-realistic texture mapping, National Geographic style photography, pristine clarity.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12354-115-Kling-3.0-Video-Generation-from-Nano-Banana-Pro-Images.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12330-115-Wide-angle-landscape-prompt-of-a-dirt-road.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23749-161",
-      "title": "Character Sheet Design Prompt",
-      "prompt": "Generate a character sheet, {argument name=\"background color\" default=\"completely white background\"}, front, side, back, and expressions. No text. {argument name=\"aspect ratio\" default=\"16:9\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23731-161",
+      "title": "Haunting Dark Fantasy Rider",
+      "prompt": "A haunting dark fantasy portrait featuring a solitary hooded figure in long, flowing dark robes astride a majestic black horse. The figure's face is completely obscured by the deep hood, creating an air of mystery and ominous presence. The horse is sleek and powerful, rendered entirely in black tones with visible flowing mane and tail. The setting is a dramatic mountain canyon or gorge with towering cliff walls rising on both sides, creating a natural frame that emphasizes the isolation and grandeur of the scene. The entire landscape is shrouded in thick, rolling mist and fog that swirls around the figure and horse, creating an ethereal, supernatural quality. Atmospheric and lighting characteristics: Dense fog and mist that obscures the upper portions of the cliffs and fills the canyon Monochromatic color palette: Deep blacks, charcoal grays, and pale whites/silvers Low-key, cinematic lighting creating dramatic contrast and shadows Overcast, gloomy sky visible through the mist Ground level perspective: Rocky, desolate terrain beneath the horse and rider Volumetric fog effects: Mist appears to move and flow, adding depth and atmosphere Key emotional and thematic elements: Mysterious and ominous tone: The obscured figure suggests unknown intent Solitude and isolation: Single traveler in vast, forsaken landscape Dark fantasy aesthetic: Medieval, mythological, or supernatural in nature Cinematic drama: Resembles concept art or fantasy film imagery Gothic mood: Melancholic, haunting, introspective darkness Photography/art style: Dark fantasy concept art with cinematic lighting and atmospheric fog effects; reminiscent of medieval fantasy, witcher-style aesthetics, or gothic storytelling",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23749-161-Character-Sheet-Design-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23731-161-Haunting-Dark-Fantasy-Rider.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12120-508",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-12120-509",
       "title": "Ultra-Cinematic Red Silhouette Portrait with Double Exposure",
       "prompt": "Generate an Ultra-cinematic dramatic red silhouette portrait of a young man in side profile, captured from the shoulders up, standing in a contemplative pose. The man has messy textured hair and a short rugged beard, ( keep face and hair style 100% same as in uploaded image) wearing a casual dark hoodie with soft fabric folds and realistic cloth texture. His eyes are closed and his fingers gently touch his temple, suggesting deep thought, emotional tension, or inner conflict. The lighting is extremely dramatic monochromatic red cinematic lighting, creating a powerful high-contrast visual style. A bright red backlight outlines the man’s silhouette, producing glowing rim light along his hair, face profile, beard, and hoodie edges. The front of the figure remains mostly in shadow, creating a deep black silhouette with subtle red highlights. Behind him appears a large ghostly double-exposure shadow of the same person, facing the opposite direction. This secondary silhouette is slightly blurred and darker, creating a psychological duality effect, symbolizing inner thoughts or conflict. The layered composition creates depth and visual storytelling. The background is minimalistic and atmospheric, consisting of a smooth red-to-dark gradient with soft volumetric haze and drifting smoke particles surrounding the figure. The smoke catches the red lighting, creating glowing mist around the silhouette. Hair strands, beard texture, hoodie fabric fibers, and skin contours are subtly visible through the dramatic lighting, adding hyper-realistic detail. The lighting creates strong chiaroscuro contrast, emphasizing the emotional and cinematic mood. Composition follows professional cinematic portrait framing, with strong negative space and balanced silhouette placement. The scene feels like a movie poster or psychological thriller artwork. Shot as if using a cinematic 85mm portrait lens, f/1.8 aperture, extremely shallow depth of field, with soft atmospheric diffusion and volumetric lighting. Style keywords: ultra-realistic cinematic lighting, dramatic red color grading, double exposure portrait, psychological mood, moody atmosphere, volumetric fog, glowing rim light, high contrast shadows, digital art realism, film still aesthetic, hyper-detailed textures, HDR lighting, depth and atmosphere, cinematic composition. Quality tags: 8K resolution, ultra-high detail, photorealistic rendering, cinematic masterpiece, studio lighting quality, Unreal Engine / Octane render quality, ultra sharp focus, professional color grading.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12120-508-Ultra-Cinematic-Red-Silhouette-Portrait-with-Double-Exposure.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-12120-509-Ultra-Cinematic-Red-Silhouette-Portrait-with-Double-Exposure.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -837,16 +856,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-12341-116",
-      "title": "Vibrant Flat Illustration Pattern of Flowers and Shapes",
-      "prompt": "A vibrant, flat illustration features a repeating pattern of stylized flowers and geometric shapes on a cream background. The composition is densely packed with various floral motifs in bold, primary colors like orange, blue, pink, yellow, and purple, interspersed with black and green elements. The flowers vary in design, from simple, rounded petals to more intricate, abstract forms. Some have distinct centers, while others are solid colors. Geometric shapes, such as diamonds, triangles, and semi-circles, are strategically placed throughout the pattern, adding a graphic quality. The overall style is reminiscent of mid-century modern design or folk art, with a playful and cheerful aesthetic. The colors are flat and unshaded, and the lines are clean and defined.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-12354-116",
+      "title": "Kling 3.0 Video Generation from Nano Banana Pro Images",
+      "prompt": "Cinematic and warm film-like footage. Depicting a quiet moment of a woman writing in her diary amidst natural light and shallow depth of field. Capturing the delicate actions from her hand opening the notebook, a close-up of the pen tip running across the paper, a soft smile she briefly shows, to closing the notebook, expressing an intimate and emotional atmosphere.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12341-116-Vibrant-Flat-Illustration-Pattern-of-Flowers-and-Shapes.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-12354-116-Kling-3.0-Video-Generation-from-Nano-Banana-Pro-Images.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -913,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23712-163",
-      "title": "Dark Fantasy Doppelganger Portrait",
-      "prompt": "Use my uploaded face image as the primary identity reference. Preserve my exact facial structure, jawline, cheekbones, eye shape, eyebrows, nose shape, lips, beard/stubble pattern, hairstyle, hair texture, skin texture, natural South Asian masculine features, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions, authentic skin details, and natural facial anatomy. Do not alter my facial identity. Create an ultra-realistic dark fantasy psychological portrait inside an old abandoned artist’s studio. The scene captures the same man (my face) standing beside a large canvas mounted on a wooden easel. He wears a slightly worn dark-blue denim shirt over a light beige T-shirt, sleeves rolled up, with traces of black paint splattered across his clothing and forearms. The atmosphere is tense and cinematic. The man suddenly turns his head over his shoulder with a startled, fearful expression, eyes widened as if sensing an unseen presence behind him. His posture is frozen in suspense. Emerging from the canvas is a terrifying living version of his painted self. The painted figure is partially breaking through the artwork, transforming from black ink, charcoal dust, liquid shadows, paint splashes, and smoky particles into a realistic human form. One dark ink-covered hand reaches out from the canvas and grips the man’s shoulder, creating a chilling supernatural moment. The painted doppelgänger should share the exact same face as the subject but appear monochromatic, weathered, ghostly, and formed from cracked charcoal textures, dripping paint, and shadow-like tendrils. Black ink fragments and particles swirl around the emergence point, creating the illusion that the painting itself has come alive. Environment details: cluttered painter’s workshop, scattered brushes, paint jars, unfinished canvases, antique wooden furniture, dust particles floating in the air, old framed artworks in the background, dramatic studio interior. Warm golden sunset light enters through a large window on the left side, contrasting with deep shadows throughout the room. Lighting: cinematic Rembrandt lighting, volumetric sun rays, moody contrast, warm amber highlights mixed with dark charcoal blacks, subtle rim light outlining both figures, realistic global illumination, atmospheric haze. Composition: medium shot, vertical portrait orientation, subject positioned slightly left of center, canvas and emerging figure on the right, shoulder-grab interaction as the focal point, shallow depth of field, highly detailed foreground and background separation. Style: hyper-realistic, cinematic horror realism, psychological thriller, dark fantasy, masterpiece photography, 8K resolution, HDR, ultra-detailed skin texture, realistic eyes, intricate paint splatter effects, dramatic storytelling, award-winning concept art, photorealistic rendering, Unreal Engine 5 quality, extraordinary detail, sharp focus, film-grade color grading. Negative prompt: cartoon, anime, illustration, low resolution, blurry face, distorted hands, extra fingers, duplicate people, unrealistic anatomy, oversaturated colors, CGI look, plastic skin, low detail, text, watermark, logo, cropped face, deformed features, mutated limbs, poor lighting, flat composition.",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-23749-162",
+      "title": "Character Sheet Design Prompt",
+      "prompt": "Generate a character sheet, {argument name=\"background color\" default=\"completely white background\"}, front, side, back, and expressions. No text. {argument name=\"aspect ratio\" default=\"16:9\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23712-163-Dark-Fantasy-Doppelganger-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-23749-162-Character-Sheet-Design-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-28784-334",
-      "title": "Premium Sports Editorial Poster",
-      "prompt": "Ultra-premium sports editorial poster collage of a powerful {argument name=\"athlete\" default=\"female basketball athlete\"} in a {argument name=\"uniform color\" default=\"red and white\"} uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “{argument name=\"main slogan\" default=\"THINK BETTER\"}”, clean luxury sports branding, intense confident poses. Top panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography. Bottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”. Bottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details. Color palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-28784-334-Premium-Sports-Editorial-Poster.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Product Marketing"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
       "license": "upstream",
       "createdAt": null
     }
