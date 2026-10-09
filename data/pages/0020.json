@@ -1,7 +1,87 @@
 {
   "items": [
     {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:f9a4e612db99040c",
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:29713208b0882497",
+      "title": "电商主图 - 风格化收藏级玩具包装",
+      "prompt": "将 {argument name=\"subject\" default=\"character\"} 转化为风格化的收藏级玩具，具备光泽塑料质感、夸张的特征、微型配件，以及带有纸板背板的高级吸塑零售包装。",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1785482583777_2nxgwf_HOhEOrOaUAAjfZj.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "电商主图",
+        "WeWant Mars"
+      ],
+      "author": "WeWant Mars",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/Madhuribhai/status/2082989921024049622",
+      "license": "upstream",
+      "createdAt": "2026-07-31"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:dfbe0bcdd569a09e",
+      "title": "游戏素材 - 可爱毛毡青蛙场景",
+      "prompt": "一个可爱的 3D 毛毡质感场景，描绘了一只卡通风格的青蛙坐在池塘里的大荷叶上。青蛙呈绿色，有着大而富有表现力的眼睛和灿烂的笑容。它头戴一顶小叶子做的帽子，上面点缀着一颗浆果，肩上还斜挎着一个小包。青蛙的右手拿着一朵黄色的小花。池塘里布满了荷叶、粉色和黄色的睡莲以及色彩斑斓的鹅卵石。背景是一片郁郁葱葱、生机勃勃的风景，有起伏的山丘、奇异的植物，以及柔和发光的日落天空和蓬松的云朵。萤火虫和瓢虫散布在整个场景中，增添了魔法般的氛围。整体画面具有异想天开和迷人的感觉，采用柔和的光线和粉彩配色方案。",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791527770900_mohma7_HT-jScOW8AAJ6gM.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "游戏素材",
+        "Heather Green"
+      ],
+      "author": "Heather Green",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/heathergreen/status/2108120225119973526",
+      "license": "upstream",
+      "createdAt": "2026-10-08"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:f8fa871e65604d97",
+      "title": "游戏素材 - 机械忧郁微距人像提示词",
+      "prompt": "{\n  \"vibe_title_en\": \"Mechanical Melancholy\",\n  \"master_prompt\": \"极致特写微距人像。主角是一位忧郁的神童，画面紧凑地聚焦于脸部的一侧。一个高度精细、具有实体质感的黄铜钟表机械装置，带有罗马数字刻度，如破碎的面罩般弯曲覆盖在额头和眉骨上，部分遮挡了头部上方，但露出一只充满表现力且悲伤的眼睛。眼睛反射着温暖、布满尘埃的环境光。主角的手指沾染着深色墨水和石墨痕迹，正轻柔地触碰一只悬停在脸颊附近的超写实金色机械蜂鸟。他们身穿一件厚重华丽的红黑相间立领夹克，饰有金线刺绣。温暖的定向伦勃朗光线穿透密集、充满尘埃的空气，照亮漂浮的微尘。使用 Hasselblad H6D-100c 拍摄，配备 120mm 微距镜头，光圈 f/2.8，极浅景深将背景虚化为柔和的橄榄灰色。Kodak Portra 400 胶片模拟效果，皮肤毛孔细节极度丰富，金属具有真实的物理重量感，电影级明暗对照法，纯粹的摄影超现实主义。\",\n  \"meta\": {\n    \"intent\": \"摄影超现实主义，情感微距人像\",\n    \"priorities\": \"微观细节，触觉真实感，电影级暖光，模拟胶片质感\",\n    \"device_profile\": \"Hasselblad H6D-100c 搭配 120mm 微距镜头\"\n  },\n  \"frame\": {\n    \"aspect\": \"3:4\",\n    \"composition\": \"极致特写微距，聚焦于一只眼睛和脸部侧面，填满画面\",\n    \"layout\": \"非中心构图，焦点在可见的眼睛上，钟表机械在顶部边缘淡入深度散景，手指从底部进入画面\",\n    \"camera_angle\": \"正面平视，亲密的眼平视角\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"女性\",\n    \"identity\": \"忧郁的神童\",\n    \"demographics\": \"普世特征，年轻却背负重担\",\n    \"face\": \"苍白，皮肤毛孔细节极度丰富，一只眼睛可见，展现出强烈的悲伤专注，上半脸部分被黄铜钟表机构覆盖\",\n    \"hair\": \"向后梳理出画框，处于焦外\",\n    \"body\": \"仅可见肩膀和颈部，穿着厚重的结构化面料\",\n    \"expression\": \"悲伤的专注，沉重的情感分量，内在的忧郁\",\n    \"pose\": \"头部静止，双手抬至脸部附近，沾满墨水的手指细腻地与一只小型金色机械鸟互动\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"立领夹克\",\n        \"material\": \"厚织锦缎\",\n        \"color\": \"深绯红色与黑色\",\n        \"fit\": \"结构化，剪裁合体\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"带罗马数字刻度的破碎钟表面罩\",\n        \"color\": \"做旧黄铜与金色\",\n        \"material\": \"机加工金属，玻璃\",\n        \"brand_style\": \"前卫制表工艺，实用特效道具\"\n      },\n      {\n        \"item\": \"机械蜂鸟\",\n        \"color\": \"金色\",\n        \"material\": \"抛光黄铜与微型齿轮\",\n        \"brand_style\": \"工匠动态珠宝\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"一个隐秘、布满灰尘的钟表匠工作室或神童的避难所\",\n    \"surfaces\": \"柔和、暗淡的橄榄灰色背景，完全虚化\",\n    \"depth\": \"极浅景深，模糊虹膜焦平面后方毫米处的一切\",\n    \"atmosphere\": \"温暖、厚重、充满尘埃的空气，伴有被照亮的漂浮微粒\",\n    \"lens_interaction\": \"柔和的光学暗角，微距压缩感\"\n  },\n  \"lighting\": {\n    \"key\": \"温暖的定向伦勃朗光照射在可见的眼睛和脸颊上\",\n    \"fill\": \"微妙的银色反光以保留钟表机械中的阴影细节\",\n    \"rim\": \"柔和的金色背光突出漂浮的尘埃微粒和机械鸟的边缘\",\n    \"shadows\": \"深邃的电影级明暗对照，丰富的黑色\",\n    \"color_temperature\": \"暖色调（约 3200K - 4000K）\",\n    \"sensor_flare\": \"无，高度控制的影棚布光\"\n  },\n  \"camera\": {\n    \"lens_type\": \"微距定焦\",\n    \"focal_length\": \"120mm\",\n    \"aperture\": \"f/2.8\",\n    \"focus\": \"锐利对焦于可见眼睛的虹膜和沾墨指尖\",\n    \"sensor_format\": \"中画幅\",\n    \"perspective_distortion\": \"零畸变，高压缩感\"\n  },\n  \"post_processing\": {\n    \"color\": \"柔和、浓郁的宝石色调，与温暖的黄铜和苍白的肤色形成对比\",\n    \"tonality\": \"高对比度，高光部分呈现胶片般的柔和过渡\",\n    \"texture\": \"Kodak Portra 400 颗粒感，有机瑕疵，微观皮肤纹理\",\n    \"digital_sharpening\": \"无，纯粹的光学锐度\",\n    \"chromatic_aberration\": \"由于微距镜头特性，黄铜齿轮边缘有非常轻微的色差紫边\"\n  },\n  \"negative_specifications\": [\n    \"霓虹灯\",\n    \"数字绘画\",\n    \"插画\",\n    \"CGI\",\n    \"塑料皮肤\",\n    \"平光\",\n    \"广角镜头\",\n    \"全身像\",\n    \"陈词滥调的咖啡馆\",\n    \"现代办公室\"\n  ]\n}",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789713176331_8bcqgu_HSbBRzWXIAA1GO-.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "游戏素材",
+        "timedoctor.eth"
+      ],
+      "author": "timedoctor.eth",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/timedoctor_nft/status/2100578794159436219",
+      "license": "upstream",
+      "createdAt": "2026-09-17"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:5d5f67c3389712b8",
+      "title": "游戏素材 - Q 版 RPG 游戏活动主视觉图",
+      "prompt": "[游戏活动]\n- 游戏标题：{argument name=\"game title\" default=\"寻宝大冒险！\"}\n- 游戏概述/特色：{argument name=\"description\" default=\"在宏大的冒险岛上寻找宝藏！\"}\n- 类型/副标题：{argument name=\"subtext\" default=\"RPG 冒险动作游戏！\"}\n\n[质量、制作、构图]\n- 风格：适用于日本移动端 RPG 或休闲游戏活动公告的插画。色彩鲜艳、充满欢乐的奇幻世界。\n- 主体：可爱的 Q 版角色（Q 版英雄或吉祥物）面带微笑打开宝箱。金色的光芒和魔法粒子从宝箱中溢出，耀眼夺目。\n- 背景：蓝天白云，以及郁郁葱葱的奇幻世界中的岛屿或森林。\n- 排版（适用于 GPT-image / Nano Banana Pro）：在屏幕中央或顶部设计 {argument name=\"game title\" default=\"寻宝大冒险！\"} 的奇幻风格装饰性标志，并以易于阅读的布局添加 {argument name=\"description\" default=\"在宏大的冒险岛上寻找宝藏！\"} 和 {argument name=\"subtext\" default=\"RPG 冒险动作游戏！\"}。\n- 色彩/光影：明亮、高饱和度的奇幻色彩，带有魔法光泽和柔和的阴影描绘。\n\n[严格的布局和输出限制（必填）]\n- 输出成品设计本身，填满整个屏幕。设计内的背景和场景描述（墙壁、空间、阴影等）可遵循正文中的说明。\n- 禁止事项：带相框的海报照片、钉在墙上的照片、放在桌子或纸上的样机照片、纸张边缘的透视变形或投影。\n- 输出成品平面 2D 设计本身，填满整个画布。允许使用上述描述的设计内部场景元素。绝对禁止海报样机照片：禁止使用相框、禁止拍摄贴在墙上或桌上的海报、禁止在艺术品边缘出现透视变形或投影。\n\n- 宽高比：--ar 16:9",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789108573807_t9dgx5_HR2KkS3XgA0D5eA.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "游戏素材",
+        "AI Guide-Note - 実務で使えるAI活用メディア"
+      ],
+      "author": "AI Guide-Note - 実務で使えるAI活用メディア",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/AIGuideNote/status/2097985361729220828",
+      "license": "upstream",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:d6b52e032335c447",
       "title": "游戏素材 - 表现主义写实混合风格肖像",
       "prompt": "请使用附带的对象，尽可能还原其外观。创作一幅精致的混合风格肖像，将表现主义的绘画写实感与精致的电影感数字插画融为一体。\n\n保留原图的面部结构、表情、姿势、发型、服装、比例以及整体构图。运用清晰且自信的笔触、细腻的干笔纹理、精致的草图线条、柔和的罩染效果、自然的颜料变化以及手工绘制的瑕疵感——避免过于平滑或喷枪质感。\n\n使用温暖的桃色、珊瑚色、赤陶色、琥珀色和柔粉色作为肤色基调，并辅以淡紫色、李子色、炭灰色、浓咖啡色和板岩色的丰富阴影。在额头、鼻梁、颧骨和嘴唇处添加逼真的明亮高光。\n\n使双眼极具表现力和电影感，刻画出细腻的虹膜、逼真的倒影、精致的睫毛以及受控的眼神光。保持面部解剖结构的真实、优雅与成熟感。\n\n头发和服装应呈现出流畅的绘画笔触、自然的褶皱、局部的锐利细节以及松散的表现主义边缘。运用富有戏剧性的定向电影光效、微妙的轮廓光、大气阴影以及柔和的背景融合效果。\n\n整体风格：融合了传统手绘质感、印象派写实主义、优雅线条、电影级质感与精致角色插画的高端当代概念艺术。\n\n极简的大气背景，采用高级暖中性色调，重点聚焦于面部与眼神。\n\n长宽比：9:16 竖屏。",
       "media": "image",
@@ -19,86 +99,6 @@
       "sourceUrl": "https://x.com/HustleXR/status/2096951148515385716",
       "license": "upstream",
       "createdAt": "2026-09-07"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:96421a2cad251d44",
-      "title": "游戏素材 - Artifact Diorama SQL 生成",
-      "prompt": "16:9 select * from artifact_diorama_archives where subject_media = '{argument name=\"media title\" default=\"[media_title]\"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name=\"media title\" default=\"[media_title]\"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name=\"media title\" default=\"[media_title]\"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "游戏素材",
-        "Gadgetify"
-      ],
-      "author": "Gadgetify",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Gdgtify/status/2095942973934698532",
-      "license": "upstream",
-      "createdAt": "2026-09-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:2c412dc5e7691658",
-      "title": "游戏素材 - Woodpunk 动力木质雕塑自动机",
-      "prompt": "1. 语义推理引擎（动态材质映射）：\n输入 A 为任意主题（物体、动物、植物或概念）。\n分析主题的固有属性并将其映射到手工材质：\n主体（底盘）：推断主题的主要颜色/重量，并分配相应的硬木。\n装饰（镶嵌）：推断主题的图案或细节，并分配对比鲜明的细木镶嵌材质。\n机械结构（骨架）：推断主题的关节或动力源，并分配金属五金件。\n2. “不可变”容器（自动机）：\n目标：“达芬奇工作室”风格的产品摄影。\n物体：将主题渲染为一个复杂的、独立的木制机械玩具。\n底座：模型矗立在代表其语义环境的手工雕刻木块上。\n比例：桌面物体的微距摄影（约 12 英寸高）。\n3. 发条内部（变形）：\n剖面：视觉上移除或铰接打开部分外部“木壳”。\n内部：内部的生物或机械构造被发条装置取代。\n规则：可见的齿轮、自行车链条、手表发条和黄铜飞轮必须暗示物体通过发条动力驱动。\n紧固件：木材接缝处可见微小的黄铜螺丝、铆钉和铰链。\n4. 叙事角色（操作员）：\n角色：场景中集成了一个标准的关节木制人体模型（艺术家玩偶风格）。\n职责：该角色作为主题的维护者、骑手或操作员。\n互动：他们正在爬梯子擦拭物体、转动巨大的发条钥匙，或驾驶野兽/机器。\n配件：玩偶穿着与语境相符的雕刻木质装备。\n5. 灯光与氛围：\n灯光：柔光箱摄影棚灯光。漫射的高端商业灯光，在涂漆的曲线上营造出优雅的长条高光。\n背景：中性摄影棚灰。无缝无限背景，聚焦于材质纹理。\n质感：高光清漆。木材必须看起来昂贵、光滑且色彩饱和度深。\n输出：一张图片，1:1 纵横比，产品摄影，“Woodpunk”美学，8k 分辨率。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788591095766_6nq71i_HRP8n6XWcAEna6M.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "游戏素材",
-        "Gadgetify"
-      ],
-      "author": "Gadgetify",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Gdgtify/status/2095854642882019392",
-      "license": "upstream",
-      "createdAt": "2026-09-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:b55ba07f8784e785",
-      "title": "游戏素材 - 漫画桌面立体模型套件",
-      "prompt": "{ \"Aesthetic\": \"实体桌面立体模型，树脂与粘土模型套件\", \"Subject\": \"{argument name=\"franchise\" default=\"[FRANCHISE]\"}\", \"Physical_Components\": { \"The_Archway\": \"拼写为 {argument name=\"franchise name\" default=\"[FRANCHISE]\"} 的巨型 3D 字母，纹理采用 AI_INFER(符合原作设定的材质)。\", \"The_Vessel\": \"一个中空、切开的古董碗/容器，承载着整个世界。\", \"The_Ecosystem\": { \"Terrain\": \"AI_INFER(微缩山脉、城堡或城市)。\", \"Fluids\": \"半透明、光泽的浇注环氧树脂，模拟水或熔岩。\", \"Inhabitants\": \"与地形互动的微型、超精细人偶。\" } }, \"Lighting\": \"电影级产品摄影。轮廓光突显 3D 字体边缘。\" }",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788591094576_5cnp5g_HRPxrfzbgAAv-fK.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "游戏素材",
-        "Gadgetify"
-      ],
-      "author": "Gadgetify",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Gdgtify/status/2095836776807936436",
-      "license": "upstream",
-      "createdAt": "2026-09-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:25bc6cfe5e6ba35a",
-      "title": "游戏素材 - 空灵女子花卉发饰肖像",
-      "prompt": "特写肖像，主角为一位 {argument name=\"subject\" default=\"空灵的年轻女子\"}，拥有瓷器般的肌肤和富有表现力的榛褐色双眼，双唇微启，如瀑布般波浪状的 {argument name=\"hair color\" default=\"午夜蓝与钴蓝色\"} 秀发中巧妙地交织着盛开的 {argument name=\"flowers\" default=\"白色牡丹\"} 和深蓝色花藤，有机植物风格的服饰与蓝色叶片及白色花朵完美融合，深色极简背景，戏剧性的明暗对比照明，流畅的数字概念艺术，柔和的电影感阴影，照片级真实细节，精细线条艺术，ArtStation 热门趋势，8k 分辨率，长宽比 9:16",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788591084589_27rgsd_HRVdVBJbIAA-NbX.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "游戏素材",
-        "𝑨𝒇𝒓𝒊𝒏"
-      ],
-      "author": "𝑨𝒇𝒓𝒊𝒏",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/afrinxai/status/2095749951464919337",
-      "license": "upstream",
-      "createdAt": "2026-09-04"
     },
     {
       "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:6b86b273ff34fce1",

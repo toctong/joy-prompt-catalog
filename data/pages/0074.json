@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31465-206",
-      "title": "Raspberry Shell Product Photography",
-      "prompt": "Studio product photo of {argument name=\"product\" default=\"product from uploaded photo\"} encased inside a hyper-realistic, oversized cross-section of a raspberry, split into two halves that wrap around and cradle the product like a protective shell, with the product sitting centered, floating slightly with a soft contact shadow; the raspberry surface shows glossy, dew-covered individual drupelets with visible juice dripping down realistically over the product, fine details like tiny hairs and moisture droplets, hyper-realistic CGI product photography style, high-end commercial advertising look, soft diffused studio lighting with subtle rim light, seamless light grey studio backdrop with subtle gradient, vertical composition, clean and minimal, no text overlays unless part of the product's own packaging.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31474-206",
+      "title": "Cinematic Urban Night Billboard Portrait",
+      "prompt": "{\\n\"image_generation_prompt\": {\\n\"subject_details\": {\\n\"description\": \"{argument name=\"subject\" default=\"Young stylish woman with long straight brown hair\"}\",\\n\"expression\": \"Subtle, confident smile\",\\n\"outfit\": {\\n\"top\": \"Soft pink T-shirt under an open black casual jacket\",\\n\"bottom\": \"Fitted dark jeans\",\\n\"shoes\": \"Polished black shoes\"\\n},\\n\"pose\": \"Standing on a street corner facing the camera, pointing with one hand toward a building behind her\"\\n},\\n\"background_scene\": {\\n\"setting\": \"Vibrant modern city at night\",\\n\"key_element\": \"{argument name=\"billboard element\" default=\"Giant digital billboard on a tall glass building\"}\",\\n\"billboard_content\": {\\n\"visual\": \"Portrait of the same woman in the same outfit, posed like a high-fashion magazine cover\",\\n\"text_headline\": \"{argument name=\"billboard text\" default=\"VOUGHT STYLE\"}\",\\n\"text_subheading\": \"Smaller indistinct magazine-style text\"\\n},\\n\"atmosphere\": [\\n\"Neon lights\",\\n\"Glowing billboards\",\\n\"Moving cars with motion blur\",\\n\"Wet pavement with reflections\"\\n]\\n},\\n\"technical_specs\": {\\n\"style\": \"Cinematic, Photorealistic, Urban Night\",\\n\"camera\": \"35mm lens\",\\n\"depth_of_field\": \"Shallow with soft bokeh on city lights\",\\n\"lighting\": \"Mixed neon ambient, directional light from billboard, moody shadows\",\\n\"resolution\": \"8k, high definition\"\\n}\\n}\\n}, Use the reference image as the primary source for the person's facial features, appearance, and identity. Preserve all distinguishing facial characteristics exactly as shown in the reference.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31465-206-Raspberry-Shell-Product-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31474-206-Cinematic-Urban-Night-Billboard-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-19982-330",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-19982-331",
       "title": "Vibrant Neon Majestic Lion",
       "prompt": "highly detailed illustration of a {argument name=\"subject\" default=\"majestic lion portrait\"}, its mane flowing outward in a rich blend of {argument name=\"colors\" default=\"vibrant colors like fiery oranges, deep reds, electric blues, and luminous purples\"}, {argument name=\"eyes\" default=\"sharp expressive eyes looking directly at the viewer\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-19982-330-Vibrant-Neon-Majestic-Lion.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-19982-331-Vibrant-Neon-Majestic-Lion.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34299-123",
-      "title": "Editorial Denim Fashion Portrait",
-      "prompt": "Create an ultra-realistic editorial fashion portrait of a young woman standing casually against a wall completely covered with {argument name=\"background wall\" default=\"vintage newspaper pages\"}. She has {argument name=\"hair style\" default=\"long, voluminous wavy dark-brown hair\"}, subtle natural makeup, defined brows, soft skin texture, and deep red lipstick. She wears silver hoop earrings, a {argument name=\"top wear\" default=\"strapless denim corset-style top\"}, high-waisted light-blue denim jeans, and an oversized blue denim jacket draped loosely off her shoulders. She holds an open vintage newspaper naturally in both hands, looking slightly to the side with a calm, confident expression. Full-body composition, relaxed pose, realistic hands and anatomy, detailed denim texture, natural skin pores, soft facial features. The background is a collage of aged newspapers in warm beige and brown tones, with visible motivational headlines and vintage photographs. Warm soft studio lighting, subtle film grain, nostalgic editorial aesthetic, realistic shadows, shallow depth of field, premium fashion photography, highly detailed, photorealistic, 8K, vertical 2:3 composition, no watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34298-123",
+      "title": "Confident Urban Street Portrait",
+      "prompt": "A stunning woman with {argument name=\"hair style\" default=\"long, wavy black hair\"} and {argument name=\"eye color\" default=\"piercing blue\"} eyes sits confidently on a {argument name=\"setting\" default=\"wet urban street\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34299-123-Editorial-Denim-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34298-123-Confident-Urban-Street-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31470-208",
-      "title": "Palace Fashion Magazine Cover",
-      "prompt": "High-fashion editorial photograph of a stylish young woman with a {argument name=\"hair style\" default=\"bright purple bob haircut\"} and chic sunglasses. She is wearing a {argument name=\"clothing\" default=\"deep blue velvet sleeveless jumpsuit\"} and holding out a large, luxurious {argument name=\"accessory\" default=\"emerald green leather handbag\"} with a gold metal clasp towards the camera. Low-angle perspective. Set inside an elegant classical European palace with stone arches, tall French windows, and soft natural sunlight. Photorealistic, 8k resolution, cinematic lighting, sharp focus, fashion magazine cover style.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31465-207",
+      "title": "Raspberry Shell Product Photography",
+      "prompt": "Studio product photo of {argument name=\"product\" default=\"product from uploaded photo\"} encased inside a hyper-realistic, oversized cross-section of a raspberry, split into two halves that wrap around and cradle the product like a protective shell, with the product sitting centered, floating slightly with a soft contact shadow; the raspberry surface shows glossy, dew-covered individual drupelets with visible juice dripping down realistically over the product, fine details like tiny hairs and moisture droplets, hyper-realistic CGI product photography style, high-end commercial advertising look, soft diffused studio lighting with subtle rim light, seamless light grey studio backdrop with subtle gradient, vertical composition, clean and minimal, no text overlays unless part of the product's own packaging.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31470-208-Palace-Fashion-Magazine-Cover.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31465-207-Raspberry-Shell-Product-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-19611-338",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-19611-339",
       "title": "Surreal Charcoal Fist Sketch",
       "prompt": "An unsettling and surreal charcoal sketch, rendered in high-contrast black and white, depicting an optical illusion where a coiled, sleeping human figure is inextricably merged with and formed by a massive, clenched human fist. The figure's bald head, with closed eyes, and curled body form the intricate knuckles and thumb area, creating a direct visual parallel between the shape of the fist and the fetal-like posture of the figure. The texture of skin and clothing is created through dense cross-hatching, smudging, and burnishing on textured paper, emphasizing the powerful, almost sculptural form. The background is a simple, blurred {argument name=\"background style\" default=\"charcoal wash\"} that makes the ambiguous, powerful object the sole focus.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-19611-338-Surreal-Charcoal-Fist-Sketch.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-19611-339-Surreal-Charcoal-Fist-Sketch.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34300-125",
-      "title": "Old Money Automotive Lifestyle Portrait",
-      "prompt": "A portrait of a confident handsome male with a strong jawline and light stubble, sitting directly facing the camera with level shoulders and an authoritative, serious expression, maintaining a direct gaze with relaxed, slightly narrowed lids and a closed neutral mouth. His short hair features a tapered fade on the sides and two to three inches on top, styled upward and back into a textured quiff with a matte finish, revealing natural strand separation, slight uneven wave patterns, and a few minor flyaways catching the light against the background. He is dressed in a highly textured, semi-sheer bright white button-down shirt with a smooth white sweater tied effortlessly over his shoulders. He is seated inside a dark luxury vehicle, positioned against a pristine, light gray matte contoured sports seat with an integrated headrest. The dark car interior frames the composition asymmetrically, showing a pristine black fabric headliner and a rectangular black grab handle recessed in the top right, while the passenger window reveals a medium depth of field view of a clear blue sky and a weathered exterior wall constructed of rough-hewn light brown and tan stones stacked with thick mortar lines. Bright, highly directional golden natural sunlight beams in from the front-left at a forty-five-degree angle, bathing the scene in a warm, energetic, and luxurious glow. This hard light with slight atmospheric diffusion creates a high-contrast cinematic atmosphere, casting harsh, short, and deep black shadows under his chin, on the right side of his nose, and along his right cheek, while placing preserved, bright highlights across his left cheek, nose bridge, forehead, and the crisp white shirt collar. The striking complementary color palette beautifully balances the bright whites of his clothing and warm peach skin tones against the deep black interior and clear blue sky. Captured as a photorealistic digital photograph reminiscent of high-end old money automotive lifestyle content, the tack-sharp image utilizes a full-frame camera with an 85mm lens at f/2.8 and a fast shutter speed to isolate the subject from the slightly softened stone background, enhanced with crisp post-processing to deepen the contrast and sharpen facial hair and fabric textures, beautifully framed in a 1:1 square aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34299-124",
+      "title": "Editorial Denim Fashion Portrait",
+      "prompt": "Create an ultra-realistic editorial fashion portrait of a young woman standing casually against a wall completely covered with {argument name=\"background wall\" default=\"vintage newspaper pages\"}. She has {argument name=\"hair style\" default=\"long, voluminous wavy dark-brown hair\"}, subtle natural makeup, defined brows, soft skin texture, and deep red lipstick. She wears silver hoop earrings, a {argument name=\"top wear\" default=\"strapless denim corset-style top\"}, high-waisted light-blue denim jeans, and an oversized blue denim jacket draped loosely off her shoulders. She holds an open vintage newspaper naturally in both hands, looking slightly to the side with a calm, confident expression. Full-body composition, relaxed pose, realistic hands and anatomy, detailed denim texture, natural skin pores, soft facial features. The background is a collage of aged newspapers in warm beige and brown tones, with visible motivational headlines and vintage photographs. Warm soft studio lighting, subtle film grain, nostalgic editorial aesthetic, realistic shadows, shallow depth of field, premium fashion photography, highly detailed, photorealistic, 8K, vertical 2:3 composition, no watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34300-125-Old-Money-Automotive-Lifestyle-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34299-124-Editorial-Denim-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31468-210",
-      "title": "Vacuum Sealed Logo Installation",
-      "prompt": "A DETAILED 3D INSTALLATION OF THE UPLOADED LOGO MOUNTED ON A SOLID CONCRETE WALL. ONLY THE LOGO ITSELF IS VACUUM-SEALED AND WRAPPED TIGHTLY IN A LAYER OF GLOSSY {argument name=\"color\" default=\"COLOR\"} PLASTIC SHRINK-WRAP, FOLLOWING THE EXACT CONTOUR OF EVERY LETTER AND SHAPE. THE PLASTIC FILM TIGHTLY HUGS THE EDGES OF THE LOGO, CREATING REALISTIC CRINKLES AND SHARP SPECULAR HIGHLIGHTS ON THE LOGO'S SURFACE. THE BACKGROUND WALL IS CLEAN CONCRETE, FREE OF ANY PLASTIC WRAPPING OR FRAMES. STUDIO SPOTLIGHTS CAST SOFT, REALISTIC DROP SHADOWS: FROM THE WRAPPED LOGO ONTO THE WALL. RATIO 1080X1350 VERTICAL.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31470-209",
+      "title": "Palace Fashion Magazine Cover",
+      "prompt": "High-fashion editorial photograph of a stylish young woman with a {argument name=\"hair style\" default=\"bright purple bob haircut\"} and chic sunglasses. She is wearing a {argument name=\"clothing\" default=\"deep blue velvet sleeveless jumpsuit\"} and holding out a large, luxurious {argument name=\"accessory\" default=\"emerald green leather handbag\"} with a gold metal clasp towards the camera. Low-angle perspective. Set inside an elegant classical European palace with stone arches, tall French windows, and soft natural sunlight. Photorealistic, 8k resolution, cinematic lighting, sharp focus, fashion magazine cover style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31468-210-Vacuum-Sealed-Logo-Installation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31470-209-Palace-Fashion-Magazine-Cover.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-19175-353",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-19175-354",
       "title": "Vintage Retro Pickleball Frog Illustration",
       "prompt": "highly detailed illustration of an {argument name=\"subject\" default=\"anthropomorphic frog playing pickleball\"} on an {argument name=\"setting\" default=\"outdoor court\"}, retro styled design with {argument name=\"style\" default=\"bold vintage color palette\"}, subtle halftone grain and distressed texture, dynamic action pose mid-swing, simplified graphic background, clean thick linework, screen-printed poster aesthetic",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-19175-353-Vintage-Retro-Pickleball-Frog-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-19175-354-Vintage-Retro-Pickleball-Frog-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -438,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34125-126",
-      "title": "South Asian Woman Studio Fashion Portrait",
-      "prompt": "A medium portrait of a young South Asian woman posing candidly, looking slightly off-camera with a gentle smile. She has dark hair tied back in a low ponytail with loose strands framing her face, refined features, and bright pink lips. She is wearing a modern designer outfit featuring a sleeveless black top layered under a {argument name=\"dress pattern\" default=\"beige-and-black abstract typography/patterned collared dress\"} with thin shoulder straps. Accessorized with a delicate gold chain necklace, small stud earrings, and a slim gold bracelet on her wrist. Her hand rests gently under her chin. Warm indoor studio lighting highlighting soft skin tones, set against a smooth dark wood panel background. Photographed with a prime 85mm lens, sharp focus, shallow depth of field, 8K resolution, elegant fashion portrait aesthetic.9.16 same face as reference image.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34300-126",
+      "title": "Old Money Automotive Lifestyle Portrait",
+      "prompt": "A portrait of a confident handsome male with a strong jawline and light stubble, sitting directly facing the camera with level shoulders and an authoritative, serious expression, maintaining a direct gaze with relaxed, slightly narrowed lids and a closed neutral mouth. His short hair features a tapered fade on the sides and two to three inches on top, styled upward and back into a textured quiff with a matte finish, revealing natural strand separation, slight uneven wave patterns, and a few minor flyaways catching the light against the background. He is dressed in a highly textured, semi-sheer bright white button-down shirt with a smooth white sweater tied effortlessly over his shoulders. He is seated inside a dark luxury vehicle, positioned against a pristine, light gray matte contoured sports seat with an integrated headrest. The dark car interior frames the composition asymmetrically, showing a pristine black fabric headliner and a rectangular black grab handle recessed in the top right, while the passenger window reveals a medium depth of field view of a clear blue sky and a weathered exterior wall constructed of rough-hewn light brown and tan stones stacked with thick mortar lines. Bright, highly directional golden natural sunlight beams in from the front-left at a forty-five-degree angle, bathing the scene in a warm, energetic, and luxurious glow. This hard light with slight atmospheric diffusion creates a high-contrast cinematic atmosphere, casting harsh, short, and deep black shadows under his chin, on the right side of his nose, and along his right cheek, while placing preserved, bright highlights across his left cheek, nose bridge, forehead, and the crisp white shirt collar. The striking complementary color palette beautifully balances the bright whites of his clothing and warm peach skin tones against the deep black interior and clear blue sky. Captured as a photorealistic digital photograph reminiscent of high-end old money automotive lifestyle content, the tack-sharp image utilizes a full-frame camera with an 85mm lens at f/2.8 and a fast shutter speed to isolate the subject from the slightly softened stone background, enhanced with crisp post-processing to deepen the contrast and sharpen facial hair and fabric textures, beautifully framed in a 1:1 square aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34125-126-South-Asian-Woman-Studio-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34300-126-Old-Money-Automotive-Lifestyle-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31475-211",
-      "title": "Futuristic Glass Turbine Engine",
-      "prompt": "A sleek high-performance frosted glass turbine workhorse engine with anodized aluminum housing and layered refractive glass prisms, firing an ultra-fast {argument name=\"light beam\" default=\"vivid mint light beam\"} with elongated holographic circuit light trails at extreme velocity, asymmetrical composition on rule of thirds grid :: Editorial 3D glassmorphism, refractive glass panels, smooth ceramic, brushed steel, anodized metallic elements, subsurface scattering, light dispersion, chromatic aberration, caustics :: {argument name=\"background\" default=\"Deep charcoal slate and midnight navy background\"}, soft glowing mint highlights with vivid emerald internal glow, subtle deep oceanic blue environmental reflections, clean color separation :: Cinematic studio lighting, volumetric lighting, f/1.8 aperture, extreme bokeh macro photography, deep-focus perspective, {argument name=\"composition\" default=\"minimalist, extreme negative space\"} --ar 16:9 --no text, font, letters, typography, words, watermarks, UI elements, borders, people, faces, humans, hands, laptops, desks, offices, cartoon, vector, clip art, fleshy, biological, organic, busy background, warm colors, red, yellow, purple, noise, clutter",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31468-211",
+      "title": "Vacuum Sealed Logo Installation",
+      "prompt": "A DETAILED 3D INSTALLATION OF THE UPLOADED LOGO MOUNTED ON A SOLID CONCRETE WALL. ONLY THE LOGO ITSELF IS VACUUM-SEALED AND WRAPPED TIGHTLY IN A LAYER OF GLOSSY {argument name=\"color\" default=\"COLOR\"} PLASTIC SHRINK-WRAP, FOLLOWING THE EXACT CONTOUR OF EVERY LETTER AND SHAPE. THE PLASTIC FILM TIGHTLY HUGS THE EDGES OF THE LOGO, CREATING REALISTIC CRINKLES AND SHARP SPECULAR HIGHLIGHTS ON THE LOGO'S SURFACE. THE BACKGROUND WALL IS CLEAN CONCRETE, FREE OF ANY PLASTIC WRAPPING OR FRAMES. STUDIO SPOTLIGHTS CAST SOFT, REALISTIC DROP SHADOWS: FROM THE WRAPPED LOGO ONTO THE WALL. RATIO 1080X1350 VERTICAL.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31475-211-Futuristic-Glass-Turbine-Engine.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31468-211-Vacuum-Sealed-Logo-Installation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +552,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-19181-355",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-19181-356",
       "title": "Futuristic Music UI Poster",
       "prompt": "Create a premium 3:4 vertical cinematic AR poster of a stylish young man holding a smartphone. He looks modern, confident, and effortlessly cool, with sharp facial features, slightly messy hair, and a relaxed yet focused expression, as if curating his music vibe. His posture is natural - one hand holding the phone, the other slightly relaxed, conveying calm control and presence. Surround him with floating 3D music UI cards (inspired by Spotify / Apple Music), placed at different depths - some in the foreground partially blurred, some behind him, creating strong cinematic depth and motion. Each UI card must clearly display one track title (sharp, readable, correctly spelled): Midnight Riot, Electric Bones, Wild Echo, Neon Crash, Broken Anthem, Black Voltage, Storm Signal, Rebel Hearts. Design the UI in a glassmorphism style — translucent frosted glass panels with soft rounded corners, subtle reflections, glowing neon edges ({argument name=\"neon colors\" default=\"red, pink, electric blue tones\"}). Each card includes: Album artwork (dark, moody, cyberpunk aesthetic) Play/pause buttons Progress bars Animated equalizer bars Audio waveforms Lighting: studio-quality cinematic lighting with soft glow from the floating UI illuminating his face naturally. Add subtle rim light around his silhouette for depth. Maintain realistic skin tones with a premium editorial look. Background: {argument name=\"background\" default=\"dark, moody gradient\"} (charcoal, deep red, black tones) with soft haze and minimal noise, keeping it clean and high-end. Style & Quality: ultra-realistic, high-end fashion-tech aesthetic, cinematic composition, 8K resolution, sharp focus on the subject with depth-of-field blur on some UI elements. Slight motion blur on a few cards for realism. Overall vibe: futuristic, premium, music-driven identity - like a digital DJ or vibe curator controlling sound in a cinematic tech universe.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-19181-355-Futuristic-Music-UI-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-19181-356-Futuristic-Music-UI-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +609,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34119-127",
-      "title": "Neon Bokeh Romantic Night Portrait",
-      "prompt": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. A medium shot of a {argument name=\"subjects\" default=\"young South Asian couple\"} posing together, leaning against a silver metal railing at night. On the left, a man with a neatly groomed beard, dark hair, and a lean build wears a dark maroon button-up shirt and a wristwatch, resting his chin on his right hand. Beside him, a young woman with a slender build, soft facial features, and long dark hair, wears a beige floral-patterned traditional tunic, also resting her chin on her hands. Both are looking directly at the viewer with gentle smiles. They are centered in the frame against a blurred background of vibrant green foliage illuminated by {argument name=\"background lighting\" default=\"colorful, bokeh-style neon lights in pink, blue, and yellow hues\"}. The {argument name=\"lighting atmosphere\" default=\"lighting is soft and warm\"}, highlighting their faces and creating a romantic, inviting atmosphere. The composition is well-balanced, utilizing the railing as a foreground element to create depth. The style is that of a professional portrait, characterized by clear focus on the subjects and a creamy, out-of-focus background.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34125-127",
+      "title": "South Asian Woman Studio Fashion Portrait",
+      "prompt": "A medium portrait of a young South Asian woman posing candidly, looking slightly off-camera with a gentle smile. She has dark hair tied back in a low ponytail with loose strands framing her face, refined features, and bright pink lips. She is wearing a modern designer outfit featuring a sleeveless black top layered under a {argument name=\"dress pattern\" default=\"beige-and-black abstract typography/patterned collared dress\"} with thin shoulder straps. Accessorized with a delicate gold chain necklace, small stud earrings, and a slim gold bracelet on her wrist. Her hand rests gently under her chin. Warm indoor studio lighting highlighting soft skin tones, set against a smooth dark wood panel background. Photographed with a prime 85mm lens, sharp focus, shallow depth of field, 8K resolution, elegant fashion portrait aesthetic.9.16 same face as reference image.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34119-127-Neon-Bokeh-Romantic-Night-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34125-127-South-Asian-Woman-Studio-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31476-213",
-      "title": "Food Photography Stack Macro",
-      "prompt": "a stack of three {argument name=\"objects\" default=\"Tomatoes, Eggs, and Sweatshirt and Ice creams\"} with {argument name=\"liquid\" default=\"LIQUID\"} dripping down, on a white background, in the style of food photography, macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31475-212",
+      "title": "Futuristic Glass Turbine Engine",
+      "prompt": "A sleek high-performance frosted glass turbine workhorse engine with anodized aluminum housing and layered refractive glass prisms, firing an ultra-fast {argument name=\"light beam\" default=\"vivid mint light beam\"} with elongated holographic circuit light trails at extreme velocity, asymmetrical composition on rule of thirds grid :: Editorial 3D glassmorphism, refractive glass panels, smooth ceramic, brushed steel, anodized metallic elements, subsurface scattering, light dispersion, chromatic aberration, caustics :: {argument name=\"background\" default=\"Deep charcoal slate and midnight navy background\"}, soft glowing mint highlights with vivid emerald internal glow, subtle deep oceanic blue environmental reflections, clean color separation :: Cinematic studio lighting, volumetric lighting, f/1.8 aperture, extreme bokeh macro photography, deep-focus perspective, {argument name=\"composition\" default=\"minimalist, extreme negative space\"} --ar 16:9 --no text, font, letters, typography, words, watermarks, UI elements, borders, people, faces, humans, hands, laptops, desks, offices, cartoon, vector, clip art, fleshy, biological, organic, busy background, warm colors, red, yellow, purple, noise, clutter",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31476-213-Food-Photography-Stack-Macro.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31475-212-Futuristic-Glass-Turbine-Engine.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -723,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-18719-365",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-18719-366",
       "title": "70s Psychedelic Hand Illustration",
       "prompt": "many colorful hands in a retro 1970s psychedelic illustration, intricately detailed, reaching in from all sides of the frame, each hand holding a {argument name=\"subject\" default=\"surreal eyeball\"}, bold swirling patterns and {argument name=\"background\" default=\"groovy shapes in the background\"}, vibrant saturated colors, flat {argument name=\"style\" default=\"vintage print style\"}, clean vector lines, high contrast, poster art composition",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-18719-365-70s-Psychedelic-Hand-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-18719-366-70s-Psychedelic-Hand-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,16 +780,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-33795-129",
-      "title": "SNS Giveaway Campaign Banner",
-      "prompt": "[Campaign Information] - Campaign Name: {argument name=\"campaign name\" default=\"My Favorite Item Giveaway Campaign\"} - Prize List: {argument name=\"prizes\" default=\"Tonkotsu Ramen, Tea, Tissue Box\"} - Participation Steps: {argument name=\"entry steps\" default=\"Follow & Repost\"} [Image Quality/Direction/Composition] - Style: Pop, bright, and friendly SNS promotional banner. Eye-catching design. - Subject: Illustrations or realistic product photos of {argument name=\"prizes\" default=\"Tonkotsu Ramen, Tea, Tissue Box\"} popping out of a gift box, surrounded by festive ribbons and star decorations, centered. - Color/Tone: Pastel tones of bright pink, yellow, and light blue to create a sense of excitement. - Text Info (for GPT-image / Nano Banana Pro): The text {argument name=\"campaign name\" default=\"My Favorite Item Giveaway Campaign\"} at the top and the simple steps {argument name=\"entry steps\" default=\"Follow & Repost\"} at the bottom, laid out clearly in a thick, cute, rounded font. - Lighting: Flat, uniform bright lighting with soft shadows. [Strict Layout Constraints (Required)] - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: --ar 1:1 or --ar 16:9",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-34119-128",
+      "title": "Neon Bokeh Romantic Night Portrait",
+      "prompt": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. A medium shot of a {argument name=\"subjects\" default=\"young South Asian couple\"} posing together, leaning against a silver metal railing at night. On the left, a man with a neatly groomed beard, dark hair, and a lean build wears a dark maroon button-up shirt and a wristwatch, resting his chin on his right hand. Beside him, a young woman with a slender build, soft facial features, and long dark hair, wears a beige floral-patterned traditional tunic, also resting her chin on her hands. Both are looking directly at the viewer with gentle smiles. They are centered in the frame against a blurred background of vibrant green foliage illuminated by {argument name=\"background lighting\" default=\"colorful, bokeh-style neon lights in pink, blue, and yellow hues\"}. The {argument name=\"lighting atmosphere\" default=\"lighting is soft and warm\"}, highlighting their faces and creating a romantic, inviting atmosphere. The composition is well-balanced, utilizing the railing as a foreground element to create depth. The style is that of a professional portrait, characterized by clear focus on the subjects and a creamy, out-of-focus background.",
       "media": "image",
-      "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-33795-129-SNS-Giveaway-Campaign-Banner.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-34119-128-Neon-Bokeh-Romantic-Night-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "GPT Image",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -856,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31341-214",
-      "title": "Macro Drip Food Photography",
-      "prompt": "a stack of three {argument name=\"subject\" default=\"Tomatoes, Eggs, and Sweatshirt and Ice creams\"} with {argument name=\"liquid\" default=\"LIQUID\"} dripping down, on a white background, in the style of food photography, macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-31476-214",
+      "title": "Food Photography Stack Macro",
+      "prompt": "a stack of three {argument name=\"objects\" default=\"Tomatoes, Eggs, and Sweatshirt and Ice creams\"} with {argument name=\"liquid\" default=\"LIQUID\"} dripping down, on a white background, in the style of food photography, macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31341-214-Macro-Drip-Food-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-31476-214-Food-Photography-Stack-Macro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-18505-370",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-18505-371",
       "title": "Deconstructed Grid Editorial Portrait",
       "prompt": "A high-end editorial portrait of a young man, using the provided image as a facial reference, now wearing {argument name=\"sunglasses\" default=\"matte black oval sunglasses\"} and a {argument name=\"shirt\" default=\"red and white checkered flannel shirt\"}. The face is artistically deconstructed into a grid of overlapping square photo fragments, creating a subtle 3D layered effect with slight offsets. Scattered around the head are realistic sticky notes in cream and muted crimson, featuring handwritten script that reads '{argument name=\"text\" default=\"young energy\"},' 'quiet power,' and 'young soul.' The background is a clean, off-white studio wall. The lighting is soft and directional, creating sharp details on the facial hair and fabric texture. Centered composition, premium lifestyle magazine aesthetic, 8k resolution, hyper-realistic textures.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-18505-370-Deconstructed-Grid-Editorial-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-18505-371-Deconstructed-Grid-Editorial-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
