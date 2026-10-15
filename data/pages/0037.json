@@ -1,563 +1,6 @@
 {
   "items": [
     {
-      "id": "youmind-gemini-3:2c6c717e4443",
-      "title": "抖音推荐算法演示动画",
-      "prompt": "为 {argument name=\"platform_name_en\" default=\"抖音\"} 创建一个推荐算法的演示动画。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:99eb46902437",
-      "title": "多级齿轮联动系统动画",
-      "prompt": "一个多级齿轮联动系统，其中旋转主齿轮会使所有齿轮按比例自动移动。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:399f7a87dc4b",
-      "title": "视差滚动主页，带来爆炸性视觉效果",
-      "prompt": "创建一个具有爆炸性视觉效果的视差滚动网站：滚动时以不同速度移动的分层背景、流畅的过渡以及带动画弹出的交互式元素。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:a79f99afc868",
-      "title": "基于 React 的高端瑞士风格着陆页生成器",
-      "prompt": "{argument name=\"generator_name_en\" default=\"High-End LP Generator (Swiss Style)\"}\n\n根据稍后提供的 {argument name=\"input_text_en\" default=\"Input Text\"}，严格遵循以下规范，并以 React（单文件）实现一个高质量的着陆页。\n\n1. 设计理念：{argument name=\"design_concept_en\" default=\"Swiss Modern & Bento\"}\n\n风格：{argument name=\"style_en\" default=\"Apple/Linear-like Swiss modern style\"}，去除装饰，利用留白和排版来营造吸引力。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:9493689dc47e",
-      "title": "玻璃拟物化霓虹界面 UI",
-      "prompt": "一个玻璃拟态霓虹界面，具有超现代的 UI 灯光效果和半透明玻璃面板。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:730dabc089f9",
-      "title": "特斯拉 FSD 道路识别的交互式 SVG 演示",
-      "prompt": "使用 SVG 绘制一个动态、交互式的演示，展示 Tesla FSD 如何识别道路。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:f793dd59e848",
-      "title": "重建 GitHub 的 React 项目页面 UI",
-      "prompt": "构建 {argument name=\"project_name_en\" default=\"React\"} 的 GitHub 页面。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:b665b8eb0823",
-      "title": "Three.js 博物馆漫游场景",
-      "prompt": "在 three.js 中创建一个场景。\n它将是一个博物馆，墙上挂着画作，你可以像在游戏中一样在博物馆大厅里走动。\n将墙壁和地板设为白色。\n天花板将是玻璃的，透过玻璃可以看到天空。\n在大厅中央放置白色方块。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:7904c813ca9e",
-      "title": "从图像生成 Three.js 体素艺术场景的提示",
-      "prompt": "我提供了一张图片。请根据这张图片，用 Three.js 代码创建一个精美的体素艺术场景，所有代码都在一个页面中。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:047a22a548eb",
-      "title": "带混合和求解控制的 3D 魔方网页应用",
-      "prompt": "构建一个 3D {argument name=\"puzzle_type_en\" default=\"魔方\"}，包含一个用于打乱魔方的“打乱”按钮，以及一个“解决”按钮来解开谜题。同时允许用户手动操作并自行解开谜题。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:74fa802534c2",
-      "title": "Gemini 中类似 CapCut 的视频编辑器 UI",
-      "prompt": "设计一个 {argument name=\"app_name_en\" default=\"CapCut\"}。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:817955374207",
-      "title": "单文件 HTML 台球游戏",
-      "prompt": "请在一个 HTML 文件中创建一个功能齐全的 {argument name=\"game_type_en\" default=\"billiards game\"}。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:651debf06f9e",
-      "title": "量子核心监控单页 HTML",
-      "prompt": "请为“{argument name=\"system_name_en\" default=\"Quantum Core Monitoring System\"}”生成一个单页 HTML (SVG)。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:c8b087c114d8",
-      "title": "动态点云狭义相对论网页",
-      "prompt": "编写一个动态网页，用炫酷的点云风格来解释狭义相对论。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:8362a827f225",
-      "title": "Xbox 控制器单文件 SVG",
-      "prompt": "创建一个 {argument name=\"controller_type_en\" default=\"Xbox 控制器\"} 的 SVG。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:8ef80e8dd117",
-      "title": "新粗野主义网页生成提示",
-      "prompt": "制作一个新粗野主义网页，使其极具创意并尽可能突破界限。添加流畅的滚动动画、炫酷的色彩和 Tailwind CSS 样式。使其完全响应式。页面标题为 {argument name=\"page_title\" default=\"dorksense\"}。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "youmind-gemini-3:058886045ad1",
-      "title": "纽约天际线 SVG 单 HTML 场景",
-      "prompt": "{argument name=\"city_skyline_en\" default=\"纽约天际线\"} 的 SVG。使用任何必要的库来完成此任务，但请确保我可以将所有内容粘贴到一个 HTML 文件中并在 Chrome 中打开。让它变得有趣且高度详细，展示意想不到的细节。在一个代码块中充分发挥创意和美感。",
-      "media": "image",
-      "model": "gemini-3",
-      "coverUrl": "https://cms-assets.youmind.com/media/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gemini-3",
-        "gemini",
-        "youmind"
-      ],
-      "author": "YouMind Gemini 3",
-      "source": "youmind-gemini-3",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:motion-design-sequence",
-      "title": "极致动态设计序列 — 15秒品牌识别",
-      "prompt": "Ultra-sleek motion design sequence. Pure black background throughout. White-on-black minimal aesthetic. No cuts — one single continuous unbroken visual evolution. Locked-off static center frame, no camera movement. All motion occurs within the subject. Self-luminous white forms on absolute black, no grain, no shadows.\n\n0–1s [ORIGIN]: A single white point materializes at center frame. It pulses once — three concentric rings ripple outward like a heartbeat and dissolve into black.\n\n1–2s [LINE]: The point stretches into a razor-thin white horizontal line extending edge to edge with elastic ease-out motion.\n\n2–4s [GRID → CIRCLE]: The line multiplies into a precise grid of nine parallel horizontal and vertical lines appearing in staggered succession. The grid warps — outer lines curve inward, the structure rotates, straight lines bend into arcs, converging into a perfect geometric circle outline.\n\n4–6s [WIREFRAME → SOLID SPHERE]: The circle extrudes into a 3D wireframe sphere, every latitude and longitude line crisp, slowly rotating on its vertical axis. The wireframe fills in smoothly — dissolving into a solid white surface with a soft specular highlight in the upper-left quadrant.\n\n6–8s [INTERFACE]: The sphere flattens and unfolds into a clean rectangular plane — a minimal phone interface with rounded corners. Abstract UI elements appear inside: status bar, a grid of rounded app icons, home indicator bar. White line art on black.\n\n8–10s [CUBE → BLOOM]: The interface folds inward, collapsing into an isometric wireframe cube that tumbles once. The cube's six faces peel outward simultaneously, each becoming a smooth white elliptical petal — blooming open like a flower in zero gravity.\n\n10–12s [VORTEX]: The flower dissolves into hundreds of tiny white particles orbiting the center in a controlled elliptical vortex, some clockwise, some counterclockwise, each following a precise mathematical path, flickering softly.\n\n12–13s [WATCH]: The particles decelerate and self-organize — converging and snapping into position to assemble the silhouette of a wristwatch: a clean rectangular case outline with lugs, built entirely from particles.\n\n13–14s [COLLAPSE]: The watch dissolves into fluid white ribbons that compress into a single dense white sphere. It pulses once — brighter than before — then collapses rapidly inward to a single brilliant point.\n\n14–15s [LOGO]: The point holds for one silent beat. Then it expands into a clean minimal brand logo — white sans-serif letterforms on black. A single pulse of warm amber light blooms from center behind the logo, fades to black. White text remains.\n\nStyle: luxury tech brand motion identity, Bauhaus-minimalist, mathematical precision. Mood: calm, inevitable, intelligent, premium.",
-      "media": "video",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/motion-design-sequence.jpg",
-      "videoUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/videos/motion-design-sequence.mp4",
-      "tags": [
-        "ericgood-seedance",
-        "Creative"
-      ],
-      "author": "Community",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:astronaut-moon-ski",
-      "title": "月球滑雪宇航员",
-      "prompt": "Wide shot. A lone astronaut in a dusty orange pressure suit with dark blue-gray harness straps and black boots skis across a vast lunar plain, leaving two long parallel tracks in the gray regolith behind. The astronaut is mid-stride, poles planted, pushing forward in 1/6th gravity, each push sending the body drifting slightly upward before settling back. Fine dust hangs in a low haze along the ski tracks. Behind and above, a crescent Earth sits just over the soft curve of the lunar horizon, blue-white atmospheric glow against total black sky. Raw sunlight, crushed shadows, no fill. 8K photorealistic. No logos on the suit.",
-      "media": "video",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/astronaut-moon-ski.jpg",
-      "videoUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/videos/astronaut-moon-ski.mp4",
-      "tags": [
-        "ericgood-seedance",
-        "Sci-Fi"
-      ],
-      "author": "Community",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:vampire-transformation",
-      "title": "吸血姬变身 — 全能参考提示词",
-      "prompt": "Shot One: Everyday Home Scene Time Segment: 0:00 to 0:02 Shot Distance and Type: Medium shot, handheld follow-cam Camera Movement Path and Speed: The camera subtly sways with the character's movements, with a light, upbeat, and lively rhythm. The camera follows the trajectory of the girl's arm waving, finally facing the prop she raises. Main Subject Actions and Expression: The girl is wearing white loungewear pajamas patterned with Crayon Shin-chan designs and a bear hairband. She holds a sheet of white paper rolled into the shape of a telescope. She first playfully waves this \"paper telescope\" with a smile on her face, then directly aims one end of the \"paper telescope\" at and fully presses it against the lens, using the physical darkness inside the paper tube to block the frame, creating a perfect transition medium. Visual Effects: No obvious effects, belonging to everyday real-light-and-shadow recording. Cleverly utilizes the dark circular hole inside the paper tube rolled into a telescope shape as a physical transition entry medium. Overall Color Tone and Mood: Warm white tones, bright. Mood is relaxed, everyday, and lively, laying the groundwork for the dramatic contrast to follow.\n\nShot Two: Spacetime Tunnel Transition Time Segment: 0:02 to 0:04 Shot Distance and Type: Close-up transitioning to full wide shot, first-person perspective push-in Camera Movement Path and Speed: The camera rapidly pushes forward at high speed, visually as if directly penetrating the inner hole of the \"paper telescope\" the girl pressed against the lens in the previous second, delivering an extremely strong visual impact and a sense of extreme speed. Main Subject Actions and Expression: No character subject, primarily showcasing the process of traversing space. Visual Effects: Intense CG visual effects, deep red vortex and wormhole effects with a strong sense of suction and spatial distortion, followed by bats flying out from the depths of the frame as visual guides. Overall Color Tone and Mood: Interwoven dark red and black. Mood shifts instantly from relaxed to mysterious, dangerous, and filled with a sense of the unknown.\n\nShot Three: Vampire Princess Descends Time Segment: 0:04 to 0:06 Shot Distance and Type: Overhead full wide shot transitioning to medium shot, panning camera (downward pan) Camera Movement Path and Speed: The camera pans from top to bottom, aligning with the character's upward gaze, with speed transitioning from fast to slow motion, creating tremendous visual tension. Main Subject Actions and Expression: The transformed vampire princess (white hair, elven ears, white ornate gown, red nails) gazes up at the lens from below, extending one hand toward the lens as if inviting or casting a spell, her expression alluring yet brimming with dangerous allure. Visual Effects: Strong slow-motion (high-frame-rate) treatment, with a large amount of red petals or light-spot particles drifting in the foreground, a red magical halo floating above the character's head, and a background of intersecting black Gothic tree branches and net-like structures. Overall Color Tone and Mood: Intense dark red blended with high-contrast cool white tones. Mood is mysterious, seductive, and infused with Gothic opulence.\n\nShot Four: Alluring Freeze-Frame Time Segment: 0:06 to 0:09 Shot Distance and Type: Medium close-up, with a slight handheld push-pull feel Camera Movement Path and Speed: The camera remains relatively fixed but with a breathing and subtle tremor sensation, syncing with the music's beat for a strong rhythmic pulse. Main Subject Actions and Expression: The character holds the extended-hand pose, lightly touching her lips with the other hand, her gaze locked directly on the lens, her expression radiating immense allure and oppressive intensity. Visual Effects: Incorporates frame-skipping, rapid flickers, subtle screen distortion (glitch-fault style), and radial blur effects, paired with high-frequency red light flashes to amplify visual impact and cyberpunk vibes. Overall Color Tone and Mood: Large areas of high-saturation red background, with the character at the absolute visual center. Mood is high-energy, intensely visually aggressive.\n\nShot Five: Blood Moon Flight Time Segment: 0:09 to 0:12 Shot Distance and Type: Long shot, fixed camera Camera Movement Path and Speed: The camera remains steady, with elements in the frame exhibiting a slow floating sensation. Main Subject Actions and Expression: The character unfurls massive demonic wings, hovering in the night sky in an expansive pose. Visual Effects: Grand scene compositing, with a massive blood moon in the background, rendered with dark red cloud layers; slow-motion flocks of bats accompany in flight, evoking a powerful epic atmosphere. Overall Color Tone and Mood: Dark fantasy tones dominated by black and red. Mood is grand, awe-inspiring, and brimming with dominance, perfectly echoing the video's theme.",
-      "media": "video",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/vampire-transformation.jpg",
-      "videoUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/videos/vampire-transformation.mp4",
-      "tags": [
-        "ericgood-seedance",
-        "Cinematic"
-      ],
-      "author": "Community",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:morning-city-ambience",
-      "title": "清晨城市氛围 — 多剪辑生活片段",
-      "prompt": "Morning city ambience, people walking, cars driving, bikes riding. [cut] The mailman on the bike drops a newspaper into the mailbox. [cut] The baker places the buns on the counter. [cut] The man playing the accordion on the street. [cut] The woman pushing the baby stroller. [cut] The barista making coffee. [cut] The man playing the flute to his dog. [cut] The man selling tulips on the street. [cut] The man painting on the street.",
-      "media": "video",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/morning-city-ambience.jpg",
-      "videoUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/videos/morning-city-ambience.mp4",
-      "tags": [
-        "ericgood-seedance",
-        "Cinematic"
-      ],
-      "author": "Community",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:kitkat-hippo-ad",
-      "title": "Kit Kat 河马 — 单镜头棒球追踪长镜头",
-      "prompt": "Over the shoulder of a young man in a beanie and jacket on a wet urban street at golden hour. He winds up and hurls a baseball toward the building across the street. The camera stays attached to the ball as it spins forward crossing the street, rises toward the facade, passes through a window with glass parting gently around it catching golden light. The ball continues through the interior of an opulent wood-paneled room, glides over a herringbone parquet floor scattered with red chocolate wrappers and foil. The ball slows, rolls past the foot of a velvet sofa and settles on the floor. The camera drifts upward from ball level revealing a massive hippo in a white bathrobe reclining on the sofa surrounded by red chocolate bars. He glances down at the ball with lazy curiosity, looks away and keeps chewing. Hold. Hyper-realistic cinematic single continuous shot, warm golden hour exterior transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surreal payoff.",
-      "media": "video",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/kitkat-hippo-ad.jpg",
-      "videoUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/videos/kitkat-hippo-ad.mp4",
-      "tags": [
-        "ericgood-seedance",
-        "Creative"
-      ],
-      "author": "Community",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:casino-card-flight",
-      "title": "赌场扑克牌飞行 — 15秒电影级第一视角",
-      "prompt": "## Project Overview\n\nGenerate a 15-second casino poker card flight video, where the King of Spades flies out from the hand of a sexy female dealer, traversing the entire luxurious casino from a tight-following card's perspective, and finally being stealthily passed into the player's hand from behind and below. Focus on optimizing the smooth rotation of the card during flight and the covert nature of the card-receiving action.\n\n## Video Specifications\n- Total Duration: 15 seconds\n- Aspect Ratio: 16:9 (Landscape)\n- Visual Style: Realistic style, cinematic texture, high-speed photography, motion blur, dramatic lighting\n\n## Core Optimization Requirements\n\n### Perspective Strategy\n- Tight-Follow Card Perspective: Camera always closely follows the poker card, like the card's \"first-person view\"\n- Card Face Orientation Logic:\n  - Opening (Shot 1): Card front (King of Spades) facing camera\n  - Flight Process (Shots 2-6): Card back facing camera\n  - Landing in Hand (Shot 7): Card flips at the moment it lands in the player's palm\n\n### Optimized Shot-by-Shot Script (5 Units)\n\nUnit 1 (Shots 1-2, 4s): Close-up of sexy female dealer, Asian woman ~25yo, phoenix eyes, high ponytail, deep V-neck white shirt, holding King of Spades front facing camera. Card flicked out, camera switches to tight-follow card back perspective, smooth rotation past gaming tables.\n\nUnit 2 (Shots 3-4, 4s): Card ascends along spiral staircase's curved trajectory, golden railings and crystal chandeliers rotating past. Then high-speed straight-line corridor traverse with motion blur.\n\nUnit 3 (Shots 5-6, 4s): Card dives from second floor into lobby, wide-angle grand space, marble floor and chandelier enlarging. Card slows, approaching target player from behind and below (low angle).\n\nUnit 4 (Shot 7, 2s): Card stealthily passed from behind and below into player's hand, flips at landing — King of Spades front clearly facing camera. Close-up male hand with slender fingers.\n\nUnit 5 (Shot 8, 1s): Quick cut back to dealer's confident smile or wink, warm lighting.\n\n### Design Focus (Priority Order)\n1. Card Flight Posture: smooth fluid rotation, no shaking\n2. Card-Receiving Covertness: stealthy, natural\n3. Final Card Face: King of Spades front facing camera\n4. Tight-Follow Perspective\n5. Card Face Orientation Changes: front → back → flip to front\n6. Spiral Staircase Realism\n7. Motion Continuity\n8. Luxurious Atmosphere: golden, deep red, dramatic lighting",
-      "media": "video",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/casino-card-flight.jpg",
-      "videoUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/videos/casino-card-flight.mp4",
-      "tags": [
-        "ericgood-seedance",
-        "Cinematic"
-      ],
-      "author": "Community",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:2913",
-      "title": "Omega Speedmaster 电影级提示词",
-      "prompt": "OMEGA SPEEDMASTER MOONWATCH\n\"BORN QUALIFIED\"\n\n65mm IMAX. Ultra-wide anamorphic Panavision. Film grain building progressively — starts clean, ends maximum. Key light: cold white — mission control fluorescent. Secondary: warm capsule interior amber. Flares: from the hesalite",
-      "media": "image",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2913.jpg",
-      "videoUrl": null,
-      "tags": [
-        "ericgood-seedance",
-        "Cinematic"
-      ],
-      "author": "Guillermo Castellanos",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:2920",
-      "title": "峡谷翼装飞行提示词",
-      "prompt": "WORLD BUILD A wingsuit pilot threading an impossible canyon route through ancient stone monuments during sunrise wind. Fear, precision, airspeed. \n\nLOOK BIBLE Ultra-wide cliff geography, warm edge light, cold shadows in canyon depth, fast ground",
-      "media": "image",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2920.jpg",
-      "videoUrl": null,
-      "tags": [
-        "ericgood-seedance",
-        "Music"
-      ],
-      "author": "Dheepan Ratnam",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:2960",
-      "title": "2D 雕刻变形为真人女性",
-      "prompt": "The 2D carved woman gradually becomes human. Natural skin colour starts to appear in her finger tips and the natural skin colour quickly spreads across her skin. Her face turns towards the camera as it morphs into a beautiful woman's face that has the same features as the stone carving. Her bracelet, necklace and headdress become real gold and are embedded with stunning gems. Her carved dress becomes satin red fabric. She steps out of the wall carving and holds her hand out towards the camera.",
-      "media": "image",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2960.jpg",
-      "videoUrl": null,
-      "tags": [
-        "ericgood-seedance",
-        "Fashion"
-      ],
-      "author": "PZF",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:2906",
-      "title": "雅加达 KRL 通勤线车站的电影级恐怖场景",
-      "prompt": "cinematic horror. Jakarta KRL Commuter Line station at night, Sudirman station platform, harsh yellow-white fluorescent overhead lighting, worn dirty tiled floor, blue KRL train car parked at platform, Indonesian signage on walls. A young woman in [reference outfit] poses next to the train car taking a selfie, smiling. On the train wall behind her, a large advertisement poster shows a beautiful woman's face. The poster surface begins to ripple and crack. Long black wet hair pushes through the glossy paper. A pale hand with black fingernails tears through. A kuntilanak in torn white kebaya crawls out of the poster completely, feet never touching the ground, long hair covering her face, head tilted at an unnatural angle. Bystanders on the platform scream and scatter. The woman drops her phone and runs. POV handheld tracking shot, she sprints through the platform, quick glance back, the kuntilanak glides at impossible speed closing the distance, hair flowing, white kebaya tattered. Emergency lights flicker red. Train doors slam shut. Dead end. Wide shot the woman presses her back against the closed train doors, nowhere to go. The kuntilanak stops. Slowly raises her head. Two hollow black eyes beneath the hair. Shaky handheld cam, motion blur, high contrast shadows, horror aesthetic, cinematic.",
-      "media": "image",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2906.jpg",
-      "videoUrl": null,
-      "tags": [
-        "ericgood-seedance",
-        "Cinematic"
-      ],
-      "author": "🌸 Bubskyy 🌸",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:2988",
-      "title": "2D Animated Fight Scene",
-      "prompt": "A 2D animated fight scene between two characters, Anya and Kannakamui. Anya moves quickly, circling around and delivering many punches and flying kicks. The ground cracks and dust rises into the air. Kannakamui twists and turns her body rapidly, using quick movements, dodges, and blocks to avoid the attacks. Each strike creates gusts of wind and loud impact sounds. The motion and shifts in body control are clearly shown. The animation is smooth and synchronized, making the fight feel powerful and full of weight.",
-      "media": "image",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2988.jpg",
-      "videoUrl": null,
-      "tags": [
-        "ericgood-seedance",
-        "Animation"
-      ],
-      "author": "Zyro",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:2992",
-      "title": "Cinematic Nu-Metal Nightmare Style Prompt",
-      "prompt": "{   \"style_name\": \"Cinematic Nu-Metal Nightmare\",   \"art_direction\": \"High-contrast chiaroscuro lighting on a desaturated, cool-toned palette, punctuated by a menacing, pulsing crimson backlight.\n High-grain 35mm film emulation with pronounced anamorphic lens flares and halation",
-      "media": "image",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2992.jpg",
-      "videoUrl": null,
-      "tags": [
-        "ericgood-seedance",
-        "Cinematic"
-      ],
-      "author": "Ainario",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "ericgood-seedance:3004",
-      "title": "Man vs. Sea Monster in a Violent Storm",
-      "prompt": "A lone man struggles to steady himself on a small boat in the middle of a violent ocean storm. Thunder cracks and heavy rain lashes down as towering waves crash around him. Suddenly, a sea monster bursts from the dark water, its massive jaws opening wide. It clamps its teeth onto the boat, splintering the wood, and violently drags it beneath the churning ocean as the man fights for his life. Dramatic lighting, cinematic camera angles, hyper-realistic, intense atmosphere.",
-      "media": "image",
-      "model": "Seedance 2.0",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/3004.jpg",
-      "videoUrl": null,
-      "tags": [
-        "ericgood-seedance",
-        "Action"
-      ],
-      "author": "Heisenberg",
-      "source": "ericgood-seedance",
-      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
       "id": "ericgood-seedance:2961",
       "title": "Epic Battle Between Giant Python and Chinese Dragon",
       "prompt": "Ultra-realistic cinematic disaster epic, single continuous shot, no cuts, no montage, no multiple-camera language, documentary-style realism, IMAX-scale clarity, natural film grain, high dynamic range, physically accurate daylight, realistic atmospheric perspective, authentic reflections, volumetric dust and smoke, true-to-life city lighting and environmental behavior. A real modern Chinese megacity in daytime: high-rise towers, elevated roads, broad avenues, plaza spaces, parked and moving cars, street signs, glass facades, all with the look of genuine live-action footage. The shot begins with chaos already underway: a colossal ancient giant python, far larger and more terrifying than a realistic anaconda, is violently rampaging through the city. Its thick muscular body whips between streets and buildings with horrifying speed and weight, crushing cars, smashing roadside structures, wrapping around building facades, lunging at fleeing crowds. People run in panic, vehicles collide, glass shards, concrete dust, torn billboards and debris fill the air. Everything feels like a real catastrophic emergency captured in one uninterrupted shot. Then the sky suddenly shifts. Clouds are torn apart at high speed and a gigantic Chinese dragon dives down from the heavens. This is not a cartoon dragon and has no wings. It is a believable colossal Eastern dragon, a mysterious real biological creature of the natural world, long serpentine body, no wings, powerful limbs, realistic muscles, bones, scale overlap, weathered reflective scales, layered shadows, natural skin tension, believable mass and inertia. As it moves, its body undulates through the air with convincing aerodynamic resistance, whiskers and mane trailing in turbulent airflow, subtle cloud vapor and disturbed mist forming around it. The dragon descends like a guardian over the city, precisely targeting the giant python below. In one continuous shot, the two beasts engage in a brutal close-range fight among skyscrapers and over shattered streets. The python coils, strikes, and thrashes between buildings; the Chinese dragon tears away constriction with its claws, coils around the serpent to overpower it, and finally bites hard into the python's upper body and neck. With overwhelming force, the dragon drags the struggling serpent up from the city ruins and lifts it into the sky. In the final moments, the wingless Chinese dragon powers upward by driving its long body through the air, carrying the still-writhing python away into the distant sky. Below, terrified citizens stop running and stare upward in stunned awe. The ruined city remains filled with smoke, debris, and sunlight cutting through haze, creating a final epic image of a divine dragon saving humanity. Keep the entire piece grounded in real-world physics, realistic destruction, believable scale, terrifying weight, restrained camera behavior, immersive live-action disaster authenticity,",
@@ -912,6 +355,546 @@
         "Action"
       ],
       "author": "SSSS.CRYPTOMAN⚡️AI",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2845",
+      "title": "Seedance 2.0 提示词：巨狼对决小公鸡",
+      "prompt": "Pixar 3D animated forest clearing. Sunny day, god rays through trees, green grass, flowers. CHARACTERS: - Giant armored wolf: black fur, gold sword, yellow eyes, furious and humiliated, attacks with full rage - Tiny rooster: red comb, completely unbothered, bored expression, deflects everything with casual wing flaps SEQUENCE: 0-3s — Wolf roars, raises sword overhead, brings it down with full force. Rooster glances up, sighs, flicks one wing — sword deflects sideways. Sparks fly. Wolf stumbles forward from own momentum. Rooster examines wing casually, unbothered. 3-6s — Wolf swings horizontal slash. Rooster ducks under it yawning, taps sword away with wingtip. Wolf spins, overhead strike — rooster hits ground, shockwave crater. Rooster hasn't changed expression once. 6-9s — Wolf goes berserk — rapid five-hit combo, sword blur. Rooster deflects each strike with alternating wings — tap, tap, tap, tap, tap. Casual rhythm like swatting flies. Last strike — rooster catches blade between two feathers. Stops it cold. Wolf strains, shaking. Can't move it. 9-12s — Rooster releases blade, wolf stumbles backward. Wolf charges with shoulder slam — rooster steps aside, wolf face plants into grass. Wolf up instantly, wild overhead — rooster flicks it away with tail feather. Sword spins out of wolf's grip, lands in tree trunk. 12-15s — Wolf stares at empty hands. Rooster turns, walks away slowly, doesn't look back. Scratches ground with one claw. Pecks at something in the grass. Wolf collapses face down defeated. Rooster glances back once. Looks away. Unbothered. CAMERA: Low angle on wolf attacks, extreme slow-mo on every deflection, close-up on rooster's bored face, wide on sword crater impacts, whip pan on rapid combo, wide defeat shot. SOUND: Massive sword whoosh, wing deflect light tap, sparks crackle, ground shatter, wolf frustrated growl escalating, rooster quiet cluck, sword clang on deflect, final thud of wolf collapse, peaceful bird ambience resumes.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2845.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "SPEEDYAI",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2980",
+      "title": "Pixar-style 3D animation of iridescent fabric on a marble pedestal",
+      "prompt": "[00:00–00:05] Pixar-style 3D animation. A shimmering translucent fabric with a subtle iridescent weave rests perfectly folded on a clean white marble pedestal in a minimalist showroom — white walls, soft directional lighting, nothing else. Slow orbit shot circling the pedestal.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2980.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "Michael",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:3002",
+      "title": "Seamless Transformation Video: Modern Office to 1920s Gangster Film",
+      "prompt": "A seamless transformation short video, switching from a modern daily indoor scene to a retro 1920s gangster film world with extreme contrast. The total duration is 7 seconds, combining the impact of vertical fashion transformation with a cinematic aspect ratio, resulting in extremely refined visuals and quality comparable to high-end theatrical films. Part 1 (0:00-0:02): Fixed camera, subjective frontal perspective. The frame is completely blocked by the broad backs of two men wearing black casual clothes, black baseball caps, and black masks, standing close to the lens. They suddenly step apart to the left and right, like drawing a curtain, revealing a young Asian woman in the center. The indoor lighting is bright, clean, and uniform, with a gray-white marble textured wall behind her and a black storage cabinet below. She has bright reddish-brown long curly hair, wears thick black-rimmed glasses, and a light-colored floral long-sleeved shirt, with a cold and dominant expression. She raises her right hand, pointing directly at the camera with a sharp, powerful gesture, her lips slightly pursed, radiating a commanding presence, as if declaring: those who oppose us, beware. Part 2 (0:02-0:07): The moment her fingertip points at the camera, a hard cut achieves a seamless transformation. The scene instantly switches to a foggy, retro late-night alley, full of 'Peaky Blinders'-style cinematic atmosphere. Thick fog envelops the entire space, and distant warm amber streetlights form a highly oppressive backlight, outlining the figures with dramatic rim lighting. The overall image shifts to a low, gloomy dark tone, paired with delicate film grain, showcasing the quality of an epic gangster film. The red-haired woman has transformed: she has removed her glasses, wears a gray newsboy cap, a white shirt, black tie, and gray patterned vest, paired with a fitted pencil skirt, and a dark charcoal gray long wool coat draped dramatically over her shoulders, with black leather gloves on her hands. She lightly adjusts her cap, her eyes arrogant and cold, making her unapproachable. The two men beside her also transform simultaneously, removing their masks to reveal cold, handsome faces, dressed in retro gangster attire: newsboy caps, shirts, ties, and heavy long wool coats. The camera smoothly transitions to a pull-back follow shot, as the three walk slowly in a neat formation through the thick fog, their presence intimidating, fully displaying the swagger and authority of gangster bosses. The film-level contrast, stunning reveal, seamless transformation, realistic and natural fabric dynamics, and powerful character presence all highlight the style of a high-end period crime film.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/3002.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Cinematic"
+      ],
+      "author": "John",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:3006",
+      "title": "Reluctant Dancing Woman in Kimono MV",
+      "prompt": "The background is predominantly white with pastel-colored patterns scattered throughout; . Do not show the attached character sheet in the video.A woman in a black kimono dances with a reluctant, annoyed expression, as if she does not want to be there. The scene is styled like a dynamic dance music video with rapid multi-cut editing: close-ups of her exasperated face, tight zoom-ins on her feet struggling to keep up with the choreography, detailed shots of her hands moving slightly behind the beat, and expressive cut-ins that emphasize her irritated body language. She follows the dance with a slight delay, making her performance feel awkward yet charming. Include a close-up of her fed-up expression, then a smooth spinning turn, captured with dramatic motion and energetic camera work, anime-style dance MV atmosphere, cinematic rhythm, stylish and playful.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/3006.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "🍺 イケハヤ@アニメ作る人",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2884",
+      "title": "女战士骑龙电影感视频提示词",
+      "prompt": "The camera rockets up from below, tearing past jagged cliff walls, then whips into a downward tilt to reveal the ocean below in full violent eruption, waves detonating against black rock. On the cliff edge stands a warrior woman, utterly fearless, gazing into the maelstrom as if daring it to rise higher. \n\nShe steps forward without hesitation and leaps off the edge, arms spread wide, plummeting through howling wind and salt spray. The camera dives alongside her in freefall, her hair and cloak thrashing upward as the black rocks and churning sea rush closer. \n\nThen a massive shadow tears through the mist below — a dragon surges upward with wings unfurling like storm sails, scales gleaming wet with ocean spray. It swoops beneath her mid-fall, and she lands on its back with practiced grace, fingers gripping the ridges along its neck. The dragon banks hard, climbing in a spiraling arc back up past the cliff face. \n\nThe camera keeps pace, circling tight, then pulls ahead into a final close, frontal reveal: she rides the beast skyward, wind-whipped, calm, and burning with determination, the raging ocean now small and powerless far below.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2884.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Action"
+      ],
+      "author": "1LittleCoder💻",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2962",
+      "title": "定格画面电影感运镜",
+      "prompt": "Use image as the starting frame for a single, continuous shot in freeze time. The camera dramatically weaves through the completely frozen scene.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2962.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Cinematic"
+      ],
+      "author": "Jerrod Lew",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2978",
+      "title": "Kids TV Studio Pig Man Host Prompt",
+      "prompt": "Bright colourful kids TV studio, funny playful energy, the pig man host stands centre stage in a cheerful children’s show set, wearing his black robe and scarf, big pig ears, smiling as he leads a silly dance. Beside him, a monkey man in a bright red costume plays",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2978.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Music"
+      ],
+      "author": "Captain HaHaa",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2966",
+      "title": "微缩奇幻动作短片提示词",
+      "prompt": "Original Miniature Fantasy Action Short Film: In a study late at night, two original combat models in the collection cabinet suddenly wake up under the moonlight. They launch an epic battle between the narrow desktop and ornaments. The camera adopts macro movie photography to highlight the huge scale contrast. Light slants in from outside the window, with dust particles clearly visible. The collision of small weapons sparks fire, making the picture both absurd and spectacular, with a compact rhythm and full of surprises.    Negative Restrictions: No any existing toy brands, no well-known robot IPs, no building block brand elements, no military copyrighted shapes, no actor faces.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2966.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Action"
+      ],
+      "author": "TopviewAI",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2902",
+      "title": "15 秒电影级奢华香水广告",
+      "prompt": "Ultra cinematic 15-second luxury perfume commercial, based on #Image1 storyboard, smooth continuous sequence flowing through each moment seamlessly, elegant and sensual pacing\nFluid cinematic glide, macro dolly + soft orbit + gentle push-ins, seamless transitions masked by petals, depth blur, and motion continuity, no hard cuts, everything flows organically\n\n(0-2s) macro shot of perfume bottle standing among soft pink flowers, shallow depth of field, petals gently floating\n(2-4s) camera glides closer, a feminine hand enters frame and delicately touches the bottle, soft lighting highlights glass reflections\n(4-6s) hand lifts the bottle smoothly, camera follows upward motion, petals drifting around\n(6-8s) transition into medium shot, woman holding bottle, soft smile, natural beauty, gentle head movement\n(8-10s) closer portrait shot, she brings perfume closer, eyes half-closed, emotional connection, soft light wrapping her face\n(10-12s) slow motion spray moment, perfume mist diffuses in air, particles catching light, petals floating through frame\n(12-14s) dreamy beauty shot, woman surrounded by floating petals, serene expression, soft glow\n(14-15s) final hero shot, product isolated cleanly, floating petals around, elegant composition with minimal background\n\nSoft pink floral environment, evolving from macro flower field to clean luxury backdrop, consistent pastel tones\nUltra realistic, high-end perfume commercial, soft cinematic lighting, glossy reflections, pastel color palette, elegant slow motion, volumetric mist, premium beauty aesthetic, no distortion, no stretching",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2902.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Cinematic"
+      ],
+      "author": "Pierrick Chevallier | IA",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2977",
+      "title": "Handheld Astronaut Footage Prompt",
+      "prompt": "SINGLE TAKE. Handheld by a second astronaut on the surface. Shaky. Human. Camera operator breathes too loud. Framing drifts. Feels like a personal clip that leaked.\n\nLIGHTING: Raw sunlight from camera left. No fill. High contrast.\n\nAUDIO: Two sets of breathing on open channel.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2977.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Racing"
+      ],
+      "author": "Alex Patrascu",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2911",
+      "title": "暗黑奇幻动漫战斗提示词",
+      "prompt": "Dark fantasy anime style 2D animation. Fast-paced magic battle.\n\nA white-haired sorceress instantly summons a massive glowing purple magic circle beneath her, arcane symbols spinning rapidly.\n\nShe raises her hand and shouts: \"消え去れ！\"\n\nMultiple purple energy bolts fire forward",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2911.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "Kiki",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2928",
+      "title": "地下城市 “ARC” 巡游 VFX 提示词",
+      "prompt": "[Cinematic Location VFX: 15 seconds]\n\n[0-3s]:\nIn POV (first-person perspective), an old underground door, located at @image1, slowly opens.\nFrom the gap in the door, a warm, vivid \"neon gold\" light spills out, contrasting sharply with the cold concrete texture.\n\n[3-7s]:\nAs the camera passes through the door, the surrounding walls shatter into pieces with a \"cracking\" sound, like glass, similar to video [[1000010059.mp4]].\nAs the shattered fragments turn into particles of light, the view suddenly opens up, revealing a vast cavern (super-shelter) extending hundreds of meters underground.\n\n[7-12s]:\nThe camera dynamically glides over the underground city, as if thrown into the air.\nThere is a multi-layered city where thousands of people live, with real forests and rivers flowing inside a giant geodesic dome, and countless personal drones flying in the air.\nThe entire city is fantastically colored by \"futuristic neon\" and \"bioluminescent plants\" light.\n\n[12-15s]:\nStylish UI data displaying \"ARC CITY: SECTOR 7 - POPULATION 50,000\" appears on the edge of the screen.\nAs the camera captures the entire view of the city, the text \"START YOUR NEW LIFE\" floats in the center, ending with a dazzling whiteout.\n\nDetailed settings: 8k resolution, photorealistic, volumetric rendering, cinematic motion blur, dynamic camera work.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2928.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Cinematic"
+      ],
+      "author": "テックトークナビゲーター@AIコンテンツクリエイター",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2990",
+      "title": "10-Second Cinematic Vertical Action Prompt",
+      "prompt": "A 10-second cinematic vertical video, 9:16, one continuous unbroken tracking shot, massive blockbuster fantasy action, ultra-premium VFX, hyper-detailed storm ocean at night. The camera stays behind the female hero for the entire shot in a wide full-body framing, clearly showing",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2990.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Action"
+      ],
+      "author": "TheYudayVerse",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2889",
+      "title": "巴黎发光传送门提示词",
+      "prompt": "One continuous shot: a mysterious glowing portal suddenly appears and starts tearing apart a rainy Paris avenue.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2889.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Nature"
+      ],
+      "author": "GugoXAi",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2965",
+      "title": "女性特工电影级战斗提示词",
+      "prompt": "Character\nA highly trained female operative in a sleek black tactical suit, calm, focused, controlled breathing, sharp eyes scanning constantly.\nDual pistols in hand, precise and efficient.\n\n0-3s\nCamera starts inside a luxury bank.\nSlow push through a tense standoff—security guards aiming, civilians frozen.\nShe stands in the center, perfectly still.\n\n3-5s\nWithout warning—everything explodes into motion.\nShe steps forward. Rapid precise shots—each movement minimal, controlled, no wasted motion.\n\n5-7s\nCamera locks close to her, orbiting as she moves through guards.\nShe uses environment—pillars, desks—flowing movement, never stopping.\n\n7-9s\nTransition through glass reflections.\nShe slides across polished floor, firing mid-motion, bullets impacting surfaces around her.\n\n9-11s\nTight corridor sequence.\nClose-quarters engagement, ultra fast reactions, micro head turns, instant targeting.\n\n11-13s\nMassive push forward into main hall.\nCamera pulls wide—chaos everywhere.\nShe moves through it like it’s slowed down.\n\n13-15s\nFinal moment.\nShe exits through shattered glass doors into daylight.\nDoesn’t look back.\nBehind her—delayed impacts, everything collapses.\nCamera freezes on her walking away.\n\nContinuous tracking shot, tight proximity + dynamic orbit + whip transitions masked by movement\nLuxury bank interior, marble, glass, reflections, daylight contrast\nUltra realistic, hollywood heist action, john wick gun-fu, precise choreography, high tension, fluid motion, cinematic lighting, no distortion, no stretching",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2965.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Action"
+      ],
+      "author": "Pierrick Chevallier | IA",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2929",
+      "title": "类魂 3D 动作游戏 Boss 登场介绍",
+      "prompt": "A video in the style of a Soulslike 3D action game. A boss introduction movie. A mage character enters the hall of a crystal cave. Then, as the ground shakes, the ceiling cracks, and a giant humanoid demon falls down. A battle begins between the terrifyingly roaring demon and the young girl!\n\nFight, Tarnished.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2929.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Action"
+      ],
+      "author": "Naoyuki Okada / Scarlet Echoes🐲",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2982",
+      "title": "15-second seamless one-take transition video",
+      "prompt": "Create a 15-second seamless one-take cinematic video transitioning through [ Image 1 to Image 6] Strictly no hard cuts, no fades, and no opacity changes. Use fluid, continuous camera movements (like whip-pans or zooms)",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2982.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Cinematic"
+      ],
+      "author": "Jin.B",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2930",
+      "title": "电影感动漫场景：暴风雨中的海滨长廊",
+      "prompt": "16:9 cinematic anime-style story, highly detailed, dramatic lighting, intense emotional atmosphere, stormy seaside promenade, rough ocean, dark blue-gray sky, wet pavement reflecting light, sea spray, violent wind. A mad-scientist-like Japanese man with messy black",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2930.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "AIライフハック",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2924",
+      "title": "Seedance 2.0 登月场景提示词",
+      "prompt": "NASA APOLLO SPACESUIT A7L\n\"WORN ON ANOTHER WORLD\"\nDNA: July 20, 1969. 102 hours, 45 minutes, 40 seconds into the mission. One small step.\n\nArri Alexa 65. Ultra-wide. Grain progressive — starts clinical-clean, ends at maximum as the lunar surface",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2924.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Nature"
+      ],
+      "author": "Guillermo Castellanos",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2887",
+      "title": "猫咪制作煎饼的电影感提示词",
+      "prompt": "Cinematic realistic animation, static locked wide camera. Cozy kitchen, morning light through window. Orange tabby cat in striped apron stands upright at wooden counter, flour dust on fur, all ingredients visible: milk bottle, flour bowl, fresh eggs carton, vanilla extract, sugar, whisk, mixing bowl, chocolate chips, blueberries, butter, stack of finished pancakes already visible on right side of counter. Pancake cooking on stovetop pan in background.\n\nCat grabs egg carton with both paws, cracks egg firmly on bowl edge — yolk drops in, shell tossed aside casually. Scoops flour with small paw into bowl — white dust cloud puffs up, coats cat's nose, cat blinks. Pours milk from bottle — steady glug. Drops vanilla extract carefully. Both paws grip whisk, beats batter vigorously in bowl — rhythmic clinking, batter splashes slightly, cat's whole body moves with effort. Cat peers into bowl, satisfied. Ladle scoops batter, carries it to stovetop pan — pours perfect circle, gentle sizzle. Cat watches bubbles form on surface, spatula ready in paw. Confident flip — golden underside revealed, fresh sizzle. Pancake added to growing stack. Handful of blueberries and chocolate chips scattered on top. Butter slice placed — melts slowly. Maple syrup poured in thick amber stream.\n\nCat picks up finished plate with both paws, turns to face camera directly, extends plate forward toward lens — single clear \"MEOW.\" Whiskers twitch. Static camera throughout, never moves. Ambient kitchen sounds only: whisking, sizzling, butter melting. 15 seconds.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2887.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "Al-Shamus",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2999",
+      "title": "Seedance 2.0 Seamless Outfit Change Prompt (Fan Blade Transition)",
+      "prompt": "Image 1 serves as the starting frame. Only half of a brown wooden fan blade is in the extreme foreground, diagonally cutting the screen from bottom left to top right, slightly blurred. The fan blade rotates slowly and continuously throughout. Timeline: 0-2 seconds: The woman is lying down, relaxed and smiling, breathing lightly, hands resting gently on her chest, wearing the clothes from the reference image. 2-4 seconds: The fan blade completely sweeps across and thoroughly obscures her, then instantly reveals a new outfit—a loose hoodie and sweatpants. 4-6 seconds: The fan blade sweeps across and thoroughly obscures her again, then instantly reveals a new outfit—a classic white shirt and casual long pants. 6-8 seconds: The fan blade sweeps across and thoroughly obscures her again, then instantly reveals a new outfit—a comfortable long-sleeved cotton pajama set. 8-10 seconds: The fan blade continues to rotate slowly, and the woman is lying down, relaxed and smiling in the final outfit, with slight natural movements. The seamless transformation and outfit change only occur instantly when the fan blade completely obscures her. Realistic style, cinematic bedroom lighting, rich fabric details, consistent facial features and hair, 24fps smooth motion.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2999.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Cinematic"
+      ],
+      "author": "神奇小喷菇AIGC",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2926",
+      "title": "提供食物储存建议的动画番茄角色",
+      "prompt": "A cute, plump red tomato character speaks directly to the camera. With perfect lip-sync, it says in an energetic voice, \"Everyone, are you putting us tomatoes in the refrigerator? Actually, that's a no-go! The cold takes away the sweetness, so please store us at room temperature! It's best to chill us just before eating!\" The character makes slight bouncing movements to the tempo of the words. High-quality 3D animation style, Pixar-esque. The background is a slightly blurred kitchen.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2926.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "タナベ | 動画・音声生成AI解説",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2994",
+      "title": "Cinematic Bathroom Scene: Woman Reclining in Bathtub (Part 1)",
+      "prompt": "Cinematic 15-second visual set in a luxurious marble bathroom with warm golden ambient lighting reflecting softly across water and glass. A woman reclines in a foam-filled bathtub, calm and composed. The camera begins with a slow side-profile close-up as she gently looks away.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2994.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Cinematic"
+      ],
+      "author": "MMENDIE",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:189",
+      "title": "《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0",
+      "prompt": "Live-Action Anime Adaptation · Breathing Technique Decisive Battle (15 seconds · Super Burning Special Effects Version)\n【Core Focus】: Water Breathing (Blue Water Dragon) VS Thunder Breathing (Golden Lightning), live-action extreme speed duel.\n\n【Style】: Hollywood live-action anime adaptation film quality, dark samurai style, 4K ultra-clear, extreme fast cuts, explosive particle light effects, no gore.\n【Duration】: 15 seconds\n【Scene】: Misty forest under the moonlight, muddy ground, falling leaves.\n\n[00:00-00:05] Shot 1: Water Melody Prelude · Starting Stance (Sense of charging)\nVisuals: A young samurai wearing a green and black checkered haori (jacket), lowering his center of gravity under the moonlight, gripping his sword with both hands.\nAction: He takes a deep breath, and the surrounding air instantly solidifies. As he draws his sword, a giant blue water dragon, condensed from high-pressure water flow, appears out of thin air, rotating rapidly around his body and blade, emitting the roar of flowing water.\nSpecial Effects Details: The water flow has a realistic sense of splashing, illuminating the dark forest.\n\n[00:05-00:10] Shot 2: Thunder Flash · Charge (Sense of extreme speed)\nVisuals: The opponent, a blonde swordsman wearing a yellow triangular patterned haori, is crouched extremely low, adopting the posture of Iaijutsu (sword drawing technique).\nAction: The ground suddenly explodes, and he instantly transforms into a dazzling golden lightning afterimage, refracting and charging through the forest in a \"Z\" shape at a speed undetectable by the naked eye.\nSpecial Effects Details: Golden electric arcs and scorched fallen leaves remain in the places he passes.\n\n[00:10-00:15] Shot 3: Water and Thunder Collision · Final Sound (Ultimate move clash)\nVisuals: Extreme speed collision. The young samurai swings the giant blue water dragon down to meet the attack, and the blonde swordsman, transformed into lightning, crashes into him head-on.\nAction: The two swords violently collide in the center of the frame.\nSpecial Effects Spectacle: The blue water dragon and the golden lightning instantly explode, forming a massive water-thunder energy storm that spreads outwards. The surrounding large trees are snapped in half by the energy wave, and mud and light obscure the camera. The scene ends in an extremely dazzling blue, yellow, and white light.",
+      "media": "video",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/189.jpg",
+      "videoUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/videos/189.mp4",
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "John",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2888",
+      "title": "自然重夺大都市提示词",
+      "prompt": "A woman in her mid-30s with dark braided hair entwined with living vines, wearing layered organic armor of bark and woven leaves, skin traced with glowing emerald root veins — opening frame is a medium close-up of her standing barefoot in the center of an abandoned concrete megacity plaza, completely still as small plants begin sprouting through cracks in the pavement.\n\nAt second two she presses both palms downward — roots explode outward beneath the ground, instantly splitting asphalt and concrete as vegetation accelerates beyond natural growth speed.\n\nThe city becomes a living organism: trees burst through buildings mid-rise, vines consume steel beams, and entire structures collapse under rapid organic expansion.\n\nShe moves minimally — each gesture redirects the growth patterns: right hand sends explosive root pillars upward, left hand spreads creeping vine networks that engulf entire streets.\n\nCamera orbits tightly as green growth overtakes grey infrastructure, snap zooming into root eruptions and cutting to building collapses.\n\nColor logic: vivid bioluminescent green dominates new growth, contrasting against cold desaturated urban decay.\n\nEscalation builds as entire blocks are overtaken — skyscrapers crack and fall under root pressure.\n\nFinal beat: hard POV shift — camera becomes the root network surging underground, racing through soil and concrete before bursting upward beneath a final collapsing tower.\n\nParticle detail on soil displacement, bark texture, and debris fragmentation; diegetic green glow illuminates dust clouds.\n\nEpic nature-reclaiming urban collapse, cinematic organic physics, 4K ultra-detail.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2888.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Cinematic"
+      ],
+      "author": "LudovicCreator",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2893",
+      "title": "iPhone 自由落体多维追逐视频提示词",
+      "prompt": "Core Concept: A continuous free-fall illusion where an iPhone 17 Pro Max \"drops\" facing upwards, and the character leaps after it. As they fall together, rapid match-cut background and wardrobe changes simulate passing through multiple dimensions.  \n\nTHE \"UNREACHABLE\" RULE: During the entire flight sequence (Scenes 2-5), the woman is strictly unable to catch the iPhone. She must be reaching out desperately with empty hands, but the camera (the phone) remains just inches out of her grasp, maintaining the tension of the chase.  \n\nCRITICAL CAMERA ANGLE & PROP RULE: The falling scenes MUST be shot from an extreme low-angle / worm's-eye view. The camera lens IS the falling iPhone. Therefore, the woman’s hands must be completely EMPTY during the fall. Do NOT show her holding the phone.  \n\nUniversal Rule: A young woman with red hair must appear in all scenes for perfect visual continuity. Strictly use \"The same Character\" lock.  \nTotal Duration: 10.0 seconds.  \n\nTimeline & Scene-by-Scene Breakdown:  \nScene 1: The Pigeon & The Vault (00:00 - 00:01.5 | Duration: 1.5 sec)  \nLocation: High-end hotel balcony, sunny day.  \nAction: The same Character (casual chic attire, red hair loose) is leaning on the balcony railing, holding her iPhone 17 Pro Max. A pigeon flies aggressively close to her face. Startled, she drops the phone.  \n\nCamera Sequence: \n1. Medium shot of the drop. \n2. Tracking the phone tumbling (showing back glass and screen clearly). \n3. Close-up of her shock. \n4. She vaults the railing like a parkour athlete, diving after it.  \n\nScene 2: The City Fall (00:01.5 - 00:03.0 | Duration: 1.5 sec)  \nLocation: Sunny blue sky/glass skyscrapers.  \nCamera Angle: Worm's-eye view, looking UP at her.  \nAction: The same Character is freefalling toward the camera. She reaches down with EMPTY hands, but the phone/camera stays just out of reach. Wind blows her red hair upward.  Transition: Hard match-cut.  \n\nScene 3: The Ocean Dive (00:03.0 - 00:04.5 | Duration: 1.5 sec)  Location: Underwater environment.  \nAction: Maintaining the same pose. Hands reaching but failing to grab the camera. Tiny bubbles rush upward past her.  \nWardrobe Change: Sleek, high-tech WHITE aquatic wetsuit.  Transition: Hard match-cut.  \n\nScene 4: The Neon Night Fall (00:04.5 - 00:06.0 | Duration: 1.5 sec)  \nLocation: Neon-lit cyberpunk city.  \nAction: Continuous downward reach with EMPTY hands. The phone remains uncaptured.  \nWardrobe Change: Glowing neon streetwear.  \nTransition: Hard match-cut.  \n\nScene 5: The Deep Space Fall (00:06.0 - 00:07.5 | Duration: 1.5 sec)  \nLocation: Infinite starfield/nebula.  \nAction: Slow-motion zero-gravity hair float. She is still reaching, hands open and EMPTY, unable to close her grip on the camera.  \nWardrobe Change: Sleek, PINK metallic spacesuit.  Transition: Hard match-cut.  \n\nScene 6: The Grav",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2893.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Action"
+      ],
+      "author": "Kiber Alla",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2969",
+      "title": "Wing Chun Anime Fight Choreography Prompt",
+      "prompt": "Act as a professional fight choreographer of the anime industry with extensive knowledge of Wing Chun and Chinese wushu fighting style. \n\nCreate a fast paced and dynamic fight scene between Jinx @Image4 and Knibbz@Image5 . Jinx should have dirt and scratches slightly smeered on his face like in @Image6 in this fight. Their feet shift back and forth with Jinx slowly losing ground and Knibbz pushing forward. This is a one sided fight where despite everything Jinx tries, he is not able to get a clean hit on Knibbz. Jinx tries an array of Wing Chung style attacks, (quick punches, rapid spinning kick at extreme speed, combo punches into a butterfly kick as examples.) but it is all blocked or dodged in the last moment by Knibbz. \n\nCamera movements include rapid 360 orbit, Jet cuts to ECU of key moments in strikes and dodges, hard cuts to facial expressions. \n\nImpack shockwave effects, wind burst effects, gust effect from Knibbz's heavier attacks only. \n\nHopeless fight vibe. Jinx is outmatched by Knibbz. Must not add additional dialogue. Must not add additional characters. Use the audio reference for what Knibbz sound like only. All of Jinx attacks must be directed toward Knibbz.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2969.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "Jason W - AI",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2931",
+      "title": "恐怖动画场景拆解",
+      "prompt": "Scene 1\nhorror animation. Flat paper-puppet look, rough textures, dark muted colors, slight projector flicker. 15-second vertical video (9:16), 5 cuts.\n\nCut1 (0-3s)\nNight Japanese street, flickering streetlight. Young woman alone at bus stop. Paper cut-out style, slow push-in.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2931.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "トーマ＠Grok愛好家",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2923",
+      "title": "用于连续卡通序列的 Seedance 2.0 提示词",
+      "prompt": "15-second continuous single-shot cartoon sequence.\nNo cuts. No scene transitions.\n\nSoft watercolor style, pastel sky tones, fluffy textures, dreamy lighting, calm gentle animation, peaceful mood\n\nScene:\n\nA small bear lying on grass, looking at the sky.\n\n0–4s — setup\nSlow",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2923.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Animation"
+      ],
+      "author": "OscarAI",
+      "source": "ericgood-seedance",
+      "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "ericgood-seedance:2989",
+      "title": "Classic 1920s Harlem Barbershop Scene with Color-Popping Barber Pole",
+      "prompt": "Classic 1920s Harlem barbershop interior scene in full black-and-white / sepia tone except for the vibrant spinning barber pole (bright red, white, and blue stripes with glowing motion blur) which is the ONLY thing in full color. At least three dapper barbers in vintage aprons and white shirts actively cutting hair with scissors and clippers, chatting and laughing animatedly with customers in the classic leather chairs, mirrors reflecting the busy shop, vintage posters and tools on the walls, warm wooden floors, soft natural window light, highly detailed cinematic AI art, elegant semi-transparent calligraphy watermark \"BicRevelation\" in the lower-left corner at golden-ratio offset 0.04 from left and 0.03 from bottom, height exactly 0.02 of image height, semi-transparent and unobtrusive.",
+      "media": "image",
+      "model": "Seedance 2.0",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/Ericgood/seedance-prompt@main/assets/thumbnails/2989.jpg",
+      "videoUrl": null,
+      "tags": [
+        "ericgood-seedance",
+        "Cinematic"
+      ],
+      "author": "𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷",
       "source": "ericgood-seedance",
       "sourceUrl": "https://github.com/Ericgood/seedance-prompt",
       "license": "upstream",

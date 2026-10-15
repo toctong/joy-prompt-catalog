@@ -1,606 +1,6 @@
 {
   "items": [
     {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:9bdee81d0cbd2336",
-      "title": "漫画 / 故事板 - 带音频和图片轮播的溪边梦境场景",
-      "prompt": "场景：我在溪边工作。鸟儿在歌唱。我的妻子加入我，我们一起走到水边，游到一个小岛上休息。对我来说，这种项目工作、科技与日常生活的融合就是梦想。\n\n创建一个图像序列，展示：在溪边工作、行走、水面、小岛和休息的画面。确保画面中的人物保持一致（像用户本人）。在所有镜头中保持自然的光线和透视效果。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791527771086_0hbhb9_HUHfP2eXUAEWiEk.png",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Denis Skripnik (blind) (✱,✱)"
-      ],
-      "author": "Denis Skripnik (blind) (✱,✱)",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Denis_skripnik/status/2108211566424240221",
-      "license": "upstream",
-      "createdAt": "2026-10-08"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:21acebe466be66b8",
-      "title": "漫画 / 故事板 - Nano Banana Pro 魔法少女动漫主视觉提示词",
-      "prompt": "为魔法少女动漫创建主视觉。将其完善为包含标题 Logo 的精美海报设计。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791354771776_dxl39k_HT_DQXGbIAAI0IB.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "SSSS.CRYPTOMAN⚡️AI"
-      ],
-      "author": "SSSS.CRYPTOMAN⚡️AI",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865",
-      "license": "upstream",
-      "createdAt": "2026-10-06"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:ffab260896f34767",
-      "title": "漫画 / 故事板 - 现代漫画插画风格提示词",
-      "prompt": "采用半写实手法的现代漫画插画风格，结合粗犷的墨线勾勒与干净锐利的边缘，高对比度的动态赛璐璐光影效果，在保持图形化漫画美感的同时对皮肤进行微妙的绘画式融合处理，色彩鲜艳且略带颗粒感，强烈的轮廓光与戏剧性高光，具有英雄比例的风格化解剖结构，细节丰富的头发呈现流动的发丝与锐利的高光，纹理笔触飞溅与墨点装饰以增强动态效果，极简浅色背景以突出主体，电影级构图，超精细细节，高分辨率，图像小说品质。ar 9:16!",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1789626884271_6g72k5_HSUOklcXQAACy5l.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Zayan"
-      ],
-      "author": "Zayan",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/HustleXR/status/2100100831945408531",
-      "license": "upstream",
-      "createdAt": "2026-09-16"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:413c7322fb22ac4b",
-      "title": "漫画 / 故事板 - 赛博朋克侦探电影剧照",
-      "prompt": "{\n  \"title\": \"{argument name=\"title\" default=\"赛博朋克侦探\"}\",\n\n  \"image_description\": \"{argument name=\"description\" default=\"透过被雨水浸湿的车窗看到的电影级赛博朋克场景。霓虹灯的倒影在玻璃上跳动，一位英俊的未来侦探穿着厚重的深色外套坐在驾驶座上。一名身穿发光半透明黄色夹克的女性正看向他。背景中，飞行载具穿梭在雾气弥漫的未来城市里。\"}\",\n\n  \"characters\": [\n    {\n      \"role\": \"未来侦探\",\n      \"position\": \"驾驶座\",\n      \"appearance\": \"英俊，表情严肃，身穿厚重深色外套\",\n      \"focus\": \"清晰对焦\"\n    },\n    {\n      \"role\": \"神秘女性\",\n      \"position\": \"副驾驶座\",\n      \"appearance\": \"深色头发，身穿发光半透明黄色夹克\",\n      \"expression\": \"静静地观察着侦探\",\n      \"focus\": \"略微柔和的对焦\"\n    }\n  ],\n\n  \"setting\": {\n    \"location\": \"未来载具内部\",\n    \"cityscape\": \"雾气弥漫的赛博朋克大都市\",\n    \"background_elements\": [\n      \"飞行载具\",\n      \"霓虹灯广告牌\",\n      \"雨水覆盖的玻璃\",\n      \"全息灯光\"\n    ]\n  },\n\n  \"cinematography\": {\n    \"shot_type\": \"中近景\",\n    \"camera_angle\": \"平视角度\",\n    \"lens\": \"50mm 变形镜头\",\n    \"depth_of_field\": \"浅景深\",\n    \"composition\": \"电影剧照\"\n  },\n\n  \"lighting\": {\n    \"type\": \"电影级布光\",\n    \"effects\": [\n      \"霓虹倒影\",\n      \"体积光\",\n      \"雨水折射\",\n      \"柔和环境光\"\n    ]\n  },\n\n  \"mood\": [\n    \"忧郁\",\n    \"神秘\",\n    \"未来感\",\n    \"情感丰富\"\n  ],\n\n  \"color_palette\": [\n    \"蓝色\",\n    \"青色\",\n    \"黄色\"\n  ],\n\n  \"quality\": {\n    \"style\": \"好莱坞大片\",\n    \"realism\": \"超写实\",\n    \"resolution\": \"8K\",\n    \"details\": [\n      \"完美倒影\",\n      \"照片级真实人脸\",\n      \"胶片颗粒感\",\n      \"体积雾\",\n      \"逼真的景深效果\",\n      \"获奖级摄影\",\n      \"IMAX 品质\",\n      \"电影叙事感\",\n      \"杰作\"\n    ]\n  }\n}",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1789195063897_pocxr1_HR7kBT-a4AAqBCJ.png",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Compound Learning - Tech | Science"
-      ],
-      "author": "Compound Learning - Tech | Science",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/SheBuildsAI_/status/2098365190282805417",
-      "license": "upstream",
-      "createdAt": "2026-09-11"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:d3933879da2a984a",
-      "title": "漫画 / 故事板 - 单色圆珠笔手绘风格杂志海报",
-      "prompt": "将超细节的蓝色圆珠笔插画转换为单色黑色墨水风格，采用密集的交叉排线和精细的阴影处理，呈现复杂的圆珠笔素描质感、极致的线条刻画、雕刻般的轮廓渲染、手绘笔触美学、富有表现力的有机线条、超现实主义编辑构图、高细节面部渲染、分层的速写本构图线条，以及纯白色的复古技术涂鸦和手写笔记，置于 {argument name=\"background color\" default=\"bold red background\"} 之上，白色排版注释融入背景，地下杂志海报美学，原始且不完美的墨迹，鲜艳红色背景下高对比度的黑色墨水主体，实验性平面设计，先锋杂志封面风格 --ar 9:16 --stylize 750。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1789108570135_pbl2mk_HR3nnAIXYAYSAvd.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Zayan"
-      ],
-      "author": "Zayan",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/HustleXR/status/2098087685348892674",
-      "license": "upstream",
-      "createdAt": "2026-09-10"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:2d32a6141c8932dd",
-      "title": "漫画 / 故事板 - 80 岁哈利·波特的冬日场景",
-      "prompt": "{\n\"title\": \"{argument name=\\\"title\\\" default=\\\"80 岁的哈利·波特\\\"}\",\n\n\"scene\": \"乡村小屋内一个宁静的冬夜。窗外大雪纷飞，霜花覆盖在窗棂上，温暖的壁炉柔和地照亮了整个房间。\",\n\n\"subject\": \"80 岁的哈利·波特独自坐在破旧的皮椅上，阅读着他一生中收集的一叠褪色的信件。他的脸上写满了智慧、沧桑与历经冒险后的平静。\",\n\n\"detail\": \"他那根著名的魔杖挂在壁炉上方，无人触碰，落满了灰尘。罗恩、赫敏、海格以及霍格沃茨时期的旧照片装饰着房间。一副圆框眼镜放在茶杯旁。旁边的架子上放着一本写着“霍格沃茨”字样的陈旧相册。\",\n\n\"atmosphere\": \"深沉的怀旧感，情感丰富，苦乐参半，宁静，反思\",\n\n\"lighting\": \"温暖的炉火，柔和的阴影，金色光辉，电影般的冬日氛围\",\n\n\"composition\": \"亲密的电影镜头，哈利坐在壁炉旁，背景可见覆盖着积雪的窗户\",\n\n\"style\": \"照片级真实感，电影杰作，好莱坞电影结尾场景，超高细节，胶片颗粒感，浅景深，8K\",\n\n\"mood\": \"大难不死的男孩，终成了铭记往事的老人。\",\n\"image_text\": \"有些魔法永不消逝。\"\n}",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1789022274242_rv1obo_HRyWMdrasAALKTi.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Compound Learning - Tech | Science"
-      ],
-      "author": "Compound Learning - Tech | Science",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/SheBuildsAI_/status/2097716669913452913",
-      "license": "upstream",
-      "createdAt": "2026-09-09"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:6243c03c3f9cd9d2",
-      "title": "漫画 / 故事板 - 卡通怪物 Rat Rod 直线竞速赛",
-      "prompt": "一幅充满活力的卡通插画，描绘了 {argument name=\"creature\" default=\"一只瞪着大眼、长着尖牙的绿色怪物\"} 正在驾驶一辆经过改装的 {argument name=\"car type\" default=\"粉色大众甲壳虫\"}。车身上装饰着火焰图案，并写有“BEETLE BOMBER”和“RAT ROD”字样。怪物戴着赛车头盔，车身处于腾空状态，后轮胎和排气管喷涌出浓烟与火焰。背景中，一群同样怪异的角色在“DRAG STRIP”标志后欢呼。写有“BEETLE JUICE”、“COLD BEER”和“NITRO”的霓虹灯招牌，为这场直线竞速赛增添了混乱且高能的氛围。艺术风格融合了漫画与涂鸦元素，线条粗犷，色彩饱和。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1789022275168_2wlw14_HRUR494W8AYxjfK.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Heather Green"
-      ],
-      "author": "Heather Green",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/heathergreen/status/2097610973389426800",
-      "license": "upstream",
-      "createdAt": "2026-09-09"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:54ca9835c3b315c0",
-      "title": "漫画 / 故事板 - 错综复杂的龙之奇幻诗篇",
-      "prompt": "双岸记忆之翼\n\n龙不选择世纪。\n是世纪在选择自身，\n穿过由拖延与余晖构成的躯体。\n一翼拖曳着图书馆最后一页未被焚毁的纸张，\n那是在纸张学会自己的名字之前就已陨落的文明。\n另一翼梳理着全息雨幕，\n来自那些尚未决定\n是屹立不倒还是化为传闻的高塔。\n在双翼之间，空气保留着两份历法，\n却忘记了哪一份正在运行。\n它的鳞片比“鳞”这个词本身更为古老。\n它们记得那些尚未点燃的\n熔炉的炽热，\n以及在某种叙述中\n早已熄灭的\n星辰的寒冷。\n符文如同一座城市尚未获得思考资格的念头，\n浮现又沉没。\n每一次光脉冲既是遗迹也是原型。\n下方，街道湿润，承载着已然发生之事\n以及仍在协商抵达之事。\n霓虹灯在曾是冰川耐心的水面上书写，\n而后来，那只会成为关于干渴的传闻。\n地基坐落在森林的静谧之上，\n森林仍梦见自己依然挺立。\n广告牌宣传着明天，\n却已对尚未到来的黄昏感到思乡。\n这生物的双眼承载着唯一诚实的天气：\n一只眼是记忆的翠绿，\n尚不知晓自己已然终结；\n另一只眼是疑问的湛蓝，\n尚未找到将要问出它的那张嘴。\n它们注视我们，如同时间在无人窥视时\n注视着自身——\n没有怜悯，没有判决，\n只有长久的、礼貌的凝视。\n我们生活在它掠过时短暂的气流中，\n那奇特而仁慈的间隙，\n过去尚未与我们了结，\n而未来已开始\n怀念我们尚未失去的一切。\n除了转动，别无承诺：\n那缓慢而明亮的翅膀铰链，\n同时属于每一个时刻，\n却又不完全属于其中任何一个。\n它留下的薄雾既非终结，也非开端。\n那是它们在下一个不确定性\n张开安静而必要的手掌之前，\n短暂相认的地方。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788936822673_fm4qn8_HRvAzvJbYAAcVxt.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Toshi"
-      ],
-      "author": "Toshi",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/ToshiArte/status/2097482618992570627",
-      "license": "upstream",
-      "createdAt": "2026-09-09"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:273b7c59c789b498",
-      "title": "漫画 / 故事板 - 风格化武术动漫少女",
-      "prompt": "一幅风格化的数字动漫插画，描绘了一位神情严肃、目光坚定的东亚少女，双臂交叉抱在胸前。她留着凌乱的黑色短发，部分扎成松散的丸子头，几缕发丝垂在脸颊两侧；她有着深邃传神的双眸和白皙的皮肤。她身穿一件宽松的深森林绿武术和服，内衬为浅鼠尾草绿，袖口宽大且有折叠设计，腰间系着黑色腰带（obi），胸前饰有醒目的金黄色闪电图案。背景采用大胆的黑色、白色和鲜艳的暖黄橙色调，呈现动态的墨迹飞溅效果。作品融合了矢量艺术与漫画插画风格，采用赛璐珞阴影、锐利的轮廓线、写意的笔触、戏剧性的光影以及高对比度，竖构图肖像 --ar 1:2 --v 6.0",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788849664398_fdmvog_HRnhR89bsAAhqzB.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "lovimg_com"
-      ],
-      "author": "lovimg_com",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/lovimg_com/status/2096954809534570766",
-      "license": "upstream",
-      "createdAt": "2026-09-07"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:cf2094162268c33b",
-      "title": "漫画 / 故事板 - 枫糖浆商业广告项目",
-      "prompt": "标题：\n高端枫糖浆产品商业广告项目\n\n格式：\n• 单页高端项目\n• 3:4 竖屏比例\n• 高端食品广告\n• 8 个电影级产品特写镜头\n• 产品始终作为核心主角\n• 高端广告代理商演示风格\n\n页眉：\n• 优雅的衬线字体\n• 信息卡片：\n  - 时长：{argument name=\"duration\" default=\"20 秒\"}\n  - 风格：电影级美食商业广告\n  - 产品：{argument name=\"product name\" default=\"纯枫糖浆\"}\n  - 音频：缓慢倾倒声 + 轻柔食物 ASMR\n• “为何这种风格有效”板块\n• {argument name=\"color aesthetic\" default=\"温暖琥珀色、奶油色和深棕色\"} 美学\n• 极简枫叶装饰元素\n\n项目：\n1. 高端枫糖浆瓶矗立在抛光的深色木桌上\n2. 瓶盖开启的极致微距镜头\n3. 金色糖浆从瓶中缓慢流出\n4. 糖浆在半空中形成光亮的丝带状\n5. 糖浆倾泻在松软的煎饼上\n6. 展示浓郁糖浆质感与微小反光的极致微距\n7. 煎饼塔与主角瓶身及枫叶环绕\n8. 伴随戏剧性糖浆倾倒的最终高端产品定格画面\n\n每个分镜：\n• 场景编号\n• 时长标签\n• 运镜方向\n• 视觉画面\n• 动作描述\n• 产品细节\n\n摄影：\n极致微距、慢动作液体摄影、俯拍美食视角、受控推拉镜头、浅景深、电影级主角构图。\n\n风格：\n超写实食品广告、逼真的糖浆粘稠度、光泽金色质感、温暖影棚灯光、高端玻璃包装、精致美食呈现、8K 分辨率。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788849672027_lytnc6_HRlyjBWaIAER5_L.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "𝐌"
-      ],
-      "author": "𝐌",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Strength04_X/status/2096833097740493050",
-      "license": "upstream",
-      "createdAt": "2026-09-07"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:be3a0189006f1df1",
-      "title": "漫画 / 故事板 - 黏土动画风格的变色龙森林",
-      "prompt": "这是一个充满活力且奇思妙想的黏土动画场景，描绘了一只色彩斑斓的 {argument name=\"subject\" default=\"chameleon\"} 栖息在茂密梦幻森林中长满苔藓的树枝上。这只变色龙拥有绿色、蓝色、橙色和黄色交织的复杂鳞片，正专注地凝视着左侧。它周围环绕着各种同样由黏土塑造的奇幻动植物，包括发光的蘑菇、花心如眼球般的奇特花朵、带有活动眼珠的怪趣昆虫，以及形状古怪的球状果实。背景是树木和枝叶形成的柔和虚化效果，营造出一种深邃而迷人的氛围。整体呈现出一个栩栩如生的魔法微缩世界。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788849669864_ao80hc_HRNJwHoXYAI7TvZ.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Heather Green"
-      ],
-      "author": "Heather Green",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/heathergreen/status/2096750301134881054",
-      "license": "upstream",
-      "createdAt": "2026-09-07"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:10a7f8436e8c34fd",
-      "title": "漫画 / 故事板 - 草莓芝士蛋糕冰淇淋项目",
-      "prompt": "标题：\n高端草莓芝士蛋糕冰淇淋产品广告项目\n\n格式：\n• 单页高端项目\n• 3:4 竖屏比例\n• 电影级冷冻甜点广告宣传片\n• 8 个完全不同的产品聚焦场景\n• 产品始终作为核心视觉主体\n• 高端广告代理商演示风格\n\n页眉：\n• 粗体编辑排版\n• 信息卡片：\n\n* 时长：{argument name=\"duration\" default=\"10 秒\"}\n* 风格：电影级甜点广告\n* 产品：{argument name=\"product\" default=\"草莓芝士蛋糕冰淇淋\"}\n* 音频：勺子刮擦声 + 奶油甜点 ASMR\n  • “为何这种风格有效”部分\n  • {argument name=\"color palette\" default=\"柔粉色、草莓红、奶油色和香草色\"} 美学\n  • 极简草莓与甜点主题装饰细节\n\n项目内容：\n\n1. 高端草莓芝士蛋糕冰淇淋桶戏剧性地矗立在冰镇大理石台面上，产品包装正面清晰可见\n2. 打开冰淇淋桶，特写镜头展示盖子被掀开，露出下方奶油质感的冰淇淋\n3. 冰淇淋勺压入表面，展现出丰富的草莓芝士蛋糕层次和逼真的奶油质感\n4. 草莓果肉和芝士蛋糕碎屑嵌入冰淇淋中的极致微距镜头\n5. 新鲜草莓酱缓慢流过完美成型的冰淇淋球，形成光泽感十足的红色丝带\n6. 冰淇淋球被盛入玻璃甜点杯中，细小的芝士蛋糕碎屑自然散落周围\n7. 勺子切开奶油冰淇淋球的特写，露出内部的草莓馅料和柔软的芝士蛋糕块\n8. 最终产品定格镜头，原装冰淇淋桶放置在优雅的甜点杯旁，新鲜草莓、碎屑和草莓酱围绕在产品周围\n\n每个面板：\n• 场景编号\n• 时长标签\n• 运镜方向\n• 视觉画面\n• 动作描述\n• 产品细节\n\n摄像机：\n极致微距美食摄影、平滑的挖勺动作、慢动作草莓酱浇淋、细腻的质感特写、受控的推拉镜头、浅景深、优雅的俯拍构图、电影级最终包装定格。\n\n风格：\n超写实高端冷冻甜点广告、浓郁的奶油冰淇淋质感、逼真的草莓果肉、细腻的芝士蛋糕碎屑、光泽感草莓酱、真实的冷凝水珠、清晰的包装细节、柔和的电影级灯光、奢华的美食造型、专业甜点广告、8K 分辨率。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788764288964_6qq3rp_HRh11EybsAAKPHz.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "ÀBDŪLLÂH"
-      ],
-      "author": "ÀBDŪLLÂH",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/itxabdullaa/status/2096555195618689457",
-      "license": "upstream",
-      "createdAt": "2026-09-06"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:e53493a31afaf5f4",
-      "title": "漫画 / 故事板 - 希腊酸奶商业广告项目",
-      "prompt": "标题：高端希腊酸奶产品商业广告项目 格式：• 单页高端项目 • 3:4 竖屏比例 • 高端乳制品营销活动 • 8 个以产品为中心的电影级场景 • 产品始终是视觉核心 • 高端广告代理商演示文稿 页眉：• 优雅简洁的排版 • 信息卡片：- 时长：{argument name=\"duration\" default=\"20 秒\"} - 风格：新鲜美食商业广告 - 产品：{argument name=\"product\" default=\"希腊水果酸奶\"} - 音频：勺子 + 奶油质感 ASMR • “为何选择此风格”部分 • 白色、柔粉色和浆果红美学 • 极简水果风装饰元素 项目：1. 高端酸奶杯放置在冰镇大理石上，配以新鲜浆果 2. 酸奶盖被揭开的极致微距镜头 3. 勺子进入浓郁奶油状酸奶中 4. 勺子舀起光滑细腻的部分 5. 新鲜草莓块落入酸奶中 6. 浆果泥在奶油状酸奶中旋转 7. 展示浓郁酸奶质地和水果块的极致微距镜头 8. 最终产品展示，包含酸奶杯、浆果和优雅的勺子构图 每个面板：• 场景编号 • 时长标签 • 摄像机方向 • 视觉效果 • 动作 • 产品细节 摄像机：极致微距、慢动作水果掉落、奶油质地特写、俯视构图、平滑的勺子移动、浅景深、电影级核心构图。风格：超写实乳制品摄影、浓郁奶油质地、逼真的水果块、光泽浆果漩涡、冰镇凝露、柔和的高端光影、简洁包装、高端食品广告、8K。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788764296518_gnohn9_HRhHsR9bsAA2PD-.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "YUKI"
-      ],
-      "author": "YUKI",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/YUKIMASTERAI/status/2096504487779393836",
-      "license": "upstream",
-      "createdAt": "2026-09-06"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:181a95045fd30b2e",
-      "title": "漫画 / 故事板 - 电影感 2D 动漫插画",
-      "prompt": "电影感 2D 数字插画，{argument name=\"style aesthetic\" default=\"精致的半写实动漫美学\"}，干净利落的粗线条，平滑的赛璐珞阴影与柔和的绘画感渐变融合，富有表现力的精细面部渲染，略微夸张的比例，明亮的双眼，自然的皮肤纹理，具有立体感且发丝分明的头发，{argument name=\"lighting\" default=\"温暖的轮廓光，忧郁的青橙色调分级\"}，柔和的复古色调，柔和的环境阴影，轻微的颗粒感，{argument name=\"mood\" default=\"怀旧的 1990 年代/2000 年代杂志海报氛围\"}，大气室内光，高度精致的角色艺术，清晰的细节，深度与电影感构图，竖屏 9:16。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788764290453_lr2l02_HRgKek6a4AAUpiZ.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Zayan"
-      ],
-      "author": "Zayan",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/HustleXR/status/2096437155606196729",
-      "license": "upstream",
-      "createdAt": "2026-09-06"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:515615647dd7b5b2",
-      "title": "漫画 / 故事板 - 电影感雨夜车内人像",
-      "prompt": "{ \"title\": \"电影感雨夜人像\", \"description\": \"一张充满情感的电影感人像，透过雨夜霓虹城市中起雾且布满雨水的车窗拍摄。一位美丽的年轻女性独自坐在后座，神情忧郁而遥远地望着窗外。她轻轻地在起雾的玻璃上画了一个小爱心，窗外色彩斑斓的城市灯光在雨滴后变得模糊，营造出一种孤独、怀旧与静谧沉思的氛围。\", \"prompt\": \"一张电影感雨夜人像，透过起雾且布满雨水的车窗拍摄。一位美丽的年轻女性在暴雨中独自坐在车后座，神情忧郁而遥远地望着窗外。她用手指轻轻在起雾的玻璃上画了一个小爱心。雨滴顺着窗户流下，使背景中色彩斑斓的城市灯光和霓虹灯招牌变得扭曲。柔和的蓝色与温暖的橙色霓虹灯反射照亮了她的脸庞和湿润的玻璃。情感孤独，静谧哀伤，电影叙事感，真实的皮肤纹理，可见的毛孔，自然妆容，微乱的头发，富有表现力的眼睛，浅景深，梦幻虚化，柔焦效果，逼真的反射，氛围照明，模拟胶片颗粒，电影级调色，照片级真实感，摄影杰作，超细节，85mm 镜头，f/1.4，获奖人像，情感视觉诗，8k。\", \"style\": [ \"电影摄影\", \"照片级真实感\", \"模拟胶片美学\", \"情感视觉叙事\", \"新黑色电影氛围\" ], \"negative_prompt\": \"动漫，卡通，CGI，3D 渲染，低质量，面部模糊，多余的手指，糟糕的解剖结构，不真实的皮肤，色彩过饱和，水印，文字，Logo，人物重复，手部扭曲，塑料感皮肤\" }",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788676672078_t4bebj_HRd9keUbEAIwtDB.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Compound Learning - Tech | Science"
-      ],
-      "author": "Compound Learning - Tech | Science",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/SheBuildsAI_/status/2096282220931822061",
-      "license": "upstream",
-      "createdAt": "2026-09-05"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:14be6500d5931aba",
-      "title": "漫画 / 故事板 - 高端酸奶商业广告项目",
-      "prompt": "标题：\n高端希腊酸奶产品商业广告项目\n\n格式：\n• 单页高端项目\n• 3:4 竖屏比例\n• 高端乳制品营销活动\n• 8 个电影级产品特写场景\n• 产品始终作为视觉核心\n• 豪华广告代理商演示风格\n\n页眉：\n• 优雅简洁的排版\n• 信息卡片：\n  - 时长：{argument name=\"duration\" default=\"20 秒\"}\n  - 风格：新鲜美食商业广告\n  - 产品：{argument name=\"product name\" default=\"希腊水果酸奶\"}\n  - 音频：勺子 + 奶油质感 ASMR\n• 为什么这种风格有效部分\n• {argument name=\"color aesthetic\" default=\"白色、柔粉色和浆果红美学\"}\n• 简约的水果灵感装饰元素\n\n项目：\n1. 高端酸奶杯放置在冰镇大理石上，配以新鲜浆果\n2. 极致微距拍摄酸奶盖被揭开的过程\n3. 勺子进入浓郁的奶油酸奶中\n4. 勺子舀起顺滑有光泽的酸奶\n5. 新鲜草莓块掉入酸奶中\n6. 浆果泥在奶油酸奶中旋转\n7. 极致微距展示浓稠的酸奶质地和水果块\n8. 最终产品定格画面，包含酸奶杯、浆果和优雅的勺子构图\n\n每个面板：\n• 场景编号\n• 时长标签\n• 镜头方向\n• 视觉效果\n• 动作\n• 产品细节\n\n镜头：\n极致微距、慢动作水果掉落、奶油质地特写、俯视构图、平滑的勺子移动、浅景深、电影级主角构图。\n\n风格：\n超写实乳制品美食摄影、浓郁奶油质感、逼真的水果块、光泽浆果漩涡、冰镇冷凝水珠、柔和的高端光影、简洁包装、豪华食品广告、8K 分辨率。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788676672422_cam0sq_HRc2tm_aQAEZ3wO.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "𝐌"
-      ],
-      "author": "𝐌",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Strength04_X/status/2096204332895261103",
-      "license": "upstream",
-      "createdAt": "2026-09-05"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:8279218456600e2f",
-      "title": "漫画 / 故事板 - 家庭晚餐电影感联络表",
-      "prompt": "{\n  \"title\": \"温馨家庭晚餐电影感联络表\",\n  \"format\": \"3x3 联络表拼贴\",\n  \"subject\": \"{argument name=\"subject\" default=\"一位留着自然波浪卷深色头发的年轻女性，身穿宽松的棕色亚麻衬衫，坐在温馨家庭晚餐的木制餐桌旁\"}\",\n  \"environment\": \"{argument name=\"environment\" default=\"传统的家庭餐厅，复古壁纸，摆满盘子和玻璃器皿的木制中式餐柜，温暖的钨丝灯照明，真实的居家氛围\"}\",\n  \"composition\": {\n    \"grid\": \"3x3 分镜画面\",\n    \"shots\": [\n      \"中景：用富有表现力的手势交谈\",\n      \"特写：自然地大笑\",\n      \"侧面：从砂锅中盛取千层面\",\n      \"特写：托腮倾听\",\n      \"中景：低头吃晚餐\",\n      \"特写：带着俏皮的表情品尝食物\",\n      \"中景：讲述生动的故事\",\n      \"特写：拿着叉子温柔地微笑\",\n      \"远景：交谈后独自坐在餐桌旁\"\n    ]\n  },\n  \"camera\": {\n    \"lens\": \"50mm 和 85mm 定焦镜头\",\n    \"depth_of_field\": \"浅景深\",\n    \"focus\": \"主体清晰对焦，背景呈现奶油般虚化\",\n    \"framing\": \"多角度电影感覆盖\"\n  },\n  \"lighting\": {\n    \"type\": \"温暖的实用居家照明\",\n    \"color_temperature\": \"3200K\",\n    \"mood\": \"温馨、亲密、怀旧\",\n    \"shadows\": \"柔和的自然阴影\"\n  },\n  \"style\": {\n    \"photorealistic\": true,\n    \"cinematic\": true,\n    \"natural_expressions\": true,\n    \"slice_of_life\": true,\n    \"authentic_human_moments\": true,\n    \"award_winning_film_still\": true\n  },\n  \"color_grading\": {\n    \"palette\": \"{argument name=\"palette\" default=\"暖琥珀色、棕色、奶油色、米色\"}\",\n    \"contrast\": \"柔和的电影感对比度\",\n    \"look\": \"Kodak Vision3 胶片模拟\"\n  },\n  \"details\": [\n    \"真诚的笑声\",\n    \"自然的眼神交流\",\n    \"细微的面部表情\",\n    \"真实的皮肤纹理\",\n    \"木制餐具家具\",\n    \"家常菜肴\",\n    \"纪实摄影风格\",\n    \"家庭聚会氛围\"\n  ],\n  \"quality\": {\n    \"resolution\": \"8K\",\n    \"detail\": \"超精细\",\n    \"realism\": \"超写实\"\n  },\n  \"negative_prompt\": [\n    \"动漫\",\n    \"卡通\",\n    \"CGI\",\n    \"塑料感皮肤\",\n    \"过度处理的面部\",\n    \"低分辨率\",\n    \"多余的手指\",\n    \"扭曲的解剖结构\",\n    \"文字\",\n    \"水印\",\n    \"标志\"\n  ]\n}",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Compound Learning - Tech | Science"
-      ],
-      "author": "Compound Learning - Tech | Science",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/SheBuildsAI_/status/2096191621838864712",
-      "license": "upstream",
-      "createdAt": "2026-09-05"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:55871aa5f69156da",
-      "title": "漫画 / 故事板 - 灯塔守望者项目",
-      "prompt": "{\n  \"title\": \"{argument name=\"story title\" default=\"灯塔守望者\"}\",\n\n  \"image_description\": \"一座孤独的灯塔矗立在崎岖的悬崖上，周围是狂暴的海洋风暴。巨浪拍打着下方的岩石。闪电划破乌云，短暂地照亮了这座古老的石质建筑。灯塔内，一位年迈的守望者提着一盏旧灯，缓慢地爬上螺旋楼梯。墙上贴满了褪色的照片、信件和跨越数十年的剪报。世界上所有的航线在五十多年前就已被废弃。这里再也没有船只经过。然而，每天晚上，守望者都会雷打不动地爬到塔顶，点亮灯光。\",\n\n  \"story_element\": {\n    \"twist\": \"{argument name=\"plot twist\" default=\"没人知道他为何还要这样做。\"}\",\n    \"secret\": \"{argument name=\"the secret\" default=\"今晚，五十年来第一次，地平线上出现了一道微弱的光。\"}\"\n  },\n\n  \"environment\": {\n    \"weather\": \"狂暴风暴\",\n    \"time\": \"午夜\",\n    \"atmosphere\": \"孤独、神秘、感人\"\n  },\n\n  \"symbolism\": \"没有证据的信念与希望。\",\n\n  \"cinematography\": {\n    \"camera_angle\": \"低角度\",\n    \"lens\": \"85mm 变形镜头\",\n    \"lighting\": \"闪电光与温暖的灯笼光\"\n  },\n\n  \"mood\": [\n    \"希望\",\n    \"神秘\",\n    \"孤独\",\n    \"坚定\"\n  ],\n\n  \"quality\": {\n    \"style\": \"奥斯卡获奖电影级剧情片\",\n    \"resolution\": \"8K\",\n    \"realism\": \"超写实\"\n  }\n}",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1788591091473_7f611z_HRZCZUlaMAAu2-k.png",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "漫画 / 故事板",
-        "Compound Learning - Tech | Science"
-      ],
-      "author": "Compound Learning - Tech | Science",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/SheBuildsAI_/status/2095935682174926856",
-      "license": "upstream",
-      "createdAt": "2026-09-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:cd4679d5b51744ff",
-      "title": "产品营销 - 全装甲机甲少女概念艺术",
-      "prompt": "全装甲机甲少女 FAMG-001 Aurelith 1/7 比例塑料模型，纤细躯干搭配高跟造型腿部，高度细节化的概念艺术，逼真的材质与光照，白色背景，产品摄影风格",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791613889303_1304it_HUFpcmkbgAADDby.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "てんねん"
-      ],
-      "author": "てんねん",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/munou_ac/status/2108437805068058702",
-      "license": "upstream",
-      "createdAt": "2026-10-09"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:f9e2f4283384e9b3",
-      "title": "产品营销 - 奢华时尚编辑摄影照片",
-      "prompt": "超写实的高端时尚编辑摄影照片，一位优雅的年轻女性倚靠在光泽感十足的黑色豪华轿车旁。她侧身坐在车身边缘，一条腿自然地交叉在另一条腿上，一只手搭在身旁的车身上，身体微微朝向镜头倾斜。她留着齐肩的浅棕色柔和波浪卷发，五官精致，妆容自然，画着淡淡的眼线，神情平静而自信，直视镜头。\n\n她身穿修身黑色高领上衣、剪裁考究的黑色长裤，肩上自然披着一件长款挺括的黑色西装外套。西装肩部线条利落优雅，呈现出高级时装的廓形。黑色轿车占据背景，车身反射出明亮的光泽，车窗为深色隐私玻璃，右侧可见车门把手和大尺寸高档合金轮毂。\n\n现代豪华展厅/室内建筑场景，色调为深中性色，采用柔和漫射的电影级布光，车身反射真实，景深较浅，背景轻微虚化，皮肤纹理自然，发丝细节清晰，面料质感逼真，整体呈现精致的全黑美学风格，具有豪华汽车广告大片质感，Vogue 风格时尚摄影，85mm 镜头，平视视角，垂直全身构图，照片级真实感，超高细节，4K 分辨率，无文字，无水印。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791527769577_cv77vc_HUB8_pcbwAAmE_M.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "Aynah"
-      ],
-      "author": "Aynah",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/AynahhX/status/2107822076707086763",
-      "license": "upstream",
-      "createdAt": "2026-10-07"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:daa4797e4b5d9b93",
-      "title": "产品营销 - 超现实糖果娃娃角色提示词",
-      "prompt": "一个拥有 5 个头、10 只耳朵、2 条手臂和 2 条腿的超现实娃娃，坐在时尚的高脚椅上。中央的脸是一张写实的亚洲女性面孔，左侧的脸戴着狂欢节面具，右侧的脸像绿巨人一样呈绿色，最右侧是狗脸，而最左侧则是猫脸。身体完全由光泽、半透明的多色糖果编织并扭曲而成，表面光滑如糖果般闪亮。左臂由章鱼触手构成。右腿由树根组成。她坐在一把高脚椅上，进行专业的高级时装工作室拍摄，自然地倚靠在一种不寻常且放松的编辑风格姿势中。五个头部从同一个身体中协调地生长出来，营造出一种刻意的超现实高级定制轮廓，而非独立的形象。干净、素雅的工作室背景。淡粉色主导着糖果塑料质感的身体，微妙的柔和红色高光点缀在光泽表面上。柔和、受控的专业工作室灯光，柔和的粉彩调色板，精致的高级时装编辑美学，写实的面部皮肤与人造糖果塑料身体形成对比，细节精致的材质表现，抛光级的摄影质感。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791441399884_qc22a9_HT-jLSzbEAAsrY3.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "Anantha Shayana. D"
-      ],
-      "author": "Anantha Shayana. D",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/RAYSITI/status/2107599888636862834",
-      "license": "upstream",
-      "createdAt": "2026-10-06"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:31821345644689b7",
-      "title": "产品营销 - 奢华浴缸时尚人像",
-      "prompt": "使用上传的参考图像作为精确的面部身份参照。严格保留她的面部、面部结构、眼睛、眉毛、鼻子、嘴唇、下颌线、肤色、发型及整体身份特征——杜绝任何身份漂移或面部改变。\n\n创作一幅超写实的彩色奢华时尚人像，描绘同一位女性优雅地斜倚在豪华的白色独立式浴缸中。她身着深祖母绿缎面落地长裙，裙摆垂坠感极佳，并佩戴黑色长款歌剧手套。搭配多层钻石项链、闪耀耳环及精致奢华珠宝。\n\n她一手持盛满浓郁红酒的水晶酒杯，另一只戴手套的手优雅地轻抚头部附近。头发顺滑光亮，神情自信而神秘，目光直视镜头。\n\n场景设定为奢华的奶油色与金色大理石浴室，暖香槟色调灯光，微妙反射效果，丰富的祖母绿、勃艮第红和金色配色方案，电影级阴影，发光高光，逼真的缎面质感，自然的皮肤毛孔，真实的珠宝光泽，高级时装编辑摄影风格，精致的荷里活电影摄影美学，85mm 镜头，浅景深，超高细节，照片级真实感，优雅迷人。\n\n竖构图 4:5，全身构图，电影级奢华编辑风格，真实色彩，无 AI 痕迹。\n\n负面提示词：不同的面孔，身份漂移，改变的面部特征，塑料皮肤，过度修图，扭曲的手部，多余手指，解剖结构错误，CGI，卡通，模糊，低质量，水印，文字，标志。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791268438098_i3xbnh_HT32hgma8AAhKOw.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "Elvorya"
-      ],
-      "author": "Elvorya",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Elvorya/status/2107111265827225704",
-      "license": "upstream",
-      "createdAt": "2026-10-05"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:b55c99845ea7c65c",
-      "title": "产品营销 - 豪华时尚大片：运动轿车篇",
-      "prompt": "创作一幅逼真的豪华时尚大片，画面中一位优雅的年轻女性自信地站在一辆光泽亮丽的棕色豪华运动轿车前，车辆停靠在精致的欧式城市街道旁。她身着剪裁合体的巧克力色西装外套、配套的高腰长裤、丝滑的棕色衬衫以及尖头棕色高跟鞋。她留着柔和微卷的长发，肌肤自然无瑕，妆容低调奢华，神情自信从容。背景为暖米色的历史建筑，配有高大的拱形窗户和精品店入口，采用电影般的黄金时刻光线，景深较浅，车身反射真实细腻，呈现高端时尚广告的美学风格。构图需为全身照，竖屏比例 4:5，超细节丰富，写实摄影风格，无文字，无水印，手部及面部无畸变。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791268436716_v2nmdl_HT3ygv9awAAHeSj.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "Aynelle"
-      ],
-      "author": "Aynelle",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/aynellex/status/2107106858385248517",
-      "license": "upstream",
-      "createdAt": "2026-10-05"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:863bc76c7a22ee35",
-      "title": "产品营销 - 基于参考图的电影感奢华夜景人像",
-      "prompt": "将上传图片作为精确的视觉和面部参考。零偏差地保留女性的面部身份、面部比例、发型及整体外观。\n\n创作一张写实电影感的奢华夜景人像：同一位女性站在平静的无边泳池旁，背景是蓝调时刻/夜晚的现代滨水城市天际线。她身穿优雅的银白色高定落地长裙，饰有精致的水晶点缀、细肩带、修身镶钻上身、飘逸褶皱裙摆及低调拖尾。搭配同色系闪亮银色高跟鞋。\n\n保持与参考图一致的优雅侧身姿态：身体略微侧向镜头，肩膀放松，一只手臂自然垂于身侧，姿态优雅，目光柔和自信地直视镜头。\n\n泳池应自然反射周围的城市灯光。背景展示精致的现代天际线，高耸的发光塔楼因电影级景深而轻微虚化。天空中包含一轮大小适中、逼真的满月——切勿过大——月光微妙地照亮场景。轻柔的晚风拂动她的几缕发丝和裙摆。\n\n光影：真实的月光混合柔和的环境建筑光，银色礼服上有微妙高光，肤色自然，阴影真实，具备电影级对比度及柔和的大气雾感。\n\n相机：全身构图，平视角度，85mm 人像镜头，浅景深，真实散景，主体清晰，面料纹理细节丰富，皮肤毛孔自然可见。\n\n风格：高端奢华时尚大片，电影摄影质感，超写实，精致优雅，比例真实，皮肤纹理自然，无 AI 人工痕迹。\n\n负面提示词：身份改变，面部漂移，不同人物，面部特征篡改，月亮过大，塑料皮肤，过度修图，手部扭曲，多余手指，身体变形，姿势不自然，卡通风格，CGI 外观，色彩过饱和，过度发光，重复人物，面部模糊，水印，文字，Logo。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791268438601_dqbur7_HTysDgUa8AAx58V.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "Elvorya"
-      ],
-      "author": "Elvorya",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Elvorya/status/2106747910625141182",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:cf52c6cbfad37e6c",
-      "title": "产品营销 - Cheetos 零食广告人像",
-      "prompt": "一张单人微笑的工作室人像，人物手持一袋 Cheetos Crunchy 橙色薯片贴近相机，前景同时呈现薯片袋和人物头部。使用超广角鱼眼镜头拍摄，营造俏皮、年轻且充满活力的氛围。\n模特身穿一件光泽感明亮的橙色羽绒服，内搭白色 T 恤。\n背景为鲜艳的橙色渐变，点缀浅黄色调，风格大胆有趣。\n柔和的电影级布光，高光润泽，轻微提升饱和度，呈现现代零食广告的编辑风格。\n富有表现力的笑容，兼具趣味性与街头商业美学。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791182791359_o5qmkz_HTyqEPzagAAi_Rq.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "simeon-sanai"
-      ],
-      "author": "simeon-sanai",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Naiknelofar788/status/2106745724545446089",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:36a2c5d6766a5743",
-      "title": "产品营销 - 高端美容人像（带参考图）",
-      "prompt": "使用上传的图像作为主要视觉参考。创建同一位女性的高端逼真美容人像，保留她的面部特征、脸型、肤色、眼睛、鼻子、嘴唇以及整体身份。她留着深棕色头发，梳成凌乱而优雅的发髻，几缕松散的波浪发丝垂在脸旁。妆容柔和自然，暖棕色眼影，精致眼线，长睫毛，光泽感深红唇色，以及真实发光的肌肤。\n\n她身穿一件优雅的深酒红色透视长袖上衣，领口较高。她的手优雅地放在颈部附近，展示着精致的金戒指和细节丰富的酒红色与金色美甲。姿势略微转向镜头，表情柔和而自信。\n\n温暖的橙金色电影级灯光，头发周围有强烈的柔和轮廓光，舒适的深米色背景，浅景深，逼真的皮肤纹理，精细的发丝细节，专业美容摄影，85mm 人像镜头，柔和散景，电影级色彩分级，超细节，逼真，8K。无文字、水印或标志。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791182791324_wm9xmc_HTyj2JyaAAAgxIT.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "Aynah"
-      ],
-      "author": "Aynah",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/AynahhX/status/2106738894670835727",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:d501f2a5f33d5639",
-      "title": "产品营销 - 奇多零食广告人像",
-      "prompt": "影棚人像，一名微笑的人物手持一袋奇多脆脆橙味薯片贴近镜头，薯片袋和人物头部均位于前景。使用超广角鱼眼镜头拍摄，营造俏皮、年轻、充满活力的感觉。\n模特身穿一件光泽感强的亮橙色羽绒服，内搭白色 T 恤。\n背景为充满活力的橙色渐变，点缀浅黄色，风格大胆且有趣。\n柔和的电影级布光，高光润泽，轻微提升饱和度，呈现现代零食广告的编辑风格。\n表情生动的微笑，兼具趣味性与街头商业美学。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791101710257_4rpbqz_HTwZ2I6a4AA-N_z.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "Duet | AI"
-      ],
-      "author": "Duet | AI",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Sheldon056/status/2106587208916566057",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:90497e47e835e624",
-      "title": "产品营销 - 历史大厅中的奢华肚皮舞者编辑照",
-      "prompt": "创建一个逼真的奢华时尚大片，展示一位成年专业肚皮舞者在宏伟的历史地中海或中东石厅中。保持文化基础的可识别性和精致性，而不是幻想、戏剧性的角色扮演或服装选美风格。\n\n她穿着精心制作的深酒红色舞蹈套装，配有结构化的刺绣上衣和高腰合身的臀部线条，流入一条长而流畅的裙子。密集的古董金丝细工、精细珠饰、小硬币和克制的金属刺绣集中在领口、腰部及臀部周围，在裙摆处逐渐变轻。添加多层金项链、雕塑感手镯、耳环和精致的脚链。服装应看起来昂贵、手工制作、安全且专为真实运动设计，而非过度装饰。\n\n捕捉她在动作之间的瞬间，而不是教科书式的姿势。她的臀部几乎正对相机，而肋骨略微转向一侧，通过腰部形成强烈的螺旋效果。重量落在一条腿上，另一侧臀部向前释放。一只手臂向相机延伸，手指放松且有表现力，另一只手臂在她头部旁边升起。长而深色有质感的头发，穿插着几缕微妙的辫子和微小的金属细节，带着残余的运动环绕在她的肩膀上。\n\n从略低于腰部的高度拍摄，足够近以让她的主导地位显现，同时保留全身和建筑规模。她目光越过镜头，带着专注、自信的力度。\n\n高大的雕刻拱门和风化的石柱在她身后退入温暖的阴影中。几个远处的坐着的人物仅作为柔和的剪影出现，暗示一场私人表演而不成为主体。金色的午后光线从一侧进入，掠过她的皮肤、刺绣、珠宝和移动的面料，而她身后的厅堂逐渐变暗。保留毛孔、细发、面料重量、真实的金属反射、轻微的汗水、自然的解剖结构和克制的电影颗粒感。\n\n最终图像应感觉像是一位知名时尚摄影师记录了一位强大的舞者在真实的历史空间中：文化根基深厚、性感、威严、触觉丰富且无疑是编辑风格的。没有幻想主题、舞台布景、通用的后宫风格、过多的装饰、塑料般的皮肤、CGI 抛光、标志、文字或水印。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791101706537_0hso0d_HToUKFyaQAAKJ_D.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "dreamy digital arts"
-      ],
-      "author": "dreamy digital arts",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/dreamydigiarts/status/2106580064720884047",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:d8e4c0ced784a0ba",
-      "title": "产品营销 - 敞篷车中的奢华时尚人像",
-      "prompt": "创作一张逼真的奢华时尚人像，描绘一位优雅的年轻女性坐在一辆精致的奶油色豪华敞篷车内。她身穿一套剪裁考究的象牙白西装套装，包括结构感强的西装外套和修身长裤，佩戴多层精致的金色项链，头戴一顶夸张的白色宽檐帽，部分遮挡面部。她一手握着一小束新鲜的白色和淡黄色花朵，另一只手优雅地轻触帽檐。\n\n构图呈现出高端夏季时尚杂志大片的感觉。温暖的黄金时刻阳光直接洒满整个场景，形成美丽的自然高光、深邃的电影感阴影，并在奶油色真皮座椅上投射出花朵与帽子的迷人剪影。内饰采用优质象牙色绗缝皮革，点缀着微妙的复古奢华细节。\n\n姿态优雅放松，造型精致女性化，手部与手指自然真实，面料纹理逼真，花朵细节丰富，皮肤毛孔真实可见，妆容柔和自然，珠宝精致考究，发丝随风轻微飘动，氛围温暖如阳光亲吻，呈现高端时尚摄影质感，使用 85mm 镜头，浅景深，电影感构图，曝光真实，高动态范围，编辑级色彩分级，超精细细节，栩栩如生。\n\n负面提示：CGI，3D 渲染，卡通，插画，塑料质感皮肤，面部扭曲，多余手指，畸形手部，重复花朵，模糊细节，过度曝光，人造灯光，文字，标志，水印。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791101709176_dy32ia_HTtiXxPaIAAlBLL.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "Aynelle"
-      ],
-      "author": "Aynelle",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/aynellex/status/2106385421408333902",
-      "license": "upstream",
-      "createdAt": "2026-10-03"
-    },
-    {
-      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:8ed05029c9df0795",
-      "title": "产品营销 - 奢华时尚人像身份保留",
-      "prompt": "使用上传的图像作为主要身份参考。创建同一位女性，保持完全相同的面部和面部身份，精确保留她的面部结构、眼睛、眉毛、鼻子、嘴唇、下颌线、颧骨、肤色、比例、自然不对称性以及可识别的特征，确保最大程度的准确性。不要重新设计或美化她的面部。\n\n创作一幅超写实的奢华时尚人像，她身穿一件雕塑感的深红色丝绸礼服。光泽的丝绸形成巨大的流动褶皱，优雅地环绕着她的身体，并在肩后如波浪般戏剧性地升起，营造出引人注目的定制时装轮廓。收腰设计带有褶皱细节，深 V 领口，流动的红色面料向下倾泻。长而松散的深棕色波浪发，优雅的红色唇妆，精致淡雅的妆容，搭配精致的金色耳环和项链。温暖的定向影棚灯光，丰富深邃的红色纹理背景，逼真的丝绸反光，自然的织物物理特性，高端奢华的编辑风格广告大片，高度详细的皮肤纹理，8K 照片级真实感。正面构图，中景取景，非全身照。\n\n负面提示词\n\n不同的面孔，身份漂移，面部重新设计，改变的面部结构，不同的眼睛，不同的鼻子，不同的嘴唇，不同的下颌线，不同的颧骨，改变的肤色，夸张的美感，塑料皮肤，过度平滑的皮肤，过度的妆容，面部扭曲，不对称的眼睛，变形的特征，不自然的表情，多余的肢体，多余的手指，畸形的手，变形的身体，不真实的解剖结构，扭曲的织物，僵硬的织物，假丝绸，低细节，模糊的脸，CGI 外观，卡通，插画，3D 渲染，过度锐化，过度修图，水印，标志，文字，裁剪的脸，侧脸。",
-      "media": "image",
-      "model": "nano-banana-pro",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-nano-banana-pro",
-        "nano-banana-pro",
-        "产品营销",
-        "Elvorya"
-      ],
-      "author": "Elvorya",
-      "source": "youmind-nano-banana-pro",
-      "sourceUrl": "https://x.com/Elvorya/status/2106380334623600930",
-      "license": "upstream",
-      "createdAt": "2026-10-03"
-    },
-    {
       "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:46bab488859b54a2",
       "title": "电商主图 - Nano Banana Pro 影棚人像提示词",
       "prompt": "使用上传的参考图像中的面部特征。一位年轻女性的全身肖像（{argument name=\"age_range\" default=\"23–27 岁\"}，欧洲人外貌，轻微晒黑的皮肤带有柔和的古铜色底色，富有表现力的眼睛，自然的面部表情），坐在极简主义摄影工作室中，背景为无缝浅灰色弧形幕布。来自左上方大型柔光箱（45°）的柔和均匀光线，配合右下方的补光灯，在下巴和腿部下方形成柔和阴影。中全景构图（从膝盖到头顶），略低的视平线视角（约 100 cm），85 mm 镜头 f/2.0 光圈，浅景深——面部和身体清晰对焦，背景柔和虚化。相机角度向左前方 30°，椅子侧向面对相机。姿势：坐在带有红色座面和靠背的金属折叠椅上，躯干略微前倾，左臀位于椅边，右腿向前伸展，左膝弯曲，右手抬起触摸太阳穴附近的头发，左手自然放在大腿上，头转向相机，神情平静自信，带着淡淡的自然微笑。服装：光泽感红色短款皮革飞行员夹克，带有白色运动风贴花（包括“3”），未拉拉链，宽松穿着；白色棉质连体衣，腰部有醒目的红色 DIESEL 标志带；白色中筒袜，带有红色条纹；红色高跟凉鞋，配有细脚踝带（约 12 cm）。时尚杂志风格，自信且现代。超逼真影棚照片，8K RAW 画质，眼睛和皮肤纹理清晰对焦，自然的毛孔和微观细节，影棚灯光在皮肤上形成微妙高光，椅子和夹克上有金属反射，温暖的肤色，高对比度的红色点缀。",
@@ -999,6 +399,639 @@
       "sourceUrl": "https://x.com/timedoctor_nft/status/2100578794159436219",
       "license": "upstream",
       "createdAt": "2026-09-17"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:1b56560c122fa9fa",
+      "title": "游戏素材 - Q 版 RPG 游戏活动主视觉图",
+      "prompt": "[游戏活动]\n- 游戏标题：{argument name=\"game title\" default=\"寻宝大冒险！\"}\n- 游戏概述/特色：{argument name=\"description\" default=\"在宏大的冒险岛上寻找宝藏！\"}\n- 类型/副标题：{argument name=\"subtext\" default=\"RPG 冒险动作游戏！\"}\n\n[质量、制作、构图]\n- 风格：适用于日本移动端 RPG 或休闲游戏活动公告的插画。色彩鲜艳、充满欢乐的奇幻世界。\n- 主体：可爱的 Q 版角色（Q 版英雄或吉祥物）面带微笑打开宝箱。金色的光芒和魔法粒子从宝箱中溢出，耀眼夺目。\n- 背景：蓝天白云，以及郁郁葱葱的奇幻世界中的岛屿或森林。\n- 排版（适用于 GPT-image / Nano Banana Pro）：在屏幕中央或顶部设计 {argument name=\"game title\" default=\"寻宝大冒险！\"} 的奇幻风格装饰性标志，并以易于阅读的布局添加 {argument name=\"description\" default=\"在宏大的冒险岛上寻找宝藏！\"} 和 {argument name=\"subtext\" default=\"RPG 冒险动作游戏！\"}。\n- 色彩/光影：明亮、高饱和度的奇幻色彩，带有魔法光泽和柔和的阴影描绘。\n\n[严格的布局和输出限制（必填）]\n- 输出成品设计本身，填满整个屏幕。设计内的背景和场景描述（墙壁、空间、阴影等）可遵循正文中的说明。\n- 禁止事项：带相框的海报照片、钉在墙上的照片、放在桌子或纸上的样机照片、纸张边缘的透视变形或投影。\n- 输出成品平面 2D 设计本身，填满整个画布。允许使用上述描述的设计内部场景元素。绝对禁止海报样机照片：禁止使用相框、禁止拍摄贴在墙上或桌上的海报、禁止在艺术品边缘出现透视变形或投影。\n\n- 宽高比：--ar 16:9",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789108573807_t9dgx5_HR2KkS3XgA0D5eA.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "游戏素材",
+        "AI Guide-Note - 実務で使えるAI活用メディア"
+      ],
+      "author": "AI Guide-Note - 実務で使えるAI活用メディア",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/AIGuideNote/status/2097985361729220828",
+      "license": "upstream",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:e8e0da82cef9e729",
+      "title": "游戏素材 - 表现主义写实混合风格肖像",
+      "prompt": "请使用附带的对象，尽可能还原其外观。创作一幅精致的混合风格肖像，将表现主义的绘画写实感与精致的电影感数字插画融为一体。\n\n保留原图的面部结构、表情、姿势、发型、服装、比例以及整体构图。运用清晰且自信的笔触、细腻的干笔纹理、精致的草图线条、柔和的罩染效果、自然的颜料变化以及手工绘制的瑕疵感——避免过于平滑或喷枪质感。\n\n使用温暖的桃色、珊瑚色、赤陶色、琥珀色和柔粉色作为肤色基调，并辅以淡紫色、李子色、炭灰色、浓咖啡色和板岩色的丰富阴影。在额头、鼻梁、颧骨和嘴唇处添加逼真的明亮高光。\n\n使双眼极具表现力和电影感，刻画出细腻的虹膜、逼真的倒影、精致的睫毛以及受控的眼神光。保持面部解剖结构的真实、优雅与成熟感。\n\n头发和服装应呈现出流畅的绘画笔触、自然的褶皱、局部的锐利细节以及松散的表现主义边缘。运用富有戏剧性的定向电影光效、微妙的轮廓光、大气阴影以及柔和的背景融合效果。\n\n整体风格：融合了传统手绘质感、印象派写实主义、优雅线条、电影级质感与精致角色插画的高端当代概念艺术。\n\n极简的大气背景，采用高级暖中性色调，重点聚焦于面部与眼神。\n\n长宽比：9:16 竖屏。",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1788849667276_jgbjdx_HRnd81AbIAAhBz1.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "游戏素材",
+        "Zayan"
+      ],
+      "author": "Zayan",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/HustleXR/status/2096951148515385716",
+      "license": "upstream",
+      "createdAt": "2026-09-07"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:f808afbfadbde77a",
+      "title": "游戏素材 - Artifact Diorama SQL 生成",
+      "prompt": "16:9 select * from artifact_diorama_archives where subject_media = '{argument name=\"media title\" default=\"[media_title]\"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name=\"media title\" default=\"[media_title]\"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name=\"media title\" default=\"[media_title]\"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "游戏素材",
+        "Gadgetify"
+      ],
+      "author": "Gadgetify",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/Gdgtify/status/2095942973934698532",
+      "license": "upstream",
+      "createdAt": "2026-09-04"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:62cd0adfcb5243df",
+      "title": "游戏素材 - Woodpunk 动力木质雕塑自动机",
+      "prompt": "1. 语义推理引擎（动态材质映射）：\n输入 A 为任意主题（物体、动物、植物或概念）。\n分析主题的固有属性并将其映射到手工材质：\n主体（底盘）：推断主题的主要颜色/重量，并分配相应的硬木。\n装饰（镶嵌）：推断主题的图案或细节，并分配对比鲜明的细木镶嵌材质。\n机械结构（骨架）：推断主题的关节或动力源，并分配金属五金件。\n2. “不可变”容器（自动机）：\n目标：“达芬奇工作室”风格的产品摄影。\n物体：将主题渲染为一个复杂的、独立的木制机械玩具。\n底座：模型矗立在代表其语义环境的手工雕刻木块上。\n比例：桌面物体的微距摄影（约 12 英寸高）。\n3. 发条内部（变形）：\n剖面：视觉上移除或铰接打开部分外部“木壳”。\n内部：内部的生物或机械构造被发条装置取代。\n规则：可见的齿轮、自行车链条、手表发条和黄铜飞轮必须暗示物体通过发条动力驱动。\n紧固件：木材接缝处可见微小的黄铜螺丝、铆钉和铰链。\n4. 叙事角色（操作员）：\n角色：场景中集成了一个标准的关节木制人体模型（艺术家玩偶风格）。\n职责：该角色作为主题的维护者、骑手或操作员。\n互动：他们正在爬梯子擦拭物体、转动巨大的发条钥匙，或驾驶野兽/机器。\n配件：玩偶穿着与语境相符的雕刻木质装备。\n5. 灯光与氛围：\n灯光：柔光箱摄影棚灯光。漫射的高端商业灯光，在涂漆的曲线上营造出优雅的长条高光。\n背景：中性摄影棚灰。无缝无限背景，聚焦于材质纹理。\n质感：高光清漆。木材必须看起来昂贵、光滑且色彩饱和度深。\n输出：一张图片，1:1 纵横比，产品摄影，“Woodpunk”美学，8k 分辨率。",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1788591095766_6nq71i_HRP8n6XWcAEna6M.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "游戏素材",
+        "Gadgetify"
+      ],
+      "author": "Gadgetify",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/Gdgtify/status/2095854642882019392",
+      "license": "upstream",
+      "createdAt": "2026-09-04"
+    },
+    {
+      "id": "youmind-nano-banana-pro:youmind-nano-banana-pro:9d0bf2d370526c26",
+      "title": "游戏素材 - 漫画桌面立体模型套件",
+      "prompt": "{ \"Aesthetic\": \"实体桌面立体模型，树脂与粘土模型套件\", \"Subject\": \"{argument name=\"franchise\" default=\"[FRANCHISE]\"}\", \"Physical_Components\": { \"The_Archway\": \"拼写为 {argument name=\"franchise name\" default=\"[FRANCHISE]\"} 的巨型 3D 字母，纹理采用 AI_INFER(符合原作设定的材质)。\", \"The_Vessel\": \"一个中空、切开的古董碗/容器，承载着整个世界。\", \"The_Ecosystem\": { \"Terrain\": \"AI_INFER(微缩山脉、城堡或城市)。\", \"Fluids\": \"半透明、光泽的浇注环氧树脂，模拟水或熔岩。\", \"Inhabitants\": \"与地形互动的微型、超精细人偶。\" } }, \"Lighting\": \"电影级产品摄影。轮廓光突显 3D 字体边缘。\" }",
+      "media": "image",
+      "model": "nano-banana-pro",
+      "coverUrl": "https://cms-assets.youmind.com/media/1788591094576_5cnp5g_HRPxrfzbgAAv-fK.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-nano-banana-pro",
+        "nano-banana-pro",
+        "游戏素材",
+        "Gadgetify"
+      ],
+      "author": "Gadgetify",
+      "source": "youmind-nano-banana-pro",
+      "sourceUrl": "https://x.com/Gdgtify/status/2095836776807936436",
+      "license": "upstream",
+      "createdAt": "2026-09-04"
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:6b86b273ff34fce1",
+      "title": "实物+手绘涂鸦创意广告",
+      "prompt": "A minimalist and creative advertisement set on a pure white background. A real [real object] combined with hand-drawn black ink doodles, with loose and playful lines. The doodle depicts: [doodle concept and interaction: interacting with the object in a clever, imaginative way]. Add bold black [ad copy] text at the top or center. Place the [brand logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and cleverly conceived.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/1.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "广告设计",
+        "advertising",
+        "@azed_ai",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@azed_ai",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:d4735e3a265e16ee",
+      "title": "黑白人像艺术",
+      "prompt": "A high-resolution black-and-white portrait artwork in an editorial and fine art photography style. The background features a soft gradient effect, transitioning from medium gray to near-pure white, creating a sense of depth and quietude. The delicate film grain texture adds a touchable, analog-photography-like softness, reminiscent of classic black-and-white photography.\n\nOn the right side of the frame, a blurred yet stunning face of Harry Potter faintly emerges from the shadows — not in a traditional posed shot, but as if captured in a moment between thought or breath. Only a portion of his face is revealed: perhaps one eye, a cheekbone, and the outline of the corner of his lips, evoking a sense of mystery, intimacy, and elegance. His features are refined and profound, radiating a melancholic and poetic beauty without appearing contrived.\n\nA gentle directional light, softly diffused, caresses the curve of his cheek, or flickers as a catchlight in his eye — this is the emotional core of the image. The rest is dominated by generous negative space, deliberately kept minimal, allowing the composition to breathe freely. No text, no logos — just an interplay of light, shadow, and emotion.\n\nThe overall atmosphere is abstract yet deeply human, like a fleeting glance, or a memory between waking and dreaming: intimate, timeless, and wistfully beautiful.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/2.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "人像/角色",
+        "portrait",
+        "@ZHO_ZHO_ZHO",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@ZHO_ZHO_ZHO",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:4e07408562bedb8b",
+      "title": "磨砂玻璃后的模糊剪影",
+      "prompt": "A black-and-white photo showing a blurred silhouette of a [subject] behind a frosted or translucent surface. The [part] outline is clear, pressed against the surface, creating a sharp contrast with the rest of the hazy, blurred figure. The background is a soft gray gradient tone, enhancing the mysterious and artistic atmosphere.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/3.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "人像/角色",
+        "portrait",
+        "@umesh_ai",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@umesh_ai",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:4b227777d4dd1fc6",
+      "title": "可爱毛线编织娃娃",
+      "prompt": "A close-up, professionally composed photo showing a handmade crocheted yarn doll being gently held in both hands. The doll has a round shape, [upload image] rendered as a cute chibi character of the person, with vivid color contrasts and rich details. The hands holding the doll are natural and gentle, with clearly visible finger poses, natural skin texture and light transitions, conveying a warm and realistic tactile sensation. The background is slightly blurred, showing an indoor setting with a warm wooden tabletop and natural light streaming in through windows, creating a cozy and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/4.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "3D/手办/潮玩",
+        "3d_cute",
+        "@ZHO_ZHO_ZHO",
+        "moosl/awsome-gpt-image-2-prompts",
+        "需要参考图"
+      ],
+      "author": "@ZHO_ZHO_ZHO",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:ef2d127de37b942b",
+      "title": "定制动漫手办",
+      "prompt": "Generate a photo of an anime-style figure placed on a tabletop, presented from a casual, everyday perspective as if casually shot with a phone. The figure model is based on the person in the attached photo, accurately reproducing the full-body pose, facial expression, and outfit from the photo, ensuring the figure's entire body is fully displayed. The overall design is delicate and refined, with hair and clothing featuring natural, soft gradient colors and fine textures, leaning toward a Japanese anime style, rich in detail, realistic in texture, and visually exquisite.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/5.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "3D/手办/潮玩",
+        "3d_cute",
+        "@dotey",
+        "moosl/awsome-gpt-image-2-prompts",
+        "需要参考图"
+      ],
+      "author": "@dotey",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:e7f6c011776e8db7",
+      "title": "自拍转摇头公仔",
+      "prompt": "Turn this photo into a bobblehead: slightly enlarge the head, keep the face accurate, cartoonize the body. [Place it on a bookshelf].",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/6.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "3D/手办/潮玩",
+        "3d_cute",
+        "@thisdudelikesAI",
+        "moosl/awsome-gpt-image-2-prompts",
+        "需要参考图"
+      ],
+      "author": "@thisdudelikesAI",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:7902699be42c8a8e",
+      "title": "三只动物地标自拍",
+      "prompt": "A close-up selfie photo of three [animal type] in front of the iconic [landmark], each with a different expression, shot during golden hour with cinematic lighting. The animals are close to the camera, heads together, mimicking a selfie pose, displaying expressions of joy, surprise, and calm. The background shows the full architectural details of [landmark] with soft light and a warm atmosphere. Shot in a photographic, realistic cartoon style, high detail, 1:1 aspect ratio.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/7.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "风景/场景",
+        "scene",
+        "@berryxia_ai",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@berryxia_ai",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:2c624232cdd22177",
+      "title": "玻璃材质重渲染",
+      "prompt": "Retexture the reference image based on the JSON aesthetic definition below\n{\n  \"style\": \"photorealistic 3D render\",\n  \"material\": \"glass with transparent and iridescent effects\",\n  \"surface_texture\": \"smooth, polished with subtle reflections and refractive effects\",\n  \"lighting\": {\n    \"type\": \"studio HDRI\",\n    \"intensity\": \"high\",\n    \"direction\": \"angled top-left key light and ambient fill\",\n    \"accent_colors\": [\"blue\", \"green\", \"purple\"],\n    \"reflections\": true,\n    \"refractions\": true,\n    \"dispersion_effects\": true,\n    \"bloom\": true\n  },\n  \"color_scheme\": {\n    \"primary\": \"transparent with iridescent blue, green, and purple hues\",\n    \"secondary\": \"crystal-clear with subtle chromatic shifts\",\n    \"highlights\": \"soft, glowing accents reflecting rainbow-like effects\",\n    \"rim_light\": \"soft reflective light around edges\"\n  },\n  \"background\": {\n    \"color\": \"black\",\n    \"vignette\": true,\n    \"texture\": \"none\"\n  },\n  \"post_processing\": {\n    \"chromatic_aberration\": true,\n    \"glow\": true,\n    \"high_contrast\": true,\n    \"sharp_details\": true\n  }\n}",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/8.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "3D渲染/材质",
+        "3d_render",
+        "@egeberkina",
+        "moosl/awsome-gpt-image-2-prompts",
+        "需要参考图"
+      ],
+      "author": "@egeberkina",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:19581e27de7ced00",
+      "title": "透视3D破屏效果",
+      "prompt": "Hyper-realistic, shot from a top-down overhead angle, a beautiful Instagram model [Anne Hathaway / see reference image], with exquisite and beautiful makeup and fashionable styling, standing on a smartphone screen held up by a hand, creating a strong perspective illusion. Emphasize the 3D effect of the girl stepping out of the phone. She wears black-framed glasses, dressed in high-street fashion, playfully striking a cute pose. The phone screen is treated as a dark floor, like a small stage. The scene uses strong forced perspective to express the proportional difference between the palm, phone, and girl. Background is clean gray, using soft indoor light, shallow depth of field, overall style is surreal realistic composite. Extra strong perspective.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/9.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "3D渲染/材质",
+        "3d_render",
+        "@ZHO_ZHO_ZHO",
+        "moosl/awsome-gpt-image-2-prompts",
+        "需要参考图"
+      ],
+      "author": "@ZHO_ZHO_ZHO",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:4a44dc15364204a8",
+      "title": "谷歌地图变古代藏宝图",
+      "prompt": "Transform the image into an ancient treasure map drawn on aged parchment. The map contains detailed elements such as sailing ships on the ocean, ancient ports or castles along the coastline, dotted-line paths leading to a marked treasure location with a large \"X\", mountains, palm trees, and a decorative compass rose. The overall style is reminiscent of old pirate adventure movies.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/10.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "创意转换",
+        "creative",
+        "@umesh_ai",
+        "moosl/awsome-gpt-image-2-prompts",
+        "需要参考图"
+      ],
+      "author": "@umesh_ai",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:4fc82b26aecb47d2",
+      "title": "品牌键帽设计",
+      "prompt": "A hyper-realistic 3D render showing four mechanical keyboard keycaps arranged in a tight 2x2 grid, with all keycaps touching each other. Viewed from an isometric angle. One keycap is transparent with \"{just}\" printed in red. The other three keycaps use the colors: {black, purple, and white}. One keycap features the Github logo. The other two keycaps have \"{fork}\" and \"{it}\" written on them respectively. Realistic plastic texture, rounded sculpted keycaps, soft shadows, clean light gray background.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/11.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "产品展示图",
+        "product",
+        "@egeberkina",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@egeberkina",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:6b51d431df5d7f14",
+      "title": "镀铬Emoji徽章",
+      "prompt": "A high-precision 3D render showing a metallic badge based on the emoji icon {👍}, mounted on a vertical merchandise card, with an ultra-smooth chrome finish and rounded 3D icon shape, stylized futuristic design with soft reflections and clean shadows. The paper card has a die-cut Euro-style hanging hole at the top center, with a prominent title \"{Awesome}\" above the badge, and a fun tagline \"{Smash that ⭐ if you like it!}\" below. Background is a soft gray, with soft studio lighting, overall minimalist style.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/12.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "产品展示图",
+        "product",
+        "@egeberkina",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@egeberkina",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:3fdba35f04dc8c46",
+      "title": "儿童涂色页插画",
+      "prompt": "A black-and-white line drawing coloring illustration, suitable for printing directly on standard-sized (8.5x11 inches) paper, without paper borders. The overall illustration style is fresh and clean, using clear and smooth black outline strokes, no shading, no grayscale, no color fill, with a pure white background for easy coloring.\n[Also, for users who are unsure about coloring, please generate a complete color version as a small reference image in the bottom right corner]\nTarget audience: [children aged 6-9]\nScene description:\n[A unicorn strolling on a forest meadow, with bright sunshine, blue sky and white clouds]",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/13.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "动漫/插画",
+        "illustration",
+        "@dotey",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@dotey",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:8527a891e2241369",
+      "title": "字母与词义融合",
+      "prompt": "Incorporate the meaning of the word into its letters, cleverly blending graphics and letters together.\nWord: { beautify }\nAdd a brief description of the word below",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/14.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "文字渲染",
+        "text_render",
+        "@dotey",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@dotey",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:e629fa6598d73276",
+      "title": "双重曝光",
+      "prompt": "Double exposure, Midjourney style, fused, blended, overlaid double exposure image, double exposure style. An outstanding masterpiece by Yukisakura, showcasing a wonderful double exposure composition that harmoniously interweaves the silhouette of Aragorn, son of Arathorn, with the visually striking, rugged landscapes of Middle-earth in vibrant spring. Sunlit pine forests, mountain peaks, and a lone horse crossing a trail echo outward from the textures of his form, adding layers of narrative and solitude. A beautiful tension builds as the clean, crisp monochrome background maintains sharp contrast, drawing all focus to the richly layered double exposure. It features a vibrant full-color palette inside Aragorn's silhouette, with clear, deliberate lines tracing every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/15.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "人像/角色",
+        "portrait",
+        "rezzycheck (Sora)",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "rezzycheck (Sora)",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:b17ef6d19c7a5b1e",
+      "title": "超现实互动场景",
+      "prompt": "A pencil sketch depicting a scene of [Subject 1] interacting with [Subject 2], where [Subject 2] is rendered in a realistic full-color style, creating a surreal contrast with the hand-drawn sketch style of [Subject 1] and the background.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/16.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "动漫/插画",
+        "illustration",
+        "@umesh_ai",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@umesh_ai",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:4523540f1504cd17",
+      "title": "动物硅胶腕托",
+      "prompt": "Create an image of a cute chibi-style silicone wrist rest, shaped based on the emoji 【🐼】, made of soft food-grade silicone material with a skin-friendly matte texture, filled with slow-rebound memory foam inside. It has an anthropomorphic cartoon style with a lively expression, arms spread open lying on the desk surface, in a pose that embraces the wrist. The overall shape is round and adorable, colored in 【🐼】 color scheme, with a healing and cute style, suitable for office use. Background is pure white, with soft lighting, product photography style, front view or 45-degree overhead angle, high-definition details, highlighting the silicone texture and comfort function.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/17.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "产品展示图",
+        "product",
+        "@ZHO_ZHO_ZHO",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@ZHO_ZHO_ZHO",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:4ec9599fc203d176",
+      "title": "发光线条解剖图",
+      "prompt": "A digital illustration depicting a [SUBJECT], whose structure is outlined by a set of glowing, clean, and pure blue lines. The scene is set against a dark background to highlight the form and features of the [SUBJECT]. A specific part, such as [PART], is emphasized with a red glow to indicate the importance or special significance of that area. The overall style is both educational and visually appealing, designed as if it were an advanced imaging technology.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/18.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "动漫/插画",
+        "illustration",
+        "@umesh_ai",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@umesh_ai",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:9400f1b21cb527d7",
+      "title": "城市主题天气预报",
+      "prompt": "From a clear 45-degree overhead angle, display an isometric miniature model scene featuring iconic city buildings such as [Shanghai Oriental Pearl Tower, the Bund]. Weather effects are cleverly integrated into the scene, with soft cloudy weather gently interacting with the city. Use physically-based rendering (PBR) and realistic lighting effects, solid background, clean and concise. The image uses centered composition to highlight the precise and delicate beauty of the 3D model. Display \"[Shanghai Cloudy 20°C]\" at the top of the image, with a cloudy weather icon.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/19.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "风景/场景",
+        "scene",
+        "@dotey",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@dotey",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:f5ca38f748a1d6ea",
+      "title": "半透明玻璃材质转换",
+      "prompt": "Transform the attached image into soft 3D translucent glass with a frosted matte effect and detailed texture, original colors, centered on a light gray background, gently floating in space, soft shadows, natural light",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/20.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "3D渲染/材质",
+        "3d_render",
+        "@azed_ai",
+        "moosl/awsome-gpt-image-2-prompts",
+        "需要参考图"
+      ],
+      "author": "@azed_ai",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:6f4b6612125fb3a0",
+      "title": "代码风格名片",
+      "prompt": "Close-up shot: a hand holding a business card designed to look like a JSON file in VS Code. The code on the card is displayed with real JSON syntax highlighting. The window interface includes typical toolbar icons and a title bar showing \"Business Card.json\", with the overall style fully consistent with the VS Code interface. The background is slightly blurred, highlighting the business card content.\nThe JSON code on the card is as follows:\n{\n  \"name\": \"Jamez Bondos\",\n  \"title\": \"Your Title\",\n  \"email\": \"your@email.com\",\n  \"link\": \"yourwebsite\"\n}",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/21.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "文字渲染",
+        "text_render",
+        "@umesh_ai",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@umesh_ai",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:785f3ec7eb32f30b",
+      "title": "乐高城市景观",
+      "prompt": "Create a highly detailed and vibrantly colored LEGO version of the Shanghai Bund scene. The foreground features the classic historic Bund buildings, exquisitely recreated with LEGO bricks in Western and Neoclassical architectural facades, including details such as clock towers, domes, and colonnades. LEGO minifigures are strolling along the riverbank, taking photos, and sightseeing, with classic-style LEGO cars parked along the streets. The background features the spectacular Huangpu River, constructed with blue translucent LEGO bricks, with LEGO ferries and sightseeing boats on the river surface. On the opposite bank, the Pudong Lujiazui area is lined with skyscrapers, including the Oriental Pearl Tower, Shanghai Tower, Jin Mao Tower, and the World Financial Center—these ultra-modern LEGO skyscrapers are richly colored and realistically shaped. The sky is bright LEGO blue, dotted with a few white LEGO brick clouds, presenting an overall vibrant and modern visual effect.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/22.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "风景/场景",
+        "scene",
+        "@dotey",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@dotey",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:535fa30d7e25dd8a",
+      "title": "玻璃材质重渲染(JSON)",
+      "prompt": "retexture the image attached based on the json below:\n\n{\n  \"style\": \"photorealistic\",\n  \"material\": \"glass\",\n  \"background\": \"plain white\",\n  \"object_position\": \"centered\",\n  \"lighting\": \"soft, diffused studio lighting\",\n  \"camera_angle\": \"eye-level, straight-on\",\n  \"resolution\": \"high\",\n  \"aspect_ratio\": \"2:3\",\n  \"details\": {\n    \"reflections\": true,\n    \"shadows\": false,\n    \"transparency\": true\n  }\n}",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/23.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "3D渲染/材质",
+        "3d_render",
+        "@egeberkina",
+        "moosl/awsome-gpt-image-2-prompts",
+        "需要参考图"
+      ],
+      "author": "@egeberkina",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:c2356069e9d1e79c",
+      "title": "水晶球故事场景",
+      "prompt": "An exquisite crystal ball rests quietly on a warm, soft tabletop beside a window. The background is blurred and hazy, with warm-toned sunlight gently penetrating the crystal ball, refracting golden sparkles of light, warmly illuminating the slightly dim surrounding space. Inside the crystal ball, a mini three-dimensional world themed around {Chang'e Flying to the Moon} naturally unfolds—a delicate, exquisite, and dreamy 3D landscape where all characters and objects are in cute chibi style, refined and beautiful, filled with lively emotional interactions between them. The overall atmosphere is full of East Asian fantasy elements, with extremely rich details, presenting a magical realism-like wondrous texture. The entire scene is poetic and dreamlike, gorgeous and elegant, radiating warm and soft light, as if given life within the warm interplay of light and shadow.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/24.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "3D/手办/潮玩",
+        "3d_cute",
+        "@dotey",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "@dotey",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "davidwu-gpt-image2-prompts:davidwu-gpt-image2-prompts:b7a56873cd771f2c",
+      "title": "怀旧动漫风电影海报",
+      "prompt": "An anime movie poster in the style of {The Lord of the Rings}, with the anime art style of \"High School DXD\". The poster shows visible fold creases, with physical damage and scuff marks at the crease areas from prolonged repeated folding, and colors have faded in some places. The surface is covered with irregular fold marks, turning traces, and scratches—these are minor wear accumulated through constant handling, like the irreversible process of entropy continuously expanding.\nHowever, the beautiful memories preserved in our hearts remain completely intact. When you gaze at this nostalgia-filled poster, what you feel is the emotional essence carried by those collectibles that have become incredibly precious over time.",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://raw.githubusercontent.com/davidwuw0811-boop/awesome-gpt-image2-prompts/main/images/25.png",
+      "videoUrl": null,
+      "tags": [
+        "davidwu-gpt-image2-prompts",
+        "海报设计",
+        "poster",
+        "photis (Sora)",
+        "moosl/awsome-gpt-image-2-prompts"
+      ],
+      "author": "photis (Sora)",
+      "source": "davidwu-gpt-image2-prompts",
+      "sourceUrl": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "license": "upstream",
+      "createdAt": null
     }
   ]
 }

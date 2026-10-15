@@ -1,526 +1,12 @@
 {
   "items": [
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:635cffd9780a3bc4",
-      "title": "VR 头显爆炸视图海报",
-      "prompt": "{\n  \"type\": \"产品爆炸视图海报\",\n  \"subject\": \"VR 头显\",\n  \"style\": \"简洁的高科技 3D 渲染，摄影棚灯光，发光装饰\",\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"柔和的紫蓝色渐变\\\"}\",\n  \"header\": {\n    \"logo\": \"∞ {argument name=\\\"product name\\\" default=\\\"Meta Quest 3\\\"}\",\n    \"subtitle\": \"{argument name=\\\"main catchphrase\\\" default=\\\"以全新的结构，重塑全新的现实。\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"VR 头显的垂直堆叠爆炸视图，展示了 9 层不同的内部组件：外壳、摄像头传感器、带芯片的主板、Pancake 透镜、内部框架、电池组、侧带、顶部头带和面部接口衬垫。\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"Snapdragon® XR2 Gen 2\\n卓越的处理性能，带来实时沉浸体验。\",\n        \"可调节 IPD 机构\\n为广大用户提供舒适的佩戴感。\",\n        \"精密设计的头带\\n追求舒适与稳定的工程学设计。\"\n      ],\n      \"right_side\": [\n        \"前面板\\n精致的设计与优化的重量平衡。\",\n        \"追踪摄像头\\n实现高精度的位置追踪与环境感知。\",\n        \"Pancake 透镜\\n轻薄设计，提供广阔视野与清晰画质。\",\n        \"高性能电池\\n优化电源设计，支持长时间续航。\",\n        \"柔软的面部接口\\n确保长时间佩戴依然舒适。\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"体验，源于结构的进化。\\\"}\",\n        \"body\": \"每一个零件都蕴含着支撑沉浸式体验的前沿科技与匠心设计。Meta Quest 3 从内部构建未来，为您带来超乎想象的体验。\"\n      },\n      \"right_logo\": \"∞ Meta\"\n    }\n  }\n}",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1776658772018_lukyfw_HGSUfldbIAEiMWZ.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "wory＠ホッピング中"
-      ],
-      "author": "wory＠ホッピング中",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/wory37303852/status/2045925660401795478#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-04-19"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:9cf5de6a407ff914",
-      "title": "手绘城市美食地图",
-      "prompt": "{\n  \"type\": \"手绘地图信息图\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"复古羊皮纸上的水彩墨水手绘插画\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"成都\\\"} {argument name=\\\"map title\\\" default=\\\"吃货暴走地图\\\"}\",\n    \"mascot\": \"戴着墨镜并竖起大拇指的卡通红辣椒\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"绿叶与红辣椒藤蔓\\\"}\",\n  \"layout\": {\n    \"background\": \"带有黄色道路、蓝色河流和绿色公园区域的纹理米色羊皮纸\",\n    \"sections\": [\n      {\n        \"title\": \"地标建筑\",\n        \"count\": 6,\n        \"illustrations\": [\"传统凉亭\", \"传统寺院\", \"带有攀爬熊猫的现代摩天大楼\", \"高耸的电视塔\", \"传统牌坊\", \"工业建筑\"],\n        \"labels\": [\"人民公园\", \"文殊院\", \"IFS\", \"339电视塔\", \"宽窄巷子\", \"东郊记忆\"]\n      },\n      {\n        \"title\": \"美食地点\",\n        \"count\": 12,\n        \"illustrations\": [\"麻婆豆腐\", \"红油水饺\", \"冷锅串串\", \"三大炮\", \"蛋烘糕\", \"九宫格火锅\", \"肥肠粉\", \"钵钵鸡\", \"冒菜\", \"盖碗茶\", \"冰粉\", \"兔头\"],\n        \"labels\": [\"1 陈麻婆豆腐\", \"2 钟水饺\", \"3 春熙路\", \"4 宽窄巷子·三大炮\", \"5 建设路·叶婆婆蛋烘糕\", \"6 玉林路·小龙坎火锅\", \"7 香香巷·肥肠粉\", \"8 武侯祠大街·钵钵鸡\", \"9 东郊记忆·冒椒火辣\", \"10 人民公园·鹤鸣茶社\", \"11 锦里古街·冰粉\", \"12 双流老妈兔头\"]\n      },\n      {\n        \"title\": \"图例\",\n        \"position\": \"右下角\",\n        \"count\": 5,\n        \"items\": [\"红点\", \"绿色建筑\", \"绿树\", \"蓝线\", \"黄色双线\"],\n        \"labels\": [\"美食地点\", \"地标景点\", \"公园绿地\", \"河流湖泊\", \"主要道路\"]\n      }\n    ],\n    \"centerpiece\": \"坐着吃竹子的大熊猫\",\n    \"bottom_right_extras\": [\"带有东南西北方向的复古罗盘\", \"带有红辣椒图标的免责声明：'温馨提示：吃辣需谨慎，肠胃要保护~'\"]\n  }\n}",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "皮皮特"
-      ],
-      "author": "皮皮特",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/mm_zzm44854/status/2045861258520568230#reversed-1",
-      "license": "upstream",
-      "createdAt": "2026-04-19"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:0b920eb60e31522e",
-      "title": "混合风格的桃太郎讲解 Slides",
-      "prompt": "创建一个讲解型 Slides（{argument name=\"format\" default=\"ponchi-e diagram\"}），主题为 {argument name=\"theme\" default=\"Momotaro\"}，将“Irasutoya”的柔和氛围与“霞关风格 Slides”极高的信息密度完美融合。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1776699414289_t6mebs_HGQQxukbUAA_qc0.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "やまもん"
-      ],
-      "author": "やまもん",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/yammamon/status/2045778624092254603",
-      "license": "upstream",
-      "createdAt": "2026-04-19"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:229c9be970ad865d",
-      "title": "电商直播 UI 样机",
-      "prompt": "{\n  \"type\": \"直播 UI 样机\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"} 的肖像，面带微笑，身穿印有白色技术示意图的黑色 T 恤\",\n    \"background\": \"左侧显示带有 '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}' 文字的屏幕，右侧显示红色的 '{argument name=\\\"right background logo\\\" default=\\\"Tesla T logo\\\"}' 和一辆深色汽车\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"头像，名称 '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}'，副标题 '55.6万本场点赞'，红色 '关注' 按钮\",\n      \"rank_badge\": \"带有 '全站第1名' 的金币图标\",\n      \"viewer_stats\": \"3 个顶部观众头像，显示 '12.3w'、'8.6w'、'5.7w'，总计 '68.7万'，'X' 关闭按钮\",\n      \"right_links\": \"'更多直播 >'，'礼物展馆 0/24'（带有蓝色 '经典' 标签）\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"头像 '科技爱好者'，'送小心心'，爱心图标 x 1314\",\n        \"头像 '星辰大海'，'送火箭'，火箭图标 x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"37 级勋章 '宇宙漫游者 加入了直播间'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"小火箭: 马斯克！未来可期！🚀\",\n        \"future: 特斯拉Model 2什么时候出？\",\n        \"星空梦想家: SpaceX今年能上火星吗？\",\n        \"AI探索者: Neuralink进展如何？\",\n        \"帅气的网友: 马总好！\",\n        \"Mars: 第一次来你的直播，超激动！\",\n        \"用户123: 讲讲AI吧，会取代人类吗？\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"橙色 '热卖 x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"特斯拉Cybertruck 电动皮卡\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1,618,000\\\"}\",\n      \"button\": \"红色 '抢' 按钮\",\n      \"floating_animation\": \"半透明爱心沿右侧边缘向上浮动\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'说点什么...'\",\n      \"icons\": [\"笑脸\", \"三个点\", \"购物车\", \"礼物盒\", \"分享\"]\n    }\n  }\n}",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1776699445498_ga2ry5_HGO7H0DWkAApdKK.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "神经病不想好转"
-      ],
-      "author": "神经病不想好转",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/sjbbxhz/status/2045684734714380687#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-04-19"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:0897bd3177a251ee",
-      "title": "动漫武术对决",
-      "prompt": "一幅极具动态感的动漫插画，描绘了两名少女在传统木质道场内进行激烈武术对决的场景。在前景中，一名留着 {argument name=\"character 1 hair\" default=\"黑色高丸子头配红色丝带\"} 的少女摆出强有力的低位武术架势，正奋力挥拳。她身穿 {argument name=\"character 1 outfit\" default=\"带有红色流苏的白色中式上衣和红色宽松长裤\"}，强烈的红色能量斩击环绕着她挥动的四肢。在右侧半空中，一名留着 {argument name=\"character 2 hair\" default=\"浅紫色双丸子头\"} 的少女优雅地跃起，自信地微笑着，身穿 {argument name=\"character 2 outfit\" default=\"带有金色刺绣的深绿色连衣裙和黑色紧身裤\"}，伴随着扫过的蓝色水流状能量轨迹。背景是质朴的木质寺庙内部，上方悬挂着一块写有“{argument name=\"sign text\" default=\"武術会\"}”的醒目招牌。场景充满了爆发性的动作感，飞扬的尘土、破碎的木质地板、发光的彩色粒子特效，以及将角色与精细背景完美区分开来的戏剧性低角度光影。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "たねもみ 2.0 / Tanemomi Ver2.0"
-      ],
-      "author": "たねもみ 2.0 / Tanemomi Ver2.0",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/Tanemomi_Ver2/status/2046063806846214265#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-04-20"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:dd0829e764c47acb",
-      "title": "3D 石阶演化信息图",
-      "prompt": "{\n  \"type\": \"演化时间轴信息图\",\n  \"instruction\": \"以 REFERENCE_0 作为结构基础，将平面矢量设计转化为高度逼真的 3D 信息图。将平滑的坡道替换为独特的石阶，并将所有生物升级为照片级真实的 3D 模型。\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"复古纹理羊皮纸\\\"}\",\n    \"staircase\": \"{argument name=\\\"staircase material\\\" default=\\\"逼真的纹理石块\\\"}\",\n    \"subjects\": \"{argument name=\\\"organism style\\\" default=\\\"高度精细的照片级真实 3D 渲染\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"人类演化\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"左侧边栏\",\n        \"count\": 8,\n        \"labels\": [\"L0: 单细胞生命\", \"L1: 多细胞生物\", \"L2: 动物界\", \"L3: 脊索动物\", \"L4: 上陆革命\", \"L5: 哺乳纲\", \"L6: 人科演化\", \"L7: 智人纪元\"]\n      },\n      {\n        \"position\": \"右上角\",\n        \"title\": \"获得的功能 / 失去的功能\",\n        \"description\": \"带有加号和减号图标的图例\"\n      },\n      {\n        \"position\": \"底部中心\",\n        \"title\": \"演化关键里程碑\",\n        \"count\": 6,\n        \"description\": \"包含 6 个展示从猿到人演化剪影图形的时间轴\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"蜿蜒的石阶，共有 25 个编号台阶，展示特定生物。\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"第 07 阶: 水母\",\n        \"第 09 阶: 菊石\",\n        \"第 10 阶: 三叶虫\",\n        \"第 24 阶: 直立行走的人类\",\n        \"第 25 阶: {argument name=\\\"future evolution concept\\\" default=\\\"带有问号的发光宇宙剪影\\\"}\"\n      ]\n    }\n  }\n}",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1776661968404_8a5flm_HGQc_KOaMAA2vt0.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "知识猫图解"
-      ],
-      "author": "知识猫图解",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/GeekCatX/status/2045792240044511277#reversed-1",
-      "license": "upstream",
-      "createdAt": "2026-04-19"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:2632fd93f3aedd9e",
-      "title": "个人资料 / 头像 - 诺基亚手机自拍：布偶猫 Cosplay",
-      "prompt": "基于参考图中的成年女性 cosplayer，保持主角的面部特征、布偶猫主题服装、黑色长发、棕白色毛绒套装以及猫爪配饰。\n\n角色正在拍摄近距离自拍，身体微微前倾，头部倾斜，略带撅嘴表情，呈现出困惑、不屑却又可爱的神态，直视镜头。\n\n布偶猫的毛色和造型细节需严格遵循原始素材。\n\n人物旁边有一只布偶猫，前景是一个藤编篮子，里面装着一只毛茸茸的黄色小鸡和一串深紫色葡萄。\n人物、猫、小鸡和葡萄自然地挤在同一画面中，形成一种荒诞却充满生活气息的私密照片感。\n\n使用 2000 年代初的老式诺基亚手机拍摄，低像素彩色数码摄影，低分辨率，轻微失焦，粗糙的数字噪点，JPEG 压缩伪影，肤色轻微偏移，白平衡不均，动态范围有限，边缘柔和，阴影中有明显的脏污噪点。\n\n狭小普通的卧室，旧床，木制家具，老式 CRT 电视自然进入背景。昏暗的室内环境光结合手机闪光灯直射，面部略微过曝，背景迅速衰减至黑暗。近距广角自拍视角，手臂伸向镜头造成明显的近大远小效果，构图随意，略微倾斜，就像朋友用旧手机拍摄的私密照片。\n\n整体呈现真实、廉价、粗糙的快照质感，无现代高清摄影纹理。仅保留一个非常小的 fanfan 签名。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791618678366_063z0n_HUMOm_iaEAA_UlQ.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "花椰菜"
-      ],
-      "author": "花椰菜",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/indesjyo/status/2108545119968477317",
-      "license": "upstream",
-      "createdAt": "2026-10-09"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:1792ce11f20102a5",
-      "title": "个人资料 / 头像 - 黄色辫角肖像",
-      "prompt": "这是一张垂直构图、低角度拍摄的中近景肖像，画面中是一位年轻女性，拥有浅棕色皮肤，鼻子和脸颊上分布着明显的雀斑。她目光锐利且直视镜头，有着蓝色的眼睛和丰满的嘴唇。她的头发编成细长的黄色辫子垂在脸庞两侧，并点缀着小银珠和银环。头顶伸出两根粗大、雕塑般的角状结构，由毛茸茸的黄色纱线或绳索制成，略微向上弯曲。她佩戴着金色鼻中隔穿刺和多枚垂坠耳环。颈部前方覆盖着黑色墨水纹身，呈现部落风格的漩涡图案。她身穿一件质感针织毛衣，带有芥末黄、白色和黑色的水平条纹，并搭配一条粗大的银色链条项链。背景左侧是晴朗的蓝天，右侧则是模糊的灰色混凝土建筑结构。光线为明亮的自然阳光，在她的脸上投下清晰的阴影。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791532580266_c9rved_HUIE61-X0AAN3lO.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Jengo"
-      ],
-      "author": "Jengo",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/jengo_ai_/status/2108252992105328848#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-08"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:ba80a4a347e03876",
-      "title": "个人资料 / 头像 - 几何卡通双人互动插画",
-      "prompt": "{argument name=\"Character A\" default=\"小明\"} 和 {argument name=\"Character B\" default=\"小红\"}，现代几何卡通插画 × UPA 风格造型语言 × 有限动画动作设计 × 清晰的数字扁平上色。\n\n高度简化的角色设计，头部和身体由正方形、圆形、梯形和弧线构成。保留核心发型、主色调、标志性配饰以及服装色块。清晰流畅的粗黑轮廓线，大面积均匀的纯色填充，极简的硬边阴影，夸张的手部、鞋子和肢体比例。\n\n两个角色进行清晰、幽默且充满动感的互动。大幅度的拉伸、跳跃、追逐、躲避、踢腿和扑跃动作形成鲜明的剪影。运动方向、视线和表情相互呼应，呈现出即刻可读的喜剧关系。\n\n垂直构图，角色缩小并集中在中下部，上方留有大量空白。单一高纯度纯色背景。在角色之间添加简单的漫画符号、道具或图形元素，以建立叙事联系。\n\n整体使用少量高对比度颜色：黑色、白色、角色主色以及一两种强调色。锐利的色块边缘，均匀填充，完整的轮廓线，平面质感。干净清晰的现代数字插画品质，适用于动画宣传、贴纸和手机壁纸。\n\n垂直格式，右下角带有微小的 voxcat 签名。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791532577108_vvrscs_HUG-nCTbcAA5178.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "VoxCat"
-      ],
-      "author": "VoxCat",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/VoxcatAI/status/2108175696531198084",
-      "license": "upstream",
-      "createdAt": "2026-10-08"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:1ad4640f1a268180",
-      "title": "个人资料 / 头像 - GPT Image 2 写实咖啡馆人像提示词",
-      "prompt": "使用 iPhone 拍摄。女性的外貌必须 100% 忠实于上传的参考照片，她坐在户外咖啡馆的桌旁，位于一棵秋树下，处于画面中心。她的身体朝前，头部微微倾斜，一侧脸颊轻轻靠在手背上，另一只手放松地放在桌上，握着一个宽口红酒杯的杯梗，该酒杯拥有极细、修长且精致的杯梗和薄玻璃壁。杯底仅残留少量红酒。\n\n她身穿一件廓形宽松的黑色风衣，带有结构感肩垫和超长袖管遮住手指，内搭黑色高领衫。发型需与上传的照片完全一致。\n\n白色桌布，优雅的白色餐盘，背景为经典的欧式建筑立面，一棵秋树占据画面上部。\n\n逼真的 iPhone 摄影质感，细腻自然的胶片颗粒感，真实的皮肤纹理与光影。不要模糊背景；保持整个场景的环境细节真实清晰。\n\n短款方形法式美甲。\n\n9:16 竖屏格式。\n\n她佩戴着窄边黑色无框猫眼太阳镜。\n\n阴天白昼，无直射阳光。采用稍慢的快门速度以营造微妙的自然动态/胶片感，同时保持主体真实且可辨识。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791446353816_q6v5fa_HUFdtBXbMAEsC_Z.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Sairah"
-      ],
-      "author": "Sairah",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/Sairah_0/status/2108069146428940508",
-      "license": "upstream",
-      "createdAt": "2026-10-08"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:1caa97688a0d4730",
-      "title": "个人资料 / 头像 - 极简涂鸦构图提示词",
-      "prompt": "{argument name=\"characters\" default=\"[角色 A / 角色 B / 角色 C / 角色 D]\"}，极简卡通涂鸦插画 x 巨大留白 x 微缩角色动作链。\n\n纯白色或极浅色背景，超过 65% 的区域保持空白。角色比例极小，仅保留发型轮廓、主色调、标志性配饰和服装色块，转化为简化且易于识别的卡通形象。\n\n每张图像随机选择一种构图：中心垂直队列、S 形蜿蜒、对角线坠落、单侧悬挂、U 形路径、微型环形、螺旋轨迹、间歇性浮动节点、顶部水平事件后接垂直坠落、底部角色塔。整体视觉轨迹细长清晰，角色集中在局部区域，周围有大面积留白。\n\n沿轨迹设置一个与角色世界观相关的微缩目标物体，例如水果、食物、徽章、武器、宝石或玩偶。目标物体位于路径的起点/终点或环形/螺旋的中心，角色的视线和动作自然指向它。\n\n每个角色采用不同的夸张动作：奔跑、跳跃、伸手、举起、惊讶、跌倒、张嘴、回头、被按压或互相拉扯。通过手/脚接触、衣物拉扯、视线方向和间距变化，角色形成连续、可读的动作关系。具体动作和角色顺序随机，保持清晰的视觉节奏。\n\n轻松的手绘黑色轮廓线，略带抖动、飞线和不规则感，如同动画草稿或儿童涂鸦。少量高纯度平涂色块，简单的调色板包括黑线、白底以及红、黄、蓝、绿，角色主色作为身份锚点。\n\n整体风格轻松、荒诞、可爱，类似动画贴纸、角色日记插画或极简手机壁纸。竖版格式，右下角有微小的 voxcat。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791532575107_j5dqlc_HUFMLXhaMAA28hr.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "VoxCat"
-      ],
-      "author": "VoxCat",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/VoxcatAI/status/2108049869902663869",
-      "license": "upstream",
-      "createdAt": "2026-10-08"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:9064e1f6861fb225",
-      "title": "个人资料 / 头像 - 电影感奇幻肖像提示词",
-      "prompt": "一幅高度精细的电影感奇幻肖像，描绘了一位美丽的年轻女子伫立在暮色中优雅的花卉露台上。她留着深棕色的自然长卷发，肌肤柔和透亮，拥有一双富有表现力的榛褐色眼睛，五官精致，脸颊微红，嘴唇呈现自然光泽。她身穿一件考究的黑色飘逸长裙，裙身饰有复杂的银色花卉刺绣，搭配透明薄纱袖、优雅的垂坠耳环和精致的发饰。她以优美的四分之三侧身姿态站立，身体微微转向一侧，回眸直视镜头，一只手轻抚裙摆，另一只手自然垂于身侧。\n\n在她身后，是一幅令人屏息的月光湖景：远处坐落着一座充满魔力的城市，圆顶与塔楼散发着光芒，群山环绕，湖面倒映着璀璨光影。露台周围点缀着温暖的复古灯笼，白色花朵与绿色藤蔓勾勒出画面边框。天空中悬挂着一弯新月，柔和的紫蓝色云朵漂浮其间。整体采用浪漫且冷暖对比鲜明的电影级布光，展现逼真的皮肤质感、细致的发丝纹理、自然的身体比例、浅景深效果、柔和散景以及梦幻氛围，呈现出照片级的奇幻写实风格。专业摄影构图，85mm 镜头，平视视角，全身取景，竖屏 9:16 比例。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791359627049_xj6z6r_HT_srWpWMAIVfHF.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Letty"
-      ],
-      "author": "Letty",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/LettyVesper/status/2107663393658196324",
-      "license": "upstream",
-      "createdAt": "2026-10-07"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:d0b90165d069e237",
-      "title": "个人资料 / 头像 - 复古河畔垂钓者",
-      "prompt": "一张复古风格的照片，画面中一位年轻女士站在清澈多石的河流中，水深及腰。她头戴米色渔夫帽，身穿带有小碎花图案的白色短袖衬衫和深色防水裤。她的头发梳成两条辫子。右手握着一根竹制钓竿，左臂抬起，展示着挂在鱼线上的两条刚捕获的鱼。腰间挂着一个编织篮，前景中可见一个红色网兜。背景是蓝天下的郁郁葱葱的青山。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791359629005_dsl3cc_HT8cn8Xa8AADgu_.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "拓斗"
-      ],
-      "author": "拓斗",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/Kmsbdd0GXBOcrXQ/status/2107434638423871930#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-06"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:64d4bcb0a303c9f1",
-      "title": "个人资料 / 头像 - 怀旧女学生在黑板上绘画",
-      "prompt": "一张采用怀旧胶片美学的竖幅中景照片，捕捉了一位年轻亚洲女学生在空教室中的身影。她留着齐刘海的深色短发波波头，身穿传统海军蓝水手服校服（seifuku），领口和袖口饰有白色条纹。她的神情平静而略带忧郁，直视镜头。她站在绿色黑板旁，右手拿着一支粉色粉笔，刚刚画了一个可爱的卡通兔子脸，旁边还有一颗爱心。前景中，一张磨损的木桌上放着一把巨大的橙色三角尺。背景是一排排空的木制桌椅，高大的窗户透进柔和的自然光，远处墙上挂着模糊的书法海报。图像呈现出明显的胶片颗粒、灰尘斑点和划痕，增强了复古氛围。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791359627139_qfe1jo_HT8Aey5aQAApCAO.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "拓斗"
-      ],
-      "author": "拓斗",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/Kmsbdd0GXBOcrXQ/status/2107403684074356901#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-06"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:66d95ea58270e24d",
-      "title": "个人资料 / 头像 - 传统日本街头女性的复古照片",
-      "prompt": "一张复古风格的照片，展示了一位年轻女性站在传统日本小镇的狭窄街道上，背景仿佛定格在 1950 或 60 年代。她留着深棕色的短卷发，对着镜头温柔微笑，双手举至头部整理头发。她身穿一件带抽绳的米色连帽卫衣，搭配一条红、蓝、米色调相间的格子裙。一个棕色皮革单肩包斜挎在身上。背景包括带有瓦顶的木质建筑、电线杆以及停在附近的一辆旧自行车。图像呈现出褪色的怀旧质感，伴有漏光效果、灰尘斑点以及老式胶片摄影典型的暖色调。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791359628488_b2dife_HT7lPiGasAAzx8Q.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "拓斗"
-      ],
-      "author": "拓斗",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/Kmsbdd0GXBOcrXQ/status/2107373735057752349#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-06"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:8971ee7a172106d4",
-      "title": "个人资料 / 头像 - GPT Image 2 紫色头发时尚人像提示词",
-      "prompt": "创建一张超写实的半身时尚人像，描绘参考图中的同一位年轻女性角色，保留她标志性的鲜艳紫罗兰色齐下巴直发波波头、柔和刘海、白皙瓷肌、鼻梁和脸颊上的自然雀斑、淡褐色/浅棕色眼睛、精致五官、光泽嘴唇和苗条身材。\n\n她以放松的蹲坐姿势靠在温暖的赤陶色纹理墙边，头部轻轻倚靠在一侧手上，平静而直接地注视镜头。她身穿赤陶色锈橙色短款连帽衫、米色高腰工装慢跑裤和棕色系带皮革战斗靴。添加一条图案缎面蝴蝶结发带和一个小型橙色蝴蝶发夹。\n\n使用柔和的自然日光，搭配温暖的大地色秋季色调。保持构图亲密且具有编辑风格，呈现真实皮肤质感、细节丰富的紫色头发、自然的织物和皮革纹理、微妙阴影、电影级景深、照片级真实感、超精细 8K 画质以及高端时尚摄影效果。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791187629652_j1bdvm_HT1kIXkakAAOuLq.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Wareen AI 💟"
-      ],
-      "author": "Wareen AI 💟",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/Wareenaa/status/2106950304164168145",
-      "license": "upstream",
-      "createdAt": "2026-10-05"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:c9bbdf46c911b30d",
-      "title": "个人资料 / 头像 - 动漫角色肖像提示词",
-      "prompt": "根据附带的角色参考表，创建该角色的极致特写肖像。将该参考表视为角色身份和设计的绝对权威：保留其面部、面部比例、肤色、发型/发色、眼睛、耳朵或其他角色特征，以及任何可见的服装/配饰。不要重新设计角色。\n第二张附带的肖像仅作为渲染质量参考。不要复制该角色的身份、面部、头发、颜色、服装、配饰、表情、姿势或构图。仅将其作为细节密度和完成度的目标：高度定义的面部特征、立体感的动漫阴影、精细的眼睛和睫毛、逐根绘制的发丝、微妙的皮肤高光和温暖感、精致的灯光、深度、材质定义以及极其精致的电影级动漫渲染效果。\n将主体从大约上胸部/锁骨到头发/耳尖进行非常紧密的取景，使面部占据图像的主导地位。使用平视相机和直接的眼神交流。赋予他们一个自然的微笑和淡淡的红晕。在保持可识别的动漫面部比例的同时，增加显著更多的立体定义和精细细节；不要让面部变得照片般真实。\n使用简单的黑暗氛围背景，并采用与角色现有调色板相得益彰的电影级灯光。保持眼睛、面部和最近的发丝异常清晰，其他地方则有柔和的深度衰减。\n不要显示腰部、臀部、腿部或全身。不要创建详细的环境。不要复制第二张肖像的场景或角色。\n角色表 = 角色是谁。第二张肖像 = 仅为渲染质量的水平。\n现在生成肖像。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791187627131_240h6b_HT1ZCZmbwAERCio.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Jex"
-      ],
-      "author": "Jex",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/JexTheFool/status/2106939508931678581",
-      "license": "upstream",
-      "createdAt": "2026-10-05"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:603391accd41df41",
-      "title": "个人资料 / 头像 - GPT Image 2 猫耳针织毛衣自拍提示词",
-      "prompt": "主体：\n戴猫耳穿针织衫的自拍。\n\n主要人物：\n主角是一位戴着猫耳和尾巴的女性，正在白色猫咪房间内弯腰自拍，位于画面中央。\n\n人物与表情：\n小巧的椭圆脸，深棕色大眼睛，细眉，轮廓分明的鼻子，光泽感淡桃色嘴唇。表情为柔和微笑，面部朝前，视线通过智能手机对准镜头。留着极长的深棕色波浪卷发，额前有薄刘海，头顶佩戴白灰色猫耳发箍。\n\n服装与姿势：\n自然色调的淡粉色镂空针织长袖连衣裙，深领口，胸前系带，装饰有绒球，短款设计，脚穿白色猫形拖鞋，腰部延伸出长白灰色猫尾。双膝弯曲，身体大幅前倾，右手持粉色手机壳的智能手机置于脸前，左手放在左膝上。\n\n背景与光线：\n从左至右的背景布局：前景铺有白色长毛地毯和逗猫棒，背景设有白色置物架、桃花枝、装裱好的猫咪艺术画，右侧有猫爬架，地板上有一只白灰色猫咪。来自上方及右后方的柔和暖色室内光线照亮面部、针织衣物和猫咪。\n\n构图与相机：\n3:4 竖幅构图，前置摄像头略低于腰部水平，捕捉从猫耳到白色拖鞋的全身影像。人物占据画面中心大部分高度。智能手机和尾巴均包含在画面内，焦点集中在面部、智能手机和猫耳上，背景轻微虚化。\n\n质感与风格：\n写实风格的实拍照片。高清呈现皮肤、头发、衣物材质及周边道具；保持白色、自然米色和淡粉色的柔和室内色调。\n\n负面提示：\n改变猫耳/尾巴造型或弯腰姿势；遗漏背景中的猫咪。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791187632580_9ggb72_HTYFsWga0AAEgoS.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Prompt アトリエ｜AI画像プロンプト"
-      ],
-      "author": "Prompt アトリエ｜AI画像プロンプト",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/CyberTotal2026/status/2106643482119131417",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:67243d60c8cf0297",
-      "title": "个人资料 / 头像 - 优雅南亚戴头巾女性肖像",
-      "prompt": "写实风格的优雅肖像，描绘一位年轻南亚女性佩戴灰玫瑰粉色头巾（Hijab），轻柔包裹头部与肩部，搭配精致金色传统 Jhumka 耳环。她身穿奢华的腮红粉与象牙白刺绣巴基斯坦 Salwar Kameez，饰有繁复花卉线绣、微妙亮片及精细边框。她优雅地坐在华丽大理石栏杆旁，一手轻托下巴，微微仰视，面带柔和宁静微笑。背景为温暖黄金时刻阳光下的美丽花园庭院，点缀粉色花朵与郁郁葱葱绿植，奶油色建筑细节，梦幻散景效果，浅景深，自然肌肤纹理，逼真面部特征，柔和电影感布光，高端时尚摄影风格，优雅巴基斯坦美学，超高清细节，85mm 人像镜头，垂直 4:5 构图，无文字，无水印，无人工塑料感皮肤。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791187633501_8lnlyn_HTw0DzmaUAA6ogd.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Zarnish"
-      ],
-      "author": "Zarnish",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/ZarnishNael/status/2106616012099461312",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:6bdcdd3d292993d4",
-      "title": "个人资料 / 头像 - GPT Image 2 霓虹人像",
-      "prompt": "主体：\n红色霓虹灯下的黑色紧身胸衣\n\n主要人物：\n画面中央，一位身着光泽感黑色紧身胸衣的女性是主角，她身处被红色霓虹灯照亮的昏暗休息室内。\n\n人物与表情：\n小巧的椭圆形脸庞，深邃的大棕色眼睛，纤细的眉毛，轮廓分明的鼻子，光泽感的淡粉色嘴唇。神情坚定，脸部微微上扬，目光直视镜头，双唇微启。深棕色长直发垂至肩下，额前留着湿润的薄刘海，几缕发丝贴在脸颊旁。\n\n服装与姿态：\n黑色珐琅光泽材质，无肩带胸部设计，中间拉链，侧边系带的紧身胸衣上部，黑色腰部绑带和皮革颈圈。上半身在黑色沙发前呈拱形姿态，双臂自然下垂于身体两侧，右肩略微向后拉。\n\n背景与光线：\n从左至右的背景依次为：左侧小桌上的黑色沙发和蜡烛，右侧红色闪电形状的霓虹灯，以及带有垂直凹槽的黑色墙面。右侧强烈的红色霓虹光与正面柔和的白色主光源共同照亮面部和光泽感的服装。\n\n构图与相机：\n4:5 竖版构图，相机位于略低于胸部的位置，正面拍摄从头部到腰部以下的半身像。人物在画面中央占据极大比例，几乎占满屏幕高度。手臂和腰部在屏幕边缘被裁剪，焦点集中在眼睛和黑色光泽紧身胸衣上，背景轻微虚化。\n\n质感与风格：\n逼真的实拍照片风格。高清自然的皮肤、头发、服装材质及周围道具细节，保持黑、红、肤色为主的强烈夜景色调。\n\n负面提示：\n省略红色霓虹灯；改变黑色光泽紧身胸衣",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791187626773_nqw2w2_HTYC0RKaMAAgsBu.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Prompt アトリエ｜AI画像プロンプト"
-      ],
-      "author": "Prompt アトリエ｜AI画像プロンプト",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/CyberTotal2026/status/2106582581173244268",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:d3e4822c9d4d2ce0",
-      "title": "个人资料 / 头像 - 复古黑白人像",
-      "prompt": "一张年轻女性的黑白人像，深色头发向后梳理，露出面部。她神情严肃，直视镜头。图像带有颗粒感，呈现出复古氛围。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791187635728_zvk309_HTwGudtXYAAjLWm.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "A Nonny Moose"
-      ],
-      "author": "A Nonny Moose",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/yaddlezap/status/2106566389188501594#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:750a395ebd78081e",
-      "title": "个人资料 / 头像 - GPT Image 2 白色薄纱连衣裙镜面自拍提示词",
-      "prompt": "主题：\n镜子前的白色薄纱。\n\n主要主体：\n主角是一位身穿白色薄纱连衣裙、坐在落地镜前自拍的女性，位于画面中心。\n\n人物与表情：\n小鹅蛋脸，深棕色大眼睛，细眉，鼻梁挺拔，嘴唇呈光泽的淡桃色。表情平静，脸转向左下方，目光落在智能手机屏幕上。头发近乎黑色，梳成低发髻，脸颊两侧留有细刘海和散落的发丝。\n\n服装与姿势：\n长裙配有白色抹胸上衣和多层透明薄纱，双脚脚踝佩戴银色细宝石脚链。坐在白色长毛地毯上，双膝高高抬起靠近胸部，右手在脸前垂直握持一部黑色智能手机。\n\n背景与光线：\n从左至右的背景：镜框内可见一把黑色皮革椅，左上角有暖色调台灯和花卉，周围环绕着深色窗帘。柔和的暖光从左上角照射在脸部、白色布料和腿部。\n\n构图与相机：\n2:3 竖幅构图，前置摄像头通过接近地面高度的镜子拍摄全身，从头顶到反射的脚趾。人物在画面中央占据极大比例，几乎占满屏幕高度。脚趾和镜框在屏幕边缘自然裁剪，焦点集中在面部、智能手机和白色薄纱上，背景轻微虚化。\n\n质感与风格：\n逼真的实拍照片风格。高清呈现皮肤、头发、服装材质及周围道具；保持室内白、黑、金的主色调。\n\n负面提示：\n改变镜面拍摄角度和膝盖位置；遗漏白色薄纱。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791187631424_uelbwa_HTYBhyNbIAEFDAo.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Prompt アトリエ｜AI画像プロンプト"
-      ],
-      "author": "Prompt アトリエ｜AI画像プロンプト",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/CyberTotal2026/status/2106553388418625908",
-      "license": "upstream",
-      "createdAt": "2026-10-04"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:d2df6fc650d3dffe",
-      "title": "个人资料 / 头像 - GPT Image 2 三猫晨间自拍提示词",
-      "prompt": "主题：\n与三只猫的晨间自拍。\n\n主要主体：\n主角是一位正在自拍的女性，靠近三只灰白色猫咪，位于画面中心。\n\n人物与表情：\n小巧的椭圆形脸庞，深棕色大眼睛，细眉，轮廓分明的鼻子，光泽感的淡桃色嘴唇。表情愉悦，嘴巴张开露出牙齿，面部朝前，视线与相机对齐。黑发扎成高丸子头，额前和脸颊留有看起来湿润的细刘海和散落的发丝。\n\n服装与姿势：\n自然色吊带背心，细肩带，罗纹面料，胸前有蕾丝装饰和小蝴蝶结。左臂向前伸展拍照，怀中抱着一只猫，头顶和左后方各有一只猫。\n\n背景与光线：\n从左到右的背景包括：堆叠书籍的木桌、白门、白窗帘以及明亮房间中的绿叶。右侧窗户透入柔和的白色日光，照亮面部和猫毛。\n\n构图与相机：\n9:16 竖屏构图，从伸展手臂末端拍摄的特写正面自拍视角，捕捉三只猫及从头顶到胸部以下的半身像。人物在画面中央占据很大比例，几乎占满屏幕高度。前景的猫和左臂在屏幕边缘被裁剪，焦点集中在女性和三只蓝眼猫身上，背景轻微虚化。\n\n纹理与风格：\n照片级写实真人照片。高清的皮肤、头发、衣物材质及周边道具；保持白色、灰色、自然米色和木色调的明亮室内色彩。\n\n负面提示：\n改变三只猫的排列；遗漏张嘴动作和自拍姿态。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791187631675_5arjd9_HTYAJUjbQAAjHHY.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Prompt アトリエ｜AI画像プロンプト"
-      ],
-      "author": "Prompt アトリエ｜AI画像プロンプト",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/CyberTotal2026/status/2106510103117713467",
-      "license": "upstream",
-      "createdAt": "2026-10-03"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:03f828d42f7aa4fc",
-      "title": "个人资料 / 头像 - 芭蕾晨练提示词",
-      "prompt": "主题：\n晨光中的高抬腿。\n\n主要主体：\n在清晨的芭蕾舞排练厅中，一位女性将一条腿垂直抬起，她是画面的主角，位于中心位置。\n\n人物与表情：\n小巧的椭圆脸，深褐色的大眼睛，纤细的眉毛，精致的鼻子，光泽感的淡桃色嘴唇。神情专注，脸部朝向右下方，目光落在椅子上。深褐色头发盘成低发髻，留有薄薄的刘海和脸颊旁的散落发丝。\n\n服装与姿势：\n穿着灰紫色细吊带连体衣，外搭透肤米白色长袖系带上衣，下着短款淡桃色褶边裙，脚穿粉色足尖鞋。右脚以足尖站立，左腿垂直抬高至耳部高度，左手握住小腿，右手扶在木椅靠背上。\n\n背景与光线：\n左右背景为白色装饰墙和高拱形窗户，背景中有木质把杆，前景右侧有一把木椅，地面为光亮木地板。柔和的直接晨光从右侧窗户射入，在身体和地板上投下长长的窗影。\n\n构图与相机：\n3:4 竖幅构图，水平相机略低于腰部，捕捉从足尖到抬起的左脚尖的全身画面。人物占据大部分屏幕高度，呈纵向居中放置。两侧留出椅子和窗户的边缘空间，焦点集中在侧面轮廓和抬起的腿上，背景轻微虚化。\n\n纹理与风格：\n写实真人照片风格。高清呈现自然的皮肤、头发、衣物材质及道具；保持淡桃色、米白色和木质的晨间色调。\n\n负面提示：\n改变垂直抬腿动作；省略椅子和足尖鞋",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791107318531_3nbhrl_HTX9QeMboAAHRXO.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Prompt アトリエ｜AI画像プロンプト"
-      ],
-      "author": "Prompt アトリエ｜AI画像プロンプト",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/CyberTotal2026/status/2106359109826052558",
-      "license": "upstream",
-      "createdAt": "2026-10-03"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:87de16f85b237dcf",
-      "title": "个人资料 / 头像 - GPT Image：红底伸手女性肖像",
-      "prompt": "主题：\n红底上的手掌\n\n主体：\n画面中心，一位蹲在红色地板上的女子将巨大的手掌伸向镜头，是画面的主要主体。\n\n人物与表情：\n小巧的椭圆形脸庞，深邃的大棕色眼睛，细眉，轮廓分明的鼻子，光泽感十足的淡桃色嘴唇。神情坚定，脸部微微上扬，目光直视镜头，双唇微启。湿润的黑色短发波波头垂下，脸颊两侧留有稀疏的刘海和发丝。\n\n服装与姿势：\n深灰色细带罗纹运动内衣，白色运动短裤，黑色腰带，白色运动鞋，黑色皮革项圈及链条项链，粗黑手镯。低蹲于红色地板上，左手撑在身后地面，右臂向镜头伸展，五指张开。\n\n背景与光线：\n从左至右的背景：鲜艳的红色地板填满整个画面，右上角有一双黑红相间的运动鞋，左下角可见人物的阴影。上方强烈的直射阳光在手部、面部和肩部投下浓重的阴影。\n\n构图与相机：\n3:4 竖幅构图，极广角俯拍视角，捕捉从伸展的手到双脚的全身影像。人物在画面中央占据极大比例，几乎占满屏幕高度。前景中的手掌被放大，手臂和鞋子边缘被裁剪，焦点集中在面部和前景手掌上，背景轻微虚化。\n\n质感与风格：\n照片级写实实拍风格。高清自然的皮肤/头发质感，服装材质细节，周围道具清晰，保持红色、黑色、白色与肤色的强烈对比。\n\n负面提示：\n改变巨大的前景手部和俯视视角；省略红色地板",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791107317081_hicd7h_HTX3xn3a0AAeMB_.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Prompt アトリエ｜AI画像プロンプト"
-      ],
-      "author": "Prompt アトリエ｜AI画像プロンプト",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/CyberTotal2026/status/2106279081247732063",
-      "license": "upstream",
-      "createdAt": "2026-10-03"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:c3e76eee21950ce6",
-      "title": "个人资料 / 头像 - GPT Image 黑色缎面连衣裙人像",
-      "prompt": "主题：\n黑色缎面烛光座位\n\n主体：\n画面中心，一位身穿黑色缎面连衣裙的女性坐在昏暗休息区的特写肖像为主角。\n\n人物与表情：\n小椭圆脸，深棕色大眼睛，细眉，轮廓分明的鼻子，光泽淡桃色嘴唇。表情平静，面部从正面略微向右倾斜，目光直视镜头，双唇微启。红褐色深色头发梳成低辫盘发，脸颊两侧留有薄刘海和散落的发丝。\n\n服装与姿势：\n穿着黑色光泽缎面连衣裙，细肩带，深 V 领，腰部有扭结垂褶设计，佩戴大水滴形银色耳环。斜坐在黑色布艺沙发上，左肩向前，双臂自然下垂于身体两侧。\n\n背景与光线：\n从左至右的背景依次为：左侧的黑色花瓶和树枝，右侧大理石桌上的薄玻璃杯，背景中有垂直的暖色灯光。来自右侧的柔和暖色主光在面部、肩膀和黑色缎面上形成光泽。\n\n构图与相机：\n3:4 竖幅构图，胸部高度的近距离斜向正面相机拍摄从头部到腰部以上的半身照。人物在画面中占据极大比例，几乎占满屏幕高度。左肩、右臂和裙摆边缘被裁剪，焦点集中在眼睛和黑色缎面胸部区域，背景轻微虚化。\n\n质感与风格：\n逼真写实摄影照片。高清自然的皮肤/头发、服装材质、周围道具细节，保持黑色、金色和肤色的夜景色调。\n\n负面提示：\n改变辫发和面部方向；省略黑色缎面连衣裙",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791107317460_sgjnhz_HTX2v8OaUAAsrPs.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "个人资料 / 头像",
-        "Prompt アトリエ｜AI画像プロンプト"
-      ],
-      "author": "Prompt アトリエ｜AI画像プロンプト",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/CyberTotal2026/status/2106251146767511802",
-      "license": "upstream",
-      "createdAt": "2026-10-03"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:588265e0efd30672",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:7868f6b30d4cae4f",
       "title": "社交媒体帖子 - 秋季街头风格穿搭提示词",
       "prompt": "1girl, cute, brown gingham short pants, oversized gray hoodie, ear muff cap, casual autumn outfit, relaxed pose, street style, detailed clothing, masterpiece, best quality",
       "media": "image",
       "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791878374821_j2kfe0_HUaq2XmbEAAfBEo.jpg",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791964321811_1afc1v_HUaq2XmbEAAfBEo.jpg",
       "videoUrl": null,
       "tags": [
         "youmind-gpt-image-2",
@@ -535,7 +21,67 @@
       "createdAt": "2026-10-13"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:a9549849a7b44930",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:8632eb37560898dd",
+      "title": "社交媒体帖子 - 敦煌飞天弹琵琶",
+      "prompt": "一幅电影级、高分辨率的数字绘画，描绘了夜晚中一位敦煌飞天（Feitian）正在弹奏琵琶。画面中央是一位优雅年轻的女性，皮肤白皙，五官精致，双眼微闭，神情宁静专注。她身着华丽的银白色天界长裙，裙上绣有繁复的花卉图案，轻盈飘逸的蓝色丝带在她身体周围动态旋转，营造出一种失重感。她的头发梳成复杂的传统发髻，头戴镶嵌珠宝的银色冠冕，垂挂着珍珠流苏，头部后方环绕着发光的光环效果。她垂直持握着一把木质琵琶，手指置于琴弦之上。背景展现了神秘古老的石窟寺庙，雕刻于右侧岩石峭壁之中，被温暖的金色烛光所照亮，与清冷的月光氛围形成对比。右下角前景处，一个宁静的莲花池散发着光芒，池中盛开着白色的莲花并漂浮着灯笼。一轮巨大明亮的满月悬挂在悬崖上方深蓝色的星空之中。光线柔和而空灵，运用了“Pro-Mist”效果，使月光产生奶油般的光晕，边缘光勾勒出她头发和丝带的轮廓。整体色调平衡了冰蓝色、银色与暖金色、棕色。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791964326690_13n1tx_HUfWPU2bsAA0Acw.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "社交媒体帖子",
+        "AI art gallery"
+      ],
+      "author": "AI art gallery",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/sandmrk/status/2109890519199559813#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-10-13"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:f08173aa073c745d",
+      "title": "社交媒体帖子 - 东方极简主义海报风格提示词",
+      "prompt": "{argument name=\"subject\" default=\"角色 / 主体\"}，工笔白描插画 x 东方寓言叙事 x 日式绘画风格的生物细节描绘。主体由极细的墨线和透明浅色塑造；皮肤、手部、头发或织物通过高密度定向细线表现，细节精准但保持整体平面感。背景采用大面积单一朱砂红或其他高纯度东方复合色块，不建立真实空间透视。图像围绕一个高度明确的象征性动作展开，如触碰额头、递送物品、指点、抚摸或鞠躬，让动作本身承载灵性或寓意。服装局部添加青绿、金色、祥云、如意纹样或古典边框，形成工笔人物画与现代极简海报之间的视觉融合。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791964320790_5ntj5i_HUfHYhtboAEGo9V.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "社交媒体帖子",
+        "VoxCat"
+      ],
+      "author": "VoxCat",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/VoxcatAI/status/2109882653076004993",
+      "license": "upstream",
+      "createdAt": "2026-10-13"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:211ad0c13b439fb7",
+      "title": "社交媒体帖子 - 无线门铃摄像头说明书提示词",
+      "prompt": "包裹送达…\n一个无线门铃摄像头\n附带说明书\n如果字迹不是小到无法阅读\n这些说明本会让人困惑",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791964323591_t367mp_HUe51p2akAATG6E.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "社交媒体帖子",
+        "Michael H. Lester"
+      ],
+      "author": "Michael H. Lester",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/mhlester/status/2109859311212245101",
+      "license": "upstream",
+      "createdAt": "2026-10-13"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:f760e95aed2a881e",
       "title": "社交媒体帖子 - 橙色楼梯上的泳装女孩",
       "prompt": "这是一张高角度全身肖像照，画面中一位年轻的东亚女性坐在一组户外混凝土台阶上。台阶的立面被涂成鲜艳的橙红色，而踏面则是浅灰色的混凝土。她身穿一件深蓝色连体泳衣（日式校服泳装），背着一个带有银色搭扣的复古黑色皮革书包。脚上穿着一双厚底白色系带战斗靴，鞋底为黑色。她的深色头发扎成马尾，几缕刘海轻柔地垂在脸侧。她面容自然，鼻梁和脸颊上有清晰可见的雀斑，正抬头看向镜头，露出温柔而羞涩的微笑。光线柔和且漫射，营造出一种怀旧的胶片质感，色彩略显褪色。",
       "media": "image",
@@ -555,7 +101,7 @@
       "createdAt": "2026-10-12"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:5d1ee4f449e94ed1",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:0686ac3ae8ac0b5c",
       "title": "社交媒体帖子 - 万圣节糕点修复少女提示词",
       "prompt": "柔和粉彩动漫风格。\n一位女孩正在修复万圣节糖果屋。\n\n她身穿米色围裙连衣裙。裙摆长度在膝盖以上，肩带为细丝带设计。\n上身搭配一件短款淡紫色披风。\n腰间的工具袋中露出裱花袋和星糖（konpeito）。\n头上没有戴工作帽，只别着一枚饼干南瓜造型的小发夹。\n\n她正用白色糖霜修补开裂的姜饼墙。\n配色包括浅棕色饼干、米色、淡紫色和淡草莓红。\n全身可见，双手清晰可见。脸上带着略带自豪的微笑。",
       "media": "image",
@@ -575,7 +121,7 @@
       "createdAt": "2026-10-12"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:31a8f44cfcada40d",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:77ca3855f5891581",
       "title": "社交媒体帖子 - 战锤 40K：卡迪亚陷落场景",
       "prompt": "第 13 次黑色十字军期间的卡迪亚陷落。黑石方尖碑崩裂，恐惧之眼撕裂天空。卡迪亚突击部队与混沌星际战士在废墟中激烈交锋，而脚下的星球正逐渐破碎。",
       "media": "image",
@@ -595,7 +141,7 @@
       "createdAt": "2026-10-12"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:e41712eb8ef764dc",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:99a5e6cac12531c4",
       "title": "社交媒体帖子 - Craftworld Iyanden 泰伦虫族战役",
       "prompt": "Craftworld Iyanden 在泰伦虫群的侵袭下燃烧。幽灵战士伫立于破碎的灵骨大厅中，生者与逝者共同奋战，誓死守护这濒临毁灭的方舟世界。",
       "media": "image",
@@ -615,7 +161,7 @@
       "createdAt": "2026-10-12"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:eab9a1ac49f29460",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:eabb26f938747816",
       "title": "社交媒体帖子 - 圣塞莱斯汀战锤场景",
       "prompt": "圣塞莱斯汀凌驾于混沌星际战士之上。金色的铠甲、洁白的羽翼以及炽热之刃在废墟中的战斗中划破长空。这位活圣人坚守着防线。",
       "media": "image",
@@ -635,7 +181,7 @@
       "createdAt": "2026-10-11"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:b69ce07aac3d0bbf",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:f801bb6e8927982d",
       "title": "社交媒体帖子 - 风格化西部角色插画",
       "prompt": "一幅风格化的漫画式插画，展示了两位站在沙漠景观中的西部角色。左侧是一位身材高大、面容瘦削的男性人物，脸型狭长，头戴黑色牛仔帽，身穿深色马甲搭配白衬衫，并系着红色领巾。他留着长长的八字胡，双手放在腰带附近。在他身旁站着一位女性角色，戴着宽边草帽，有着卷曲的红棕色头发，身穿白色上衣和绿色裙子，腰间佩戴着枪套。她面带自信的表情，双颊红润。他们身后是巨大的仙人掌和远处的台地，头顶是点缀着零星云朵的蓝天。这种艺术风格具有明显的笔触感和略带夸张的幽默美学。",
       "media": "image",
@@ -655,7 +201,7 @@
       "createdAt": "2026-10-11"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:18f05f90b0cf5445",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:76acb6541a51ab2c",
       "title": "社交媒体帖子 - 涩谷街头风人像",
       "prompt": "一张竖构图人像，展示了一位年轻女性蹲在东京涩谷阳光明媚的街道上。她留着深色短发，戴着一顶米色棒球帽，帽檐为黑色。她的穿搭包括一件宽大的青色防风夹克，内搭白色图案 T 恤，下身是牛仔短裤、白色罗纹袜和红色帆布运动鞋。一个印有蓝色文字的大号奶油色托特包挂在肩上。她用左手托着下巴，神情平静地直视镜头。背景是模糊的店面，带有日文招牌，其中“Cafe”标志和垂直横幅尤为醒目，旁边还有盆栽植物。整张图片呈现出温暖、颗粒感的胶片摄影美学。",
       "media": "image",
@@ -675,7 +221,7 @@
       "createdAt": "2026-10-11"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:e6c3c15bb9d36ab7",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:91a768151980bd4d",
       "title": "社交媒体帖子 - 粉彩动漫风格的万圣节木乃伊少女",
       "prompt": "淡雅的粉彩动漫风格。\n一位为万圣节装扮成木乃伊的女孩，身上松散地缠绕着米色棉线。\n\n缠绕物并非医用白色绷带，而是细长的米色棉线。\n棉线不均匀地分布在手臂、腿部和躯干上，稀疏如缝线般。\n她自己捏着一根松开的线头，线头勾在手指上。\n服装内层是一件浅紫色无袖连衣裙。\n透过棉线的缝隙隐约可见。\n头部并未完全覆盖；仅刘海和一只眼睛被棉线遮挡。\n另一只眼睛清晰可见。她头旁放着一个小木线轴。\n\n配色：米色、浅紫色、木色、夜蓝色。\n无血迹、伤口或污渍。\n全身构图，表情略带困扰但十分可爱。",
       "media": "image",
@@ -695,7 +241,7 @@
       "createdAt": "2026-10-11"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:0ba3d524552a5004",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:a07ef496eed31cfb",
       "title": "社交媒体帖子 - 上海早安美食海报",
       "prompt": "这是一张高分辨率、令人垂涎欲滴的美食摄影海报，特写展示了刚出锅的上海生煎包。生煎包底部金黄酥脆，表面撒有黑芝麻和葱花。热气腾腾的生煎包上方飘散着缕缕蒸汽，凸显其新鲜出炉的状态。背景采用深青色渐变，逐渐过渡为夜晚上海天际线的剪影，包括东方明珠塔等地标建筑。左侧采用垂直排版设计：醒目的白色中文字体“上海早安”，下方标注日期“2026-10-11 | 多云 23°C | 今日从生煎包开始”。再往下是三个圆形天气图标，分别显示温度（23°C）、湿度（63%）和风力（2 级）。接着是一行风格化的手写文字：“一座城 从一口热气开始”。左下角印有英文“GOOD MORNING SHANGHAI”并配有太阳图标，以及较小的中文标语“美好的一天 · 从上海味道开始”。右侧边缘则是竖排的红色印章风格文字：“上海生煎包”和“一口烟火 一座上海”。",
       "media": "image",
@@ -715,7 +261,7 @@
       "createdAt": "2026-10-11"
     },
     {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:eb208baab68a19ce",
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:d5e43ded2cc11884",
       "title": "社交媒体帖子 - 电影感单色双重曝光时尚人像提示词",
       "prompt": "{\n\"prompt\": {\n\"style\": \"电影感单色双重曝光时尚摄影\",\n\"aspect_ratio\": \"9:16\",\n\"subject\": {\n\"type\": \"时尚成年女性\",\n\"pose\": \"自信地站在海边一块巨大的粗糙岩石上，身体略微侧转，目光投向左侧，一只手插在裤袋中\",\n\"expression\": \"平静、严肃、优雅且神秘\",\n\"hair\": \"深色长直发自然垂落在肩头\",\n\"outfit\": {\n\"hat\": \"黑色皮革报童帽，带有短弧形帽檐和可见的缝线拼接面板\",\n\"coat\": \"长款黑色皮革风衣，具有挺括的肩部结构、宽翻领、束腰设计以及逼真的皮革纹理\",\n\"innerwear\": \"修身深色罗纹 V 领连体衣\",\n\"trousers\": \"剪裁合身的直筒至阔腿长裤，与连体衣风格统一\",\n\"shoes\": \"极简风格黑色尖头踝靴\"\n}\n},\n\"background\": {\n\"location\": \"开阔的海洋海岸线\",\n\"details\": [\n\"前景中崎岖的深色海岸岩石\",\n\"海浪拍打激起白色泡沫\",\n\"平坦遥远的海平线\",\n\"柔和阴沉的天空\",\n\"极简空旷的背景\"\n]\n},\n\"composition\": {\n\"foreground\": \"全身女性位于画面下方中央，站立在岩石上\",\n\"background_overlay\": \"同一位女性的巨大半透明特写人像叠加层，呈左侧面轮廓，佩戴相同的皮革报童帽\",\n\"overlay_position\": \"占据画面上方三分之二的区域\",\n\"blend\": \"无缝双重曝光效果，超大人像逐渐融入多云天空和海洋中\",\n\"transparency\": \"柔和的半透明效果，透过人像可隐约看到海平线\",\n\"depth\": \"较小且清晰定义的全身人物与巨大褪色人像之间形成强烈对比\"\n},\n\"lighting\": {\n\"type\": \"柔和漫射的阴天日光\",\n\"contrast\": \"丰富的黑色、平滑的灰色中间调以及明亮的银色高光\",\n\"mood\": \"情绪化、精致、戏剧性且永恒\"\n},\n\"camera\": {\n\"shot\": \"垂直全身编辑类人像\",\n\"angle\": \"略低的视平线视角\",\n\"lens\": \"85mm 人像镜头美学\",\n\"focus\": \"细节丰富的服装、逼真的面部轮廓以及柔和大气的背景\"\n},\n\"color_grading\": {\n\"palette\": \"纯黑、纯白和银灰色\",\n\"texture\": \"细腻的模拟胶片颗粒\",\n\"finish\": \"复古银盐艺术摄影质感\"\n},\n\"quality\": \"照片级真实感、高度详细的皮革纹理、自然的解剖结构、逼真的海浪、无缝双重曝光、高端时尚杂志美学\",\n\"negative_prompt\": [\n\"彩色摄影\",\n\"多个前景人物\",\n\"两个人像中出现不同的面孔\",\n\"扭曲的面部特征\",\n\"多余的肢体\",\n\"变形的手\",\n\"不自然的解剖结构\",\n\"生硬的叠加边缘\",\n\"卡通插画\",\n\"过度模糊\",\n\"文字\",\n\"水印\",\n\"过饱和的高光\"\n]\n}\n}",
       "media": "image",
@@ -733,146 +279,6 @@
       "sourceUrl": "https://x.com/AiwithLariab/status/2108896822496510445",
       "license": "upstream",
       "createdAt": "2026-10-10"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:7eba85039d6b08b1",
-      "title": "社交媒体帖子 - 诺基亚照片风格与手写日记涂鸦",
-      "prompt": "{argument name=\"character\" default=\"Anime Character\"}，明确的成人真人改编，保留面部结构、发型、发色、眼睛、主要角色配色、标志性服装轮廓及身份配饰。\n\n2000 年代老式诺基亚手机摄影 × 私人手写日记 × 模拟剪贴簿 × 实验性时尚摄影。\n\n角色置于真实的日常空间中，执行具有生活感或略带非常规意味的动作。动作、表情、相机位置、景别、服装细节和空间由模型根据角色身份自主设计。\n\n近距离手机直闪快照，轻微广角畸变，低像素，JPEG 压缩，部分失焦，直闪高光以及粗糙的数字色彩。角色保留真实的面部结构和自然的皮肤纹理，呈现动作发生时的偶然瞬间。\n\n彩色手写涂鸦、简单符号、日期代码和私人笔记直接叠加在照片表面。部分线条沿角色身体轮廓延伸，部分标记强调视线、手势和动作方向；少量照片碎片和纸张边缘形成剪贴簿层次。手写内容自然源自角色身份和当前情境。\n\n摄影主体清晰，手动标记与真实空间相互渗透。颜色基于角色主色调和场景光照自主组织，整体呈现出融合多彩私人意象与手写记录的实验性氛围。\n\n3:4 竖构图，右侧边缘有极小的垂直小写签名 \"voxcat\"。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791705039920_qt6mf6_HUPu-D9awAANKST.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "社交媒体帖子",
-        "VoxCat"
-      ],
-      "author": "VoxCat",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/VoxcatAI/status/2108791827314749815",
-      "license": "upstream",
-      "createdAt": "2026-10-10"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:775aadf81a25fa1c",
-      "title": "社交媒体帖子 - Q 版女孩做松饼",
-      "prompt": "使用提供的参考图片，将场景转换为一个温馨的厨房环境，三位 Q 版女孩正在制作松饼。保持角色设计（黄色小鸡服装和蓝色鲨鱼连帽衫）与参考风格一致，并添加第三位穿着白色绵羊服装的角色。将背景从糖果店改为温暖、柔和色调的厨房，配有摆放餐具的架子和悬挂的厨具。\n\n动作细节：穿黄色小鸡服的女孩正在粉色碗中搅拌面糊。穿蓝色鲨鱼服的女孩正用勺子将面糊倒入粉色电烤盘上。新加入的穿白色绵羊服的女孩正拿着一碗面粉/混合料。所有三个角色的鼻子上都必须有一点松饼面糊的痕迹。\n\n道具与文字：包含一袋标有“Fluffy Pancake Mix”（蓬松松饼粉）、一罐标有“HONEY”（蜂蜜）、一瓶标有“MILK”（牛奶）和一罐标有“SUGAR”（糖）。在前景中添加一叠顶部装饰有草莓和奶油的成品松饼。在右上角，包含一块黑板标牌，上面写着“Purin-chan & Same-chan & Koharu-chan Pancake Party”（布丁酱、鲨鱼酱和小春酱的松饼派对）。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791618684967_se3h3n_HUPGU3sbUAAdm44.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "社交媒体帖子",
-        "Period"
-      ],
-      "author": "Period",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/takuma0083/status/2108747116906692959#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-10"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:fb09af2a98a2026f",
-      "title": "社交媒体帖子 - 线条艺术字体海报",
-      "prompt": "目标：创建一款垂直海报设计，采用现代线条艺术风格，呈现大型、风格化的中文问候语“早安诸位”。\n\n画布：垂直比例，干净的米白色背景。配色方案以冷蓝色 (#4A90E2) 为主，辅以暖黄色/橙色 (#F5A623) 作为点缀。\n\n布局：\n- 顶部页眉：左侧为蓝色无衬线字体的 “GOOD MORNING — 早安诸位”。右侧显示日期 “2026-10-10” 以及农历信息 “星期六 农历八月三十”。\n- 中心视觉：四个巨大的中文字符排列成 2x2 网格。这些字符完全由平行的水平和垂直线条（条纹）构成，营造出线框或条形码效果。\n    - 左上角字符 (早)：包含一个实心黄色圆圈，代表从条纹后升起的太阳。\n    - 右上角字符 (安)：具有弯曲的条纹笔画，末端从蓝色过渡到橙色。\n    - 左下角字符 (诸)：其左侧偏旁包含一小簇放射状线条形成的扇形爆发效果。\n    - 右下角字符 (位)：其中一个垂直笔画块使用橙色条纹而非蓝色。\n- 侧边距：主图形两侧有小型垂直文本块。左边缘写着 “向着明亮的方向，一起出发。” 和 “平凡的日子也可以闪闪发光。” 右边缘列出关键词如 “清醒”, “温柔”, “专注”, “前行”。\n- 页脚：一条水平分隔线将底部区域分开，其中包含 “Morning Bulletin Visual Greeting System”，版本详情和版权文本。\n\n视觉风格：极简主义，排版设计，几何感，扁平化设计，细蓝线与留白之间形成高对比度。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791705044204_mvuspx_HUOzpu0bcAAfEOx.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "社交媒体帖子",
-        "小小东"
-      ],
-      "author": "小小东",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/xiaoxiaodong/status/2108727066707583143#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-10"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:56b36b92e96aae58",
-      "title": "社交媒体帖子 - Harbor Street Coffee 秋季菜单",
-      "prompt": "一张高角度、逼真的照片，展示了沐浴在温暖斑驳阳光下的质朴木桌。画面左侧放着一张垂直的菜单卡，印在奶油色纸张上，带有细深绿色双线边框。卡片上的文字排列如下：顶部是小写衬线字母“HARBOR STREET COFFEE”；其下方是大而优雅的深绿色衬线字体“Fall Menu”；接着是一条装饰性水平线，中间有一个叶子图案。菜单项目以深绿色衬线文本列出：“Maple Oat Latte $5.50”、“Pumpkin Cold Brew $5.00”和“Cardamom Bun $4.25”。卡片底部还有另一个叶子图案以及文字“Open daily 7am - 3pm”。菜单右侧是一个装满拿铁的陶瓷马克杯，上面有复杂的白色玫瑰拉花艺术。左上角可以看到部分盆栽植物的叶子，在场景中投下柔和的阴影。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791618681863_1szvfk_HUNRNATW8AAd050.png",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "社交媒体帖子",
-        "lookmybio.com"
-      ],
-      "author": "lookmybio.com",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/lookmybio_app/status/2108618376637562963#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-09"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:c98c55de0115e5a7",
-      "title": "社交媒体帖子 - 复古百货商店人像",
-      "prompt": "一张复古风格的照片，展示了一位年轻女性站在日本百货商店内。她留着深色短发波波头，有刘海，面带温柔的表情直视镜头。她身穿一件奶油色长袖衬衫，带有彼得潘领，下摆塞进一条棕色格纹百褶裙中，裙长及膝上方。肩上挂着一个小巧的棕色皮革挎包，手中拿着一本书或宣传册。她的整体造型搭配白色短袜和深棕色乐福鞋。背景左侧是装满香水和化妆品的玻璃展示柜，上面写着“化粧品”（化妆品）。右侧则有服装架和另一块写着“婦人服”（女装）的标牌。地板是抛光瓷砖，反射着头顶温暖的灯光。整体氛围唤起怀旧感，让人联想到 20 世纪末的日本。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791618683474_5drfae_HULpyu_bcAAV0WV.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "社交媒体帖子",
-        "拓斗"
-      ],
-      "author": "拓斗",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/Kmsbdd0GXBOcrXQ/status/2108504637498421309#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-09"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:0e34e463e9d2b447",
-      "title": "社交媒体帖子 - 怀旧编辑风格剪贴簿模板",
-      "prompt": "创作一张怀旧编辑风格的剪贴簿图像，将一张主写实生活方式照片与下方的手绘插图部分相结合。\n\n顶部 50–55% 区域应呈现电影感、高度写实的 {argument name=\"subject\" default=\"[主体 / 场景]\"} 照片，捕捉如同真实胶片摄影般的质感。采用自然抓拍构图，营造温暖怀旧的氛围，柔和的漫射光，细腻的胶片颗粒感，逼真的纹理，略微褪色的复古色调，秋季/暖土色系，在适当位置使用浅景深，构图精美但不过度修饰。\n\n底部 45–50% 区域应看起来像一页复古手工剪贴簿 / 旅行日记页，印在温暖的奶油色纹理纸上。将照片中的小元素重新创作成松散的彩色铅笔和水彩涂鸦插图，排列成整洁的 3×3 网格或平衡布局。包含与场景相关的简单手绘物体，例如 {argument name=\"object_1\" default=\"[物体 1]\"}、{argument name=\"object_2\" default=\"[物体 2]\"}、{argument name=\"object_3\" default=\"[物体 3]\"}。使用不完美的素描线条、细微的铅笔笔触、水彩晕染、略不均匀的上色以及真实的手工瑕疵。\n\n在插图部分的顶部添加一个简短的手写标题：“{argument name=\"title\" default=\"[标题]\"}”，采用随意、不完美的黑色/灰色手写字迹。在插图周围添加微小的装饰元素，如爱心、圆点、云朵、树叶、星星、波浪或小涂鸦。\n\n在最底部，添加一个小手写说明文字：“{argument name=\"caption\" default=\"[简短说明]\"}”。\n\n整体美学：舒适的 Pinterest 编辑风格，怀旧的旅行日记，复古胶片摄影 + 儿童素描本插图，温暖的模拟记忆，高端生活方式杂志构图，触感纸张纹理，低调优雅，情感温暖，真实而非过度数字化。\n\n构图：垂直 4:5 比例，照片与插图之间有清晰的分隔，平衡的留白，照片与绘图之间保持一致的视觉叙事。\n\n重要提示：保持顶部区域的写实摄影效果；不要将照片转化为插图。下部区域应明显呈现手绘风格。避免过多的文字、扭曲的字体、写实风格的涂鸦、CGI 外观、过饱和色彩、杂乱无章或过于完美的矢量图形。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791618679712_zplsbc_HUKHNs9bsAA5mtE.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "社交媒体帖子",
-        "Sairah"
-      ],
-      "author": "Sairah",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/Sairah_0/status/2108396270276804931",
-      "license": "upstream",
-      "createdAt": "2026-10-09"
-    },
-    {
-      "id": "youmind-gpt-image-2:youmind-gpt-image-2:8a5b673f0e75ab80",
-      "title": "社交媒体帖子 - 广州晨食景观海报",
-      "prompt": "这是一张创意竖版海报，左上角标题为“GOOD MORNING GUANGZHOU”（广州早安）。标题下方显示日期“2026-10-09”及天气信息。海报中有一句引言：“热气腾腾，就是生活最好的回答”。左侧还有一行诗意文字：“平凡食材也能长出城市的温柔”。主视觉呈现了一个由巨大、冒着热气的肠粉构成的超现实景观，它们排列得像梯田或起伏的山丘。身穿厨师服和农民装束的微小工人正在照料这些“肠粉田”——有的在清扫，有的推着装满绿色蔬菜（葱/辣椒）的手推车，还有的在收割。肠粉呈半透明白色，点缀着切碎的葱花和橙色颗粒（可能是胡萝卜或虾籽）。背景是朦胧的城市天际线，包括广州塔和摩天大楼，天空明亮。右侧有一个木制路标，写着“广式肠粉”，下方小字为“一份温柔 蒸向更好的日常”。右下角文字为：“早茶让生活更有滋味”。整体风格为超写实微缩摄影与美食艺术的结合，画面明亮、温暖且令人食欲大开。",
-      "media": "image",
-      "model": "gpt-image-2",
-      "coverUrl": "https://cms-assets.youmind.com/media/1791532578909_58dvp8_HUJi597a0AAv3tf.jpg",
-      "videoUrl": null,
-      "tags": [
-        "youmind-gpt-image-2",
-        "gpt-image-2",
-        "社交媒体帖子",
-        "小小东"
-      ],
-      "author": "小小东",
-      "source": "youmind-gpt-image-2",
-      "sourceUrl": "https://x.com/xiaoxiaodong/status/2108358993060213211#reversed-0",
-      "license": "upstream",
-      "createdAt": "2026-10-09"
     },
     {
       "id": "youmind-gpt-image-2:youmind-gpt-image-2:444aa21270b72dd7",
@@ -993,6 +399,606 @@
       "sourceUrl": "https://x.com/xiaoxiaodong/status/2104962263367221257#reversed-0",
       "license": "upstream",
       "createdAt": "2026-09-29"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:85142f628cfd75e1",
+      "title": "信息图 / 教育视觉图 - 漫画信息图：AI 提示词工程",
+      "prompt": "这是一张垂直布局、细节丰富的漫画风格信息图，背景呈现类似羊皮纸的质感。版面主要分为三个部分：顶部插画区、中部图解分解区和底部文字总结区。\n\n顶部区域：\n- 一幅宏大而空灵的插画，描绘了一位拥有白色长发和狐狸耳朵（狐妖）的女子，身着飘逸白袍，伫立于日落时分的山巅。\n- 在她下方，一位束着黑色长发的老者身穿深蓝色中式传统长袍，盘腿而坐，手持毛笔，若有所思地仰望上方。\n- 在老者右侧，一名身着灰色长袍的年轻男子正跪坐着，将狐妖的形象描绘在纸上。\n- 场景周围环绕着日文文本块，解释“Prompt”（プロンプト，即提示词）的概念。\n- 左侧有四个小型方形人物肖像，标注有“美女”、“舞者”等描述，展示女性角色的不同变体。\n- 右侧竖排大号日文字样写着“提示词入门”。\n\n中部区域：\n- 一个横向流程图，标题为“将特征语言化以构建画面”。\n- 图中展示了由加号 (+) 连接的六个小方形图像序列，最终指向等号 (=) 和一个完整的结果图像。\n- 序列内容包括：1. 银色长发，2. 蓝色眼睛，3. 白色衣物，4. 山间日落，5. 回眸姿态，6. 柔和逆光。\n- 最终结果即为顶部区域中完整的狐妖形象。\n\n底部区域：\n- 一个醒目的红黑墨迹风格日文大标题：“百語を並べて一画を失う”（罗列百词，反失一笔）。\n- 标题周围散落着带有手写笔记的碎纸片，列举了过度使用提示词的负面影响，如“8K 分辨率”、“超高质量”、“复杂构图”、“不自然光照”、“电影感光照”、“宏大尺度”、“最高品质”。\n- 最底部的方框内有一句结语：词语是工具，但过多的修饰会掩盖那一笔的神韵本质。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790495309102_68is3h_HTJm7e_bwAAhXD5.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "レティシア・ノエル"
+      ],
+      "author": "レティシア・ノエル",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/N7S6P1/status/2103857155845783883#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-26"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:1f48ba436a30564e",
+      "title": "信息图 / 教育视觉图 - 地狱犬角色设定信息图",
+      "prompt": "创建一张垂直布局的角色设定信息图，描绘一种名为“地狱犬”（Hell Hound）的奇幻生物，采用黑暗、哥特式且高度精细的数字艺术风格渲染。版面在类似羊皮纸的背景上划分为多个部分，并带有黑色边框。\n\n**头部区域：**\n- **标题：** 左上角使用大号、做旧衬线字体显示 \"HELL HOUND\"。\n- **副标题：** 标题下方显示 \"FOREST GUARDIAN & PROTECTOR\"（森林守护者与保护者）。\n- **属性块（左侧）：** 列出以下属性：TYPE: Noble Protector（类型：高贵守护者）；HABITAT: Kolby's World（栖息地：Kolby 的世界）；SKIN: Charcoal Black — Guardian's Oath（皮肤：炭黑——守护者誓言）；COAT: Shimmering Void（皮毛：闪烁虚空）；BEHAVIOR: Protective • Loyal • Gentle（行为：保护性 • 忠诚 • 温柔）；PRIMARY MISSION: Protect the innocent — especially Stinky（主要任务：保护无辜者——尤其是 Stinky）。\n- **引言（左侧）：** 手写风格文本：\"You will never harm what I swear to protect.\"（你永远不会伤害我发誓要保护的存在。）后跟一个心形符号。\n- **主插图（中/右）：** 一只巨大、令人恐惧的黑色猎犬，由阴影般的纤维材料构成，拥有发光的白眼，周围环绕着金色的魔法火花。它正保护性地蹲伏在一只穿着粉色连帽衫的小巧可爱灰猫（角色 \"Stinky\"）身上。\n- **颜色变体（右上角）：** 三幅小素描展示不同的配色方案，标签分别为：CHARCOAL BLACK (DEFAULT)（炭黑 [默认]），ASH GRAY (MIST VEIL)（烟灰 [迷雾面纱]），CORPSE GRAY (BONE VEIL)（尸灰 [骨白面纱]）。\n\n**细节面板（右列）：**\n五个矩形面板展示特写及描述：\n1. **SKIN DETAIL（皮肤细节）：** 展示纹理。文本：\"Living shadow. Shifts and shimmers. Hardened by unyielding loyalty.\"（活着的阴影。变幻闪烁。因不屈的忠诚而坚硬。）\n2. **EYE DETAIL（眼睛细节）：** 展示发光的眼睛。文本：\"Sees threats before they form. Seeks only Stinky's safety.\"（在威胁形成前便已看见。只寻求 Stinky 的安全。）\n3. **HEAD DETAIL（头部细节）：** 展示头骨结构。文本：\"Ancient skull. Worn by time, softened by love.\"（古老的头骨。被时间磨损，被爱软化。）\n4. **TEETH（牙齿）：** 展示獠牙。文本：\"Built for war. Used for protection only.\"（为战争而生。仅用于保护。）\n5. **CLAW / HAND（爪子/手）：** 展示爪子。文本：\"Can tear through nightmares. Chooses to build safe spaces.\"（能撕裂噩梦。选择构建安全空间。）\n\n**中间区域 - 骨骼研究：**\n一条水平带状区域，标题为 \"SKELETAL STUDY\"（骨骼研究），包含该生物骨骼的五幅解剖线条画，从不同角度展示：FRONT VIEW（正面视图）、LEFT VIEW（左侧视图）、BACK VIEW（背面视图）、RIGHT VIEW（右侧视图），以及关于隆起脊柱的侧面轮廓注释。\n\n**中下区域 - 行为与栖息地：**\n两列内容：\n1. **MOVEMENT & BEHAVIOR（运动与行为）：** 四幅小插图展示姿态，标签分别为 RESTING / WATCHING（休息/观察）、PROTECTING（保护）、SHELTERING（庇护）、GENTLE（温柔）。\n2. **COMMON HIDING PLACES（常见藏身之处）：** 两幅插图，标签分别为 FORESTS（森林）和 ABANDONED PLACES（废弃之地）。\n3. **ODOR（气味）：** 一个小面板，带有骷髅图标，文字描述其气味为雨水、苔藓和古老誓言的味道。\n\n**底部区域 - 守护者誓言：**\n一个宽面板，包含两幅猎犬睡在猫旁边的插图。两者之间是一首题为 \"THE GUARDIAN'S OATH\"（守护者誓言）的诗：\n\"I do not hunt her.\nI do not frighten her.\nI do not let harm come near her.\nIf danger comes,\nI will stand between.\nIf fear comes,\nI will be the dark she hides in.\nIf the world forgets her...\nI will remember.\nI am her guardian.\nI am her Hell Hound.\nI am her forever.\"\n（我不猎杀她。\n我不惊吓她。\n我不让伤害靠近她。\n若危险来临，\n我将伫立其间。\n若恐惧降临，\n我将成为她躲藏的黑暗。\n若世界遗忘她……\n我将铭记。\n我是她的守护者。\n我是她的地狱犬。\n我永远属于她。）\n侧边注释写着：\"He does not hunt her.\"（他不猎杀她。）",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790322685750_etehov_HS7hLOFW8AAwly6.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "Flutterwhat"
+      ],
+      "author": "Flutterwhat",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/flutterwhat/status/2102866284778336744#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-23"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:003a927defcd6828",
+      "title": "信息图 / 教育视觉图 - 动漫角色设计图：传统汉服情侣",
+      "prompt": "这是一张高分辨率的角色设计图，展示了两位身着中国传统汉服的动漫风格角色，背景为纯白色。布局包括两位角色的全身正面和背面视图，以及头部、配饰和服装纹理的详细特写。\n\n左侧角色（男性）：\n- 外貌：年轻男子，黑色短发，头戴高耸挺括的黑色官帽（冠），帽带垂下。他有着蓝色的眼睛和温和的表情。\n- 服装：身穿深藏青色/黑色的交领长袍（衣），袖口宽大，边缘饰有红棕色图案滚边。内衬白色领口。下身穿着长裙状的下裳。腰间系着带有金色扣环的腰带，悬挂着一枚配有红色流苏的玉佩。他手持一把剑，剑鞘为黑色并带有红色装饰。\n- 视图：持剑的全身正面视图；展示长袍垂坠感的全身背面视图；头部特写；帽子、腰带扣、玉佩和剑的独立细节图。\n\n右侧角色（女性）：\n- 外貌：年轻女子，浅棕色/赤褐色头发，梳成精致的盘发，带有环状造型和修饰脸型的侧刘海。她有着蓝色的眼睛和平静的表情。头发上装饰着一支带有玉盘和红色流苏的发簪。\n- 服装：分层搭配的服饰，外层是一件桃色/浅橙色的长袍，带有隐约的花卉图案，领口和袖口饰有深红色滚边。内层是一条米色百褶裙（裙），裙摆处可见红棕色图案拼接。腰间系着粉色腰带，同样悬挂着一枚玉饰。\n- 视图：全身正面视图；展示长发和长袍细节的全身背面视图；头部特写；发簪、领口纹理和腰带结的独立细节图。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790236338691_39vy1y_HS632q5bwAAQ8vP.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "スターシュレッダ"
+      ],
+      "author": "スターシュレッダ",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/unicronian/status/2102820394625646969#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-23"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:c3bbc4fcd66b612c",
+      "title": "信息图 / 教育视觉图 - 动漫角色设计表：剑之女王",
+      "prompt": "为名为 {argument name=\"character name\" default=\"RU RIO\"} 的动漫风格女性战士创建一张高度详细且专业的角色设计表。布局应在深色背景上划分为不同的区域，使用金色和白色文字。\n\n**左上角（档案）：** 标题为 \"CHARACTER PROFILE\" 的页眉，配有带翼徽章。下方是大号衬线字体的名字 \"RU RIO\"，副标题为 \"SWORD QUEEN\"。包含数据列表：年龄 (22)，身高 (172cm)，职业 (Sword Queen)，所属势力 (The Royal Court of Elysion)，头衔 (Heir to the Radiant Throne)，元素属性 (Light)，武器 (Regal Longsword \"Lumina Regalia\")。添加一个 \"PERSONALITY\" 部分，描述她冷静且坚定不移，以及一个 \"LIKES/DISLIKES\" 部分。以一句引言结尾：\"A queen's blade shall never waver.\"\n\n**顶部中央（主图）：** 角色略微仰视的大型高质量半身肖像。她留着黑色短发，灰色眼睛，身穿带有金色细丝装饰和高领的精致银色板甲。\n\n**右上角（三视图与分析）：** 标记为 \"ORTHOGRAPHIC TURNAROUND\" 的区域，展示角色站立的五个全身视图：正面 (FRONT)、3/4 侧面 (3/4 FRONT)、侧面 (SIDE)、3/4 背面 (3/4 BACK) 和背面 (BACK)。其右侧是一个 \"PROPORTIONAL ANALYSIS\" 图表，显示带有水平网格线的正面视图，标记头身比例（Head x 1, Head to Chin 等）。\n\n**中间条带（表情）：** 标记为 \"EXPRESSION ANCHORS\" 的一行，包含八个方形面板，展示角色面部特写及不同情绪：中性 (NEUTRAL)、平静 (CALM)、坚定 (DETERMINED)、骄傲 (PROUD)、温柔微笑 (SOFT SMILE)、甜美微笑 (SWEET SMILE)、关切/处理中 (CONCERN/HANDLING) 和战斗呐喊 (BATTLE CRY)。\n\n**左下角（服装）：** 标题为 \"WARDROBE & ACCESSORIES BREAKDOWN\" 的部分。它在人体模型上展示全套服装，随后是隔离展示的单品，标签包括：斗篷 (CLOAK)、躯干护甲 (TORSO ARMOR)、护手 (GAUNTLETS)、腿部护甲 (LEG ARMOR)、靴子 (BOOTS)，以及各种小配件如腰带和珠宝。\n\n**底部中央（材质与细节）：** 两行内容。上一行是 \"MATERIAL PALETTE\"，展示银色钢 (SILVER STEEL)、午夜缎面 (MIDNIGHT SATIN)、浆洗上衣 (STARCHED TOP)、皇家皮革 (ROYAL LEATHER) 和镀金饰边 (GILDED TRIM) 的色样。下一行是 \"DETAIL CLOSE-UPS\"，展示肩部护肩 (SHOULDER PAULDRON)、胸部装饰 (CHEST ORNAMENT)、大腿绑带与链条 (THIGH STRAP & CHAIN)、大腿竖琴与链条 (THIGH HARP & CHAIN) 以及剑柄细节 (SWORD HILT DETAIL) 的微距镜头。\n\n**右下角（技术）：** 一列 \"TECHNICAL NOTES\"，列出关于轮廓和面料的要点。在其下方，是一条 \"COLOR SCHEME\" 带，包含菱形色样。最后，是一个 \"RIG & MOVEMENT REFERENCE\" 部分，展示角色的三个小型线框/骨架图。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789803929368_4sx68a_HShNkaobMAAVI9p.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "GenAIPractice"
+      ],
+      "author": "GenAIPractice",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/kkm27889/status/2101015598843220445#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-18"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:528f637053a134a9",
+      "title": "信息图 / 教育视觉图 - 民间艺术咖啡馆学习插画",
+      "prompt": "将一家安静的社区咖啡馆描绘为极简且富有诗意的日常场景。一位年轻女性独自坐在小圆桌旁，使用打开的 MacBook 学习。画面中仅包含一把简单的椅子、笔记本电脑、一本笔记本、一支笔、一个陶瓷杯，以及隐约可见的咖啡馆窗户或吊灯。保持环境稀疏且扁平化，不要描绘详细的室内建筑结构。\n\n以放松的四分之三侧面视角展示这位年轻女性，身体微微倾向笔记本电脑，一只手靠近键盘，另一只手正在记笔记。她的表情平静、好奇，全神贯注于学习。赋予她简化的孩童般比例、柔和圆润的脸庞、略大的双手、紧凑的几何发型以及自然的坐姿。让她穿着图案开衫、宽松长裤和简约鞋子。笔记本电脑应可识别为轻薄的 MacBook，但不要显示醒目的标志或任何可读的屏幕内容。\n\n装饰性民间平面插画，融入精致极简的水彩速写本艺术。结合斯堪的纳维亚民间艺术的简约、日本绘本的克制感以及现代平面编辑插画风格。将每个人物、物体和家具简化为干净、柔和圆润的几何色块。使用不透明的水粉状形状，并叠加淡淡的半透明水彩渲染。添加松散、不完美的钢笔轮廓，线条粗细轻微波动，偶尔出现断裂边缘、细小划痕、短缝线、圆点和天真手绘图案。绘图必须感觉手工制作、略微不对称、温柔且故意不完美。\n\n使用完全独立于源图像的新鲜调色板：灰紫色、长春花蓝、树莓红、淡柠檬黄、苹果绿、暖可可棕和奶油象牙纸色。不要使用青色、珊瑚橙、芥末黄或深海军蓝作为主导颜色。保持调色板有限且和谐，以紫色或长春花蓝作为主要服装颜色，树莓红和柠檬黄仅作为俏皮的点缀。\n\n纵向构图，比例约为 2:3。使坐着的女性和笔记本电脑成为无可争议的焦点，占据画布约 60% 的空间。使用轻微裁剪的桌子和椅子来固定下半部分。在人物周围保留充足的米白色负空间，特别是在上方和外边缘。主要采用扁平的侧视透视，仅带有轻微的桌面角度。保持视觉层次简单且易于立即阅读。\n\n仅在空白空间中散布少量微小的漂浮元素：四五个圆点、两片微型花瓣、一颗天真的八角星、一小枝叶子和一抹淡淡的薰衣草水彩飞溅。在开衫上添加微小的手绘对勾或种子图案，并在杯子或灯罩上添加简单的扇贝形边缘。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789803922062_6s1yze_HSelMxHaEAAT0IW.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "Simply Ray"
+      ],
+      "author": "Simply Ray",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/kingofdairyque/status/2100829530164277695",
+      "license": "upstream",
+      "createdAt": "2026-09-18"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:d3f513ff0bb1b534",
+      "title": "信息图 / 教育视觉图 - 中秋节排版海报提示词",
+      "prompt": "选取任何未来主义主题，提供核心概念、简短短语和次要辅助注释，并将该主题转化为极度放大的文字或符号主体：第一印象必须强烈，粗体无衬线字形几乎填满整个画面，水平压入布局中，字符主体像结构梁一样占据中心位置，部分被裁剪或溢出，使阅读首先成为一种强烈的形式体验，随后才是阅读边缘处的副标题。背景大部分保持空白，呈现冷色调留白，叠加极细、浅暖色的构图线、基线和垂直栏线；这些线条应看起来像是设计稿中未隐藏的骨架，而非装饰。仅使用高饱和度的橙红色作为主色来承载所有视觉重量，灰色用于小号说明文字，避免多色和渐变。信息模块稀疏地放置在网格交点和边缘：由简单几何角度、圆点和短破折号组成的小图标；标题简短且加粗；正文采用窄栏和浅灰色。整体呈现应具有精确、克制、实验性的排版教育感。字形构建要求低对比度、粗笔画、大开口字怀、平直末端、紧凑字距；标点符号和辅助符号也遵循网格节奏。如果切换到其他书写系统，请保持等效的块状体积、内部/外部空间关系、裁剪压力和水平阅读动势。禁止使用插图背景、阴影、纸张纹理、居中卡片、圆润可爱风格、商业海报灯光效果以及过度拥挤的信息。\n\n——————\n主题：{argument name=\"theme_en\" default=\"Joy\"}\n宽高比：{argument name=\"aspect_ratio_en\" default=\"9:16\"}\n备注：适当融入中秋节元素\n字体颜色：{argument name=\"font_color_en\" default=\"Gucci Ancora Red\"}",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789717708670_l9g6hd_HSaRCE7aEAARvTd.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "小小东"
+      ],
+      "author": "小小东",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/xiaoxiaodong01/status/2100526246707024323",
+      "license": "upstream",
+      "createdAt": "2026-09-17"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:3b20d6348bc918d6",
+      "title": "信息图 / 教育视觉图 - 污水处理厂信息图",
+      "prompt": "创建一张横向信息图海报，解释污水处理厂的工作原理。设计风格为工业风、现代感且高对比度，采用深红、黑、白以及用于水元素的青/蓝配色方案。\n\n**布局与文本元素：**\n1.  **左上/居中（标题）：** 顶部横跨大号、粗体、做旧效果的红色中文字符“污水处理厂”。其下方为大号黑色粗体文字“工作原理”。再下方为较小的黑色文字：“从进水、分离、生化反应到净化出水”。\n2.  **左侧边栏：** 垂直布局，包含小文本块。顶部文本块：“让每一滴污水重回自然”，“水的下一站是更洁净的未来”，英文文本“CLEANER WATER BRIGHTER TOMORROW”。底部文本块（红色背景）：“处理改变为了更好的水环境”，英文文本“CLEAN CYCLE HEALTHY CITIES”。\n3.  **右侧（背景图像）：** 大型摄影拼贴画，展示充满蓝绿色水的圆形澄清池的鸟瞰图，由管道和走道连接。右侧叠加文本：“从污水到清水”，“连接城市与更健康的生活”，“FOR A CLEANER TOMORROW”，“水循环 城市运行 与自然共生”，“净化 让城市更有生命力”，“CLEAN WATER STRONGER CITIES”。\n4.  **底部居中（流程图）：** 示意图横截面，展示水流经不同阶段的过程。箭头指示从左到右的方向。各部分上方标签：“格栅 / 沉砂”，“初沉”，“生化反应”（以气泡描绘），“二沉”。两端标签：左侧为“进水”，右侧为“出水”。\n5.  **右下角：** 小文本块：“更干净的水 更宜居的城市 更可持续的明天”，英文文本“CLEANER WATER HEALTHIER CITIES A BRIGHTER TOMORROW”。\n6.  **中心红框：** 一个包含白色文字的小红色方块：“看不见的工程 支撑看得见的美好生活”，英文文本“INFRASTRUCTURE FOR A HEALTHIER TOMORROW”。\n\n**视觉风格细节：**\n*   在整个图像上使用颗粒质感叠加层，以营造印刷纸张的感觉。\n*   中文字体的排版应使用厚重的无衬线字体。\n*   照片和图表中的水应在灰度/红/黑背景下呈现独特的青色/蓝绿色。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789458733276_rp96yq_HSMGlTdaoAAEKuS.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "小小东"
+      ],
+      "author": "小小东",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/xiaoxiaodong01/status/2099530880842879182#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-14"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:e969af26fde98de9",
+      "title": "信息图 / 教育视觉图 - GPT Image 2 极简主义仪式感海报提示词",
+      "prompt": "围绕任意给定主题创建一张极简主义仪式信息海报。第一印象必须是大面积的暖白色空白区域，主标题精确居中，并与三个主题符号形成庄重的对齐关系：将主题提供的核心名称、参与者或关键词转化为顶部的大号细笔画标题、中心的一组可识别抽象标志以及两侧的纯色块；语义可以变化，但顺序保持不变。保留高比例留白、垂直中轴线、上下分区以及细黑水平线带来的停顿感；像展览目录或国际机构年鉴那样克制地排列所有元素。正文使用高对比度的精细衬线体或等效字形结构，具有开阔的字腔、纤细的笔画、锐利的终端和宽敞的节奏，在切换到任何书写系统时保持纤细的骨架、宽松的字距、清晰的辨识度和平静的呼吸感，而不是复制特定的拉丁字体。从主题中提取两种高纯度的代表色作为硬边正方形；中心标志仅使用黑色线条和最简几何图形；背景保持略带纸张纹理的暖白色，避免渐变、阴影和装饰性纹理。副标题和小号说明文字置于底部较低的重心位置，页脚微信息紧贴边缘，营造出宏大主题被博物馆式留白驯服的对比感；失败的症状包括元素拥挤、色彩混乱、字体过粗、写实图标或海报失去冷峻的仪式秩序。\n\n将主题设定为“城市公共图书馆开放日”，用于公共文化机构活动的主海报：使用靛蓝色和朱砂红作为两种高纯度方块颜色；中心用黑色线条绘制抽象的打开书页和门拱，让符号组沿垂直轴稳定落在标题下方；主标题置于上半部分中央，副标题和日期在下方形成稀疏的两级信息层级，保留大面积暖白色留白和细黑线停顿；纵横比为垂直 3:4。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789388939731_hkt6p3_HSHLijVaQAAJZkh.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "小小东"
+      ],
+      "author": "小小东",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/xiaoxiaodong01/status/2099183233166614915",
+      "license": "upstream",
+      "createdAt": "2026-09-13"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:313a1e9e6236a925",
+      "title": "信息图 / 教育视觉图 - UGC 风格营销面板网格",
+      "prompt": "使用 GPT Image 2 创建一个 3x3 的全页网格，展示此 {argument name=\"category\" default=\"便利店\"} 的逼真 UGC 风格面板。将视频分为 3 个连续部分。每个面板必须包含一个电影级视觉画面，以及直接印在面板内的清晰制作说明。目标不仅仅是展示产品，而是帮助客户构思购买理由。企业名称为 {argument name=\"business name\" default=\"Zioraa Ventures\"}。将企业名称嵌入背景中。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789199147235_45scrj_HR8Lt6TXYA4qfTB.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "Olatunde AI"
+      ],
+      "author": "Olatunde AI",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/OlatundeAI/status/2098409803273879657",
+      "license": "upstream",
+      "createdAt": "2026-09-11"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:9514174cb3bcb201",
+      "title": "信息图 / 教育视觉图 - 金鹿晨曦羊毛毡艺术转化",
+      "prompt": "目标：创建一个双面板水平对比图像，展示从写实自然照片到极简主义羊毛毡插画的转化。\n\n画布：16:9 宽屏画布，垂直平分为左右两等份，中间有清晰的直线分割。\n\n左侧面板：一张写实的黄金时刻森林草地照片。前景中准确展示 5 只鹿：最左侧 1 只正在行走，左中 1 只正在吃草，正中 1 只正在吃草，中右侧 1 只小鹿直立，最右侧 1 只较大的鹿站立。草地上覆盖着带露水的绿草，伴有温暖的黄色阳光和柔和的晨雾。背景中，深色的常绿树木形成浓密的森林剪影，右上角有额外的枝叶。强烈的阳光从右上角斜射穿过树林，营造出宁静的电影感氛围。\n\n右侧面板：同一场景的柔和手工羊毛毡重新演绎，背景为温暖的米白色纹理纸，留有充足的空白。将羊毛毡场景水平居中于中上方区域。展示 5 只与左侧面板布局完全对应的小羊毛毡鹿：最左侧 1 只站立的鹿，左中 1 只吃草的鹿，正中 1 只橙棕色吃草的鹿，中右侧 1 只直立的小鹿，以及最右侧 1 只较大的站立鹿。将它们放置在一条细长的浅绿色毛毡草地上。在它们上方，加入一个简单的圆形毛毡太阳和 2 片柔和的水平毛毡云朵。在毛毡草地下方，添加手写文字 {argument name=\"caption text\" default=\"A kinder morning ♡\"}，字体采用精致的灰褐色手写体。\n\n视觉风格：结合温暖治愈的美学、充足的留白、舒适的羊毛毡质感、柔和的边缘、柔和的大地色调以及宁静诗意的氛围。左侧应呈现摄影感和氛围感；右侧应呈现带有可见纤维和极简构图的手工毛毡插画感。\n\n约束条件：保持分屏布局，每侧恰好 5 只鹿，不得有额外动物，无边框，无水印，除标题外不得添加任何额外文字。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1789113125214_ig0i2n_HR4JccraIAAUu8D.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "信息图 / 教育视觉图",
+        "小小东"
+      ],
+      "author": "小小东",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/xiaoxiaodong01/status/2098125338484342869#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:0c9783d8ee52b5df",
+      "title": "YouTube 缩略图 - 荷鲁斯之乱最终决斗",
+      "prompt": "荷鲁斯之乱的最终决斗。在燃烧中的泰拉轨道上，人类帝皇于复仇之魂号内直面他曾经最宠爱的儿子——已被混沌彻底吞噬的战争领主荷鲁斯。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791964317314_ru9arf_HUjJwQpXUAAzhyk.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "Mainstream Madness"
+      ],
+      "author": "Mainstream Madness",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/HairnetNation/status/2110158371802226743",
+      "license": "upstream",
+      "createdAt": "2026-10-13"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:82cd36a55388140a",
+      "title": "YouTube 缩略图 - 宇宙日落下的山峰剪影",
+      "prompt": "一幅宏伟而超现实的风景画，前景中一个孤独的人影站在崎岖的岩石峰顶。人物高举一只手臂，胜利地伸向天空。在他们上方，地平线如行星边缘般剧烈弯曲，将下方的云海与上方壮丽的天空分隔开来。天空分为两个截然不同的区域：上部是深蓝色的星空，点缀着旋转的星云和星座；下部则闪烁着强烈的金橙色日落光芒，形成炽热的对比。在弯曲的地平线下方，层层蓬松的白色和灰色云朵漂浮在远处的山脉之间，被夕阳的温暖光辉照亮。整体氛围令人敬畏、具有电影感且充满奇幻色彩，融合了太空探索的元素与大地的自然之美。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791964324789_mkz4wa_HUglwv-bMAAe8xe.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "Zephyra Leigh"
+      ],
+      "author": "Zephyra Leigh",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/ZephyraLeigh/status/2109978002293682440#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-10-13"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:e215dcbeddbc3d9a",
+      "title": "YouTube 缩略图 - 中世纪战场上的写实动漫战士",
+      "prompt": "一张超写实、电影感的动作镜头，展示了一位年轻日本女战士身处混乱的中世纪战场之中。她留着黑色长发，用两个金色发夹束起，身穿深蓝色水手服风格的改良校服（seifuku），肩部和手臂配有厚重的皮革护甲加固。她的脸上沾满烟灰和血迹，神情激烈而坚定，正向前突进。前景中，模糊的类僵尸生物正在发起攻击。背景描绘了一个燃烧的村庄，木质建筑倒塌，浓烟升腾至天空，其他士兵也在混乱中激战。光线戏剧化且粗粝，强调了场景的真实感。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791618683445_lkci2g_HUMcJy0bYAANzb-.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "レティシア・ノエル"
+      ],
+      "author": "レティシア・ノエル",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/N7S6P1/status/2108560011643514935#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-10-09"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:608e54e568a491cc",
+      "title": "YouTube 缩略图 - 向日葵田中的 Minecraft 角色",
+      "prompt": "这是一张超写实的电影级特写镜头，展示了一个 Minecraft 风格的角色站在金色夕阳下生机勃勃的向日葵田中。该角色由方块状的体素构成，拥有深色皮肤、浓密的黑胡子，头戴绿色帽子，身穿白色 T 恤和绿色裤子。他正温柔地将一只巨大的方块状蜜蜂捧在脸旁。周围环绕着许多其他飞舞的蜜蜂，它们的翅膀呈半透明状，并呈现出逼真的运动模糊和景深效果。背景中，一道像素化的彩虹横跨橙色的天空，天空中漂浮着方块状的云朵，远处是树林线，土路上停着一辆白色小皮卡。光线温暖且具有体积感，营造出一种怀旧而宁静的氛围。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791273291789_c5shmn_HT4Hl2yW4AAonaZ.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "Jxsfly"
+      ],
+      "author": "Jxsfly",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/Jsxfly777/status/2107130027259076687#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-10-05"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:5e80265bd95549f9",
+      "title": "YouTube 缩略图 - GPT Image 2 提示词：神奇的羊驼变身",
+      "prompt": "一只羊驼正在经历狂野魔法变身，伴随着附魔藤蔓、发光的羽毛、龙鳞以及元素火焰……",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791107311806_x86p6q_HTxV57bakAER3nc.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "Prompt Llama"
+      ],
+      "author": "Prompt Llama",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/PromptLLamaTest/status/2106653189215035444",
+      "license": "upstream",
+      "createdAt": "2026-10-04"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:3054ca865d541b79",
+      "title": "YouTube 缩略图 - 超现实男子云端俯瞰城市",
+      "prompt": "创作一张超写实、电影感、照片级真实的超现实主义摄影作品：一位英俊的南亚年轻男子随意地坐在数百米高空的巨大蓬松白云上，平静地喝着咖啡，商用飞机在他下方和周围飞行。\n\n该男子二十多岁中期，留着浓密微乱的黑色波浪卷发，温暖的棕色皮肤，深邃富有表现力的棕色眼睛，修剪整齐的胡须和小胡子。他身穿一件宽松的黑色科技夹克，内搭干净的白色 T 恤，深色宽腿工装裤，未来感黑色运动鞋，佩戴银色链条项链和黑色智能手表。他的表情平静放松，仿佛坐在世界之上的阳台。\n\n巨大的云朵看起来物理真实——柔软、致密、体积庞大且细节丰富，具有单独的蒸汽纹理和透过边缘的微妙阳光。男子自然地坐在云面上，一条腿略微悬垂在边缘，一只手拿着逼真的陶瓷咖啡杯。\n\n远处下方，一座广阔的现代城市延伸至地平线，有摩天大楼、道路、微小的车辆、公园和逼真的大气雾霾。几架客机以不同的距离和比例穿过天空，营造出令人难以置信的深度感。一架飞机相对靠近地从云层下方飞过，而其他飞机在地平线附近显得微小。\n\n黄金时刻的阳光从侧面照亮场景，在男子的脸部、衣物和云朵上形成温暖的高光，同时投下柔和自然的阴影。天空从地平线附近的明亮蓝色过渡到头顶更深的蓝色，大气中散布着细微的缕状云。\n\n使用史诗般的广角构图，展示男子、云朵、飞机和下方城市之间巨大的尺度差异。强烈的前景到背景深度，逼真的大气透视，自然反射，物理准确的光照，详细的皮肤纹理，逼真的织物纤维，逼真的发丝，电影级色彩分级，HDR，微妙的胶片颗粒，角色浅景深，远处城市自然柔化。\n\n拍摄风格如同高端电影编辑宣传活动，35mm 镜头，f/2.8，超细节，8K UHD，照片级真实，自然比例，逼真的人体解剖结构，可信的物理效果，戏剧性的尺度，超现实但完全令人信服。\n\n无卡通外观，无插画，无 CGI 感，无塑料皮肤，无扭曲面部，无多余手指，无重复人物，无形变飞机，无悬浮物体，无文字，无水印。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791273289296_sxkavk_HTxS5SLbUAAy7PO.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "Harry Potter"
+      ],
+      "author": "Harry Potter",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/mon010_de/status/2106649880156590255",
+      "license": "upstream",
+      "createdAt": "2026-10-04"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:8a9af247e397a6fa",
+      "title": "YouTube 缩略图 - GPT Image 2 电影感多门奇幻场景提示词",
+      "prompt": "超写实，电影感 8K HDR，高级时尚编辑摄影作品。画面中是一位英俊的年轻男子，二十岁出头，拥有浓密自然的波浪状乌黑头发，粗犷阳刚的眉毛，深邃迷人的深棕色眼睛，轮廓分明的雕塑般下颌线，淡淡的自然胡茬，以及带有可见毛孔的真实皮肤质感。\n\n概念与构图：\n\n一幅令人叹为观止的超现实电影感场景，展示了一位英俊的年轻男子自信地站在一座巨大而神秘的大厅中央，周围环绕着数十扇形状、尺寸、材质和建筑风格各异的宏伟之门。每一扇门都通向一个完全不同的世界，在现实、奇幻与未知之间营造出壮观的视觉对比。\n\n年轻男子身穿一套完美剪裁的黑色服装，包括奢华的黑色高领衬衫、长款优雅黑色大衣、定制黑色长裤和擦得锃亮的黑色靴子。他浓密自然的波浪发略显凌乱，深邃的目光直视镜头，神情冷静、自信且神秘。一只手轻轻搭在一扇半开的门把手上，仿佛即将踏入另一个维度。\n\n门及其世界：\n\n在他周围是数十扇巨大且细节精美的门洞，每一扇都揭示了一个独特而令人惊叹的环境：\n\n🌌 宇宙维度：一个发光的星系，充满彩色星云、遥远的行星、星星和旋转的宇宙能量。\n\n🏔️ 冰封王国：一个神奇的冬季景观，有雪山、冰冻瀑布和轻柔飘落的雪花。\n\n🔥 火焰王国：一个戏剧性的火山世界，有流动的熔岩河、燃烧的天空和发光的余烬。\n\n🌸 樱花天堂：一个宁静的日本景观，满是粉色樱花、传统日本寺庙和美丽的红桥。\n\n🏰 黑暗奇幻领域：一座神秘的哥特式城堡，被黑暗的魔法森林环绕，天空被闪电照亮。\n\n🌆 赛博朋克未来：一座未来主义城市，有高耸的摩天大楼、发光的霓虹灯招牌、飞行车辆以及充满活力的蓝色和紫色灯光。\n\n🌿 魔法森林：一片非凡的魔法森林，有巨大的古树、发光的花朵、漂浮的金色粒子和神秘的瀑布。\n\n☁️ 天堂维度：一个云层之上的壮丽世界，有金色的宫殿、 radiant 的阳光和无边的白云。\n\n🏜️ 失落沙漠文明：一座古老的黄金城市，被沙漠沙丘环绕。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791107308177_uxeiui_HTv0CHuawAArHzn.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "HeisenLegacy"
+      ],
+      "author": "HeisenLegacy",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/MohdAdnanA86218/status/2106545580508152140",
+      "license": "upstream",
+      "createdAt": "2026-10-04"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:53322aa6dd2d543c",
+      "title": "YouTube 缩略图 - 蒸汽朋克《最后的齿轮》提示词",
+      "prompt": "\"The Last Gear\"\n\n机械之城已停止运转。\n我轻轻拾起最后一枚齿轮。\n\n若它能重新咬合，\n这个世界必将再次转动。\n⚙️💧✨",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1791107318784_r0dgd0_HTrLUyqaQAALBxC.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "あいぼりー"
+      ],
+      "author": "あいぼりー",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/HetareIvory/status/2106219851383799820",
+      "license": "upstream",
+      "createdAt": "2026-10-03"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:260272387d55ac54",
+      "title": "YouTube 缩略图 - 夜间救援中的巨型警用机器人",
+      "prompt": "一幅电影级、照片级逼真的夜景画面，展示了一台巨大的双足警用机器人矗立在暴雨中泥泞的灾害响应区中央。这台巨型机器人呈黑白配色，带有工业面板设计，肩部和头部配有红色应急灯，胸部和手臂上标有“警视厅 MPD”（Metropolitan Police Department）字样。其头部由水平排列的多个摄像头镜头组成。机器人脚边围绕着众多急救人员：身穿深色制服、背部印有“MPD”字样的警察，身着橙色装备的消防员，以及穿着带有日文文字蓝色背心的医护人员。左侧是一辆移动指挥车，屏幕上显示着数据地图。背景中，一堆大型废墟或碎片被泛光灯照亮，土堆顶部可见挖掘机。几架无人机悬停在天空中，将明亮的聚光灯投射到湿滑的地面上。氛围紧张且充满高科技感，潮湿的路面反射出光芒，雨丝在漆黑的夜空中清晰可见。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790927580522_6jbl29_HTi7jJyaAAATRkZ.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "カーブミラー"
+      ],
+      "author": "カーブミラー",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/kabumira862571/status/2105639047188369796#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:369a1cdcac203db7",
+      "title": "YouTube 缩略图 - 雪中街头阅读的女子",
+      "prompt": "一张竖构图肖像，展示了一位留着深色长发和柔和刘海的年轻女子，站在黄昏时分的欧洲雪街中。她身穿一件厚实的米色羊毛大衣，脖子上围着一条同色系的粗针织围巾。她双手将一本陈旧的棕色皮革精装书抱在胸前。她的头微微上扬，神情宁静地凝视远方，呼出的气息在冷空气中形成可见的白色雾气。雪花纷纷扬扬地落下，点缀在她的头发和肩膀上。在她左侧，一盏复古煤气路灯散发着温暖的黄色光芒。背景是模糊的鹅卵石街道和历史建筑，窗户透出灯光，天空呈现出紫色与蓝色的暮光色调。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790841309951_bh4xcq_HTb_TqpaIAAL-0W.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "空想AI"
+      ],
+      "author": "空想AI",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/kuusouAI/status/2105150593937584407#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-30"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:13ca0602778128bf",
+      "title": "YouTube 缩略图 - 巨型 MPD 机器人清理残骸",
+      "prompt": "一幅具有电影质感、照片级逼真的图像，展示了一个巨大的双足警用机器人矗立在黄昏时分湿滑的东京高速公路上。该机器人由厚重的黑色机械关节和白色装甲板构成，胸甲上清晰印有黑色的“警視庁”和“MPD”字样。其肩部装有红色警示灯，头部配备复杂的传感器阵列。机器人的左手正将一辆严重挤压变形、扭曲的黑色轿车从地面吊起。场景混乱但有序：前景左侧停着一辆闪烁着红光的日本警车，身穿深色制服和高能见度黄色背心（背心上标有“POLICE”）的警官们正挥舞着发光指挥棒疏导交通。橙色的交通锥排列在潮湿的沥青路面上，路面反射着城市的灯光。背景中，绿色的高速公路指示牌显示着“首都高”、“银座”、“东京站”和“滨松町”的方向。右侧可见一辆带有橙色吊臂的大型拖车。整体氛围阴郁而充满工业感，雨水打湿的表面与模糊的摩天大楼背景相映成趣。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790754868013_kvbhrk_HTYyP3nasAAiwx_.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "カーブミラー"
+      ],
+      "author": "カーブミラー",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/kabumira862571/status/2104925130921267642#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-29"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:555659bd6757feb6",
+      "title": "YouTube 缩略图 - 写实战机视觉转化",
+      "prompt": "基于提供的参考图像，将手绘插图转化为写实电影镜头。保留原有构图，包括带有鲨鱼嘴鼻部涂装的做旧青绿色战斗机，以及佩戴铜色头盔和黄色护目镜的飞行员。模拟高端相机镜头拍摄效果：用逼真的金属质感、清晰可见的铆钉和机身划痕取代绘画笔触。增强背景细节，呈现体积云及下方燃烧景观的高空俯瞰视角，同时保持相同的拍摄角度与动态模糊效果。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790754867229_2r7sis_HTWQozcbIAAwDt1.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "Roboelliotto"
+      ],
+      "author": "Roboelliotto",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/Roboelliotto/status/2104747437210653010#reversed-1",
+      "license": "upstream",
+      "createdAt": "2026-09-29"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:edd325331c118ca1",
+      "title": "YouTube 缩略图 - 温馨复古走廊舞蹈场景",
+      "prompt": "创建一个温馨感人的 3D 动画电影场景，背景设定在一个舒适的复古走廊内。一位留着白色短发、戴着圆框眼镜的老年女性身穿芥末黄宽松上衣、米色裤子和拖鞋，俏皮地摆姿势跳舞；旁边一位身穿浅蓝色衬衫和米色裤子的老年男性蹲在地上，用手机记录她的舞姿。室内采用温暖的金色灯光照明，木质墙壁上挂着装裱好的艺术品，地上铺着图案精美的波斯地毯，头顶悬挂着一盏吊灯，营造出温馨的居家氛围。这位女性自然地变换着俏皮的姿势——张开双臂、指向某处、微笑、举起双手——而男性在拍摄过程中也轻微移动身体。人物表情生动，充满迷人的喜剧节奏感，肢体动作流畅自然，角色形象保持一致。画面呈现类似皮克斯风格的精细 3D 动画效果，具有电影级的景深、逼真的光照、暖色调分级、平滑的镜头运动以及高细节表现，分辨率为 4K。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790754860617_vdh5ui_HTV-_lHXwAAqECp.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "Dua Fatima"
+      ],
+      "author": "Dua Fatima",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/DuaFatimaAi/status/2104728081373999615",
+      "license": "upstream",
+      "createdAt": "2026-09-29"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:7406b9c02f7c5fd4",
+      "title": "YouTube 缩略图 - 东京警方巨型机器人检查站",
+      "prompt": "一张超写实的广角照片，展示了一个巨大的双足警察机器人矗立在繁忙的东京高速公路检查站中央。机器人高耸于汽车之上，拥有复杂的机械设计，包括黑白装甲板、外露的液压关节以及肩部的红色警示灯。它的头部呈矩形，没有面部特征，而是配备了多个摄像头镜头。其胸部和肩部装甲板上印有白色的“警視庁 MPD”（警视厅）字样。它的一只巨大机械手举起做出“停止”手势。前景中，身穿深蓝色制服、头戴白色头盔的人类警察正在指挥交通；一名警官手持发光的红色指挥棒。他们附近竖立着一块白色垂直标牌，上面写着日文“検問実施中”（正在实施检查）。道路上排列着橙色交通锥。右侧停着一辆黑色面包车和其他等待检查的车辆。背景是晴朗的蓝天、现代城市摩天大楼、指示前往“首都高”、“银座”和“上野”方向的绿色高架路牌，以及远处清晰可见的标志性建筑东京晴空塔。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790408750328_1qcz21_HTEDcm-bsAAS-_T.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "カーブミラー"
+      ],
+      "author": "カーブミラー",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/kabumira862571/status/2103466298772762785#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-25"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:1ad6b4caf02b3cf2",
+      "title": "YouTube 缩略图 - 哥特式大教堂暗黑奇幻人像提示词",
+      "prompt": "一张超写实的电影感暗黑奇幻照片，画面中是一位二十岁出头、相貌极其英俊的年轻男子，独自站在巨大的哥特式大教堂拱门之下。他拥有一头浓密自然的黑色波浪卷发，眉毛浓密，深褐色的眼睛深邃迷人，下颌线条清晰雕塑般分明，留着淡淡的自然胡茬，皮肤纹理真实可见毛孔，面部特征精致且充满男性魅力。\n他身穿一件优雅的长款黑色定制大衣，内搭深色高领衬衫，散发出神秘而强大的气场。高耸的哥特式拱门在他头顶戏剧性地升起，装饰着复杂的石雕、风化的柱子和巨大的阴暗拱顶天花板。锐利的金白色光束穿透浓厚的大气烟雾和薄雾，照亮了他脸部和肩膀的部分区域，而大教堂的其他部分则消失在深深的黑暗中。\n古老的石地板略微潮湿且具有反射效果，微弱的尘埃颗粒在光线中漂浮，远处背景中有隐约的烛光，戏剧性的体积光，深邃的阴影，强烈的明暗对比法（Chiaroscuro），哥特式建筑，神秘神圣的氛围，电影般的构图，真实的比例，自然的表情，高度详细的石材纹理，照片级逼真的皮肤，HDR，85mm 镜头，浅景深，戏剧性的透视，黑暗奢华编辑摄影风格，超详细，8K，无女性，无文字，无水印，无 AI 生成的面孔，垂直 9:16。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790322672090_efkze1_HTCFHUbb0AAG1vm.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "HeisenLegacy"
+      ],
+      "author": "HeisenLegacy",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/MohdAdnanA86218/status/2103327399190593748",
+      "license": "upstream",
+      "createdAt": "2026-09-25"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:96ffe2335ae516e7",
+      "title": "YouTube 缩略图 - GPT Image 2 超现实时空分裂人像",
+      "prompt": "一张超写实的电影感超现实照片，描绘了一位二十岁出头、英俊非凡的年轻男子，他正站在两个世纪的分界线上，在 1920 年和 2120 年之间创造出无缝的视觉分裂效果。\n\n他拥有浓密自然的乌黑波浪卷发、粗犷有力的眉毛、深邃的黑褐色眼睛、轮廓分明的雕塑般下颌线、淡淡的自然胡茬、逼真的皮肤纹理、清晰可见的毛孔以及精致的男性面部特征。\n\n图像的左侧代表 1920 年代：一条优雅的复古城市街道，拥有装饰艺术风格的建筑、经典汽车、古老的砖砌建筑、温暖的琥珀色路灯、复古商店招牌、身着 1920 年代西装和大衣的行人、微妙的胶片颗粒感、棕褐色调以及真实的时代氛围。年轻男子身穿剪裁完美的 1920 年代三件套西装，佩戴怀表，脚穿擦得锃亮的皮鞋，发型细节也极具复古韵味。\n\n右侧则代表 2120 年：一座令人叹为观止的未来主义大都市，充满了高耸的玻璃金属摩天大楼、全息广告、自动驾驶飞行汽车、发光的霓虹建筑、未来主义的行人、先进技术、悬浮交通系统以及微妙的大气雾气。年轻男子身穿优雅的未来主义黑色定制西装，配有复杂的金属细节和微妙的发光点缀。\n\n构图中心展示了两个时代在他周围融合的景象，伴有明亮的时间扭曲、漂浮的时钟碎片、粒子以及连接 1920 年与 2120 年的现实涟漪。他的身体在两个时代之间微妙过渡，而面部保持完全一致且完美逼真，象征着一个被困在过去与未来之间的男人。\n\n史诗般的电影构图，对称的世界分裂概念，戏剧性的透视，真实的环境反射，体积光照明，大气深度，物理上准确的材料，高度详细的皮肤，自然的面部表情，照片级真实感，8K HDR，超锐利对焦，电影色彩分级，35mm 摄影，杰作，无文字，无水印。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790322670315_9qsc2c_HS-u0dXbkAAXTRd.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "HeisenLegacy"
+      ],
+      "author": "HeisenLegacy",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/MohdAdnanA86218/status/2103091784179912903",
+      "license": "upstream",
+      "createdAt": "2026-09-24"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:74b32a72ae21ae33",
+      "title": "YouTube 缩略图 - 战斗机座舱视角急转弯",
+      "prompt": "这是一张超写实的照片，采用第一人称视角，捕捉了战斗机座舱内执行激烈空中机动时的场景。镜头位于飞行员戴着手套的左手后方，该手正紧握左下角前景中的操纵杆。透过弯曲的座舱盖玻璃，可以看到前方稍高处有一架战斗机正在向右剧烈倾斜转弯，其加力燃烧室发出明亮的橙色光芒。画面展现了高速转弯带来的强烈动感，下方的云层和地面景观呈现出显著的动态模糊效果。天空呈现鲜艳的蓝色，白色的积云因速度和 G 力的作用而在边缘处拉伸变形。左侧座舱盖玻璃上投射出绿色的数字平视显示器（HUD）叠加层，显示着“G 7.6”、“M 0.92”以及航向“320”等飞行数据。光线为明亮的日光，在座舱框架和仪表上投下逼真的反射。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790322687088_98s9fn_HS-bHIYaEAExSVN.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "あいぼりー"
+      ],
+      "author": "あいぼりー",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/HetareIvory/status/2103070104800088116#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-24"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:3c1b17b2abdd334f",
+      "title": "YouTube 缩略图 - 电影感雨夜电话亭",
+      "prompt": "一张超写实的电影感夜景照片，描绘了一位二十岁出头、容貌出众的英俊年轻男子，在午夜时分坐在一条空旷城市街道上的复古红色电话亭里。他留着浓密自然的黑色波浪卷发，眉毛浓黑，深褐色的双眸深邃迷人，下颌线条清晰立体，脸上带着淡淡的自然胡茬，皮肤质感真实细腻，毛孔清晰可见，五官精致且充满男性魅力。他手持一部老式黑色电话听筒贴近耳边，神情神秘而若有所思，目光微微投向布满雨滴的玻璃窗。\n窗外大雨倾盆，雨珠顺着玻璃面板滑落，浓厚的雾气笼罩着电话亭，柔和地遮蔽了空荡的街道。潮湿的路面反射出电话亭温暖的琥珀色光芒和远处路灯的微光。背景中的复古城市建筑逐渐隐没在迷雾之中。细微的霓虹倒影、电影感的轮廓光、柔和的体积光束、深邃的阴影、忧郁的午夜蓝氛围、潮湿表面上的真实反射、浅景深效果、85mm 镜头、f/1.4 光圈、戏剧性的胶片颗粒感、高动态范围、逼真的皮肤质感、复杂的织物细节、精致的黑色电影美学、神秘而富有情感的氛围、高端杂志摄影风格、8K 分辨率、超高细节、自然比例、无文字、无水印、无女性人物。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790322678007_8pnlfr_HS9QKvpb0AAS5kZ.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "HeisenLegacy"
+      ],
+      "author": "HeisenLegacy",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/MohdAdnanA86218/status/2102987709883298171",
+      "license": "upstream",
+      "createdAt": "2026-09-24"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:e39996581530bdbc",
+      "title": "YouTube 缩略图 - MotoGP 第一人称视角过弯镜头",
+      "prompt": "这是一段在专业赛道上拍摄的高速摩托车第一人称视角（POV）镜头。相机向左剧烈倾斜，模拟高速急转弯的动作。前景中，车手戴着白红相间的皮手套紧握车把，数字仪表盘清晰显示速度为 '93 km/h'，档位指示为 '2'。前方沥青赛道上，另一位身着全套赛车服的车手正深度压弯，车身几乎与地面平行。背景因运动模糊而显得朦胧：绿树、远处山脉、点缀着零星云朵的湛蓝天空，以及赛道边缘的红白路肩。自然日光照明在路面和头盔上营造出逼真的反射效果。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790236338275_sw2104_HS4ANp1bcAACA--.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "あいぼりー"
+      ],
+      "author": "あいぼりー",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/HetareIvory/status/2102702010663313873#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-23"
+    },
+    {
+      "id": "youmind-gpt-image-2:youmind-gpt-image-2:a9898aa6f9a3cfb6",
+      "title": "YouTube 缩略图 - AI 写实缩略图：提灯笼的女孩",
+      "prompt": "创建一张垂直 9:16 比例的社交媒体缩略图。背景是一张超写实、高分辨率的照片，画面中两名留着棕色卷发的小女孩身穿复古白色蕾丝边连衣裙，站在暮色中的郁郁葱葱的花园里。她们手持并装饰着发光的粉色纸灯笼。周围环绕着大型白色百合花和柔焦粉色玫瑰。在中心位置叠加粗体无衬线文字：“AI Made This Painting”为白色，下一行“Real”为黄色。在文字下方，放置一个较小的矩形插图，展示原始的印象派油画（两名提灯笼的女孩），配有金色画框，并有一个手绘黄色箭头从画作指向写实的场景。",
+      "media": "image",
+      "model": "gpt-image-2",
+      "coverUrl": "https://cms-assets.youmind.com/media/1790150024233_00ki5y_HS33DZ9aQAAZaBs.jpg",
+      "videoUrl": null,
+      "tags": [
+        "youmind-gpt-image-2",
+        "gpt-image-2",
+        "YouTube 缩略图",
+        "VideoProc AI"
+      ],
+      "author": "VideoProc AI",
+      "source": "youmind-gpt-image-2",
+      "sourceUrl": "https://x.com/ProcVideo/status/2102608261904323059#reversed-0",
+      "license": "upstream",
+      "createdAt": "2026-09-23"
     }
   ]
 }
