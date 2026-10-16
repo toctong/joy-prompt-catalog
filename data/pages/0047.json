@@ -1,0 +1,954 @@
+{
+  "items": [
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-10",
+      "title": "Structured Photorealistic Chihuahua on Balcony (Duplicate)",
+      "prompt": "{\n  \"type\": \"image_prompt\",\n  \"format\": \"photorealistic\",\n  \"aspect_ratio\": \"1536:1358\",\n  \"scene\": {\n    \"setting\": \"outdoor balcony/terrace with a glass railing\",\n    \"time_of_day\": \"daytime\",\n    \"weather\": \"clear\",\n    \"foreground_surface\": \"large rectangular lounge cushion with a light beige/cream top, gray side panels, and visible piping seams\"\n  },\n  \"subject\": {\n    \"primary_subject\": \"small long-haired chihuahua\",\n    \"pose\": \"lying down on the cushion with front paws forward, relaxed body, head slightly raised\",\n    \"expression\": \"calm, slightly squinting in bright sun\",\n    \"fur\": {\n      \"color\": \"warm golden-brown/tan with lighter cream highlights\",\n      \"texture\": \"fluffy long coat with wispy strands around ears and neck\",\n      \"markings\": \"slightly grayer muzzle and chin; lighter fur on paws/toes\"\n    },\n    \"features\": {\n      \"ears\": \"large upright ears with feathery fur\",\n      \"eyes\": \"dark brown, glossy\",\n      \"nose\": \"small black nose\"\n    }\n  },\n  \"background\": {\n    \"midground\": \"calm blue water (bay/harbor) with a tree-lined shoreline/island\",\n    \"distant_elements\": [\n      \"multiple large white cruise ships\",\n      \"port cranes/industrial structures on the left\",\n      \"hazy city skyline with high-rise buildings on the right\"\n    ],\n    \"structure\": \"a white vertical balcony pillar centered behind the dog\",\n    \"depth_of_field\": \"background noticeably blurred/soft compared to the dog\"\n  },\n  \"lighting\": {\n    \"type\": \"strong natural sunlight\",\n    \"direction\": \"from the left/front-left\",\n    \"effects\": [\n      \"bright highlights on the dog’s fur\",\n      \"soft shadows and a diagonal shadow across the cushion\"\n    ]\n  },\n  \"composition\": {\n    \"framing\": \"medium close-up with the dog occupying the right half of the frame\",\n    \"focus\": \"sharp focus on the dog; background out of focus\",\n    \"camera_angle\": \"eye-level/slightly above the dog\",\n    \"mood\": \"warm, tranquil, sunbathing\"\n  },\n  \"color_palette\": [\n    \"golden tan\",\n    \"cream/beige\",\n    \"cool blue\",\n    \"soft gray\",\n    \"white\"\n  ],\n  \"prompt\": \"A photorealistic daytime balcony scene: a small long-haired chihuahua with warm golden-brown/tan fur and lighter cream highlights lies relaxed on a large rectangular lounge cushion (light beige/cream top with gray sides and piped seams). The dog faces slightly left, head raised, calm expression with slightly squinting dark eyes, upright feathery ears, small black nose, and a subtly grayer muzzle; front paws forward with lighter fur on the toes. Strong natural sunlight from the left creates bright highlights on the fur and soft shadows across the cushion. Behind the dog is a glass balcony railing, a white vertical pillar centered in the background, and a soft, defocused view of a blue bay/harbor with a tree-lined shoreline, several large white cruise ships, port cranes in the distance, and a hazy city skyline of high-rise buildings on the right. Shallow depth of field, crisp focus on the\"\n}",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-10-Structured-Photorealistic-Chihuahua-on-Balcony-Duplicate.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Sura Baghirova",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-11",
+      "title": "Structured Photorealistic Chihuahua on Balcony",
+      "prompt": "{\n  \"type\": \"image_prompt\",\n  \"format\": \"photorealistic\",\n  \"aspect_ratio\": \"1536:1358\",\n  \"scene\": {\n    \"setting\": \"outdoor balcony/terrace with a glass railing\",\n    \"time_of_day\": \"daytime\",\n    \"weather\": \"clear\",\n    \"foreground_surface\": \"large rectangular lounge cushion with a light beige/cream top, gray side panels, and visible piping seams\"\n  },\n  \"subject\": {\n    \"primary_subject\": \"small long-haired chihuahua\",\n    \"pose\": \"lying down on the cushion with front paws forward, relaxed body, head slightly raised\",\n    \"expression\": \"calm, slightly squinting in bright sun\",\n    \"fur\": {\n      \"color\": \"warm golden-brown/tan with lighter cream highlights\",\n      \"texture\": \"fluffy long coat with wispy strands around ears and neck\",\n      \"markings\": \"slightly grayer muzzle and chin; lighter fur on paws/toes\"\n    },\n    \"features\": {\n      \"ears\": \"large upright ears with feathery fur\",\n      \"eyes\": \"dark brown, glossy\",\n      \"nose\": \"small black nose\"\n    }\n  },\n  \"background\": {\n    \"midground\": \"calm blue water (bay/harbor) with a tree-lined shoreline/island\",\n    \"distant_elements\": [\n      \"multiple large white cruise ships\",\n      \"port cranes/industrial structures on the left\",\n      \"hazy city skyline with high-rise buildings on the right\"\n    ],\n    \"structure\": \"a white vertical balcony pillar centered behind the dog\",\n    \"depth_of_field\": \"background noticeably blurred/soft compared to the dog\"\n  },\n  \"lighting\": {\n    \"type\": \"strong natural sunlight\",\n    \"direction\": \"from the left/front-left\",\n    \"effects\": [\n      \"bright highlights on the dog’s fur\",\n      \"soft shadows and a diagonal shadow across the cushion\"\n    ]\n  },\n  \"composition\": {\n    \"framing\": \"medium close-up with the dog occupying the right half of the frame\",\n    \"focus\": \"sharp focus on the dog; background out of focus\",\n    \"camera_angle\": \"eye-level/slightly above the dog\",\n    \"mood\": \"warm, tranquil, sunbathing\"\n  },\n  \"color_palette\": [\n    \"golden tan\",\n    \"cream/beige\",\n    \"cool blue\",\n    \"soft gray\",\n    \"white\"\n  ],\n  \"prompt\": \"A photorealistic daytime balcony scene: a small long-haired chihuahua with warm golden-brown/tan fur and lighter cream highlights lies relaxed on a large rectangular lounge cushion (light beige/cream top with gray sides and piped seams). The dog faces slightly left, head raised, calm expression with slightly squinting dark eyes, upright feathery ears, small black nose, and a subtly grayer muzzle; front paws forward with lighter fur on the toes. Strong natural sunlight from the left creates bright highlights on the fur and soft shadows across the cushion. Behind the dog is a glass balcony railing, a white vertical pillar centered in the background, and a soft, defocused view of a blue bay/harbor with a tree-lined shoreline, several large white cruise ships, port cranes in the distance, and a hazy city skyline of high-rise buildings on the right. Shallow depth of field, crisp focus on the dog, background\"\n}",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-11-Structured-Photorealistic-Chihuahua-on-Balcony.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Sura Baghirova",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-12",
+      "title": "Surreal Diorama from 'Brave New World'",
+      "prompt": "Surreal diorama emerging from an open vintage book of \"{argument name=\"book title\" default=\"Brave New World\"}\" by {argument name=\"author\" default=\"Aldous Huxley\"}: the pages form a futuristic hatching laboratory with rows of glowing test tubes containing embryonic figures on conveyor belts, lab-coated workers in white uniforms operating machines, a large all-seeing eye symbol on the wall, conveyor belts moving via hidden mechanisms, cool blue neon lighting, hyper-detailed miniature sculpture, clinical and eerie atmosphere, photorealistic.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-12-Surreal-Diorama-from-Brave-New-World.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "3D"
+      ],
+      "author": "Gadgetify",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-13",
+      "title": "Cinematic Winter Fashion Portrait on a Mountain Peak",
+      "prompt": "A cinematic winter fashion portrait of a stylish young woman sitting on a snow-covered mountain peak, surrounded by vast alpine ranges under a soft golden-hour sky. She wears a {argument name=\"jacket color\" default=\"pastel pink\"} puffer jacket layered over a heart-patterned fleece, embroidered dark denim jeans with a bold tiger motif, retro yellow-tinted sunglasses, brown leather gloves, and colorful sneakers. A playful yellow beanie with a graphic face adds a pop-art vibe. Beside her sits a vintage pink portable cassette player on the snow, adding nostalgic charm. Relaxed confident pose, looking into the distance, wind gently moving her hair. Google Gemini Ultra-realistic, crisp details, editorial fashion photography, natural cold tones balanced with warm sunlight, shallow depth of field, cinematic composition, high resolution, lifestyle-meets-adventure aesthetic.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-13-Cinematic-Winter-Fashion-Portrait-on-a-Mountain-Peak.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "Smiling Khan",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-14",
+      "title": "Philosophical AI Reflection Painting Prompt",
+      "prompt": "In a philosophical sense, the output of AI is a mirror image of human input. Draw a painting that visualizes this sentence.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-14-Philosophical-AI-Reflection-Painting-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "石の裏に潜む黒いヤツ",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-15",
+      "title": "Complex Four-Quadrant Paper World Composite Prompt",
+      "prompt": "A seamless 16:9 full-frame composite image divided into four distinct quadrants. **CRITICAL:** The four sections touch each other directly. NO GREY BACKGROUND. NO BORDERS. NO GAPS. The image is filled edge-to-edge with paper details.\n\n**Composition:** A split-screen view looking deep into four different paper worlds.\n\n1) **Top-Left (Luckin):** A wide view of a magical paper forest. Blue and white paper clouds and coffee leaves fill the quadrant completely. A white paper stag leaps through the density.\n2) **Top-Right (Google):** A wide view of a **\"Topographic Map\" style paper cavern**. The \"G\" logo is formed by **hundreds of thin sheets** of Blue, Red, Yellow, and Green paper stacked horizontally. It looks like a sediment canyon or a contour map. Visible paper fibers and sharp cut edges. NO plastic smoothness.\n3) **Bottom-Left (Coke):** A wide view of a red paper explosion. The Coke bottle is a **Negative Space Silhouette**—a deep hole void cut through dense layers of red paper. White paper ribbons span across the void.\n4) **Bottom-Right (McDonald's):** A wide view of a yellow paper city. Vertical strips of yellow paper (french fries) stand densely packing the frame. The Golden Arches rise from deep within the layers.\n\n**Global Material:** Everything is matte cardstock.\n**Lighting:** Soft, even studio lighting revealing the depth of the paper cuts.\n**Tech:** Octane render, 8k, --ar 16:9 --stylize 400 --no borders, frames, background wall, isolated objects, 3d plastic, seamless texture",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-15-Complex-Four-Quadrant-Paper-World-Composite-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "两斤",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-16",
+      "title": "Seasonal Grim Reaper in a Roman City",
+      "prompt": "a hooded grim reaper with a {argument name=\"hat type\" default=\"Santa hat\"} on the hood and with glowing blue digital hand armor, holding up an illuminated chain of numbers in the air, against an ancient roman city background, in a cinematic, hyper-realistic style",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-16-Seasonal-Grim-Reaper-in-a-Roman-City.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Video"
+      ],
+      "author": "Teser Dawn",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-17",
+      "title": "Hyperrealistic Dark Fantasy Mage Portrait",
+      "prompt": "Hyperrealistic dark fantasy portrait of a mysterious hooded mage standing in snowfall,same person (keep original face exactly same), cold blue ambient lighting, intricate shadow details on face, glowing magical orb held carefully between his fingers, soft golden light illuminating his hands, ancient runic tattoos across his face, subtle scars, intense focused eyes, dramatic wet hood texture with snowflakes resting on the fabric, highly detailed dark leather armor with engraved patterns and woven cords, cinematic depth of field, moody atmospheric fog, drifting snow particles, ultra-detailed textures, realistic skin shading, dark mystical background, 8k resolution, fantasy concept art, weta digital style, volumetric lighting, ethereal magical glow effects, emotionally intense and mysterious expression",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-17-Hyperrealistic-Dark-Fantasy-Mage-Portrait.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "Harboriis",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-18",
+      "title": "Historical Event Image Generation: Sam Altman Launching YC Research and Continuity",
+      "prompt": "Show {argument name=\"person name\" default=\"Sam Altman\"} in {argument name=\"year\" default=\"2015\"} launching {argument name=\"event 1\" default=\"YC Research\"} and {argument name=\"event 2\" default=\"YC Continuity\"}.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-18-Historical-Event-Image-Generation-Sam-Altman-Launching-YC-Research-and-Continuity.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "DΞV",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-19",
+      "title": "MLK 'I Have a Dream' Speech Scene",
+      "prompt": "1963 MLK 'I Have a Dream' speech, massive crowd, Lincoln Memorial in background.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-19-MLK-I-Have-a-Dream-Speech-Scene.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "DΞV",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-20",
+      "title": "Virtual Try-On/Concept Generation",
+      "prompt": "Dress the person from the image on the left in the clothes from the reference images on the top",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-20-Virtual-Try-On-Concept-Generation.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "DΞV",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-21",
+      "title": "Photorealistic Fashion Editorial Portrait",
+      "prompt": "{\n  \"prompt\": \"Photorealistic fashion editorial portrait of a young woman in her early 20s with warm medium tan skin tone and flawless complexion, voluminous long curly dark brown hair with tight ringlets and frizzy texture cascading wildly over her shoulders and down her back, oval face with soft features, almond-shaped hazel eyes gazing sideways with a contemplative serene expression, arched eyebrows, straight narrow nose, full natural lips in nude matte finish, high cheekbones and delicate jawline, standing in a three-quarter profile facing left with head turned slightly toward the camera, wearing an oversized shimmering white sequined jacket covered in large circular silver paillettes that reflect light dramatically, fringed hem at the bottom, layered over light blue high-waisted denim jeans, carrying a luxurious cream-colored leather Gucci shoulder bag with interlocking GG logo in gold hardware and detachable gold chain strap draped diagonally across her torso, slim athletic hourglass figure with estimated proportions 34-25-37 inches, small C-cup breasts subtly contoured under the jacket, overall height around 5'9\\\" for proportional scaling, advanced anatomical details including sagittal bust depth of about 5 inches from sternum to apex for gentle projection, waist depth of 4 inches at navel for slim taper, hip depth of 7 inches at widest point for smooth feminine S-curve transitions, toned long legs and arms without heavy muscle definition, no visible tattoos or additional jewelry, pose relaxed and casual with one hand possibly in pocket and shoulders slightly slouched for effortless cool vibe, camera angle at eye level with medium shot framing from mid-thigh upward focusing on upper body, face, hair volume, sequins, and bag prominently, background of a cozy luxurious interior with warm wooden paneled walls, a tall teal ceramic table lamp with pleated beige shade on a round glass side table casting soft golden light, stack of books nearby, subtle mirror reflection on the right, soft ambient warm lighting with gentle highlights on sequins, hair curls, leather bag, and skin creating sparkling reflections and subtle shadows for depth, high-resolution 8K photorealism with razor-sharp focus on facial details, sequin textures, hair strands, and leather sheen for a sophisticated glamorous yet casual editorial vibe\",\n  \"negative_prompt\": \"blurry, deformed, extra limbs, poorly drawn face, bad anatomy, watermark, text, signature, overexposed, underexposed, cartoon, illustration, drawing, anime, low quality, artifacts, ugly, mutated hands\",\n  \"steps\": 50,\n  \"sampler_name\": \"DPM++ 2M Karras\",\n  \"cfg_scale\": 7,\n  \"width\": 832,\n  \"height\": 1216,\n  \"seed\": -1,\n  \"model\": \"realisticVisionV51\"\n}",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-21-Photorealistic-Fashion-Editorial-Portrait.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "Sienna",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-22",
+      "title": "Structured Selfie Portrait Prompt",
+      "prompt": "{\n  \"scene\": {\n    \"type\": \"bedroom_interior\",\n    \"lighting\": \"natural_daylight\",\n    \"atmosphere\": \"casual, cozy, domestic\"\n  },\n  \"subject\": {\n    \"pose\": {\n      \"position\": \"lying_prone_on_bed\",\n      \"orientation\": \"facing_camera\",\n      \"legs\": \"knees_bent_upwards, ankles_crossed\",\n      \"arms\": \"left_arm_extended_for_selfie\",\n      \"head\": \"resting_on_pillow\"\n    },\n    \"appearance\": {\n      \"hair\": \"long, straight, {argument name=\"hair color\" default=\"pink\"}\",\n      \"expression\": \"gentle_smile, direct_eye_contact\",\n      \"complexion\": \"fair, rosy_cheeks\"\n    },\n    \"attire\": {\n      \"top\": {\n        \"item\": \"tank_top\",\n        \"color\": \"light_green\",\n        \"texture\": \"ribbed\",\n        \"style\": \"spaghetti_straps\"\n      },\n      \"bottom\": {\n        \"item\": \"gym shorts\",\n        \"color\": \"light_green\",\n        \"details\": \"ruffled_hem, scrunched_texture\"\n      },\n      \"accessories\": {\n        \"feet\": \"white_crew_socks\"\n      }\n    }\n  },\n  \"environment\": {\n    \"bedding\": {\n      \"sheets\": \"white, rumpled\",\n      \"pillows\": \"white_with_floral_pattern\",\n      \"duvet\": \"white, puffy\"\n    },\n    \"background_elements\": {\n      \"windows\": {\n        \"quantity\": 2,\n        \"features\": \"white_frames, horizontal_blinds\"\n      },\n      \"furniture\": {\n        \"side_furniture\": {\n        \"side_table\": {\n          \"location\": \"left_side\",\n          \"visible_items\": [\n            \"skincare_products\",\n            \"pink_mug\",\n            \"small_potted_plant\",\n            \"tissues\"\n          ]\n        }\n      }\n    }\n  },\n  \"composition\": {\n    \"angle\": \"high_angle_selfie\",\n    \"framing\": \"medium_shot\",\n    \"focus\": \"sharp_subject, soft_background\"\n  }\n}",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-22-Structured-Selfie-Portrait-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "KeorUnreal",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-23",
+      "title": "Raw Realistic Amateur Photography Style",
+      "prompt": "1:1 aspect ratio\n\nRaw Realistic candid natural amateur photo, background in focus, amateur candid photography, Captured on {argument name=\"camera model\" default=\"Samsung Galaxy S21 Ultra\"}, amateur candid smartphone photography, 24mm lens, f/8, Boring reality, natural soft shadows, candid snapshot, flat natural lighting, Realism, low contrast, disposable camera vibe, casual photography, background also completely in focus, Tiny imperfections, everyday aesthetic, slight JPEG artifacts, unpolished look, unedited, imperfect amateur photo\n\nonly create real, non fictional images for max effect",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-23-Raw-Realistic-Amateur-Photography-Style.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Bearly AI",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-24",
+      "title": "Multiple Image Edits and Text Replacement",
+      "prompt": "Replace the text \"Internet\" with \"GPT-IMAGE-1.5\". Replace the Japanese sub header with \"Now Available on Comfy Cloud\" in Japanese text. Do not interpret the words 'Comfy Cloud', this is the name of a product. Replace the \"'83\" with \"'25\". Replace the screen with a node based interface. The boy is facing the viewer with a thumbs up.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-24-Multiple-Image-Edits-and-Text-Replacement.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "ComfyUI",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-25",
+      "title": "Festive Wallpaper Prompt",
+      "prompt": "The bright, vibrant colors create a festive, celebratory mood 🎅",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-25-Festive-Wallpaper-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Viki",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-26",
+      "title": "GPT Image 1.5 Style Description for 90s Film Aesthetic",
+      "prompt": "While maintaining the decadent mood and texture characteristic of 90s films,\nreconstruct only the figures to be realistic.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-26-GPT-Image-1.5-Style-Description-for-90s-Film-Aesthetic.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "ふうこい",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-27",
+      "title": "Character Visual Update while Preserving Original Atmosphere",
+      "prompt": "Change the character to a “more realistic visual” while keeping the atmosphere of the original work intact.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-27-Character-Visual-Update-while-Preserving-Original-Atmosphere.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "ふうこい",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-28",
+      "title": "Black and White Fine Art Portrait with Selective Color",
+      "prompt": "A dramatic black-and-white fine art portrait of the person in the uploaded picture (preserve face 100%), captured in a close-up, three-quarter profile. Soft directional lighting sculpts the face and upper body, creating deep shadows and a cinematic chiaroscuro effect.\n\nThe subject wears a simple unbranded T-shirt in a randomly chosen solid color: [{argument name=\"T-shirt color\" default=\"red/ yellow/ black/ white/ teal/ maroon\"}].\nOnly the T-shirt color is visible — all other elements remain strictly monochromatic black-and-white. Natural fabric folds are clearly visible, with realistic texture and contrast.\n\nThe subject’s expression is [{argument name=\"emotion\" default=\"calm / introspective / confident / serene / melancholic\"}], with relaxed features and a gentle gaze directed [{argument name=\"gaze direction\" default=\"TOWARDS THE CAMERA / AWAY / DOWNWARD\"}].\n\nSkin texture appears natural and detailed, with smooth tonal transitions. Styling is minimal, emphasizing light, form, and emotion rather than fashion. A dark, unobtrusive background fades into black, creating a timeless studio portrait aesthetic.\n\nHigh-contrast monochrome tones with selective color isolation on the T-shirt only, subtle film grain, shallow depth of field, classic fine-art photography style. Ultra-high resolution, professional studio quality, intimate, elegant, emotionally evocative.\"",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-28-Black-and-White-Fine-Art-Portrait-with-Selective-Color.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "Yellow Bird",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-29",
+      "title": "Cool Illustration of Ouroboros",
+      "prompt": "Generate an image that coolly depicts an illustration of the Ouroboros, two snakes eating each other, symbolizing a closed system.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-29-Cool-Illustration-of-Ouroboros.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "石の裏に潜む黒いヤツ",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-30",
+      "title": "Aesthetic Hairstyle Comparison Grid",
+      "prompt": "description: \"A clean, aesthetic 3x3 collage portrait showcasing different men's hairstyles. The same young man is captured in each frame, positioned in consistent lighting and pose, creating a style comparison grid.\",\n\n  \"subject\": {\n    \"type\": \"young man\",\n    \"age\": \"early 20s\",\n    \"skin_tone\": \"medium with smooth texture\",\n    \"facial_features\": \"sharp jawline, well-groomed beard stubble, symmetrical face\",\n    \"expression\": \"neutral and confident\"\n  },\n\n  \"hairstyles\": [\n    \"{argument name=\"hairstyle 1\" default=\"clean shaved buzz cut\"}\",\n    \"{argument name=\"hairstyle 2\" default=\"slicked back classic hairstyle\"}\",\n    \"{argument name=\"hairstyle 3\" default=\"medium wavy long hair\"}\",\n    \"{argument name=\"hairstyle 4\" default=\"short textured fringe\"}\",\n    \"{argument name=\"hairstyle 5\" default=\"voluminous messy hairstyle\"}\",\n    \"{argument name=\"hairstyle 6\" default=\"man bun\"}\",\n    \"{argument name=\"hairstyle 7\" default=\"cornrow braids\"}\",\n    \"{argument name=\"hairstyle 8\" default=\"side swept modern fade\"}\",\n    \"{argument name=\"hairstyle 9\" default=\"tight curly textured cut\"}\"\n  ],\n\n  \"environment\": {\n    \"location\": \"outdoor courtyard with white architecture arches\",\n    \"lighting\": \"soft sunset golden-hour lighting\",\n    \"background\": \"slightly blurred but clean and minimal\"\n  },\n\n  \"camera\": {\n    \"shot\": \"shoulder-level portrait\",\n    \"angle\": \"eye-level\",\n    \"lens\": \"standard lens (50mm)\",\n    \"composition\": \"consistent framing for all nine shots\"\n  },\n\n  \"wardrobe\": {\n    \"top\": \"plain fitted white t-shirt\",\n    \"style\": \"minimal, clean, modern\"\n  },\n\n  \"mood\": [\n    \"stylish\",\n    \"fresh\",\n    \"groomed\",\n    \"aesthetic\"\n  ]\n}",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-30-Aesthetic-Hairstyle-Comparison-Grid.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "Dr.duet",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-31",
+      "title": "Candid Cinematic Lifestyle Photograph of Father and Child",
+      "prompt": "A candid, cinematic lifestyle photograph of a tired father and his young child sitting together on a worn vintage couch in a dimly lit living room at night. The father recline casually, holding a TV remote toward the camera with one hand while drinking from a glass bottle with the other, relaxed yet exhausted. Beside him, the child sits quietly with a bowl of potato chips, wide-eyed and absorbed in whatever is playing on the television. Soft, moody tungsten lighting casts gentle shadows on the wall behind them, creating an intimate, realistic atmosphere. Shot from a low, front-facing angle with slight wide-angle distortion for a raw, documentary feel.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-31-Candid-Cinematic-Lifestyle-Photograph-of-Father-and-Child.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Video"
+      ],
+      "author": "Smiling Khan",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-32",
+      "title": "Harajuku Decora Pop Art Poster of Aniko",
+      "prompt": "【Request for Production: Character 'Kawaii' Remix】 Using the attached image of the character (Aniko) as a model, could you draw a highly dense and vibrant poster art where she has become a Harajuku fashion icon? 【Points to Infer】 Outfit Upgrade: Do not be constrained by the 'school uniform' element of the original image. Based on her hair color and eye color, devise a much flashier outfit, heavily accessorized, based on **'Harajuku Decora' and 'Y2K fashion'**. (Examples: layered colorful hoodies, frilled skirts, platform sneakers, excessive amounts of hairpins and plastic accessories, etc.) Space Direction: Please use an art style that fills in all 'empty space'. Scatter bursting candies, stars, hearts, ribbons, and comic-style effects like 'BAM!' and 'POP!' in the background to express a **'visually information-overloaded happiness'** like an overturned toy box. Composition and Pose: Use a defenseless, floating pose, as if released from gravity and floating in the air, or lying on a bed and photographed from above. A dynamic composition that uses ultra-wide-angle lens perspective to make hands, feet, and shoes appear large would be appreciated. Typography: Design the text **'ANIKO'** as a shiny, balloon-like 3D logo and place it prominently as the main element of the screen. 【Target Visual】 The violence of 'Kawaii'. Aim for a supremely high-tension pop art that is overflowing with color and feels like your brain is melting just by looking at it. 【Highest Priority】 My instructions are only references for direction; please prioritize the highest quality visual outcome and select or discard my information accordingly. --stylize 1400 --ar 16:9",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-32-Harajuku-Decora-Pop-Art-Poster-of-Aniko.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "Toshi@ニャルオAI",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-33",
+      "title": "3D Kawaii Seasonal Sticker Sheet",
+      "prompt": "Create a 3D kawaii 2:3 canvas featuring nine chibi-style stickers dressed in seasonal and holiday-themed outfits including {argument name=\"theme 1\" default=\"Christmas\"}, {argument name=\"theme 2\" default=\"Halloween\"}, {argument name=\"theme 3\" default=\"summer beach\"}, {argument name=\"theme 4\" default=\"winter cozy\"}, {argument name=\"theme 5\" default=\"spring flowers\"}, {argument name=\"theme 6\" default=\"autumn leaves\"}, {argument name=\"theme 7\" default=\"birthday party\"}, {argument name=\"theme 8\" default=\"graduation\"}, and {argument name=\"theme 9\" default=\"New Year celebration\"}. Use the attached image for reference. Each sticker has a white border with shadow effects and includes festive speech bubbles featuring phrases like \"{argument name=\"phrase 1\" default=\"Happy Holidays!\"}\", \"{argument name=\"phrase 2\" default=\"Spooky!\"}\", \"{argument name=\"phrase 3\" default=\"Beach vibes\"}\", \"{argument name=\"phrase 4\" default=\"Cozy time\"}\", \"{argument name=\"phrase 5\" default=\"Celebrate!\"}\", and \"{argument name=\"phrase 6\" default=\"Yay us!\"}\". Set on a soft gradient background transitioning from white to pastel rainbow tones for a festive, versatile vibe suitable for year-round WhatsApp sharing.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-33-3D-Kawaii-Seasonal-Sticker-Sheet.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "3D"
+      ],
+      "author": "SaaS Junction || AI & SaaS Updates",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-34",
+      "title": "GPT-image 1.5 Test Prompt for a Detailed Scene",
+      "prompt": "A girl with {argument name=\"hair color\" default=\"long black hair\"} and {argument name=\"clothing\" default=\"a white dress\"} stands on the rooftop of a skyscraper in a futuristic city, looking up at the night sky. The city is illuminated by neon lights and holographic advertisements. The composition is a wide shot, with the girl positioned slightly off-center to the right. The lighting is dramatic, with strong shadows and highlights emphasizing the contrast between the girl and the vibrant city lights. The style is cinematic and highly detailed, reminiscent of {argument name=\"art style\" default=\"cyberpunk anime\"}.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-34-GPT-image-1.5-Test-Prompt-for-a-Detailed-Scene.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Video"
+      ],
+      "author": "eagle0wl（いーぐる） / km",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-35",
+      "title": "Image-to-Image Clothing Swap Prompt",
+      "prompt": "Take the clothing from the reference and change mine to match it",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-35-Image-to-Image-Clothing-Swap-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "CHAO2U AI",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-36",
+      "title": "Cinematic Storyboard Contact Sheet",
+      "prompt": "A 3x3 grid storyboard contact sheet comprised of nine candid, cinematic movie stills showing a continuous sequence of a young man, approximately 20-25 years old. He has tousled brown hair and a youthful, expressive face, clean-shaven. Across all nine panels, he is consistently wearing a {argument name=\"shirt color\" default=\"brown\"} short-sleeved linen button-down shirt and is seated at a wooden dining table during a family dinner. The panels show varied natural actions: gesturing with his hands while animatedly talking, laughing, eating {argument name=\"food\" default=\"lasagna\"} from a large dish, listening intently, and smiling. The environment is a warm, cozy home dining room with a wooden hutch filled with china and patterned wallpaper visible in the background. The lighting is soft, warm tungsten evening light creating natural shadows. The shots are a mix of medium angles and close-ups with a shallow depth of field, rendered with a film photography aesthetic and slight grain.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-36-Cinematic-Storyboard-Contact-Sheet.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Video"
+      ],
+      "author": "Oogie",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-37",
+      "title": "Outfit Change to Tuxedo and Bow Tie",
+      "prompt": "Change my outfit here to a Tuxedo and a bow tie.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-37-Outfit-Change-to-Tuxedo-and-Bow-Tie.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Sola Awodiya",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-38",
+      "title": "Character Feature Description Prompt (Japanese)",
+      "prompt": "Please create an image that points to various parts of this character with lines, and explains the features of each part in Japanese.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-38-Character-Feature-Description-Prompt-Japanese.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "AI_only",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-39",
+      "title": "Hyper-realistic Studio Portrait with Oversized Product Integration (Sprite)",
+      "prompt": "A full-body hyper-realistic studio portrait of a man from attached photo [{argument name=\"jacket color\" default=\"green\"} bomber jacket, {argument name=\"shirt color\" default=\"white\"} t-shirt, {argument name=\"pants color\" default=\"black\"} jeans, {argument name=\"sneaker color\" default=\"green\"} sneakers ] in a [{argument name=\"pose\" default=\"relaxed\"}] pose, leaning gracefully beside a large [ can of {argument name=\"product name\" default=\"sprite\"}] positioned [{argument name=\"product position\" default=\"vertical\"}] on a smooth [{argument name=\"floor color\" default=\"green\"}] floor. The object appears oversized and realistic, perfectly integrated with the subject — not floating. Its surface shows accurate texture, reflections, and material depth. The pose defines the subject’s attitude and interaction with the object — natural, stylish, and expressive. The character is balanced and confident, matching the object’s tone and style. Background is seamless, same color for wall and floor, slightly lighter below with soft reflections. Lighting: clean professional studio setup — diffused key from front-left, mild fill from right, subtle rim for separation, evenly balanced exposure. Mood: cinematic luxury editorial with minimal composition and photorealistic realism.\"",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-39-Hyper-realistic-Studio-Portrait-with-Oversized-Product-Integration-Sprite.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "ராஜேஷ்",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-40",
+      "title": "Western Manuscript Style Illustration for 'Orychophragmus violaceus'",
+      "prompt": "Draw 'Orychophragmus violaceus' in the design and style of a Western-style ancient document. Use a two-page spread of the ancient document for the drawing. Create the impression that various texts are explaining things around the picture. Make it look worn out and used.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-40-Western-Manuscript-Style-Illustration-for-Orychophragmus-violaceus.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Vania",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-41",
+      "title": "Artistic Composition Strategy Prompt",
+      "prompt": "Step 1: Increase information\nEliminate horizontal and vertical lines and make various parts of the picture diagonal. Increase variations in joint twists, composition, poses, camera tilt, etc.\n\nStep 2: Reduce information\nThoroughly erase information that doesn't need to be seen. Draw faces precisely and omit others.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-41-Artistic-Composition-Strategy-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "榊正宗🫛ずんだもん発案者",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-42",
+      "title": "Prompt to Generate Intentionally Bad, Child-like Crayon Drawings",
+      "prompt": "Place the subject standing in the center, with a plain pose and composition, giving the impression of poor quality, like a child's scribble who just started drawing. The style should be a hand-drawn, anime-style color sketch using rough crayon lines (leaving the under-drawing lines), emphasizing the poor quality!",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-42-Prompt-to-Generate-Intentionally-Bad-Child-like-Crayon-Drawings.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "榊正宗🫛ずんだもん発案者",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-43",
+      "title": "Clothing Separation Prompt for GPT Image 1.5",
+      "prompt": "Give each piece of her clothing separately on the bed",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-43-Clothing-Separation-Prompt-for-GPT-Image-1.5.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "CHAO2U AI",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-44",
+      "title": "Still-Life Object Portrait Illusion",
+      "prompt": "Create an image that looks like a tabletop still-life of many small objects {argument name=\"objects\" default=\"buttons, screws, coins, leaves, matchsticks\"} scattered naturally, yet from a top-down view they form a clear human face portrait through careful arrangement and shading. Use neutral tones, soft overhead light, and gentle vignette. The face should emerge at mid-distance viewing: close up it’s “just objects,” zoomed out it’s unmistakably a portrait. Add realistic cast shadows under each object to enhance depth. Background: worn wooden table with scratches. Keep the arrangement organic, not too symmetrical. No text, no obvious outlines, no artificial glow.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-44-Still-Life-Object-Portrait-Illusion.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "Umesh",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-45",
+      "title": "Hyper-Realistic Cinematic Portrait",
+      "prompt": "{\n  \"render_goal\": \"Create a hyper-realistic, cinematic portrait with a rugged outdoor adventure aesthetic\",\n  \"subject\": {\n    \"gender\": \"male\",\n    \"age_range\": \"mid-to-late 20s\",\n    \"appearance\": {\n      \"hair\": \"textured, windswept\",\n      \"beard\": \"short, well-groomed\",\n      \"facial_features\": \"sharp, chiseled\",\n      \"expression\": \"intense, serious\"\n    },\n    \"skin_detail\": \"ultra-detailed, natural texture with realistic tones\"\n  },\n  \"wardrobe\": {\n    \"outerwear\": \"worn dark leather jacket\",\n    \"details\": \"visible stitching, rugged texture\"\n  },\n  \"environment\": {\n    \"location\": \"outdoor mountain landscape\",\n    \"background\": {\n      \"mountains\": \"misty, fog-covered\",\n      \"trees\": \"dark evergreen forest fading into distance\",\n      \"atmosphere\": \"dense atmospheric fog\"\n    }\n  },\n  \"lighting_and_color\": {\n    \"lighting_style\": \"moody, cinematic\",\n    \"light_source\": \"soft overcast daylight\",\n    \"shadows\": \"dramatic but natural\",\n    \"color_palette\": \"cool, desaturated tones\"\n  },\n  \"camera_settings\": {\n    \"lens\": \"85mm\",\n    \"aperture\": \"f/1.8\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"razor-sharp on subject, blurred background\"\n  },\n  \"photography_style\": {\n    \"quality\": \"professional photography\",\n    \"realism_level\": \"hyper-realistic\",\n    \"details\": \"high micro-detail, crisp textures, cinematic contrast\"\n  }\n}",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-45-Hyper-Realistic-Cinematic-Portrait.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "Johnn",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-46",
+      "title": "Harajuku Decora Pop Art Poster of Aniko (Detailed)",
+      "prompt": "【Request for Production: Character 'Kawaii' Remix】 Using the attached image of the character (Aniko) as a model, could you draw a highly dense and vibrant poster art where she has become a Harajuku fashion icon? 【Points to Infer】 Outfit Upgrade: Do not be constrained by the 'school uniform' element of the original image. Based on her hair color and eye color, devise a much flashier outfit, heavily accessorized, based on **'Harajuku Decora' and 'Y2K fashion'**. (Examples: layered colorful hoodies, frilled skirts, platform sneakers, excessive amounts of hairpins and plastic accessories, etc.) Space Direction: Please use an art style that fills in all 'empty space'. Scatter bursting candies, stars, hearts, ribbons, and comic-style effects like 'BAM!' and 'POP!' in the background to express a **'visually information-overloaded happiness'** like an overturned toy box. Composition and Pose: Use a defenseless, floating pose, as if released from gravity and floating in the air, or lying on a bed and photographed from above. A dynamic composition that uses ultra-wide-angle lens perspective to make hands, feet, and shoes appear large would be appreciated. Typography: Design the text **'ANIKO'** as a shiny, balloon-like 3D logo and place it prominently as the main element of the screen. 【Target Visual】 The violence of 'Kawaii'. Aim for a supremely high-tension pop art that is overflowing with color and feels like your brain is melting just by looking at it. 【Highest Priority】 My instructions are only references for direction; please prioritize the highest quality visual outcome and select or discard my information accordingly. --stylize 1400 --ar 16:9",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-46-Harajuku-Decora-Pop-Art-Poster-of-Aniko-Detailed.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "Toshi@ニャルオAI",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-47",
+      "title": "Moody Cinematic Portrait",
+      "prompt": "moody cinematic portrait of a man in dark jacket, front facing but slightly turned, minimal expression, dark teal and cyan studio lighting, smooth gradient blue background fading into shadows, creative double exposure ghosted silhouette behind main face, soft haze, film look, subtle grain, high contrast on facial features, poster design composition, empty space for typography, no text, no watermark",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-47-Moody-Cinematic-Portrait.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "Harboris",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-48",
+      "title": "TIME Magazine 'Person of the Year' Cover",
+      "prompt": "Create the cover of TIME magazine's '100 People of the Year'. All titles and text should be in English.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-48-TIME-Magazine-Person-of-the-Year-Cover.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "富田 良治（とみー）｜現代版駄菓子屋 富田商店｜スナックトミタ",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-49",
+      "title": "Ultra-Realistic Cloud Silhouette",
+      "prompt": "Create an ultra-realistic sky scene where soft, natural cloud formations organically assemble into the clear, recognizable silhouette of {argument name=\"person\" default=\"[PERSON]\"}. The cloud likeness appears high in a vibrant blue sky, formed gently and believably, as if shaped naturally by wind and atmosphere rather than intentionally sculpted.\n\nThe cloud figure floats above a grounded, recognizable natural landscape below—fields, hills, water, or trees—providing scale and realism. The composition is square (1080×1080), with the cloud formation occupying the upper portion of the frame while the landscape anchors the scene beneath.\n\nLighting is crisp and daylight-bright, with sunlit highlights and soft shadowing across the clouds to enhance volume, depth, and softness. The sky remains clean and naturally blue, with realistic atmospheric gradients.\n\nThe overall mood is calm, optimistic, and visually striking, with rich yet natural color saturation and a peaceful, uplifting atmosphere. Ultra-high realism, cinematic clarity, no text, no surreal effects, no exaggeration",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-49-Ultra-Realistic-Cloud-Silhouette.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Video"
+      ],
+      "author": "Dr.duet",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-50",
+      "title": "Aesthetic Image Generation Prompt",
+      "prompt": "A high-resolution, cinematic photograph of a lone, ancient lighthouse standing on a rugged cliff edge at sunset. The sky is dramatic, painted in deep oranges, purples, and blues, with rays of light breaking through the clouds. Waves crash violently against the rocks below, creating a fine mist. The lighthouse beam cuts sharply through the twilight air. The texture of the stone and the weathered metal of the lantern room are highly detailed. The overall mood is one of isolation, power, and enduring beauty. Shot on a large format camera, 85mm lens, f/2.8, golden hour lighting.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-50-Aesthetic-Image-Generation-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Video"
+      ],
+      "author": "Jahan Zaib",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-51",
+      "title": "Dynamic Basketball Dunk Photo",
+      "prompt": "Create a dynamic photo of this person performing a dunk in basketball.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-51-Dynamic-Basketball-Dunk-Photo.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "富田 良治（とみー）｜現代版駄菓子屋 富田商店｜スナックトミタ",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-52",
+      "title": "Pencil Sketch Schematic",
+      "prompt": "Pencil sketch for the schematics of {argument name=\"character\" default=\"bender\"}",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-52-Pencil-Sketch-Schematic.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Portrait"
+      ],
+      "author": "JB",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-53",
+      "title": "Advanced Product Photography Prompt for GPT Image 1.5",
+      "prompt": "A vertical split-screen creative product photography composition on a clean white wall background. High-resolution, photorealistic, commercial advertisement quality.\n\nTop Section: The Specimen Box\nThe upper half features an exquisite light oak wooden shadow box frame mounted on the wall. Inside, a specific outfit is displayed as an artistic flat-lay museum specimen: {argument name=\"Clothing Details\" default=\"a sleek black satin slip dress with delicate lace trim and thin spaghetti straps\"}. The garments are neatly pinned in place. Surrounding them are small thematic decorative props: {argument name=\"Props\" default=\"dried roses, vintage perfume bottles, silk ribbon\"}. Elegant calligraphy on the matte paper backdrop reads: {argument name=\"Text\" default=\"Midnight Elegance\"}. Soft studio lighting accentuates the rich texture and drape of the fabric.\n\nBottom Section: Naked-Eye 3D Reality\nThe lower half creates a hyperrealistic \"naked-eye 3D\" illusion. A rectangular picture-frame border sits directly beneath the top box. A stunningly realistic young woman {argument name=\"Model Description\" default=\"a poised East Asian model with long wavy black hair, subtle smoky eyes, and a confident gaze\"} wears the exact same outfit as shown above.\n\nShe lounges casually on the bottom edge of the frame—one leg bent with foot resting inside the frame, the other leg elegantly dangling out into the viewer’s space. Her torso leans back slightly, elbow resting on her raised knee, fingers lightly grazing the fabric near her collarbone. Her body forms a soft, sensual S-curve that highlights the garment’s silhouette without overt exposure. She looks directly at the camera with a calm, knowing smile—inviting yet enigmatic. This dynamic, lifelike pose contrasts powerfully with the static, archival display above, creating visual tension between reality and presentation.\n\nTechnical Specs:\nSoft natural shadows, ambient occlusion, bright and airy yet cinematic lighting, 8K resolution, Octane Render, vivid but refined color palette, ultra-detailed fabric textures (satin sheen, lace transparency, stitching), shallow depth of field, Vogue editorial style, filmic grain, professional fashion photography.\n\nNegative Prompt (recommended):\nblurry, low-res, distorted anatomy, extra limbs, deformed hands, cartoon, anime, doll-like, plastic skin, overexposed, cluttered background, text errors, mismatched clothing, floating objects, unrealistic proportions.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-53-Advanced-Product-Photography-Prompt-for-GPT-Image-1.5.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "岚叔",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-54",
+      "title": "Ultra-Detailed 3D Graphite Sketch",
+      "prompt": "Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-54-Ultra-Detailed-3D-Graphite-Sketch.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "3D"
+      ],
+      "author": "AMEEN",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-55",
+      "title": "Gachapon Capsule Toy Design",
+      "prompt": "Create a miniature capsule toy in the style of a gachapon, based on a single subject ({argument name=\"subject\" default=\"person, brand mascot, or object\"}). The figure should be simple and toy-like in its deformation, sized to fit neatly inside a transparent plastic capsule. Inside the capsule, include a paper insert typical of Japanese gachapon, featuring the toy's name, a small product photo, an icon-style mark, and simple Japanese text. The capsule should be shown either inside the dispensing slot of an actual gachapon vending machine or immediately in front of it. Express the material textures realistically, showing the glossy plastic of the capsule, the slightly matte figure, and the thinly folded paper insert. The overall atmosphere should be natural, like a photo taken with an iPhone, with soft light, a slight sense of camera shake, light background bokeh, and subtle realistic imperfections or quirks. Keep the composition clean and simple, with the subject centered. Aim for a clean finish without clutter.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-55-Gachapon-Capsule-Toy-Design.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Product"
+      ],
+      "author": "富田 良治（とみー）｜現代版駄菓子屋 富田商店｜スナックトミタ",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-56",
+      "title": "Ultra-Detailed 3D Graphite Pencil Sketch Generation",
+      "prompt": "Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-56-Ultra-Detailed-3D-Graphite-Pencil-Sketch-Generation.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "3D"
+      ],
+      "author": "ChatGPT",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-57",
+      "title": "Desert Ruins of Pure Math Grid",
+      "prompt": "Desert Ruins of Pure Math (Cairo-style monumental stone)\nA 2x2 grid of 4 monumental mathematical symbols built as ancient desert ruins in sandstone\n[Top Left: The Integral (∫) as a collapsed arch-aqueduct, wind-eroded blocks, carved microtext equations, tiny caravans for scale]\n[Top Right: The Sigma (Σ) as a stepped fortress-ziggurat with sharp terraces, long shadows, sand drifts collecting in corners]\n[Bottom Left: The Pi (π) as two colossal pylons and a lintel bridge over a narrow oasis canal, chipped stone, scattered rubble geometry]\n[Bottom Right: A Penrose Triangle as impossible ruins half-buried in dunes, optical illusion architecture, Escher perspective, sunlight slicing across paradox edges]\nAerial oblique view, golden desert haze, crisp hard sunlight, dramatic shadows, photoreal ruins texture, subtle river ribbon, swiss 2x2 grid layout.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-57-Desert-Ruins-of-Pure-Math-Grid.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Gadgetify",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-58",
+      "title": "Reasoning and Instruction Following Puzzle Prompt",
+      "prompt": "\"Show me 4 realistic objects on a table. The objects are related in some way, this is a puzzle. Add title text across the top, \"{argument name=\"title text\" default=\"What do these objects have in common?\"}\" And very small upside down text on the bottom which reveals the way in which they are related.\"",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-58-Reasoning-and-Instruction-Following-Puzzle-Prompt.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Joe ⭕ Dot ⭕ Average",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-59",
+      "title": "Meta-Prompt: Create an Image Detailing its Own Creation Steps",
+      "prompt": "Create an image about the very detailed steps you create to create the image.",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-59-Meta-Prompt-Create-an-Image-Detailing-its-Own-Creation-Steps.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "AI Mother Brain",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    }
+  ]
+}
