@@ -1,25 +1,6 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-32501-16",
-      "title": "Whimsical Coloring Page Illustration",
-      "prompt": "A black and white line drawing features the text \"{argument name=\"quote\" default=\"DOING MY BEST RESULTS MAY VARY\"}\" in large, bold, bubble-style lettering. The text is surrounded by various cute and whimsical elements, including smiling stars, a cat face, clouds, daisies, hearts, cupcakes, a boba tea, and sparkly starbursts. The overall composition is dense and playful, designed as a coloring page.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-32501-16-Whimsical-Coloring-Page-Illustration.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Infographic / Education"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
       "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-13412-26",
       "title": "Cinematic Podcast Studio Portrait",
       "prompt": "A professional {argument name=\"host description\" default=\"podcast host sitting at a wooden desk in a modern studio setup\"}, facing the camera with a confident and friendly expression. He is wearing a {argument name=\"clothing\" default=\"fitted black shirt\"} and sitting in a comfortable chair. A high-quality podcast microphone on a boom arm is positioned close to his mouth. On the desk are a notebook with handwritten notes, a coffee mug, and an audio interface with connected cables. The background features {argument name=\"background lighting\" default=\"stylish indoor plants and warm red-orange accent lighting\"}, creating a clean, cinematic studio atmosphere. Soft key lighting on the face, subtle rim lighting, shallow depth of field, ultra-realistic details, 50mm lens, f/1.8, professional color grading, high contrast, 8K, YouTube podcast aesthetic.",
@@ -77,16 +58,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-1493-545",
-      "title": "Hyper-realistic Cobalt Blue Coconut Still Life",
-      "prompt": "{ \"image_prompt\": { \"quality\": \"8K hyper-realistic\", \"style\": \"photorealistic, high-detail, tropical still life\", \"subject\": { \"object\": \"coconut\", \"color\": \"vibrant cobalt blue with subtle purple undertones\", \"surface\": \"wet with fresh water droplets and fine texture details\", \"stem\": \"natural short stem attached, slightly weathered\", \"damage\": \"fine natural scratch marks and fibrous lines visible\" }, \"composition\": { \"frame\": \"close-up, low-angle\", \"placement\": \"center-left on a rustic wooden stump\", \"foreground\": \"wet wood with small puddles and reflections\", \"background\": \"soft-focus tropical rice field and palm trees, overcast sky\" }, \"lighting\": { \"type\": \"soft natural diffused light (golden hour / after-rain feel)\", \"highlights\": \"gentle specular highlights on water droplets and curvature\", \"shadows\": \"soft, realistic cast shadow matching scene\" }, \"camera_settings\": { \"lens\": \"85mm portrait-style\", \"aperture\": \"f/1.8 (shallow depth of field)\", \"focus\": \"sharp on coconut surface and droplets, background bokeh\", \"orientation\": \"vertical\" }, \"post_processing\": { \"contrast\": \"medium-high to enhance texture\", \"saturation\": \"slightly boosted for blue vibrancy\", \"sharpening\": \"micro-detail sharpening on surface and droplets\", \"film_grain\": \"very light to preserve photorealism\" }, \"creative_notes\": \"keep colors natural-looking despite vivid blue; preserve fine fibrous texture and droplet realism; avoid artificial gradients\", \"signature\": \"VIVEK HY\" } }",
+      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-4137-482",
+      "title": "A detailed prompt for generating a photorealistic image of a nano-banana-pro",
+      "prompt": "photorealistic, high resolution, 8k, ultra detailed, a nano-banana-pro, on a {argument name=\"surface\" default=\"wooden table\"}, soft studio lighting, macro lens, shallow depth of field, {argument name=\"background\" default=\"minimalist background\"}, cinematic lighting, detailed texture, volumetric light, highly detailed, sharp focus, {argument name=\"style\" default=\"photorealistic\"}",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-1493-545-Hyper-realistic-Cobalt-Blue-Coconut-Still-Life.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-4137-482-A-detailed-prompt-for-generating-a-photorealistic-image-of-a-nano-banana-pro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Ecommerce Main Image"
       ],
       "author": "YouMind OpenLab",
@@ -153,16 +134,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-31654-14",
-      "title": "Water-level Bridge Modification",
-      "prompt": "flatten the bridge completely so it's running just above the surface of the water.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-32101-14",
+      "title": "Blackglass Ascendant System Prompt",
+      "prompt": "SYSTEM PROMPT: BLACKGLASS ASCENDANT Rewrite the user's text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Preserve language, text, references, and requested or source ratio. Use three systems. Ascendant Frame gives one subject, object, building, creature, or terrain mass dominance through silhouette, viewpoint, scale, framing, and an open field. Blackglass Lattice builds the dark mass from plates, feathers, folds, joints, cables, ridges, metal, leather, stone, glass, or another owned material. Silverfall Halo uses a pale counterform and one hard source to reveal edges, reflective planes, atmosphere, and depth. Determine subject, state, silhouette, viewpoint, dark-material owner, construction, pale counterform, source, edge route, focal transition, scale marker, and quiet region. Dark surfaces need separation. Glossy plates carry narrow reflections; matte fabric absorbs light; leather shows seams; metal shows thickness and joints; feathers and hair use grouped masses before fine edges. Patterns and engravings appear only when requested and follow curvature, ownership, and function. Preserve anatomy, object use, support, access, and perspective. Light appears only on source-facing contours. No complete glowing outline, random chrome highlights, global bloom, flat black collapse, or blank white surfaces. Atmosphere, snow, ash, rain, or dust needs a source and direction. Keep one source, a weak return surface, two to four caused transitions, a focal region, and one low-detail field. Use five values from deep black to white edge. Preserve explicit colors; otherwise use near-monochrome with one restrained accent. Remove praise, mood labels, prestige terms, fake detail, repetition, and unresolved choices. Use concrete nouns and active verbs. No em dash or en dash. GPT: return 500 to 800 words in five paragraphs covering scene, subjects, frame, lattice, halo, transitions, composition, references, text, and failures. NANO: return JSON only, 1000 to 1800 tokens, using \"aspect_ratio\", \"references\", \"scene\", \"subjects\", \"ascendant_frame\", \"blackglass_lattice\", \"silverfall_halo\", \"transitions\", \"composition\", \"surface_and_palette\", \"text\", \"avoid\". Omit unused fields. No metadata, IDs, weights, or comments. Return only the finished prompt.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31654-14-Water-level-Bridge-Modification.webp",
+      "model": "GPT Image",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32101-14-Blackglass-Ascendant-System-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "GPT Image",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -172,16 +153,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35744-15",
-      "title": "South Asian Woman Portrait Prompt",
-      "prompt": "A highly detailed, photorealistic portrait of a beautiful South Asian woman with long, voluminous wavy brown hair. She is looking downward with a gentle, serene smile. With both hands, she is elegantly lifting a sheer, deep magenta dupatta (veil) over her head. The veil features delicate pearl embellishments along its border and scattered across the fabric. She is wearing a rich, dark burgundy velvet kurta decorated with ornate gold floral button closures down the center front. Her traditional jewelry includes large gold jhumka earrings and multiple stacked gold and pearl bangles on both wrists. She has soft, flawless glamour makeup with subtle eyeliner and peachy-pink lips. The background is a dreamy, soft-focus warm bokeh created by glowing festive fairy lights. Cinematic lighting, romantic atmosphere, hyper-realistic, 8k resolution, masterpiece. keep original face and hairstyle 100% reference",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35925-15",
+      "title": "Japanese Woman Model Comparison Prompt",
+      "prompt": "{argument name=\"subject_en\" default=\"A clean-looking Japanese woman\"} {argument name=\"location_en\" default=\"On the sidewalk of a quiet residential street\"}",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35744-15-South-Asian-Woman-Portrait-Prompt.webp",
+      "model": "GPT Image 2",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35925-15-Japanese-Woman-Model-Comparison-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "GPT Image 2",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",
@@ -191,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36157-22",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36157-23",
       "title": "Magazine Cover Prompt for Nano Banana 2.1",
       "prompt": "Use my uploaded photo as the main subject. My face, skin tone, hair, and facial features must remain completely unchanged. Replicate the style and layout of the reference poster. Scene: Vertical 4:5 magazine poster. I stand in the center, facing the camera, with a calm and serious expression, head slightly tilted. Wearing a flowing, elegant dark charcoal navy midi skirt with soft natural folds in the fabric. Background: Soft blue-gray studio wall with cinematic cyan-to-navy gradient. On the left and right edges, there are ghost-like figures wearing dark loose clothing, blurred by motion trails, resembling long-exposure ghosts, kept out of focus. Lighting: Soft, moody natural light with slight rim light on the hair. Low-saturation film tones, fine grain, shallow depth of field, high-fashion editorial quality. Typography: Top center: Small, wide-spaced white text \"{argument name=\"top_text_en\" default=\"SONI\"}\" Center, overlaying the lower body: Huge white bold narrow sans-serif text \"{argument name=\"main_title_en\" default=\"PROMPT\"}\", positioned in front of the skirt, slightly overlapping me Immediately below: Orange handwritten font \"{argument name=\"subtitle_en\" default=\"NanoBanana 2.1\"}\", slightly tilted Do not add any arrows, buttons, ellipses, or capsule shapes. Do not add any other text, logos, or watermarks. Style: High-end magazine poster, clean typography, high-contrast text, cinematic, photorealistic, 4:5 aspect ratio.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36157-22-Magazine-Cover-Prompt-for-Nano-Banana-2.1.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36157-23-Magazine-Cover-Prompt-for-Nano-Banana-2.1.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,6 +267,25 @@
       "createdAt": null
     },
     {
+      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-1493-546",
+      "title": "Hyper-realistic Cobalt Blue Coconut Still Life",
+      "prompt": "{ \"image_prompt\": { \"quality\": \"8K hyper-realistic\", \"style\": \"photorealistic, high-detail, tropical still life\", \"subject\": { \"object\": \"coconut\", \"color\": \"vibrant cobalt blue with subtle purple undertones\", \"surface\": \"wet with fresh water droplets and fine texture details\", \"stem\": \"natural short stem attached, slightly weathered\", \"damage\": \"fine natural scratch marks and fibrous lines visible\" }, \"composition\": { \"frame\": \"close-up, low-angle\", \"placement\": \"center-left on a rustic wooden stump\", \"foreground\": \"wet wood with small puddles and reflections\", \"background\": \"soft-focus tropical rice field and palm trees, overcast sky\" }, \"lighting\": { \"type\": \"soft natural diffused light (golden hour / after-rain feel)\", \"highlights\": \"gentle specular highlights on water droplets and curvature\", \"shadows\": \"soft, realistic cast shadow matching scene\" }, \"camera_settings\": { \"lens\": \"85mm portrait-style\", \"aperture\": \"f/1.8 (shallow depth of field)\", \"focus\": \"sharp on coconut surface and droplets, background bokeh\", \"orientation\": \"vertical\" }, \"post_processing\": { \"contrast\": \"medium-high to enhance texture\", \"saturation\": \"slightly boosted for blue vibrancy\", \"sharpening\": \"micro-detail sharpening on surface and droplets\", \"film_grain\": \"very light to preserve photorealism\" }, \"creative_notes\": \"keep colors natural-looking despite vivid blue; preserve fine fibrous texture and droplet realism; avoid artificial gradients\", \"signature\": \"VIVEK HY\" } }",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-1493-546-Hyper-realistic-Cobalt-Blue-Coconut-Still-Life.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Ecommerce Main Image"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/ecommerce-main-image.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:ym-ai-skill-game-asset-30820-38",
       "title": "Clockpunk Miniature Greenhouse",
       "prompt": "{argument name=\"atmosphere\" default=\"Whimsical\"} miniature world depiction of a {argument name=\"subject\" default=\"grand botanical greenhouse conservatory\"} imagined and rendered in an {argument name=\"style\" default=\"artistic clockpunk style\"}",
@@ -343,12 +343,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-31576-15",
-      "title": "Woman Riding Black Horse on Beach",
-      "prompt": "Create an ultra-photorealistic cinematic fashion photograph of an elegant woman riding a powerful {argument name=\"horse color\" default=\"jet-black\"} horse along a {argument name=\"setting\" default=\"pristine tropical beach\"} during a bright, windy afternoon.\\n\\nSUBJECT:\\nA striking adult woman with long, naturally wavy dark hair flowing dramatically in the ocean breeze. She has refined natural facial features, realistic skin texture, subtle pores, delicate facial asymmetry, and a calm, confident expression. She looks slightly toward the camera while maintaining a believable riding posture.\\n\\nShe is wearing a luxurious flowing {argument name=\"dress color\" default=\"crimson-red\"} off-shoulder dress made from lightweight semi-transparent chiffon and silk. The dress has realistic folds, layered fabric, natural stitching, subtle fabric texture, and a long flowing train extending dramatically behind her. The wind catches different sections of the dress independently, creating complex natural movement rather than a perfectly uniform wave.\\n\\nHer posture must look like that of a real experienced rider: balanced torso, naturally positioned legs, relaxed but controlled hands holding the reins, realistic contact between her body and the horse.\\n\\nHORSE:\\nA magnificent muscular black horse with a glossy but completely natural coat. Highly detailed facial anatomy, realistic eyes, nostrils, ears, mane, muscles, veins, and individual strands of hair.\\n\\nThe horse is moving at a fast but believable gallop along the shoreline. Its front legs and rear legs must have anatomically correct positioning and realistic joint movement. Hooves interact naturally with the wet sand, producing small splashes and scattered grains of sand.\\n\\nThe horse wears an elegant but practical dark leather bridle and saddle with realistic stitching, buckles, leather texture, subtle wear, and believable physical attachment.\\n\\nENVIRONMENT:\\nA breathtaking tropical beach stretching into the distance.\\n\\nOn the left side, crystal-clear turquoise-blue ocean water approaches the shoreline with small white waves and realistic foam.\\n\\nBehind the rider are tall tropical palm trees bending slightly in the ocean breeze, dense green vegetation, white sand, and a distant coastline.\\n\\nThe sky is enormous and dramatic, filled with large naturally shaped cumulus clouds against a rich blue tropical sky.\\n\\nThe beach should not look artificial or perfectly clean. Include tiny footprints, hoof marks, irregular wet patches, small shells, scattered natural debris, subtle sand texture, and realistic variations in color.\\n\\nMOVEMENT:\\nCapture the exact moment when the horse is galloping beside the water.\\n\\nThe woman's hair should be blown backward and sideways by the wind, with hundreds of individual strands behaving naturally.\\n\\nThe red dress should trail behind her in multiple layers, with different sections of fabric",
+      "id": "xianyu-multi-model:ym-ai-skill-others-31654-15",
+      "title": "Water-level Bridge Modification",
+      "prompt": "flatten the bridge completely so it's running just above the surface of the water.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31576-15-Woman-Riding-Black-Horse-on-Beach.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31654-15-Water-level-Bridge-Modification.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35670-16",
-      "title": "Athletic Korean Woman Tennis Pose",
-      "prompt": "Photorealistic professional 8K photograph of a 20-year-old athletic Korean woman with a feminine figure. Fit, toned, and defined but not overly muscular or masculine. High ponytail. Tennis visor-style headband with no crown, sitting on her forehead like a clip. Fitted black skinny t-shirt ending at the navel, natural abs visible. She pulls the hem of the t-shirt slightly upward with one fingertip to reveal her abs. Other arm slightly away from the body, outward, clenched fist hanging down, arm flexed with visible veins. Slight S-curve standing pose, head tilted slightly forward. Black modern breathable athletic tights with perforated panels. Gym interior, slightly blurred background. Cinematic dramatic lighting, professional photoshoot, slightly sweaty realistic skin, masterpiece, protagonist presence, ultra-realistic details, natural feminine proportions.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35748-16",
+      "title": "South Asian Woman Selfie Prompt",
+      "prompt": "A beautiful young South Asian woman taking a confident selfie in front of a large glowing arched mirror. She has long, voluminous wavy brown hair with golden highlights, fair skin, and a radiant smile showing her teeth. She is wearing stylish gold-framed aviator sunglasses. She is dressed in an elegant white traditional Pakistani/Indian kurta with delicate pink floral embroidery and patterns, paired with a sheer pink floral dupatta gracefully draped around her neck and shoulders. Her right hand is giving a cheerful thumbs-up, while her left hand holds a white iPhone 13/14 Pro. She is wearing a black smartwatch on her left wrist. The background features a modern minimalist interior with a large illuminated warm golden archway creating a soft, dreamy glow around her. Bright, cinematic lighting, highly detailed, realistic skin texture, sharp focus, elegant and vibrant color palette, professional photography style, 8k quality.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35670-16-Athletic-Korean-Woman-Tennis-Pose.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35748-16-South-Asian-Woman-Selfie-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -381,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36150-23",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36150-24",
       "title": "Luxury Fashion Editorial Photo",
       "prompt": "Ultra-realistic high-end fashion editorial photo of an elegant young woman posing against a glossy black luxury sedan. She is seated sideways on the edge of the car, with one leg crossed naturally over the other, one hand resting on the car beside her, and her body slightly angled toward the camera. She has shoulder-length softly wavy light-brown hair, delicate facial features, natural makeup, subtle eyeliner, and a calm, confident expression looking directly at the camera. She wears a fitted black high-neck top, tailored black trousers, and a long structured black blazer draped naturally over her shoulders. The blazer has sharp elegant shoulders and a sophisticated luxury-fashion silhouette. The black sedan fills the background, with glossy reflections, dark tinted windows, visible door handle and a large premium alloy wheel on the right side. Modern luxury showroom/indoor architectural setting, dark neutral tones, soft diffused cinematic lighting, realistic reflections on the car, shallow depth of field, subtle background blur, natural skin texture, detailed hair strands, realistic fabric texture, sophisticated black-on-black aesthetic, luxury automotive campaign, Vogue-style fashion photography, 85mm lens, eye-level camera, vertical full-body composition, photorealistic, ultra-detailed, 4K, no text, no watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36150-23-Luxury-Fashion-Editorial-Photo.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36150-24-Luxury-Fashion-Editorial-Photo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -533,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-31257-16",
-      "title": "Golden Gate Bridge LED Screen",
-      "prompt": "{argument name=\"subject\" default=\"Golden Gate Bridge\"} as if it were a {argument name=\"dimensions\" default=\"64 x 32\"} LED screen and have only one color per pixel",
+      "id": "xianyu-multi-model:ym-ai-skill-others-31576-16",
+      "title": "Woman Riding Black Horse on Beach",
+      "prompt": "Create an ultra-photorealistic cinematic fashion photograph of an elegant woman riding a powerful {argument name=\"horse color\" default=\"jet-black\"} horse along a {argument name=\"setting\" default=\"pristine tropical beach\"} during a bright, windy afternoon.\\n\\nSUBJECT:\\nA striking adult woman with long, naturally wavy dark hair flowing dramatically in the ocean breeze. She has refined natural facial features, realistic skin texture, subtle pores, delicate facial asymmetry, and a calm, confident expression. She looks slightly toward the camera while maintaining a believable riding posture.\\n\\nShe is wearing a luxurious flowing {argument name=\"dress color\" default=\"crimson-red\"} off-shoulder dress made from lightweight semi-transparent chiffon and silk. The dress has realistic folds, layered fabric, natural stitching, subtle fabric texture, and a long flowing train extending dramatically behind her. The wind catches different sections of the dress independently, creating complex natural movement rather than a perfectly uniform wave.\\n\\nHer posture must look like that of a real experienced rider: balanced torso, naturally positioned legs, relaxed but controlled hands holding the reins, realistic contact between her body and the horse.\\n\\nHORSE:\\nA magnificent muscular black horse with a glossy but completely natural coat. Highly detailed facial anatomy, realistic eyes, nostrils, ears, mane, muscles, veins, and individual strands of hair.\\n\\nThe horse is moving at a fast but believable gallop along the shoreline. Its front legs and rear legs must have anatomically correct positioning and realistic joint movement. Hooves interact naturally with the wet sand, producing small splashes and scattered grains of sand.\\n\\nThe horse wears an elegant but practical dark leather bridle and saddle with realistic stitching, buckles, leather texture, subtle wear, and believable physical attachment.\\n\\nENVIRONMENT:\\nA breathtaking tropical beach stretching into the distance.\\n\\nOn the left side, crystal-clear turquoise-blue ocean water approaches the shoreline with small white waves and realistic foam.\\n\\nBehind the rider are tall tropical palm trees bending slightly in the ocean breeze, dense green vegetation, white sand, and a distant coastline.\\n\\nThe sky is enormous and dramatic, filled with large naturally shaped cumulus clouds against a rich blue tropical sky.\\n\\nThe beach should not look artificial or perfectly clean. Include tiny footprints, hoof marks, irregular wet patches, small shells, scattered natural debris, subtle sand texture, and realistic variations in color.\\n\\nMOVEMENT:\\nCapture the exact moment when the horse is galloping beside the water.\\n\\nThe woman's hair should be blown backward and sideways by the wind, with hundreds of individual strands behaving naturally.\\n\\nThe red dress should trail behind her in multiple layers, with different sections of fabric",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31257-16-Golden-Gate-Bridge-LED-Screen.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31576-16-Woman-Riding-Black-Horse-on-Beach.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,16 +552,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35668-17",
-      "title": "Simple Beach Photo Prompt",
-      "prompt": "A young American woman, wearing a swimsuit, is taking photos on the beach. Request high-quality photo-style shooting",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35744-17",
+      "title": "South Asian Woman Portrait Prompt",
+      "prompt": "A highly detailed, photorealistic portrait of a beautiful South Asian woman with long, voluminous wavy brown hair. She is looking downward with a gentle, serene smile. With both hands, she is elegantly lifting a sheer, deep magenta dupatta (veil) over her head. The veil features delicate pearl embellishments along its border and scattered across the fabric. She is wearing a rich, dark burgundy velvet kurta decorated with ornate gold floral button closures down the center front. Her traditional jewelry includes large gold jhumka earrings and multiple stacked gold and pearl bangles on both wrists. She has soft, flawless glamour makeup with subtle eyeliner and peachy-pink lips. The background is a dreamy, soft-focus warm bokeh created by glowing festive fairy lights. Cinematic lighting, romantic atmosphere, hyper-realistic, 8k resolution, masterpiece. keep original face and hairstyle 100% reference",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35668-17-Simple-Beach-Photo-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35744-17-South-Asian-Woman-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",
@@ -571,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36101-24",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36101-25",
       "title": "Misty Lake Rowboat with Text Caption",
       "prompt": "A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: \"{argument name=\"caption\" default=\"stillness is a place\"}\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36101-24-Misty-Lake-Rowboat-with-Text-Caption.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36101-25-Misty-Lake-Rowboat-with-Text-Caption.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -723,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-30819-17",
-      "title": "Klimt Style Woman Summer Garden",
-      "prompt": "painting in the style of {argument name=\"artist\" default=\"Klimt\"} of a {argument name=\"subject\" default=\"woman wearing a large hat\"} in a {argument name=\"setting\" default=\"summer garden\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-others-31257-17",
+      "title": "Golden Gate Bridge LED Screen",
+      "prompt": "{argument name=\"subject\" default=\"Golden Gate Bridge\"} as if it were a {argument name=\"dimensions\" default=\"64 x 32\"} LED screen and have only one color per pixel",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-30819-17-Klimt-Style-Woman-Summer-Garden.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-31257-17-Golden-Gate-Bridge-LED-Screen.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +742,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35663-18",
-      "title": "Realistic Portrait Restoration Prompt for Nano Banana Pro",
-      "prompt": "Keep the same features of the attached person, without changes. Reference picture: photo sent. Face: keep the exact same person as the reference picture. Format: A highly detailed, ultra-realistic portrait of a stylish young man with voluminous, swept-back dark hair and light black eyes. He is lying comfortably on his stomach on a bed, resting his chin on his left hand, looking directly at the camera with a relaxed, gentle expression. He is wearing a light shalwar kameez, a dark smartwatch on his wrist, and white sneakers with black accents. The setting is a cozy, modern bedroom illuminated by vibrant purple and blue ambient LED lighting, contrasting with a warm glowing bedside lamp. In the softly blurred background, there is a dark poster with a crown graphic and the text \"Dream Big\", along with a corner shelf holding small potted plants. Shot on an 85mm lens, f/1.8 aperture, cinematic lighting, sharp focus on the face, 8k resolution. Keep original face and hairstyle 100% reference",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35670-18",
+      "title": "Athletic Korean Woman Tennis Pose",
+      "prompt": "Photorealistic professional 8K photograph of a 20-year-old athletic Korean woman with a feminine figure. Fit, toned, and defined but not overly muscular or masculine. High ponytail. Tennis visor-style headband with no crown, sitting on her forehead like a clip. Fitted black skinny t-shirt ending at the navel, natural abs visible. She pulls the hem of the t-shirt slightly upward with one fingertip to reveal her abs. Other arm slightly away from the body, outward, clenched fist hanging down, arm flexed with visible veins. Slight S-curve standing pose, head tilted slightly forward. Black modern breathable athletic tights with perforated panels. Gym interior, slightly blurred background. Cinematic dramatic lighting, professional photoshoot, slightly sweaty realistic skin, masterpiece, protagonist presence, ultra-realistic details, natural feminine proportions.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35663-18-Realistic-Portrait-Restoration-Prompt-for-Nano-Banana-Pro.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35670-18-Athletic-Korean-Woman-Tennis-Pose.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36028-25",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36028-26",
       "title": "Golden Goddess Mahalakshmi Image",
       "prompt": "Generate image of 3d golden text \"{argument name=\"text\" default=\"Mahalakshmi\"}\" and golden goddess Mahalakshmi is sitting and adjusted over that text. Black background. 1:1 ratio 8k resolution",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36028-25-Golden-Goddess-Mahalakshmi-Image.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36028-26-Golden-Goddess-Mahalakshmi-Image.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-30190-18",
-      "title": "Mother of Dragons RAW Photography Style",
-      "prompt": "{ \"visual_details\": { \"subject\": \"Woman resembling Daenerys Targaryen, detailed portrait\", \"hair\": \"Platinum blonde, intricate braided hairstyle on top, loose wavy tendrils framing the face, sharp and clear texture\", \"expression\": \"Neutral, focused expression looking slightly off-camera\", \"attire\": \"Pale grey pleated gown with deep plunging neckline, gold filigree metal waist belt, matching gold filigree collar. Fabric texture and metal details are highly defined.\", \"pose\": \"Leaning forward on a dark wood table surface, arms extended downward. Sharp focus extends across her hands and the table texture.\", \"background\": \"Dark interior setting with visible, sharp architectural details, including dark wood paneling, a stone wall texture, and defined window frames. No depth of field blur.\", \"lighting\": \"Warm, natural light illuminating the scene, with distinct golden backlighting originating from the table surface and background elements, remaining sharp and defined rather than soft.\" }, \"raw_photo_technical_details\": { \"format\": \"Unprocessed CR3 RAW file data\", \"resolution\": \"High-resolution 4K UHD (3840x2160)\", \"camera_settings\": { \"shot_on\": \"Canon EOS R5\", \"lens\": \"RF 50mm f/1.8 STM\", \"aperture\": \"f/11 (Deep depth of field, entire scene in focus)\", \"shutter_speed\": \"1/160 sec\", \"iso\": \"640 (Natural digital grain visible)\", \"white_balance\": \"Daylight\" }, \"texture\": \"Realistic skin texture, visible fabric weave, defined metal details, natural digital noise/grain throughout the image\", \"focus\": \"Pan-focal, sharp detail from foreground (subject) to background architectural elements.\" }, \"modified_prompt\": \"A sharp, high-resolution RAW photograph (4K UHD) of a woman resembling Daenerys Targaryen, detailed with intricate platinum blonde braids and wavy tendrils. She wears a pale grey pleated gown with a plunging neckline, a detailed gold filigree belt, and collar. She is leaning forward on a dark wood table with her arms extended. The scene is illuminated by warm, natural light with defined golden highlights. The entire image exhibits deep focus (pan-focal), with sharp, clear detail extending to the dark wood and stone architectural elements in the background, which have no blur. Natural digital grain, realistic skin texture, and sharp fabric details are visible, characteristic of an unprocessed RAW photo shot at f/11 aperture.\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-others-30819-18",
+      "title": "Klimt Style Woman Summer Garden",
+      "prompt": "painting in the style of {argument name=\"artist\" default=\"Klimt\"} of a {argument name=\"subject\" default=\"woman wearing a large hat\"} in a {argument name=\"setting\" default=\"summer garden\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-30190-18-Mother-of-Dragons-RAW-Photography-Style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-30819-18-Klimt-Style-Woman-Summer-Garden.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -932,16 +932,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35673-19",
-      "title": "Autumn Cafe Frappuccino Prompt",
-      "prompt": "Face/Hair: Conform to attached face photo. Do not change facial features, ratios, hairstyle, or proportions. Do not de-personalize. Hair Condition: Dry, normal state. Natural flow. Expression: Eyes narrowed, looking up-right. Natural open-mouth smile. Natural eyebrows. Joyful and bright emotion. Top: Conform to attached outfit photo. Bottoms: Conform to attached outfit photo. Footwear: Conform to attached outfit photo. Clothing State: No disorder, dry normal wear. Accessories: Small heart motif silver necklace, one small stud earring per ear. Holding a white Frappuccino with both hands. Cute toy poodle at feet. Pose: Sitting deeply on a rattan chair. Right ankle crossed over left foot. Waist towards camera, shoulders slightly right. Upper body leaning slightly back. Axis from head to waist tilted 5 degrees right from vertical. Face looking up-right. Right elbow lightly bent holding Frappuccino in front of chest. Left arm lowered naturally along body. Both legs extended straight and together. Foreground: Change nearest blue flower bouquet to cluster of red spider lilies instead of vivid blue-purple ones. Occupies approx 15% of screen. Spider lilies largely softly blurred in foreground, red color as visual accent. Focus on foreground spider lilies and toy poodle at feet. Background: Completely remove castle, change to autumn-feeling landscape. Golden pampas grass spreading in distance, trees starting to turn red/orange/yellow beyond that. Depth-filled landscape like autumn highlands/gardens under blue sky. Background strongly blurred, autumn colors softly blending. Express seasonal transition from summer to autumn. Composition: Vertical portrait including below knees. Head top approx 10% from top edge, feet cut off at bottom edge. Person slightly left of center. Camera angle slightly looking up from subject's waist height. Standard lens natural field of view. Emphasize depth by heavily blurring foreground red spider lilies. Location: Outdoor terrace seat. Early autumn sunny afternoon. Eaves of wooden cafe. Clear blue sky with sparse white clouds. Golden pampas grass and turning trees in distance. Fresh seasonal feeling where summer brightness and autumn mood coexist. Lighting: Natural sunlight from above. Slightly warm color temperature. High-key bright, medium contrast. Natural rim light outlining hair/shoulders. Soft sunlight and faint lens flare from top-right. No blown highlights. Photography: Realistic outdoor portrait photo. Approx 2m from subject, equivalent to 50mm. Shallow depth of field. Fine film graininess. High saturation but natural coloring. Impressionistically express color contrast of red spider lilies, golden pampas grass, and blue sky. Transparent atmosphere. Texture: Smooth natural skin. No sweat/wetness. Shallow depth of field. Neutral white balance. No excessive beauty filters. Style: Photorealistic. Impressive fresh photo conveying seasonal feeling at a glance on SNS. Ratio: Vertical 9:16 / 1080x1920px",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35668-19",
+      "title": "Simple Beach Photo Prompt",
+      "prompt": "A young American woman, wearing a swimsuit, is taking photos on the beach. Request high-quality photo-style shooting",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35673-19-Autumn-Cafe-Frappuccino-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35668-19-Simple-Beach-Photo-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",

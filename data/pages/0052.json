@@ -1,25 +1,6 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gemini-3-prompts-30",
-      "title": "Web-based Word-like rich text editor in one HTML file",
-      "prompt": "Help me write a web-based rich text editor similar to {argument name=\"reference_software_en\" default=\"Word\"}, including its main features, with all code contained in a single HTML file. It should support: headings, paragraphs, left alignment, bold, italic, right alignment, underline, strikethrough, background color, text color, numbering, undo, and finally a download function. Directly generate the HTML, and that’s it!",
-      "media": "image",
-      "model": "Gemini 3 Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gemini-3-prompts/README-30-Web-based-Word-like-rich-text-editor-in-one-HTML-file.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Gemini 3 Pro",
-        "Creative"
-      ],
-      "author": "karminski-牙医",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gemini-3-prompts-31",
       "title": "Chinese Twitter KOL leaderboard landing page",
       "prompt": "As a frontend engineer with a strong sense of aesthetics, create a website landing page for \"{argument name=\"leaderboard_name_en\" default=\"Chinese Twitter KOL Leaderboard\"}\". The design should be highly polished, with a minimal color palette, dark mode, and high contrast. Fetch the data source from the web.\nUse Tailwind CSS + HTML5, add animations, and output only the HTML code directly.",
@@ -943,6 +924,25 @@
         "xianyu-multi-model",
         "AI Image Model",
         "Infographic"
+      ],
+      "author": "Jared Liu",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-christmas-card-prompts-31",
+      "title": "Magical Snowy Owl Delivering Mail",
+      "prompt": "A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl with bright yellow eyes is in mid-flight against a dark blue, star-filled night sky. It carries a small, elegant red envelope sealed with a gold wax seal in its beak. A tiny sprig of holly is tucked behind its ear like a feather. The style is detailed and enchanting.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-christmas-card-prompts/README-31-Magical-Snowy-Owl-Delivering-Mail.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Creative"
       ],
       "author": "Jared Liu",
       "source": "xianyu-multi-model",

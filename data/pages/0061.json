@@ -1,25 +1,6 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-32399-26",
-      "title": "Cinematic Liquid Splash Portrait",
-      "prompt": "Ultra-realistic IMAX-level Netflix-style cinematic fantasy portrait, 4:5 vertical frame, use the uploaded image as the primary facial reference with maximum face consistency, create a young woman leaning dynamically toward the camera while reaching one hand directly forward into the foreground, her extended hand appearing dramatically larger due to strong perspective and shallow depth of field, fingers naturally spread as if playfully reaching toward the viewer, her other arm positioned naturally closer to her body, upper body leaning forward with an energetic spontaneous posture, wearing a {argument name=\"clothing\" default=\"soft beige flowing draped outfit\"} wrapped naturally around her upper body, {argument name=\"hair style\" default=\"messy high bun\"} with abundant textured strands escaping around the crown, temples and sides of her face, several fine flyaway strands lifted naturally around her head, surrounded by dramatic frozen splashes of {argument name=\"liquid colors\" default=\"vivid turquoise, red, pink, golden-yellow and orange paint-like fluid\"} forms sweeping upward and outward around her body, individual droplets suspended sharply in the air, colorful fluid arcs creating a dynamic circular frame around her, bright neutral background visible between the splashes, highly detailed translucent liquid surfaces with realistic reflections and refractions, strong foreground-background depth separation, cinematic perspective, crisp facial detail with the reaching hand gradually becoming softer toward the closest foreground due to lens depth, realistic motion energy frozen at the exact moment of the splash, sophisticated studio lighting with soft frontal illumination on her face and subtle highlights along the wet fluid droplets and hair strands, vibrant but naturally balanced colors, realistic fabric texture, natural photographic detail, cinematic depth of field, high dynamic range. Facial Expression: her eyes are wide open and looking directly into the camera with a bright playful gaze, eyebrows naturally raised with excitement, mouth opened into a broad genuine smile showing her upper teeth, lips naturally stretched by the smile, cheeks noticeably lifted and rounded with natural smile lines forming around the eyes and mouth, creating a joyful spontaneous energetic expression.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-32399-26-Cinematic-Liquid-Splash-Portrait.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Game Asset"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
       "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-33397-50",
       "title": "2D Graphic Fashion Illustration",
       "prompt": "Bold graphic 2D illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, thick black outlines, saturated colors, {argument name=\"trousers\" default=\"wide-leg checkered trousers in red and white\"}, {argument name=\"blouse\" default=\"embroidered blouse with sun motifs\"}, poster-style flat shading, simple mauve background, confident hip pose, 3:4",
@@ -58,16 +39,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-33190-9",
-      "title": "Image Texture and Style Transfer",
-      "prompt": "Take from Image 2 only its medium, mark-making, texture, color treatment and surface finish. Take from Image 1 everything else",
+      "id": "xianyu-multi-model:ym-ai-skill-others-33379-9",
+      "title": "Impressionist Meadow Woman Portrait",
+      "prompt": "Impressionist oil painting of a graceful young woman standing in a sunlit {argument name=\"location\" default=\"lavender and wildflower meadow\"}. She is wearing an off-the-shoulder, ruffled {argument name=\"dress color\" default=\"cream-white\"} sun dress with delicate, flowing layered fabric catching dappled sunlight. She has wavy brown hair styled in a loose, elegant low updo, gentle facial features, closed or soft-lidded eyes, subtle rosy cheeks, and small floral stud earrings. She gently holds a bouquet of wildflowers and lavender across her chest. Soft pastel color palette, warm golden sunlight, visible textured brushstrokes, romantic aesthetic, cinematic lighting, {argument name=\"artist style\" default=\"John Singer Sargent and Claude Monet\"} style --ar 9:16 --v 6.1",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-33190-9-Image-Texture-and-Style-Transfer.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-33379-9-Impressionist-Meadow-Woman-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -77,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-36256-10",
-      "title": "Identity-Preserving Satin Dress Portrait",
-      "prompt": "Use the uploaded reference image as the exact face and identity reference. Preserve 100% facial identity, including face shape, eyes, eyebrows, nose, lips, smile, skin tone, and natural facial proportions. Do not recreate or replace the face. Keep the same person recognizable with zero identity drift. Create an ultra-realistic portrait of the same woman wearing a dusty blush-pink satin dress with delicate floral lace, a pearl necklace, and matching pearl drop earrings. Her chestnut-brown curly hair is styled in a soft, romantic updo with loose curls framing her face. She sits elegantly beside a tall vintage window with sheer white curtains, surrounded by beautiful pink roses on an antique ivory table and windowsill. Soft natural sunlight illuminates her face, showing realistic skin texture, natural pores, and lifelike details. Gentle smile, direct eye contact, relaxed hands resting on her lap, luxurious satin reflections, intricate lace textures, warm beige interior, shallow depth of field, professional 85mm portrait photography, cinematic golden light, photorealistic 4K quality, vertical 4:5 composition. Negative prompt: Different face, identity change, altered facial features, skin tone change, artificial skin, beauty filter, excessive retouching, distorted hands, extra fingers, blurry face, CGI, cartoon, watermark, text.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-36316-10",
+      "title": "Studio portrait identity preservation",
+      "prompt": "Without changing the appearance of the woman from the photo (exact facial identity), a large 4/5 studio portrait in 8K, a night shot with flash. The woman is sitting on a transparent fashionable chair (part of the backrest is visible), turned in a three-quarter view. Hands are clasped in front of her face, chin resting on her hands. Confident gaze, eyebrows slightly raised, lips slightly parted. Clothing: Loose strict white shirt with long slightly tousled sleeves, the bottom is tied in a knot at the waist, black tie. Hair is light, long, thick, with a mirror shine. Makeup is light: eyeliner, fox lashes, “dusty rose” lips with a clear contour. Lighting at an angle + flash: Sculptural shadows, expressive chiaroscuro. Background is neutral, evenly lit. Coarse film grain, RAW feel, natural skin texture (pores, peach fuzz on the cheeks, capillaries around the eyes), super-detailed iris, SSS/Tyndall effect. Camera: Fujifilm GFX 100, 100mm, controlled grip. Take the setting/set completely from the second attached photo.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-36256-10-Identity-Preserving-Satin-Dress-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-36316-10-Studio-portrait-identity-preservation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36153-17",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36153-18",
       "title": "Cinematic Male Portrait with Golden Backlight",
       "prompt": "Analyze the uploaded reference and reproduce its exact cinematic photography style. Create a premium cinematic male portrait with the same visual language as the reference. Preserve: Warm golden backlight around the hair Dark moody background Soft atmospheric smoke/haze Strong rim lighting Warm skin illumination Deep cinematic shadows Natural skin texture Thick textured hairstyle with individual hair strands Dark fashion clothing Sunglasses with realistic reflections Same close-up portrait framing Same sophisticated editorial mood Same shallow depth of field Same warm brown/golden color grading Lighting should appear physically realistic, with golden light separating the subject from the dark smoky background. 85mm portrait-lens look, shallow depth of field, f/1.4 aesthetic, realistic skin pores, natural facial texture, realistic hair strands, cinematic HDR, professional fashion photography, 8K Ultra HD. Keep the face natural and proportional. Do not plasticize the skin. No exaggerated facial features, no artificial eyes, no distorted glasses, no watermark.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36153-17-Cinematic-Male-Portrait-with-Golden-Backlight.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36153-18-Cinematic-Male-Portrait-with-Golden-Backlight.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-4814-450",
-      "title": "Abandoned Object Photorealistic Image Generator",
-      "prompt": "A photorealistic image of an abandoned {argument name=\"subject\" default=\"[SUBJECT]\"} in {argument name=\"color\" default=\"[COLOR]\"}, heavily covered in rust, overgrown with plants and bushes growing through and around it, splattered with mud, isolated on a pure white background, square 1:1 aspect ratio, shot with a 50mm lens for natural perspective and depth of field --ar 1:1 --v 6 --stylize 750 --q 2",
+      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-5270-431",
+      "title": "3D Artsy Video Game Controller Grid",
+      "prompt": "Create a collection of video game controllers, they belong together as a single theme. Put them in a 3x3 grid. The background is white. Make the controllers in an artsy and tactile 3D style. No text.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-4814-450-Abandoned-Object-Photorealistic-Image-Generator.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-5270-431-3D-Artsy-Video-Game-Controller-Grid.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -267,16 +248,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-32981-10",
-      "title": "Universe Inside a Tear",
-      "prompt": "Create an extraordinarily detailed, photorealistic cinematic image of a {argument name=\"subject\" default=\"solitary human figure\"} standing completely still in an enormous {argument name=\"location\" default=\"abandoned museum\"} at night. The museum is dark, silent, and architecturally majestic, with towering classical walls, enormous empty frames, marble floors, and faint moonlight entering through a shattered glass ceiling. The person is seen from behind, wearing a simple, elegant black coat. Their face is NOT visible. The central visual phenomenon: a {argument name=\"visual element\" default=\"single enormous tear\"} is falling from one of the eyes of a gigantic stone statue positioned at the far end of the museum. But instead of ordinary liquid, the tear is a perfectly transparent miniature universe. Inside the falling droplet exists an impossibly detailed alternate world — tiny mountains, oceans, cities, thunderstorms, forests, roads filled with microscopic headlights, and a tiny moon — all physically contained inside the spherical tear. The tear is frozen in midair approximately one meter above the marble floor, creating a breathtaking optical illusion. Its surface reflects the entire museum with perfect physical accuracy while the miniature world inside remains alive and illuminated. Hundreds of ordinary museum objects subtly interact with the phenomenon: dust particles suspended in moonlight, fragments of broken glass reflecting tiny galaxies, old paintings whose subjects appear to be looking toward the tear, and shallow ripples forming on the marble beneath it despite the droplet never touching the floor. Make the human figure extremely small compared with the statue and architecture, emphasizing scale and existential wonder. Lighting: realistic moonlight mixed with extremely subtle natural illumination coming from inside the tear. Strong volumetric light rays, phisically accurate reflections, realistic refraction through the water, delicate shadows, cinematic contrast, natural atmospheric haze. Camera: low cinematic perspective, 35mm full-frame lens, shallow but controlled depth of field, extremely high dynamic range, carefully composed leading lines directing the eye from the person → statue → floating tear. Aesthetic: surreal concept executed with absolute photorealism. It must look like a real photograph captured by an elite cinematographer, NOT digital art. Ultra-fine skin, fabric, marble, dust, glass and water textures. Physically believable optics. Ray-traced reflections and refractions. Micro-details everywhere. Natural film grain. Subtle lens imperfections. No excessive glow. Composition should feel like a once-in-a-lifetime photograph that makes the viewer stop scrolling and stare. 8K detail, photorealistic, cinematic masterpiece, museum-scale composition, surreal realism, optical illusion, emotionally haunting, sophisticated visual storytelling, award-winning photography.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-33190-10",
+      "title": "Image Texture and Style Transfer",
+      "prompt": "Take from Image 2 only its medium, mark-making, texture, color treatment and surface finish. Take from Image 1 everything else",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32981-10-Universe-Inside-a-Tear.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-33190-10-Image-Texture-and-Style-Transfer.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -286,16 +267,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35920-11",
-      "title": "Photorealistic Sunset Portrait with Reference Face",
-      "prompt": "A photorealistic portrait of a beautiful young {argument name=\"age\" default=\"22-year-old\"} woman sitting casually on a dark granite ledge, looking directly at the camera with a relaxed, subtle smile. She is wearing a sporty, color-blocked outfit: a short-sleeved t-shirt with a solid white front and bright orange sleeves and shoulders, paired with matching orange shorts featuring white drawstrings and white side stripes. Her right leg is pulled up with her right arm resting comfortably on her knee. She has a natural, elegant feminine appearance with healthy glowing skin. The setting is an outdoor balcony or terrace with a black metal railing. In the background, a stunning golden hour sunset illuminates a wide river or lake, casting vibrant warm orange and yellow hues across the sky and reflecting beautifully on the water, with lush green trees visible to the left. Shot on an {argument name=\"lens\" default=\"85mm lens\"}, f/1.8 aperture, cinematic golden-hour lighting, shallow depth of field, beautiful natural background bokeh, ultra-realistic skin texture, soft skin glow, realistic facial details, natural colors, professional photography, high resolution. STRICTLY USE THE UPLOADED REFERENCE IMAGE FOR HER FACE AND IDENTITY. Keep the original face 100% unchanged and identical to the reference — same facial features, facial structure, proportions, skin tone, eye shape and color, nose, lips, eyebrows, jawline, hairstyle, hair texture, age, and natural expression. Do not beautify, alter, reshape, or idealize the face. Preserve the exact same identity and hairstyle from the reference image. The final image must look like the exact same girl from the reference photo, only placed in this new setting and outfit. Skin should have a natural healthy glow while maintaining realistic skin texture and pores. No face distortion, no identity change, no artificial beauty filter, no excessive makeup, no facial modification.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-36257-11",
+      "title": "Escalator Dreaming Bride in Osaka Station",
+      "prompt": "Japan Osaka JR station, random secret scene, white bride's gown, standing on an upward escalator staircase, spread arms, both hands on both handrails, leaning forward, gazing away from camera, messy low updo, sharp focus on subject, background bokeh, extreme close up, dutch angle",
       "media": "image",
-      "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35920-11-Photorealistic-Sunset-Portrait-with-Reference-Face.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-36257-11-Escalator-Dreaming-Bride-in-Osaka-Station.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "GPT Image 2",
+        "AI Image Model",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",
@@ -305,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36155-18",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36155-19",
       "title": "Candid Night Out with Cocktails",
       "prompt": "A candid, high-detail smartphone snapshot of two young women enjoying cocktails at a vibrant, upscale bar at night. On the left, a woman with warm brown wavy hair and a subtle smile wears a dark maroon top. On the right, a woman with dark brown hair and a bright, laughing expression wears a sleek black top and an open blazer, pointing playfully at their drinks. Each holds an elegant coupe glass filled with an amber cocktail garnished with a green olive on a pick. The background is softly blurred, showing a warmly lit back bar stocked with liquor bottles and hanging pendant lights, creating a cozy and lively atmosphere. Natural flash photography style, authentic grain, 8k resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36155-18-Candid-Night-Out-with-Cocktails.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36155-19-Candid-Night-Out-with-Cocktails.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-4492-462",
-      "title": "Hand-Carved Wooden Miniature Figure",
-      "prompt": "A hand-carved wooden miniature figure of {argument name=\"subject name\" default=\"[NAME]\"}, shaped with visible knife marks, natural grain texture, and smooth unfinished edges. Placed on a workshop table with carving tools, wood shavings, and soft warm directional lighting. 1080×1080.",
+      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-4814-451",
+      "title": "Abandoned Object Photorealistic Image Generator",
+      "prompt": "A photorealistic image of an abandoned {argument name=\"subject\" default=\"[SUBJECT]\"} in {argument name=\"color\" default=\"[COLOR]\"}, heavily covered in rust, overgrown with plants and bushes growing through and around it, splattered with mud, isolated on a pure white background, square 1:1 aspect ratio, shot with a 50mm lens for natural perspective and depth of field --ar 1:1 --v 6 --stylize 750 --q 2",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-4492-462-Hand-Carved-Wooden-Miniature-Figure.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-4814-451-Abandoned-Object-Photorealistic-Image-Generator.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,16 +457,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-32413-11",
-      "title": "Object Replacement Inpainting Prompt",
-      "prompt": "Replace the magenta region with an object matching the size/shape/lighting of nearby {argument name=\"subject\" default=\"subject\"}, but in {argument name=\"color\" default=\"color\"}. Keep everything else unchanged.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-32981-11",
+      "title": "Universe Inside a Tear",
+      "prompt": "Create an extraordinarily detailed, photorealistic cinematic image of a {argument name=\"subject\" default=\"solitary human figure\"} standing completely still in an enormous {argument name=\"location\" default=\"abandoned museum\"} at night. The museum is dark, silent, and architecturally majestic, with towering classical walls, enormous empty frames, marble floors, and faint moonlight entering through a shattered glass ceiling. The person is seen from behind, wearing a simple, elegant black coat. Their face is NOT visible. The central visual phenomenon: a {argument name=\"visual element\" default=\"single enormous tear\"} is falling from one of the eyes of a gigantic stone statue positioned at the far end of the museum. But instead of ordinary liquid, the tear is a perfectly transparent miniature universe. Inside the falling droplet exists an impossibly detailed alternate world — tiny mountains, oceans, cities, thunderstorms, forests, roads filled with microscopic headlights, and a tiny moon — all physically contained inside the spherical tear. The tear is frozen in midair approximately one meter above the marble floor, creating a breathtaking optical illusion. Its surface reflects the entire museum with perfect physical accuracy while the miniature world inside remains alive and illuminated. Hundreds of ordinary museum objects subtly interact with the phenomenon: dust particles suspended in moonlight, fragments of broken glass reflecting tiny galaxies, old paintings whose subjects appear to be looking toward the tear, and shallow ripples forming on the marble beneath it despite the droplet never touching the floor. Make the human figure extremely small compared with the statue and architecture, emphasizing scale and existential wonder. Lighting: realistic moonlight mixed with extremely subtle natural illumination coming from inside the tear. Strong volumetric light rays, phisically accurate reflections, realistic refraction through the water, delicate shadows, cinematic contrast, natural atmospheric haze. Camera: low cinematic perspective, 35mm full-frame lens, shallow but controlled depth of field, extremely high dynamic range, carefully composed leading lines directing the eye from the person → statue → floating tear. Aesthetic: surreal concept executed with absolute photorealism. It must look like a real photograph captured by an elite cinematographer, NOT digital art. Ultra-fine skin, fabric, marble, dust, glass and water textures. Physically believable optics. Ray-traced reflections and refractions. Micro-details everywhere. Natural film grain. Subtle lens imperfections. No excessive glow. Composition should feel like a once-in-a-lifetime photograph that makes the viewer stop scrolling and stare. 8K detail, photorealistic, cinematic masterpiece, museum-scale composition, surreal realism, optical illusion, emotionally haunting, sophisticated visual storytelling, award-winning photography.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32413-11-Object-Replacement-Inpainting-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32981-11-Universe-Inside-a-Tear.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -495,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35921-12",
-      "title": "Realistic Portrait of South Asian Man at Twilight",
-      "prompt": "A high-resolution, realistic portrait of a stylish young South Asian man sitting comfortably outdoors in a park or open-air café during twilight/evening. He has short, styled hair, and subtle stubble. He is wearing light silk yellow shalwar kameez, white sneakers, and a luxury silver watch with a bright blue dial on his left wrist. He is sitting cross-legged in a modern dark woven patio chair, resting one arm on a small round outdoor table with a cup of hot black coffee (with 'COFFEE' printed on the mug). One hand is placed thoughtfully under his chin, looking directly at the camera with a confident expression. Background: A blurred lush green park setting with soft warm bokeh street lights. In the top right corner of the sky, a large, clear full moon is glowing. Warm, cinematic twilight lighting, sharp focus on the subject, photorealistic, 8k quality, depth of field. Keep original face and hairstyle 100% reference",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-36256-12",
+      "title": "Identity-Preserving Satin Dress Portrait",
+      "prompt": "Use the uploaded reference image as the exact face and identity reference. Preserve 100% facial identity, including face shape, eyes, eyebrows, nose, lips, smile, skin tone, and natural facial proportions. Do not recreate or replace the face. Keep the same person recognizable with zero identity drift. Create an ultra-realistic portrait of the same woman wearing a dusty blush-pink satin dress with delicate floral lace, a pearl necklace, and matching pearl drop earrings. Her chestnut-brown curly hair is styled in a soft, romantic updo with loose curls framing her face. She sits elegantly beside a tall vintage window with sheer white curtains, surrounded by beautiful pink roses on an antique ivory table and windowsill. Soft natural sunlight illuminates her face, showing realistic skin texture, natural pores, and lifelike details. Gentle smile, direct eye contact, relaxed hands resting on her lap, luxurious satin reflections, intricate lace textures, warm beige interior, shallow depth of field, professional 85mm portrait photography, cinematic golden light, photorealistic 4K quality, vertical 4:5 composition. Negative prompt: Different face, identity change, altered facial features, skin tone change, artificial skin, beauty filter, excessive retouching, distorted hands, extra fingers, blurry face, CGI, cartoon, watermark, text.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35921-12-Realistic-Portrait-of-South-Asian-Man-at-Twilight.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-36256-12-Identity-Preserving-Satin-Dress-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36214-19",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36214-20",
       "title": "Japanese Woman in Onsen with Autumn Maple View",
       "prompt": "A close-up, high-detail portrait of a beautiful young Japanese woman in messy hair style looking directly into the camera with a gentle, pursed-lip expression. She is partly submerged in a traditional Japanese outdoor hot onsen, with clear, warm-toned water. The onsen is built directly on stone bank, looks out over a canopy of blazing crimson, amber, and golden maple leaves, with an unobstructed, panoramic view of rolling mountain ridges, deep valleys. A few leaves will gently drift down and float on the surface of the water. softly blurred to create a shallow depth of field. The lighting is soft, natural, and warm, highlighting her smooth skin texture and expressive eyes. The shot is captured in a professional photographic style, reminiscent of a high-quality portrait or promotional still, with sharp focus on her face, natural skin tones, balanced exposure, and a serene, intimate atmosphere.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36214-19-Japanese-Woman-in-Onsen-with-Autumn-Maple-View.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36214-20-Japanese-Woman-in-Onsen-with-Autumn-Maple-View.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +590,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-4349-469",
-      "title": "Hand-carved wooden miniature figure prompt",
-      "prompt": "A hand-carved wooden miniature figure of {argument name=\"name\" default=\"[NAME]\"}, shaped with visible knife marks, natural grain texture, and smooth unfinished edges. Placed on a workshop table with carving tools, wood shavings, and soft warm directional lighting. 1080×1080.",
+      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-4492-463",
+      "title": "Hand-Carved Wooden Miniature Figure",
+      "prompt": "A hand-carved wooden miniature figure of {argument name=\"subject name\" default=\"[NAME]\"}, shaped with visible knife marks, natural grain texture, and smooth unfinished edges. Placed on a workshop table with carving tools, wood shavings, and soft warm directional lighting. 1080×1080.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-4349-469-Hand-carved-wooden-miniature-figure-prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-4492-463-Hand-Carved-Wooden-Miniature-Figure.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,16 +666,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-32198-12",
-      "title": "Classical Fat Cat Painting",
-      "prompt": "{argument name=\"animal\" default=\"A very fat cat\"} is lounging on a {argument name=\"furniture\" default=\"plush, ornate armchair\"}. The cat is predominantly white with patches of brown and black tabby markings on its head, back, and tail. Its belly is exceptionally large and hangs down. The cat is positioned with its front paws resting on the armrest and its hind legs stretched out. The armchair has a patterned fabric in shades of brown and gold. In the background, a framed painting with a landscape scene is visible. The overall style of the image is reminiscent of a {argument name=\"style\" default=\"classical painting\"}.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-32413-12",
+      "title": "Object Replacement Inpainting Prompt",
+      "prompt": "Replace the magenta region with an object matching the size/shape/lighting of nearby {argument name=\"subject\" default=\"subject\"}, but in {argument name=\"color\" default=\"color\"}. Keep everything else unchanged.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32198-12-Classical-Fat-Cat-Painting.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32413-12-Object-Replacement-Inpainting-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -704,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35925-13",
-      "title": "Japanese Woman Model Comparison Prompt",
-      "prompt": "{argument name=\"subject_en\" default=\"A clean-looking Japanese woman\"} {argument name=\"location_en\" default=\"On the sidewalk of a quiet residential street\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35920-13",
+      "title": "Photorealistic Sunset Portrait with Reference Face",
+      "prompt": "A photorealistic portrait of a beautiful young {argument name=\"age\" default=\"22-year-old\"} woman sitting casually on a dark granite ledge, looking directly at the camera with a relaxed, subtle smile. She is wearing a sporty, color-blocked outfit: a short-sleeved t-shirt with a solid white front and bright orange sleeves and shoulders, paired with matching orange shorts featuring white drawstrings and white side stripes. Her right leg is pulled up with her right arm resting comfortably on her knee. She has a natural, elegant feminine appearance with healthy glowing skin. The setting is an outdoor balcony or terrace with a black metal railing. In the background, a stunning golden hour sunset illuminates a wide river or lake, casting vibrant warm orange and yellow hues across the sky and reflecting beautifully on the water, with lush green trees visible to the left. Shot on an {argument name=\"lens\" default=\"85mm lens\"}, f/1.8 aperture, cinematic golden-hour lighting, shallow depth of field, beautiful natural background bokeh, ultra-realistic skin texture, soft skin glow, realistic facial details, natural colors, professional photography, high resolution. STRICTLY USE THE UPLOADED REFERENCE IMAGE FOR HER FACE AND IDENTITY. Keep the original face 100% unchanged and identical to the reference — same facial features, facial structure, proportions, skin tone, eye shape and color, nose, lips, eyebrows, jawline, hairstyle, hair texture, age, and natural expression. Do not beautify, alter, reshape, or idealize the face. Preserve the exact same identity and hairstyle from the reference image. The final image must look like the exact same girl from the reference photo, only placed in this new setting and outfit. Skin should have a natural healthy glow while maintaining realistic skin texture and pores. No face distortion, no identity change, no artificial beauty filter, no excessive makeup, no facial modification.",
       "media": "image",
       "model": "GPT Image 2",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35925-13-Japanese-Woman-Model-Comparison-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35920-13-Photorealistic-Sunset-Portrait-with-Reference-Face.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -723,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36156-20",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36156-21",
       "title": "Red Carpet Fashion Photo Prompt",
       "prompt": "Use the uploaded image as the primary visual reference. Create an ultra-realistic, high-end red-carpet fashion photograph of the same woman, preserving her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and natural proportions with maximum accuracy. No identity drift or facial alteration. Dress her in an exquisite icy silver-blue couture evening gown made from sheer translucent fabric, densely decorated with hundreds of individually visible crystal and rhinestone embellishments. The gown has a fitted long-sleeve illusion bodice, elegant high neckline, sculpted waist, and a sleek floor-length silhouette. Add a dramatic flowing light-blue sheer train cascading naturally down the stairs behind her. Crystal-studded silver open-toe heels, delicate diamond earrings, and a refined diamond necklace. Place her standing gracefully on the grand cream-colored staircase of a prestigious fashion gala, facing the camera with a confident yet elegant expression. Behind her, a glamorous crowd of photographers and guests are taking photographs, with professional cameras and flashes visible. The staircase and surrounding railings are covered with sparkling crystal-like decorations. Composition: full-body portrait, head-to-toe visible, centered subject, elegant natural standing pose, train fully visible, realistic body proportions. Photography: luxury fashion editorial photography, cinematic depth of field, realistic flash photography, soft ambient lighting, subtle reflections from crystals, natural skin pores and texture, highly detailed fabric, physically accurate rhinestones, realistic hands and fingers, premium Vogue-style aesthetic, photorealistic, 8K detail. Negative prompt: cartoon, CGI, 3D render, plastic skin, excessive beauty retouching, altered face, different person, identity drift, distorted anatomy, extra fingers, malformed hands, blurry face, oversized jewelry, unrealistic crystals, artificial-looking fabric, duplicate people, text, logo, watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36156-20-Red-Carpet-Fashion-Photo-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36156-21-Red-Carpet-Fashion-Photo-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,16 +799,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-4137-481",
-      "title": "A detailed prompt for generating a photorealistic image of a nano-banana-pro",
-      "prompt": "photorealistic, high resolution, 8k, ultra detailed, a nano-banana-pro, on a {argument name=\"surface\" default=\"wooden table\"}, soft studio lighting, macro lens, shallow depth of field, {argument name=\"background\" default=\"minimalist background\"}, cinematic lighting, detailed texture, volumetric light, highly detailed, sharp focus, {argument name=\"style\" default=\"photorealistic\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-ecommerce-main-image-4349-470",
+      "title": "Hand-carved wooden miniature figure prompt",
+      "prompt": "A hand-carved wooden miniature figure of {argument name=\"name\" default=\"[NAME]\"}, shaped with visible knife marks, natural grain texture, and smooth unfinished edges. Placed on a workshop table with carving tools, wood shavings, and soft warm directional lighting. 1080×1080.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-4137-481-A-detailed-prompt-for-generating-a-photorealistic-image-of-a-nano-banana-pro.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/ecommerce-main-image/ecommerce-main-image-4349-470-Hand-carved-wooden-miniature-figure-prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Ecommerce Main Image"
       ],
       "author": "YouMind OpenLab",
@@ -894,16 +875,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-32101-13",
-      "title": "Blackglass Ascendant System Prompt",
-      "prompt": "SYSTEM PROMPT: BLACKGLASS ASCENDANT Rewrite the user's text, image, or both as one prompt for GPT Image Gen V2 or Nano Banana Pro. Use GPT unless Nano is named. Preserve language, text, references, and requested or source ratio. Use three systems. Ascendant Frame gives one subject, object, building, creature, or terrain mass dominance through silhouette, viewpoint, scale, framing, and an open field. Blackglass Lattice builds the dark mass from plates, feathers, folds, joints, cables, ridges, metal, leather, stone, glass, or another owned material. Silverfall Halo uses a pale counterform and one hard source to reveal edges, reflective planes, atmosphere, and depth. Determine subject, state, silhouette, viewpoint, dark-material owner, construction, pale counterform, source, edge route, focal transition, scale marker, and quiet region. Dark surfaces need separation. Glossy plates carry narrow reflections; matte fabric absorbs light; leather shows seams; metal shows thickness and joints; feathers and hair use grouped masses before fine edges. Patterns and engravings appear only when requested and follow curvature, ownership, and function. Preserve anatomy, object use, support, access, and perspective. Light appears only on source-facing contours. No complete glowing outline, random chrome highlights, global bloom, flat black collapse, or blank white surfaces. Atmosphere, snow, ash, rain, or dust needs a source and direction. Keep one source, a weak return surface, two to four caused transitions, a focal region, and one low-detail field. Use five values from deep black to white edge. Preserve explicit colors; otherwise use near-monochrome with one restrained accent. Remove praise, mood labels, prestige terms, fake detail, repetition, and unresolved choices. Use concrete nouns and active verbs. No em dash or en dash. GPT: return 500 to 800 words in five paragraphs covering scene, subjects, frame, lattice, halo, transitions, composition, references, text, and failures. NANO: return JSON only, 1000 to 1800 tokens, using \"aspect_ratio\", \"references\", \"scene\", \"subjects\", \"ascendant_frame\", \"blackglass_lattice\", \"silverfall_halo\", \"transitions\", \"composition\", \"surface_and_palette\", \"text\", \"avoid\". Omit unused fields. No metadata, IDs, weights, or comments. Return only the finished prompt.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-32198-13",
+      "title": "Classical Fat Cat Painting",
+      "prompt": "{argument name=\"animal\" default=\"A very fat cat\"} is lounging on a {argument name=\"furniture\" default=\"plush, ornate armchair\"}. The cat is predominantly white with patches of brown and black tabby markings on its head, back, and tail. Its belly is exceptionally large and hangs down. The cat is positioned with its front paws resting on the armrest and its hind legs stretched out. The armchair has a patterned fabric in shades of brown and gold. In the background, a framed painting with a landscape scene is visible. The overall style of the image is reminiscent of a {argument name=\"style\" default=\"classical painting\"}.",
       "media": "image",
-      "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32101-13-Blackglass-Ascendant-System-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-32198-13-Classical-Fat-Cat-Painting.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "GPT Image",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -913,16 +894,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35748-14",
-      "title": "South Asian Woman Selfie Prompt",
-      "prompt": "A beautiful young South Asian woman taking a confident selfie in front of a large glowing arched mirror. She has long, voluminous wavy brown hair with golden highlights, fair skin, and a radiant smile showing her teeth. She is wearing stylish gold-framed aviator sunglasses. She is dressed in an elegant white traditional Pakistani/Indian kurta with delicate pink floral embroidery and patterns, paired with a sheer pink floral dupatta gracefully draped around her neck and shoulders. Her right hand is giving a cheerful thumbs-up, while her left hand holds a white iPhone 13/14 Pro. She is wearing a black smartwatch on her left wrist. The background features a modern minimalist interior with a large illuminated warm golden archway creating a soft, dreamy glow around her. Bright, cinematic lighting, highly detailed, realistic skin texture, sharp focus, elegant and vibrant color palette, professional photography style, 8k quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35921-14",
+      "title": "Realistic Portrait of South Asian Man at Twilight",
+      "prompt": "A high-resolution, realistic portrait of a stylish young South Asian man sitting comfortably outdoors in a park or open-air café during twilight/evening. He has short, styled hair, and subtle stubble. He is wearing light silk yellow shalwar kameez, white sneakers, and a luxury silver watch with a bright blue dial on his left wrist. He is sitting cross-legged in a modern dark woven patio chair, resting one arm on a small round outdoor table with a cup of hot black coffee (with 'COFFEE' printed on the mug). One hand is placed thoughtfully under his chin, looking directly at the camera with a confident expression. Background: A blurred lush green park setting with soft warm bokeh street lights. In the top right corner of the sky, a large, clear full moon is glowing. Warm, cinematic twilight lighting, sharp focus on the subject, photorealistic, 8k quality, depth of field. Keep original face and hairstyle 100% reference",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35748-14-South-Asian-Woman-Selfie-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35921-14-Realistic-Portrait-of-South-Asian-Man-at-Twilight.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",
@@ -932,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36154-21",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36154-22",
       "title": "Elderly Asian Ceramic Artist Portrait",
       "prompt": "Ultra-realistic cinematic portrait: an elderly Asian ceramic artist sitting in a cluttered studio, hands covered in wet clay, shaping a slender-necked vase on a potter's wheel; afternoon sunlight streams through a dusty window, creating Tyndall rays; wooden shelves filled with unglazed pottery, an old apron hanging on the wall; shallow depth of field, 85mm lens, visible skin pores and clay texture, warm tones, natural light, highly detailed.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36154-21-Elderly-Asian-Ceramic-Artist-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36154-22-Elderly-Asian-Ceramic-Artist-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -947,6 +928,25 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-32501-16",
+      "title": "Whimsical Coloring Page Illustration",
+      "prompt": "A black and white line drawing features the text \"{argument name=\"quote\" default=\"DOING MY BEST RESULTS MAY VARY\"}\" in large, bold, bubble-style lettering. The text is surrounded by various cute and whimsical elements, including smiling stars, a cat face, clouds, daisies, hearts, cupcakes, a boba tea, and sparkly starbursts. The overall composition is dense and playful, designed as a coloring page.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-32501-16-Whimsical-Coloring-Page-Illustration.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Infographic / Education"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
       "license": "upstream",
       "createdAt": null
     }
