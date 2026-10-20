@@ -1,12 +1,31 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30810-406",
-      "title": "Celebrity Red Carpet Cinematic Portrait",
-      "prompt": "Generate a hyper-realistic, cinematic 8k image of the uploaded man with his face fully preserved. he is wearing {argument name=\"eyewear\" default=\"sleek black sunglasses\"} and a {argument name=\"outfit\" default=\"sharp black tailored suit\"}, walking confidently on a red carpet in a natural motion. his hands are in his pockets, exuding calm authority and celebrity vibes. surrounding him are excited fans and glamorous women reaching out to touch him, while journalists’ cameras flash from below the frame, adding intense energy and drama. a {argument name=\"car type\" default=\"luxury lamborghini\"} is parked right beside the red carpet, enhancing the high-status atmosphere. the setting should feel crowded, dense, and cinematic, with rich lighting, dramatic shadows, and the color grading of a high-end sony a7s4 camera shot",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29654-263",
+      "title": "Realistic Close-up Portrait with Green Eyes",
+      "prompt": "{ \"subject\": { \"description\": \"{argument name=\\\"woman description\\\" default=\\\"A beautiful young woman with fair skin, long dark hair, striking green eyes, defined eyebrows, and glossy pink lips. She has a soft, intimate expression with her mouth slightly open.\\\"}\", \"pose\": \"Extreme close-up, head tilted slightly, one hand gently touching her cheek or temple with fingers visible, watching directly on camera\", \"clothing\": \"{argument name=\\\"clothing style\\\" default=\\\"zebra top with deep neckline (partially visible).\\\"}\", \"modifications\": \"Add a small, elegant '{argument name=\\\"tattoo text\\\" default=\\\"Keor\\\"}' tattoo in minimalist script on the side of her hand or on one of her fingers, subtly visible.\" }, \"setting\": { \"environment\": \"Soft, neutral indoor background with diffused lighting.\", \"lighting\": \"Soft, flattering light highlighting her facial features and creating a gentle glow on her skin.\" }, \"style\": { \"photography\": \"Realistic, high-resolution close-up portrait with exceptional detail on skin texture, eyes, lips, and hair strands.\", \"mood\": \"Intimate, soft, and captivating.\", \"composition\": \"Tight facial close-up focusing on eyes and expression.\" }, \"full_prompt\": \"Photorealistic extreme close-up portrait of a beautiful woman with dark hair and striking green eyes, her hand gently touching her cheek. She has glossy pink lips and a soft expression. Add a small elegant 'Keor' tattoo on the side of her hand or finger. Soft diffused lighting, ultra-detailed skin, eyes, and hair textures.\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30810-406-Celebrity-Red-Carpet-Cinematic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29654-263-Realistic-Close-up-Portrait-with-Green-Eyes.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30802-405",
+      "title": "Cozy Kitchen Lifestyle Portrait",
+      "prompt": "A photorealistic indoor lifestyle portrait of a {argument name=\"subject\" default=\"young woman in a modern, cozy apartment\"}. She has {argument name=\"appearance\" default=\"fair skin, long auburn-red hair gathered into a relaxed low ponytail, with a few loose strands naturally framing her face\"}. Her expression is warm and friendly, with a subtle genuine smile and relaxed eyes looking toward the camera. She is seated comfortably in a natural three-quarter pose, turned slightly toward the camera, with one hand resting naturally on her knee and the other positioned comfortably beside her. Her posture should appear relaxed and authentic rather than overly posed. She wears a {argument name=\"clothing\" default=\"soft pink floral lounge dress with delicate small flower patterns, thin straps, subtle decorative edging, and natural fabric folds\"}. Add a simple understated ring and minimal accessories. Keep the styling casual, tasteful, and everyday, with no visible logos or branding. The room has a warm contemporary interior with vertical wooden panels, light neutral walls, polished wooden flooring, and a small kitchen area in the background. A straw-colored decorative hat hangs on the wall, while a fruit arrangement containing bananas and oranges adds a natural touch to the setting. Warm interior lighting combines with soft daylight entering from the side. Camera and style: shot on an 85mm portrait lens, natural eye-level perspective, soft diffused window light, subtle warm indoor illumination, realistic skin texture, detailed individual hair strands, authentic fabric texture, shallow depth of field, cinematic color grading, balanced exposure, natural shadows, professional lifestyle photography, high detail, photorealistic 4K quality.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30802-405-Cozy-Kitchen-Lifestyle-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20453-839",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20453-840",
       "title": "Beauty Collage Lipstick Grid",
       "prompt": "{ \"aspect_ratio\": \"9:16\", \"prompt\": \"An ultra-realistic, 16k resolution editorial beauty collage presenting a 3x3 grid of nine distinct close-up portraits of the same female model. The model has dark, wet-look styled hair featuring distinct, precise face-framing curl tendrils at her forehead, matching image_5.png. Her skin is radiant, glowing, and dewy with realistic, non-retouched dermal texture and fine pores. She has light-medium skin tone, blue-grey eyes, and natural, well-defined brows. Every portrait showcases her wearing high-gloss, ultra-saturated, vibrant candy-apple red lipstick and deep oxblood-maroon pointed stiletto nails. The grid follows the exact poses from image_5.png: Top Row: 1. Head back, fingers near mouth. 2. Central application with square red lipstick tube. 3. Profiling right, pulling a red strawberry from her mouth. Middle Row: 4. Laughing, winking, applying with square red lipstick tube. 5. Duck-face with fingers pulling mouth. 6. Winking with hand supporting cheek. Bottom Row: 7. Open-mouth laughing, showing tongue, looking left. 8. Low angle looking up, applying with square red lipstick tube. 9. Winking laugh, showing teeth. Lighting: Clinical, high-key, bright studio beauty lighting with soft shadows, making the lip gloss and skin dewiness glisten. Color Grade: Clean, high-contrast, vibrant, minimal background. Background: A seamless, stark, minimal white studio backdrop. Camera: Macro lens realism with crisp focus on lips and skin texture, polished commercial campaign style.\", \"technical_details\": { \"resolution\": \"16k UHD\", \"sharpness\": \"Tack-sharp on lip lines and pores\", \"skin_finish\": \"Hyper-realistic dermal texture, subsurface scattering\", \"composition\": \"Strict 3x3 grid symmetry\" } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20453-839-Beauty-Collage-Lipstick-Grid.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20453-840-Beauty-Collage-Lipstick-Grid.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-9762-263",
-      "title": "Adding Food to Character Prompts",
-      "prompt": "Favorite character prompt + 'eating {argument name=\"food item\" default=\"〇〇\"}' (eating 〇〇) With Nano Banana, just add it to the reference image 📷",
+      "id": "xianyu-multi-model:ym-ai-skill-others-9861-263",
+      "title": "Close-up Character Nose Prompt",
+      "prompt": "Zoom in close on this characters nose. And give me photographic details.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9762-263-Adding-Food-to-Character-Prompts.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9861-263-Close-up-Character-Nose-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30803-408",
-      "title": "Aesthetic Supermarket Lifestyle Portrait",
-      "prompt": "A beautiful young slim woman wearing a {argument name=\"headwear\" default=\"hijab\"} is in the {argument name=\"aisle\" default=\"beverage aisle\"} of a {argument name=\"supermarket style\" default=\"modern Asian-style\"} supermarket. Vertical 9:16 photo composition, full body, candid lifestyle photography. The camera is positioned slightly lower than chest height (slightly low angle), using a 35mm lens, providing a natural perspective. The subject stands relaxed while leaning her left shoulder against the side of the beverage refrigerator. Her head is tilted slightly downward so that her face is mostly hidden by a cap, creating a natural, shy, and candid impression. Her left leg bears her weight, while her right leg is bent backward with the tip of the shoe lifted. Her right hand holds a thin white/silver smartphone, while her left hand is tucked into her pants pocket. Wearing a premium ivory-white pashmina hijab made of soft matte chiffon silk that drapes naturally following the shape of her head and shoulders. The hijab is neatly styled with simple folds, modestly covering her neck and chest in front, with the ends tucked into her t-shirt for a clean and minimalist look. No hair is visible. Over the hijab, she wears a pastel pink Nike baseball cap with a white swoosh logo on the front. The cap is worn slightly low so her face remains hidden. Wearing a vintage-style oversized white t-shirt featuring pastel cartoon illustrations and large light purple text across the chest. The loose t-shirt forms natural fabric folds, partially covering her hips. Wearing wide-leg gingham plaid pants in pastel pink and white, made of soft cotton with realistic, natural drapes. Wearing clean, plain white sneakers with thick white soles. To her right stands a silver metal shopping cart with gray wheels. Inside the cart are a few products packaged in pink and yellow, while most of the cart remains empty. The background features an exceptionally clean, premium modern supermarket. Behind the subject is a display refrigerator filled with neatly arranged fruit juice bottles in yellow, white, red, and orange. White LED lights from inside the fridge cast a soft illumination on the subject. To the right, snack shelves are visible, dominated by yellow, orange, and brown packaging. A modern black ceiling with long linear LED lights adds a touch of luxury. The overall tone is warm and soft, dominated by white, pastel pink, yellow, and orange. Korean supermarket aesthetic, Xiaohongshu lifestyle photography, cozy shopping vibes, clean minimal aesthetic, premium fashion editorial. Ultra photorealistic, DSLR photography, RAW photo, HDR, realistic lighting, ultra-detailed fabric texture, realistic hijab folds, realistic shopping cart metal texture, detailed beverage bottles, authentic supermarket environment, cinematic lighting, natural shadows, subtle shallow depth of field, crisp focus, 8K UHD, masterpiece, best quality, highly detailed, ultra realistic, true-to-life colors, realistic proportions, premium editorial photography.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30810-407",
+      "title": "Celebrity Red Carpet Cinematic Portrait",
+      "prompt": "Generate a hyper-realistic, cinematic 8k image of the uploaded man with his face fully preserved. he is wearing {argument name=\"eyewear\" default=\"sleek black sunglasses\"} and a {argument name=\"outfit\" default=\"sharp black tailored suit\"}, walking confidently on a red carpet in a natural motion. his hands are in his pockets, exuding calm authority and celebrity vibes. surrounding him are excited fans and glamorous women reaching out to touch him, while journalists’ cameras flash from below the frame, adding intense energy and drama. a {argument name=\"car type\" default=\"luxury lamborghini\"} is parked right beside the red carpet, enhancing the high-status atmosphere. the setting should feel crowded, dense, and cinematic, with rich lighting, dramatic shadows, and the color grading of a high-end sony a7s4 camera shot",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30803-408-Aesthetic-Supermarket-Lifestyle-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30810-407-Celebrity-Red-Carpet-Cinematic-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20455-840",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-20455-841",
       "title": "Macro Beauty Photography Portrait",
       "prompt": "Ultra-realistic 16k macro beauty photography, profile view of {argument name=\"subject\" default=\"two identical female models\"} with heavy freckles facing each other, noses nearly touching. Features: high-gloss {argument name=\"lipstick color\" default=\"deep cherry red\"} lipstick with wet-look shine, laminated thick dark eyebrows, glistening dewy skin texture with visible pores and fine peach fuzz. Hand at bottom holding a luxury gold lipstick tube with matching red cream. Lighting: Bright, soft studio lighting with high specular highlights on the lips and nose bridge, minimal shadows. Color Grade: {argument name=\"background\" default=\"Warm, creamy beige monochromatic background\"}, vibrant saturated reds, clean and sophisticated editorial aesthetic. Camera: Shot on 85mm macro lens, f/2.8, sharp focus on lips and skin texture, hyper-detailed, photorealistic, Vogue editorial style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20455-840-Macro-Beauty-Photography-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-20455-841-Macro-Beauty-Photography-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-9752-264",
-      "title": "Prompt for Refining Text-Described Images",
-      "prompt": "To have the picture conveyed through text beautifully modified",
+      "id": "xianyu-multi-model:ym-ai-skill-others-9762-264",
+      "title": "Adding Food to Character Prompts",
+      "prompt": "Favorite character prompt + 'eating {argument name=\"food item\" default=\"〇〇\"}' (eating 〇〇) With Nano Banana, just add it to the reference image 📷",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9752-264-Prompt-for-Refining-Text-Described-Images.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9762-264-Adding-Food-to-Character-Prompts.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -263,25 +282,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30811-409",
-      "title": "Industrial Loft Fashion Editorial",
-      "prompt": "A photorealistic editorial lifestyle portrait of a young woman in a sophisticated industrial-style loft. She has fair skin, natural facial features, and {argument name=\"hair style\" default=\"long auburn-red hair gathered into a relaxed low ponytail\"}, with a few soft strands framing her face. Her expression is calm and thoughtful, with her gaze directed slightly upward and toward the side rather than directly at the camera. She is positioned in a relaxed seated pose on a soft textured rug, with one knee raised naturally and one arm extending comfortably toward the side, creating an elegant editorial composition. Her posture should look natural and balanced. She is dressed in a {argument name=\"top\" default=\"light Green sleeveless fitted top\"} and {argument name=\"trousers\" default=\"matching wide-leg trousers\"}, creating a monochromatic, refined outfit. The clothing should have realistic fabric texture, natural folds, and subtle stitching details. Keep the styling tasteful and understated, with minimal jewelry and no visible logos or branding. The setting is a warm industrial loft interior featuring exposed reddish-brown brick walls, large black-framed grid windows, polished wooden flooring, framed artwork, and a tall vintage-style floor mirror. A wooden table with a classic camera and a few simple objects sits toward the side of the room. An elegant contemporary chandelier with warm metallic elements and hanging crystal-like details adds visual interest overhead. The large mirror naturally reflects the woman and part of the room, creating depth and a sophisticated editorial effect. Use soft natural daylight entering through the large windows, combined with subtle warm ambient interior lighting. Sunlight should create gentle highlights on the subject's hair, clothing, wooden floor, and brick textures while maintaining realistic shadows. The overall atmosphere should feel warm, peaceful, artistic, and upscale. Camera and style: shot on an 85mm portrait lens, eye-level perspective, shallow but natural depth of field, realistic perspective, soft window light, cinematic color grading, high dynamic range, detailed skin texture, realistic hair strands, accurate fabric textures, natural shadows, professional fashion-editorial photography, subtle film grain, balanced composition, high resolution, photorealistic detail, sophisticated warm-neutral color palette.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30811-409-Industrial-Loft-Fashion-Editorial.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Social Media Post"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
       "license": "upstream",
       "createdAt": null
     },

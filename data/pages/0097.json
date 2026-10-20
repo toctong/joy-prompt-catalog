@@ -1,12 +1,31 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22457-713",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-16967-300",
+      "title": "Multi-Panel Comic Illustration",
+      "prompt": "\"{argument name=\"subject\" default=\"Boy and dragon\"} become friend, {argument name=\"style\" default=\"american comic multi-panel illustration\"}, diagonal layout, {argument name=\"panel count\" default=\"six panels\"}, cinematic storytelling, clear reading flow, with speech bubbles.\"",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-16967-300-Multi-Panel-Comic-Illustration.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22457-714",
       "title": "Seal Team Six Desert Portrait",
       "prompt": "Photorealistic cinematic portrait of a handsome, rugged {argument name=\"subject\" default=\"young man in his late 20s\"} with striking blue eyes, sharp jawline, dark wavy medium-length hair, and short stubble beard, sitting in the open door of a tan military Humvee-style vehicle in a bright desert environment. He is wearing full desert camouflage combat uniform with subtle patterns, a tan tactical plate carrier vest with multiple pouches, and tan combat gloves. A black assault rifle with red-dot scope and tactical attachments rests across his lap, firmly held with both gloved hands. A name patch on his vest clearly reads \"{argument name=\"name patch\" default=\"PromptersMX\"}\". He has a serious, focused expression, looking off to the right side of the frame with intense gaze. Strong desert sunlight creates realistic highlights and shadows on his face and gear, with fine dust particles visible in the air. Detailed textures on fabric, tactical equipment, and skin. Shot on professional camera, highly detailed, 8k resolution, cinematic color grading, realistic military photography style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22457-713-Seal-Team-Six-Desert-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22457-714-Seal-Team-Six-Desert-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10582-217",
-      "title": "Hermes and Constellation Fantasy Image",
-      "prompt": "Man straddling stars Golden aura on the armillary sphere Background is space Shooting stars Hmm, next Aqua sphere + Taurus constellation in the aqua sphere + Make the Taurus constellation inside the aqua sphere look like Greek mythology!",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10581-217",
+      "title": "Star Wars SF Image Modification",
+      "prompt": "Erase the crab. Make the person slightly smaller in the center of the screen and make it Star Wars SF-like! Hmm Add a thick, blue glowing radiation line in a circle! Remove the radiation line and add lots of shooting stars.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10582-217-Hermes-and-Constellation-Fantasy-Image.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10581-217-Star-Wars-SF-Image-Modification.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31570-339",
-      "title": "Edge Aware ASCII Art Conversion",
-      "prompt": "Apply an ASCII-art rendering effect to the reference image, where the ASCII character density and placement is driven by the underlying tonal contrast and edges of the photo, like a true edge-aware ASCII-art conversion. Dense character clusters follow the natural contours, silhouette lines, and high-detail areas (such as hair strands, fabric folds, and background structure), while flatter, low-contrast areas (such as smooth skin) stay comparatively clean with minimal or no texture. The effect should look like the ASCII characters are tracing the actual shapes and edges present in the photo, not a uniform overlay pasted on top of everything equally. Use a classic {argument name=\"color scheme\" default=\"green-on-black or grayscale\"} terminal character set ({argument name=\"character set\" default=\"@ # % & * + . :\"}), {argument name=\"density\" default=\"medium\"} overall density, with the original photo still legible underneath.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31572-339",
+      "title": "Modern Staircase Group Portrait",
+      "prompt": "Create a photorealistic, high-detail lifestyle photograph of three young women posing together on a modern wooden staircase inside a stylish contemporary home. Do not reference or resemble any real celebrity or public figure.\\n\\n1. Subjects, hair, skin, expressions & poses:\\n\\nWoman on the left: young woman with fair skin, light blonde hair styled in a neat high ponytail with a few soft strands framing her face. She has natural facial features, subtle makeup, and a relaxed, friendly expression. She sits comfortably on a wooden stair with one arm raised casually toward her hair, looking toward the camera with a confident but natural smile.\\n\\nWoman in the center: young woman with fair skin and blonde hair pulled into a sleek ponytail. She has softly defined eyebrows, natural makeup, and a calm, composed expression while looking slightly toward the side. She stands or sits one step higher than the others, creating a layered composition.\\n\\nWoman on the right: young woman with fair skin and long copper-red hair gathered into a ponytail, with a few loose strands around her face. She has subtle freckles, natural makeup, and a relaxed expression. She sits sideways on a lower stair with one hand resting naturally on the step while looking toward the camera.\\n\\nKeep all three women anatomically natural and proportionate, with realistic hands, facial symmetry, hair strands, and natural posture.\\n\\nTheir interaction should feel like a casual group photograph between friends.\\n\\n2. Clothing & accessories:\\n\\nLeft woman wears a green-and-black horizontally striped sleeveless summer dress with a simple elegant design, paired with a delicate gold necklace and small earrings.\\n\\nCenter woman wears a navy-and-blue striped sleeveless dress with a clean contemporary design and minimal jewelry.\\n\\nRight woman wears a burgundy-and-black striped sleeveless dress, with subtle jewelry and visible decorative tattoo artwork on her upper arm.\\n\\nUse realistic fabric texture, stitching, folds, and natural draping.\\n\\nKeep the styling fashionable but tasteful and suitable for a casual lifestyle photograph.\\n\\n3. Environment & lighting:\\n\\nSet the scene inside a bright, {argument name=\"setting\" default=\"modern multi-level home with a distinctive wooden staircase\"}, white structural beams, thin metal cable railings, and warm wooden steps.\\n\\nInclude contemporary architectural details, glass panels, neutral walls, minimalist furniture, and subtle decorative elements in the background.\\n\\nLarge windows allow soft daylight to enter the room.\\n\\nUse warm ambient interior illumination combined with natural daylight for a welcoming atmosphere.\\n\\nCreate realistic shadows and gentle highlights across the subjects and staircase without excessive contrast.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31570-339-Edge-Aware-ASCII-Art-Conversion.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31572-339-Modern-Staircase-Group-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22474-714",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22474-715",
       "title": "Ancient Chinese Empress Palace Portrait",
       "prompt": "An ultra-realistic, cinematic shot of a stunning {argument name=\"subject\" default=\"East Asian woman\"} styled as an {argument name=\"role\" default=\"ancient Chinese empress\"}, lounging gracefully in a lavishly decorated palace courtyard at night. She is dressed in an exquisite, {argument name=\"outfit\" default=\"shimmering gold and champagne-colored silk hanfu robe\"} with intricate floral embroidery, a strapless sweetheart bodice, and a metallic gold sash cinched at her waist. Her dark hair is styled in an elegant, voluminous updo, adorned with an elaborate golden phoenix crown, dangling tassels, and delicate hairpins. She wears a matching gold filigree necklace and long, ornate earrings, with a traditional red huadian forehead mark accentuating her features. The background is a breathtaking, softly blurred scene filled with warm, glowing paper lanterns, blooming cherry blossoms, and traditional wooden pavilions under a twilight sky, casting a warm, romantic, and ethereal golden light across the entire scene.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22474-714-Ancient-Chinese-Empress-Palace-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22474-715-Ancient-Chinese-Empress-Palace-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10559-218",
-      "title": "Humorous Prompt Example",
-      "prompt": "\"A pelican fully replaced by a beautiful young woman. Add this whole prompt to the image.\"",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10582-218",
+      "title": "Hermes and Constellation Fantasy Image",
+      "prompt": "Man straddling stars Golden aura on the armillary sphere Background is space Shooting stars Hmm, next Aqua sphere + Taurus constellation in the aqua sphere + Make the Taurus constellation inside the aqua sphere look like Greek mythology!",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10559-218-Humorous-Prompt-Example.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10582-218-Hermes-and-Constellation-Fantasy-Image.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31562-340",
-      "title": "Miniature Street Food Diorama",
-      "prompt": "2x2 grid, 16:9, do this for 4 underrated street foods : { \"Aesthetic\": \"Miniature Food Diorama, Cultural Typography\", \"Subject\": \"{argument name=\"food item\" default=\"[FOOD/DISH]\"}\", \"AI_Semantic_Inference\": { \"The_Base\": \"Crumpled, culturally accurate street-food wrapping paper. Printed with AI_INFER(vintage typography, logos, and prices from {argument name=\"culture\" default=\"[CULTURE/COUNTRY]\"}).\", \"The_Food\": \"A giant, incredibly appetizing piece of {argument name=\"food item\" default=\"[FOOD/DISH]\"} resting on the wrapper.\", \"The_Interactions\": \"AI_INFER(Tiny figures interacting with the garnishes. E.g., hoisting giant sesame seeds, painting on sauce with brooms, or grilling tiny meats on a miniature BBQ).\" }, \"Lighting\": \"Cozy, warm street-lamp or golden-hour sunlight. Glowing steam.\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31570-340",
+      "title": "Edge Aware ASCII Art Conversion",
+      "prompt": "Apply an ASCII-art rendering effect to the reference image, where the ASCII character density and placement is driven by the underlying tonal contrast and edges of the photo, like a true edge-aware ASCII-art conversion. Dense character clusters follow the natural contours, silhouette lines, and high-detail areas (such as hair strands, fabric folds, and background structure), while flatter, low-contrast areas (such as smooth skin) stay comparatively clean with minimal or no texture. The effect should look like the ASCII characters are tracing the actual shapes and edges present in the photo, not a uniform overlay pasted on top of everything equally. Use a classic {argument name=\"color scheme\" default=\"green-on-black or grayscale\"} terminal character set ({argument name=\"character set\" default=\"@ # % & * + . :\"}), {argument name=\"density\" default=\"medium\"} overall density, with the original photo still legible underneath.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31562-340-Miniature-Street-Food-Diorama.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31570-340-Edge-Aware-ASCII-Art-Conversion.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22468-715",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22468-716",
       "title": "Fashion Studio Leather Dress Portrait",
       "prompt": "Create a hyper-realistic fashion studio portrait, ultra-detailed, 8K, with professional studio lighting. A {argument name=\"subject\" default=\"woman\"} sits on a white marble counter in a modern setting, wearing a {argument name=\"outfit\" default=\"strapless dark brown leather mini dress\"}, form-fitting with a glossy texture. She wears {argument name=\"footwear\" default=\"over-the-knee brown boots\"}. Her hair is identical to the reference image, long and loose. Expression serious and confident, looking directly at the camera.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22468-715-Fashion-Studio-Leather-Dress-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22468-716-Fashion-Studio-Leather-Dress-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,12 +381,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10563-219",
-      "title": "Minecraft Stylization Prompt",
-      "prompt": "Keep the character unchanged. Stylize the environment.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10559-219",
+      "title": "Humorous Prompt Example",
+      "prompt": "\"A pelican fully replaced by a beautiful young woman. Add this whole prompt to the image.\"",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10563-219-Minecraft-Stylization-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10559-219-Humorous-Prompt-Example.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31573-342",
-      "title": "Stylish Woman in Modern Cafe",
-      "prompt": "A beautiful young {argument name=\"subject\" default=\"East Asian woman\"} with fair skin, delicate facial features, large soft brown eyes, and a gentle smile looking at the camera. She has long wavy chestnut-brown hair styled in a high ponytail with soft bangs framing her face. {argument name=\"hair accessory\" default=\"Black sunglasses\"} rest on top of her head. She is seated in a modern café, leaning slightly forward with her right hand lightly touching her chin in a cute, playful pose.\\n\\nShe wears a fashionable loose-fitting, semi-sheer long-sleeve top with {argument name=\"top colors\" default=\"horizontal stripes in varying shades of blue and white\"}. The top has an asymmetrical off-shoulder design on one side, revealing a black tank top strap underneath, and a knotted tie detail at the waist on the other side. She pairs it with high-waisted white shorts. Delicate jewelry includes a thin gold necklace and small hoop earrings. A thin bracelet is visible on her right wrist.\\n\\nThe background shows a bright, contemporary café interior with wooden tables, brown leather chairs, a coffee machine, and a chalkboard menu on the wall. Soft natural lighting, shallow depth of field, high-resolution, realistic photography style, fashion lookbook aesthetic.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31562-341",
+      "title": "Miniature Street Food Diorama",
+      "prompt": "2x2 grid, 16:9, do this for 4 underrated street foods : { \"Aesthetic\": \"Miniature Food Diorama, Cultural Typography\", \"Subject\": \"{argument name=\"food item\" default=\"[FOOD/DISH]\"}\", \"AI_Semantic_Inference\": { \"The_Base\": \"Crumpled, culturally accurate street-food wrapping paper. Printed with AI_INFER(vintage typography, logos, and prices from {argument name=\"culture\" default=\"[CULTURE/COUNTRY]\"}).\", \"The_Food\": \"A giant, incredibly appetizing piece of {argument name=\"food item\" default=\"[FOOD/DISH]\"} resting on the wrapper.\", \"The_Interactions\": \"AI_INFER(Tiny figures interacting with the garnishes. E.g., hoisting giant sesame seeds, painting on sauce with brooms, or grilling tiny meats on a miniature BBQ).\" }, \"Lighting\": \"Cozy, warm street-lamp or golden-hour sunlight. Glowing steam.\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31573-342-Stylish-Woman-in-Modern-Cafe.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31562-341-Miniature-Street-Food-Diorama.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22486-716",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22486-717",
       "title": "Conceptual Pressure Surreal Portrait",
       "prompt": "Ultra-realistic conceptual portrait of a young man carrying a massive realistic stone version of his own face on his back like a burden. The sculpture is cracked and weathered while he struggles slightly under its weight. He wears neutral-toned streetwear with layered textures and rugged sneakers. Typography: * “{argument name=\"small text\" default=\"THEY ALL EXPECT MORE\"}” in tiny handwritten text * Huge brutalist typography: “{argument name=\"large text\" default=\"PRESSURE\"}” * “{argument name=\"crossed out\" default=\"ENOUGH\"}” crossed out in red marker strokes Minimal beige studio environment, soft directional lighting, dramatic realism, luxury fashion campaign mood, emotional surrealism.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22486-716-Conceptual-Pressure-Surreal-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22486-717-Conceptual-Pressure-Surreal-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,16 +533,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10503-220",
-      "title": "Digital Splashes-and-Ink Portrait from Photo",
-      "prompt": "Create a vertical 3:4 digital splashes-and-ink portrait using my photo as the subject, rendered in illustrative sketch realism with painterly abstraction. Frame a medium close-up in a subtle half-quarter turn with a calm but intense, direct gaze; keep crisp linework and highest detail around the eyes, brows, and mouth, while allowing hair strands to stay loose and slightly wind-tossed.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10563-220",
+      "title": "Minecraft Stylization Prompt",
+      "prompt": "Keep the character unchanged. Stylize the environment.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10503-220-Digital-Splashes-and-Ink-Portrait-from-Photo.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10563-220-Minecraft-Stylization-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -552,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31565-343",
-      "title": "Concrete Garden Editorial Fashion",
-      "prompt": "{\"vibe_title_en\": \"Concrete Garden\", \"master_prompt\": \"A hyper-realistic, avant-garde editorial shot capturing The Protagonist in a derelict, dust-filled construction site at night. The subject is wearing a surreal, towering haute-couture headpiece constructed from sliced crystalline green geodes and wet, organic moss that mimics the structure of kiwi fruit, dripping with condensation. They are dressed in a distressed, translucent mint-green tulle gown that drags through concrete dust and rubble. The lighting is harsh, direct 'paparazzi-style' on-camera flash (Ring Flash), casting sharp, hard shadows against the raw gray concrete walls behind. The aesthetic is 'Raw Couture Nomad'—a mix of high-fashion elegance and gritty decay. Shot on a Contax T3 with 35mm Kodak Portra 800 film, emphasizing heavy film grain, skin texture imperfections, and the visceral contrast between the wet, glistening headpiece and the dry, matte dust of the environment. No neon. Unexpected, candid framing.\", \"meta\": {\"intent\": \"Editorial Fashion\", \"priorities\": \"Texture Contrast, Lighting Harshness, Surreal Realism\", \"device_profile\": \"High-End Analog Emulation\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"Central but slightly off-axis, claustrophobic cropping\", \"layout\": \"Portrait\", \"camera_angle\": \"Eye-level, slightly wide to capture environmental context\", \"tilt_roll_degrees\": \"0\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Avant-Garde Nomad\", \"demographics\": \"Young Adult\", \"face\": \"Neutral, intense, slightly glossy skin from humidity\", \"hair\": \"Slicked back underneath the massive headpiece\", \"body\": \"Slender, draped in voluminous fabric\", \"expression\": \"Confrontational, caught-in-the-headlights stare\", \"pose\": \"Static standing, hand adjusting a stray wire on the garment\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Distressed Tulle Gown\", \"material\": \"Sheer Silk and Tulle\", \"color\": \"Mint Green / Desaturated Sage\", \"fit\": \"Oversized, trailing on floor\"}], \"accessories\": [{\"item\": \"Surreal Fruit Structure Headpiece\", \"color\": \"Vibrant Kiwi Green and Brown\", \"material\": \"Organic matter mixed with copper wire\", \"brand_style\": \"Alexander McQueen Archive\"}]}, \"environment\": {\"setting\": \"Derelict Construction Site / Raw Concrete Bunker\", \"surfaces\": \"Unfinished concrete, drywall dust, exposed rebar\", \"depth\": \"Shallow due to flash fall-off\", \"atmosphere\": \"Stale air, particulate dust visible in flash\", \"lens_interaction\": \"Flash glare on the wet surfaces of the headpiece\"}, \"lighting\": {\"key\": \"Direct On-Camera Flash (Hard Light)\", \"fill\": \"None (rapid fall-off)\", \"rim\": \"None\", \"shadows\": \"Deep, sharp, pitch black drop shadows\", \"color_temperature\": \"Cool flash mixed with ambient tungsten grime\", \"sensor_flare\": \"Minimal\"}, \"camera\": {\"lens_type\": \"Wide Angle Prime\", \"focal_length\": \"35mm\", \"aperture\": \"f/8 (for depth of texture with flash)\", \"focus\": \"Sharp on the eyes and headpiece texture\", \"sensor_format\": \"35mm Film\", \"perspective_distortion\": \"Slight barrel distortion characteristic of point-and-shoots\"}, \"post_processing\": {\"color\": \"High Contrast, Desaturated background, Vibrant Greens\", \"tonality\": \"Crushed blacks, blown-out highlights on wet surfaces\", \"texture\": \"Heavy Grain, Chemical Bleach Bypass feel\", \"digital_sharpening\": \"Medium\", \"chromatic_aberration\": \"Low\"}, \"negative_specifications\": [\"neon lights\", \"studio backdrop\", \"soft lighting\", \"smooth skin filter\", \"3d render look\", \"cartoonish colors\", \"bokeh balls\"]}",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31573-343",
+      "title": "Stylish Woman in Modern Cafe",
+      "prompt": "A beautiful young {argument name=\"subject\" default=\"East Asian woman\"} with fair skin, delicate facial features, large soft brown eyes, and a gentle smile looking at the camera. She has long wavy chestnut-brown hair styled in a high ponytail with soft bangs framing her face. {argument name=\"hair accessory\" default=\"Black sunglasses\"} rest on top of her head. She is seated in a modern café, leaning slightly forward with her right hand lightly touching her chin in a cute, playful pose.\\n\\nShe wears a fashionable loose-fitting, semi-sheer long-sleeve top with {argument name=\"top colors\" default=\"horizontal stripes in varying shades of blue and white\"}. The top has an asymmetrical off-shoulder design on one side, revealing a black tank top strap underneath, and a knotted tie detail at the waist on the other side. She pairs it with high-waisted white shorts. Delicate jewelry includes a thin gold necklace and small hoop earrings. A thin bracelet is visible on her right wrist.\\n\\nThe background shows a bright, contemporary café interior with wooden tables, brown leather chairs, a coffee machine, and a chalkboard menu on the wall. Soft natural lighting, shallow depth of field, high-resolution, realistic photography style, fashion lookbook aesthetic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31565-343-Concrete-Garden-Editorial-Fashion.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31573-343-Stylish-Woman-in-Modern-Cafe.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22247-720",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22247-721",
       "title": "Analog Repair Archive Surreal Portrait",
       "prompt": "{ \"vibe_title_en\": \"{argument name=\"vibe\" default=\"Mechanical Weightlessness\"}\", \"master_prompt\": \"A hyper-realistic cinematic portrait of The Protagonist situated in the center of a dense 'Gadget Bonanza'—specifically a dusty, tactile {argument name=\"location\" default=\"Analog Repair Archive\"} filled with vintage electronics. SURREAL ELEMENT: Thousands of disassembled watch gears, copper coils, vacuum tubes, and shattered lens elements are floating in zero-gravity suspension around the subject, frozen in a mid-explosion pattern. The floating objects possess physical weight and cast realistic, hard shadows onto the subject's skin. The Protagonist looks forward with a calm, telekinetic intensity, unaffected by the debris field. FRAMING: Editorial Tight-Mid shot (mid-chest up) using a 70mm lens to compress the floating debris field behind the subject while keeping the face distortion-free. LIGHTING: Dramatic Rembrandt lighting; a strong key light carves the face, creating a triangle of light on the cheek, while fill light catches the glint of brass and glass hovering in the air. TEXTURE: Shot on Hasselblad X2D, mimicking Kodak Portra 800 film stock with visible grain. Authentic skin texture with pores visible. No CGI gloss; the floating parts must look like high-budget practical effects suspended by invisible wires.\", \"meta\": { \"intent\": \"Editorial Surrealism\", \"priorities\": \"Photorealism, Tactile Texture, Surreal Physics\", \"device_profile\": \"Hasselblad X2D 100C\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Centralized subject surrounded by a radial explosion of objects\", \"layout\": \"Tight-Mid Shot (Mid-chest up)\", \"camera_angle\": \"Eye Level\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Universal Template\", \"face\": \"Neutral to intense gaze, high detail on skin texture\", \"hair\": \"Slicked back or inferred, allowing floating debris to frame the head\", \"body\": \"Static posture, shoulders relaxed\", \"expression\": \"Focused, calm amidst chaos, 'Telekinetic' stare\", \"pose\": \"Head on, chin slightly down, eyes locking with the lens\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"{argument name=\"outfit\" default=\"Industrial Corset Top\"}\", \"material\": \"Translucent Vinyl and Mesh\", \"color\": \"Smoked Grey\", \"fit\": \"Structured, Tight\" } ] }, \"environment\": { \"setting\": \"Analog Repair Archive / Clockwork Workshop\", \"surfaces\": \"Dusty wood workbenches, scattered schematics, velvet trays\", \"depth\": \"Shallow depth of field, background is a bokeh of copper and steel\", \"atmosphere\": \"Dust motes dancing in light beams, heavy with the smell of solder and oil\", \"lens_interaction\": \"Slight chromatic ab\" } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22247-720-Analog-Repair-Archive-Surreal-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22247-721-Analog-Repair-Archive-Surreal-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,16 +685,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10540-221",
-      "title": "Image Sequence Video Prompt (GPT-5 Generated)",
-      "prompt": "I created a video by specifying 4 images generated by Nano Banana Pro in the prompt so that they switch sequentially.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10503-221",
+      "title": "Digital Splashes-and-Ink Portrait from Photo",
+      "prompt": "Create a vertical 3:4 digital splashes-and-ink portrait using my photo as the subject, rendered in illustrative sketch realism with painterly abstraction. Frame a medium close-up in a subtle half-quarter turn with a calm but intense, direct gaze; keep crisp linework and highest detail around the eyes, brows, and mouth, while allowing hair strands to stay loose and slightly wind-tossed.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10540-221-Image-Sequence-Video-Prompt-GPT-5-Generated.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10503-221-Digital-Splashes-and-Ink-Portrait-from-Photo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -704,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31563-344",
-      "title": "Aerial Surreal Clone Photography",
-      "prompt": "Transform the uploaded person into a premium ultra-realistic surreal clone-photography scene. Create an aerial high-angle view of the same person standing completely still in the center of a large empty street or pathway while multiple identical copies walk around them in different directions. IDENTITY LOCK Use the uploaded image as the only identity reference. Preserve the exact recognizable face, facial structure, hairstyle, skin tone, eyebrows, eyes, nose, lips, jawline, hair texture, facial proportions, age, and overall appearance. Every clone must clearly be the same person. Do not change or redesign the identity. CENTRAL SUBJECT The central person remains perfectly sharp and motionless, standing confidently with both hands in the pockets. Dress them in {argument name=\"sweatshirt color\" default=\"RED / PINK / ANY COLOR\"} oversized sweatshirt, black loose pants, and white sneakers. The central figure is the primary focal point. CLONES Create numerous identical copies of the same person wearing the exact same outfit and maintaining the same identity. Position the clones walking naturally in different directions around the central subject. Use varied walking poses and distances to create a believable repetitive “NPC crowd\" effect. Moving clones may have controlled directional motion blur while the central subject stays completely sharp. ENVIRONMENT Large empty tiled street or pathway in an understated urban outdoor setting. Minimal distractions. Clean architectural surroundings. Realistic pavement textures. Spacious composition with strong depth and perspective. CAMERA & COMPOSITION Aerial high-angle perspective looking downward. Compressed cinematic perspective. Tilt-shift depth effect. Central subject positioned precisely in the middle with surrounding clones creating a radial visual flow. Strong negative space around the group. LIGHTING & STYLE Soft natural sunlight. Warm neutral tones. Subtle atmospheric haze. Realistic shadows. Cinematic depth of field. Gentle film grain. Hyper-realistic skin texture. Natural proportions. Street photography mixed with luxury fashion editorial aesthetics. Surreal identity concept. Premium cinematic color grading. Ultra-detailed 8K quality. VISUAL HIERARCHY Central subject = sharp and still. Surrounding clones = moving and slightly blurred. Background = clean and atmospheric. The contrast should communicate loneliness, individuality, and calmness while everything around the subject remains in motion.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31565-344",
+      "title": "Concrete Garden Editorial Fashion",
+      "prompt": "{\"vibe_title_en\": \"Concrete Garden\", \"master_prompt\": \"A hyper-realistic, avant-garde editorial shot capturing The Protagonist in a derelict, dust-filled construction site at night. The subject is wearing a surreal, towering haute-couture headpiece constructed from sliced crystalline green geodes and wet, organic moss that mimics the structure of kiwi fruit, dripping with condensation. They are dressed in a distressed, translucent mint-green tulle gown that drags through concrete dust and rubble. The lighting is harsh, direct 'paparazzi-style' on-camera flash (Ring Flash), casting sharp, hard shadows against the raw gray concrete walls behind. The aesthetic is 'Raw Couture Nomad'—a mix of high-fashion elegance and gritty decay. Shot on a Contax T3 with 35mm Kodak Portra 800 film, emphasizing heavy film grain, skin texture imperfections, and the visceral contrast between the wet, glistening headpiece and the dry, matte dust of the environment. No neon. Unexpected, candid framing.\", \"meta\": {\"intent\": \"Editorial Fashion\", \"priorities\": \"Texture Contrast, Lighting Harshness, Surreal Realism\", \"device_profile\": \"High-End Analog Emulation\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"Central but slightly off-axis, claustrophobic cropping\", \"layout\": \"Portrait\", \"camera_angle\": \"Eye-level, slightly wide to capture environmental context\", \"tilt_roll_degrees\": \"0\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Avant-Garde Nomad\", \"demographics\": \"Young Adult\", \"face\": \"Neutral, intense, slightly glossy skin from humidity\", \"hair\": \"Slicked back underneath the massive headpiece\", \"body\": \"Slender, draped in voluminous fabric\", \"expression\": \"Confrontational, caught-in-the-headlights stare\", \"pose\": \"Static standing, hand adjusting a stray wire on the garment\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Distressed Tulle Gown\", \"material\": \"Sheer Silk and Tulle\", \"color\": \"Mint Green / Desaturated Sage\", \"fit\": \"Oversized, trailing on floor\"}], \"accessories\": [{\"item\": \"Surreal Fruit Structure Headpiece\", \"color\": \"Vibrant Kiwi Green and Brown\", \"material\": \"Organic matter mixed with copper wire\", \"brand_style\": \"Alexander McQueen Archive\"}]}, \"environment\": {\"setting\": \"Derelict Construction Site / Raw Concrete Bunker\", \"surfaces\": \"Unfinished concrete, drywall dust, exposed rebar\", \"depth\": \"Shallow due to flash fall-off\", \"atmosphere\": \"Stale air, particulate dust visible in flash\", \"lens_interaction\": \"Flash glare on the wet surfaces of the headpiece\"}, \"lighting\": {\"key\": \"Direct On-Camera Flash (Hard Light)\", \"fill\": \"None (rapid fall-off)\", \"rim\": \"None\", \"shadows\": \"Deep, sharp, pitch black drop shadows\", \"color_temperature\": \"Cool flash mixed with ambient tungsten grime\", \"sensor_flare\": \"Minimal\"}, \"camera\": {\"lens_type\": \"Wide Angle Prime\", \"focal_length\": \"35mm\", \"aperture\": \"f/8 (for depth of texture with flash)\", \"focus\": \"Sharp on the eyes and headpiece texture\", \"sensor_format\": \"35mm Film\", \"perspective_distortion\": \"Slight barrel distortion characteristic of point-and-shoots\"}, \"post_processing\": {\"color\": \"High Contrast, Desaturated background, Vibrant Greens\", \"tonality\": \"Crushed blacks, blown-out highlights on wet surfaces\", \"texture\": \"Heavy Grain, Chemical Bleach Bypass feel\", \"digital_sharpening\": \"Medium\", \"chromatic_aberration\": \"Low\"}, \"negative_specifications\": [\"neon lights\", \"studio backdrop\", \"soft lighting\", \"smooth skin filter\", \"3d render look\", \"cartoonish colors\", \"bokeh balls\"]}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31563-344-Aerial-Surreal-Clone-Photography.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31565-344-Concrete-Garden-Editorial-Fashion.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22222-724",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22222-725",
       "title": "Premium Dessert Commercial Layout",
       "prompt": "{\"master_prompt\": {\"global_settings\": {\"resolution\": \"8K UHD\", \"aspect_ratio\": \"3:4 vertical\", \"image_quality\": \"ultra high detail, hyper-realistic, AI-enhanced commercial product photography\", \"focus\": \"sharp foreground, cinematic depth of field\", \"lighting\": \"studio-grade dramatic lighting with glowing highlights\", \"background_style\": \"smooth gradient with bokeh particles and floating droplets\", \"color_palette\": \"warm caramel, chocolate brown, golden orange\", \"motion\": \"frozen mid-air splash and floating elements\"}, \"Module_1_Image_1_Style\": {\"subject\": \"two waffle cones filled with glossy caramel cream\", \"composition\": \"two cones crossing diagonally in mid-air, forming an X-like pose\", \"cones\": {\"material\": \"crispy waffle cone\", \"texture\": \"deep grid pattern, golden baked surface, visible crisp edges\", \"shape\": \"long tapered cones, slightly angled toward each other\"}, \"filling\": {\"type\": \"thick caramel cream\", \"appearance\": \"smooth, glossy, swirled peak on top\", \"color\": \"deep caramel brown with reflective highlights\"}, \"liquid_effects\": {\"caramel_splash\": \"dynamic caramel splash erupting behind and around cones\", \"droplets\": \"numerous suspended caramel droplets of varying sizes\"}, \"background\": {\"color\": \"bright glowing orange\", \"effects\": \"soft bokeh circles, spark-like highlights\"}, \"mood\": \"energetic, indulgent, premium dessert advertisement\"}, \"Module_2_Image_2_Style\": {\"subject\": \"chocolate-coated wafer rolls with hazelnut filling\", \"composition\": \"multiple wafer rolls crossing and floating diagonally in mid-air\", \"wafer_rolls\": {\"outer_coating\": \"milk chocolate with crunchy nut-studded texture\", \"surface_detail\": \"uneven nut clusters embedded in chocolate coating\", \"interior\": \"visible hollow wafer with creamy chocolate center\"}, \"additional_elements\": {\"chocolate_blocks\": \"rectangular chocolate pieces with embossed letter 'B'\", \"nuts\": \"halved hazelnuts and small nut fragments floating around\", \"chocolate_splash\": \"fluid chocolate splash flowing behind wafer rolls\"}, \"background\": {\"color\": \"dark warm brown gradient\", \"effects\": \"floating particles, depth-enhancing blur\"}, \"lighting\": {\"style\": \"warm directional lighting\", \"highlights\": \"glossy reflections on chocolate surfaces\"}, \"mood\": \"rich, bold, indulgent chocolate-focused commercial aesthetic\"}, \"Module_3_Image_3_Style\": {\"subject\": \"cookie-coated ice cream dessert with chocolate cup top\", \"composition\": \"single dessert angled diagonally, centered, surrounded by motion\", \"dessert_body\": {\"coating\": \"creamy white ice cream layer with embedded dark cookie bits\", \"texture\": \"smooth cream contrasted with rough cookie fragments\"}, \"top_element\": {\"chocolate_cup\": \"dark chocolate cylindrical cup\", \"filling\": \"light caramel cream piped in a smooth spiral\"}, \"liquid_motion\": {\"cream_swirls\": \"thick creamy ribbons wrapping around the dessert\", \"droplets\": \"floating cream droplets and cookie crumbs\"}, \"background\": {\"color\": \"soft caramel-beige gradient\", \"effects\": \"fine floating particles, subtle glow\"}, \"lighting\": {\"style\": \"soft yet dramatic studio lighting\", \"focus\": \"high clarity on textures and cream flow\"}, \"mood\": \"smooth, luxurious, creamy dessert showcase\"}}}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22222-724-Premium-Dessert-Commercial-Layout.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22222-725-Premium-Dessert-Commercial-Layout.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,16 +837,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10506-222",
-      "title": "Ultra-Realistic Studio Portrait of Lady in Yellow Gown",
-      "prompt": "Create photo using the attached file, with 100% realistic faces. Ultra-realistic 8K HD DSLR studio portrait based on the image reference — make it realistic, do not change. A slim graceful lady with black wavy hair, wearing a long flowing yellow gown with sunflower motif bodice and delicate pearl accessories. She is seated on a white cushioned Victorian-style chair beside a small table decorated with sunflowers and candles. Background: elegant sunflower-filled archway with soft bokeh effect. Lighting: golden-hour simulation highlighting her features. Pose: leaning slightly to one side, eyes toward the camera, smiling radiantly, evoking calm and beauty.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10540-222",
+      "title": "Image Sequence Video Prompt (GPT-5 Generated)",
+      "prompt": "I created a video by specifying 4 images generated by Nano Banana Pro in the prompt so that they switch sequentially.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10506-222-Ultra-Realistic-Studio-Portrait-of-Lady-in-Yellow-Gown.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10540-222-Image-Sequence-Video-Prompt-GPT-5-Generated.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -856,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31566-346",
-      "title": "Sunny European Street Portrait",
-      "prompt": "A confident young male model sits facing the camera on the left side of the frame, leaning slightly to his left with relaxed shoulders in an organic, composed posture. His medium-length, wavy hair, measuring roughly three to four inches on top, is swept back and styled with a matte product, featuring distinct natural flyaways beautifully illuminated by the sun. He holds a neutral expression with a closed mouth and a direct gaze through {argument name=\"sunglasses color\" default=\"vibrant amber yellow\"} sunglasses. He is dressed in a {argument name=\"shirt color\" default=\"crisp, bright white\"} shirt that intensely catches the direct sunlight, accessorized with a subtle earbud and a visible belt. His relaxed right hand rests naturally on his leg, revealing a sleek wristwatch. He is positioned against a {argument name=\"wall texture\" default=\"weathered, warm gray plaster\"} wall detailed with a rough, patchy matte finish and visible scuffs, contrasting with the dark gray stone cobblestones beneath him. The scene recedes with deep spatial depth into a street setting on the right, where a layered visual hierarchy draws the eye from the subject to the background. In the right midground, slightly out-of-focus worn cafe tables and black metal chairs sit beneath a weathered, striped fabric awning in the top right, while small, blurred figures of people dining populate the far background. The atmosphere captures a warm European summer afternoon, sculpted by a single, highly directional natural light source striking from a 45-degree side angle. This warm, golden hard light creates a dramatic, high-contrast chiaroscuro effect, producing blown-out highlights on his face and shirt while casting long, harsh-edged, deep black shadows across the textured wall behind him. The complementary color palette heavily balances the dominant whites and deep shadow browns with warm golden tans and the amber accent of his sunglasses, entirely devoid of ambient fill light. Captured straight-on in a tack-sharp, editorial lifestyle street photography style, the pristine, grain-free digital image utilizes a medium depth of field to isolate the subject. Enhanced with warm color grading and increased contrast at settings equivalent to f/2.8, 1/500s, and ISO 100, the composition perfectly applies the rule of thirds for an asymmetric, left-heavy balance, beautifully framed in a 3:4 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31563-345",
+      "title": "Aerial Surreal Clone Photography",
+      "prompt": "Transform the uploaded person into a premium ultra-realistic surreal clone-photography scene. Create an aerial high-angle view of the same person standing completely still in the center of a large empty street or pathway while multiple identical copies walk around them in different directions. IDENTITY LOCK Use the uploaded image as the only identity reference. Preserve the exact recognizable face, facial structure, hairstyle, skin tone, eyebrows, eyes, nose, lips, jawline, hair texture, facial proportions, age, and overall appearance. Every clone must clearly be the same person. Do not change or redesign the identity. CENTRAL SUBJECT The central person remains perfectly sharp and motionless, standing confidently with both hands in the pockets. Dress them in {argument name=\"sweatshirt color\" default=\"RED / PINK / ANY COLOR\"} oversized sweatshirt, black loose pants, and white sneakers. The central figure is the primary focal point. CLONES Create numerous identical copies of the same person wearing the exact same outfit and maintaining the same identity. Position the clones walking naturally in different directions around the central subject. Use varied walking poses and distances to create a believable repetitive “NPC crowd\" effect. Moving clones may have controlled directional motion blur while the central subject stays completely sharp. ENVIRONMENT Large empty tiled street or pathway in an understated urban outdoor setting. Minimal distractions. Clean architectural surroundings. Realistic pavement textures. Spacious composition with strong depth and perspective. CAMERA & COMPOSITION Aerial high-angle perspective looking downward. Compressed cinematic perspective. Tilt-shift depth effect. Central subject positioned precisely in the middle with surrounding clones creating a radial visual flow. Strong negative space around the group. LIGHTING & STYLE Soft natural sunlight. Warm neutral tones. Subtle atmospheric haze. Realistic shadows. Cinematic depth of field. Gentle film grain. Hyper-realistic skin texture. Natural proportions. Street photography mixed with luxury fashion editorial aesthetics. Surreal identity concept. Premium cinematic color grading. Ultra-detailed 8K quality. VISUAL HIERARCHY Central subject = sharp and still. Surrounding clones = moving and slightly blurred. Background = clean and atmospheric. The contrast should communicate loneliness, individuality, and calmness while everything around the subject remains in motion.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31566-346-Sunny-European-Street-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31563-345-Aerial-Surreal-Clone-Photography.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22254-728",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-22254-729",
       "title": "Minimalist Profile Line Art",
       "prompt": "A side-profile illustration inspired by a {argument name=\"style\" default=\"black-and-white photograph\"} of a woman with dark wavy hair framing her face. In both versions, she looks slightly upward and away from the viewer, touching her ear with her hand to emphasize a prominent, {argument name=\"jewelry\" default=\"textured gold hoop earring with a small teardrop dangle\"}. The original photograph utilizes selective coloring to highlight only the gold jewelry against a grayscale palette, while the illustrated version translates this scene into a {argument name=\"illustration style\" default=\"clean, minimalist line art style\"} with a warm white background, adding subtle pops of color through dark pink lipstick, soft pink blush, a solid black ribbed sweater, and a matching gold pendant necklace.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22254-728-Minimalist-Profile-Line-Art.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-22254-729-Minimalist-Profile-Line-Art.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-7452-497",
-      "title": "Dark Fantasy Winter Creature Emerging from a Blizzard",
-      "prompt": "A towering winter creature emerges from a blizzard shrouded forest, antler like ice horns branching from its skull, fur crusted with frost and drifting snow. Glowing pale light blue eyes cut through the whiteout. Breath crystallizes midair. Cinematic wide shot, low angle, heavy snowfall, cold blue-grey palette, ultra detailed texture, dramatic rim light, dark fantasy realism.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-7452-497-Dark-Fantasy-Winter-Creature-Emerging-from-a-Blizzard.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Game Asset"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
       "license": "upstream",
       "createdAt": null
     }

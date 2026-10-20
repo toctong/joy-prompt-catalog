@@ -1,12 +1,31 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25306-509",
+      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-21020-228",
+      "title": "Rapunzel Solo Escape",
+      "prompt": "the {argument name=\"character\" default=\"princess Rapunzel\"} performs her {argument name=\"action\" default=\"exfil\"} without the {argument name=\"companion\" default=\"prince\"}",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-21020-228-Rapunzel-Solo-Escape.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Comic / Storyboard"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25306-510",
       "title": "Fashion editorial pop-out poster",
       "prompt": "A precise, single full-page, high-resolution photographic print of a dynamic, 3D pop-out [{argument name=\"style\" default=\"luxury/fashion\"}] advertisement for [{argument name=\"brand\" default=\"BRAND_NAME\"}], shot on high-fidelity analog film. The entire frame, from edge to edge, is filled by the design, with no surrounding external setting or background visible. The main, overall surface texture is a clean, fibrous, grainy [{argument name=\"paper color\" default=\"OUTER_PAPER_COLOR\"}] paper. Embedded centrally is a perfectly sharp, clean-edged, and mathematically straight square window cutout, revealing a smooth, matte stark white background. The inner edges of this square are perfectly clean, straight, and sharp, with absolutely zero tearing, roughness, or frayed edges. Seated on a sleek dark metal chair within this clean square frame is a model embodying the ultimate high-fashion [BRAND_ESTHETIC] aesthetic. The model has [CHARACTER_DESCRIPTION_AND_OUTFIT]. The upper body is contained within the frame, posed with one hand resting near the hair or face. The portrait is rendered with absolute realism, completely avoiding any artificial smoothing; the face exhibits natural skin texture, visible pores, and fine details, while the garments show rich contrast between the distinct fabric weaves, folds, and metallic reflections of the hardware. A distinct, soft, grainy drop shadow from the right frame edge falls across the character's right side, partially obscuring them and creating depth. The legs break dramatically through the bottom edge of the clean frame, extending into the foreground on the grainy [OUTER_PAPER_COLOR] paper surface. One leg is bent with the foot resting firmly right on the bottom ledge of the inner frame, while the left leg is dramatically closer to the camera, creating an extreme 3D pop-out effect with realistic low-angle foreshortening. Typography and Graphics: - Bottom-left corner: A detailed multi-line block of fine-print typography printed in clean [TEXT_COLOR] ink, reading: [EDITORIAL_OR_BRAND_TEXT] - Right side (Vertical, Massive Text): The word [WORD] printed in an elegant, [FONT_STYLE] luxury fashion font using a striking, [BIG_TEXT_COLOR}] ink. To ensure maximum scale, this vertical text is engineered with a full-vertical span that extends edge-to-edge from the absolute bottom edge of the paper to the absolute top edge of the paper, completely filling the vertical right margin from top to bottom leaving only a very tight, minimal, and identical amount of equal negative space on its top, left, and bottom margins to look intentionally integrated. The text exhibits a subtle, shallow letterpress debossed effect into the paper fibers. - Bottom-right corner: A detailed commercial barcode graphic with fine serial numbers printed in clean white. The lighting is intense, dramatic, and directional studio lighting, highlighting natural skin texture, clothing fabric grains, and the metallic hardware against the matte paper. The perspective is a low-angle shot, looking up to enhance t",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25306-509-Fashion-editorial-pop-out-poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25306-510-Fashion-editorial-pop-out-poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,16 +77,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11448-167",
-      "title": "Image Generation Prompt: Debussy's 'Pelléas et Mélisande'",
-      "prompt": "Debussy Opera \"Pelléas et Mélisande\" Fantastically Pelléas et Mélisande Various people have composed music for it, but Debussy Doppelgänger What is one's other self...",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11405-167",
+      "title": "Old Photo Restoration and Colorization Prompt",
+      "prompt": "Restore and colorize the uploaded old photograph into a crystal-clear, photorealistic, high-detail image while preserving 100% of the original composition. Keep the exact same pose, expression, facial structure, proportions, framing, clothing, hairstyle, background, objects, and all details unchanged. Do not add, remove, move, or restyle anything. Remove blur, noise, scratches, fading, stains, and age-related damage. Recover natural sharpness, fine skin texture, realistic textures, true-to-life colors, and lifelike skin tones. No identity change, no stylization, no cartoon or CGI look, no plastic skin.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11448-167-Image-Generation-Prompt-Debussy-s-Pell-as-et-M-lisande.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11405-167-Old-Photo-Restoration-and-Colorization-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -96,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32581-254",
-      "title": "Miniature Inuit Fishing on Cracked Phone",
-      "prompt": "{ \"prompt\": \"{argument name=\"subject\" default=\"Miniature, cracked smartphone with two inuits fishing\"}, ultra realistic, ultra detailed\", \"parameters\": { \"version\": 7, \"stylize\": 50 } }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32580-254",
+      "title": "Minimalist Indoor Lifestyle Portrait",
+      "prompt": "Ultra-realistic full-body portrait of {argument name=\"subject\" default=\"him\"} sitting casually on the floor indoors, leaning back against a {argument name=\"background\" default=\"plain off-white minimalist wall\"} with sunlight casting a soft, natural shadow. No headphones. Outfit: {argument name=\"outfit\" default=\"a plain white t-shirt, paired with slightly loose light blue ripped jeans and classic black-and-white Converse sneakers\"}. Accessories include a simple leather bracelet and a casual watch. A notebook and pencil are placed casually beside him on the floor. His pose is relaxed and effortless, with a clean, modern, minimalist aesthetic and natural lifestyle photography style",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32581-254-Miniature-Inuit-Fishing-on-Cracked-Phone.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32580-254-Minimalist-Indoor-Lifestyle-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25299-520",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25299-521",
       "title": "Math Projection Portrait in Neon Yellow",
       "prompt": "A cinematic, hyper-realistic close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} with dark hair tied up in a loose, casual bun, with a few stray strands framing her face. She has clear skin, warm brown eyes, and a neutral, calm expression. She is wearing {argument name=\"eyewear\" default=\"thick, transparent neon-yellow clear-frame glasses\"}. Glowing, golden-yellow mathematical and physics equations, symbols, and formulas are projected directly onto her face, forehead, cheek, and the lenses of her glasses, casting a subtle warm light on her skin. She is dressed in a {argument name=\"outfit\" default=\"bright, vibrant yellow puffer jacket with a hood\"}, which also has faint, glowing math formulas patterned across the fabric. The background is a soft, dreamlike, out-of-focus bokeh of cool teal and blue lights, creating a striking color contrast with her warm yellow attire. Shot with a professional DSLR, 85mm lens, f/1.4 aperture, shallow depth of field, 3D Pixar-style digital art realism, clean studio lighting, high-end commercial aesthetic, 16k resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25299-520-Math-Projection-Portrait-in-Neon-Yellow.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25299-521-Math-Projection-Portrait-in-Neon-Yellow.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11427-168",
-      "title": "Human and Pixar Character Duplication Prompt",
-      "prompt": "Ultra-high-quality hyper-realistic photo featuring a real human and a giant 3D Pixar-style version of THE SAME person — both strictly based on the uploaded reference image. The real person and the Pixar character must have identical facial structure, hairstyle, facial expression, body proportions, height, and clothing. Both are wearing a knitted sweater with a gradient from light yellow to pink, high-waisted blue jeans, and white high-top sneakers. The pose must exactly match the reference: the real person stands relaxed with a friendly smile, with their hand naturally resting on the shoulder of the Pixar character. The Pixar version stands slightly wider, arms confidently positioned near the pockets, with a playful sly smirk, one raised eyebrow, and expressive Pixar-style eyes. The Pixar character should be proportionally larger, but anatomically identical to the real person. The facial expression, head tilt, posture, and body language must precisely replicate the reference image. Clean gray-blue studio background, soft even studio lighting, realistic shadows, crisp fabric texture, smooth Pixar-style skin shading, cinematic sharpness. DO NOT change the pose, reaction, clothing, or proportions. Strict adherence to the reference.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11448-168",
+      "title": "Image Generation Prompt: Debussy's 'Pelléas et Mélisande'",
+      "prompt": "Debussy Opera \"Pelléas et Mélisande\" Fantastically Pelléas et Mélisande Various people have composed music for it, but Debussy Doppelgänger What is one's other self...",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11427-168-Human-and-Pixar-Character-Duplication-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11448-168-Image-Generation-Prompt-Debussy-s-Pell-as-et-M-lisande.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32577-256",
-      "title": "Stylish Man with Weimaraner in Modern Elevator",
-      "prompt": "Ultra-realistic full-body fashion portrait of a {argument name=\"subject\" default=\"stylish bearded man\"} wearing {argument name=\"jacket\" default=\"black bomber jacket\"}, {argument name=\"shirt\" default=\"beige turtleneck\"}, black trousers, sunglasses and white sneakers, standing confidently with a Weimaraner dog inside a luxurious modern elevator, warm cinematic lighting, reflective metallic walls, DSLR photography, 8K, sharp details.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32581-255",
+      "title": "Miniature Inuit Fishing on Cracked Phone",
+      "prompt": "{ \"prompt\": \"{argument name=\"subject\" default=\"Miniature, cracked smartphone with two inuits fishing\"}, ultra realistic, ultra detailed\", \"parameters\": { \"version\": 7, \"stylize\": 50 } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32577-256-Stylish-Man-with-Weimaraner-in-Modern-Elevator.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32581-255-Miniature-Inuit-Fishing-on-Cracked-Phone.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25114-521",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25114-522",
       "title": "Luxury Streetwear Fashion Editorial Poster",
       "prompt": "Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing an {argument name=\"outfit\" default=\"oversized black leather bomber jacket, black oversized t-shirt, baggy black cargo pants, and black-and-white luxury sneakers\"}. Relaxed but powerful pose with one arm resting on the chair and direct eye contact with the camera. Massive bold typography in the background reading: {argument name=\"background text\" default=\"I AM A CREATOR\"}. Large beige typography integrated into the composition, partially behind and around the model, creating a premium magazine-cover design. Dark charcoal black studio background with subtle texture and depth. Professional fashion campaign photography, cinematic studio lighting, dramatic spotlight from upper right corner, soft shadows, luxury fashion branding aesthetic, high-end streetwear advertisement, strong visual hierarchy. Natural voluminous hair with soft waves, realistic skin texture, sharp facial details, crystal clear eyes, premium color grading, shallow depth of field, ultra-realistic photography, Vogue magazine quality, luxury campaign poster, modern creative entrepreneur branding. Minimalist design, clean composition, bold typography, premium editorial layout, luxury fashion poster aesthetic, masterpiece, 8K, hyper-realistic, professional retouching, high contrast, ultra detailed. Small text in bottom left: \"CREATIVITY IS NOT JUST WHAT YOU MAKE IT'S WHO YOU ARE\" \"ESTD. 2024\" Face preservation priority: maximum. Identity consistency: maximum. Text accuracy: high. Poster design quality: luxury fashion campaign level.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25114-521-Luxury-Streetwear-Fashion-Editorial-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25114-522-Luxury-Streetwear-Fashion-Editorial-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -362,16 +381,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11432-169",
-      "title": "Nano Banana Pro Master Prompt Template (JSON)",
-      "prompt": "{ \"generation_mode\": \"thinking|standard\", \"output_specifications\": { \"resolution\": \"1K|2K|4K\", \"aspect_ratio\": \"16:9|1:1|9:16|custom\", \"quality_priority\": \"speed|balanced|quality\" }, \"scene_description\": { \"primary_subject\": \"{argument name=\"primary subject\" default=\"[main focus of image]\"}\", \"environment\": \"{argument name=\"environment\" default=\"[setting and background]\"}\", \"atmosphere\": \"[mood and feeling]\", \"style\": \"[visual aesthetic]\", \"time_of_day\": \"[if relevant]\" }, \"camera_controls\": { \"angle\": \"[camera perspective]\", \"focal_length\": \"[lens type - wide/standard/telephoto]\", \"depth_of_field\": \"[shallow/deep, what's in focus]\", \"composition\": \"[rule of thirds/centered/golden ratio/etc]\" }, \"lighting_setup\": { \"primary_light\": { \"type\": \"[natural/studio/dramatic/soft]\", \"direction\": \"[where light comes from]\", \"intensity\": \"[bright/moderate/moody]\" }, \"shadows\": \"[deep/subtle/minimal]\", \"color_temperature\": \"[warm/cool/neutral]\", \"special_effects\": \"[rim light/backlighting/etc if needed]\" }, \"color_grading\": { \"overall_tone\": \"[vibrant/muted/monochrome/etc]\", \"color_palette\": [\"primary color\", \"secondary color\", \"accent color\"], \"mood\": \"[emotional impact of colors]\" }, \"text_elements\": [ { \"text_content\": \"[exact text to render]\", \"position\": \"[location in image]\", \"font_style\": \"[typography description]\", \"size\": \"[relative size]\", \"color\": \"[text color]\", \"effects\": \"[glow/shadow/3D/etc]\", \"language\": \"[if not English]\" } ], \"reference_images\": [ { \"image_id\": 1, \"purpose\": \"style reference|composition reference|color reference|character reference\", \"extract_elements\": [\"specific elements to copy\"], \"apply_to\": \"[where to use these elements]\", \"transfer_intensity\": \"[0-100%]\" } ], \"characters\": [ { \"character_id\": 1, \"detailed_description\": \"[ethnicity, age, gender, facial features, hair, expression]\", \"clothing\": \"[detailed outfit description]\", \"pose\": \"[body position and gesture]\", \"position_in_scene\": \"[spatial placement]\", \"consistency_reference\": \"[image_id if maintaining across multiple generations]\" } ], \"grounding\": { \"enabled\": true|false, \"search_queries\": [\"facts to verify\"], \"data_requirements\": [\"specific information needed\"], \"accuracy_priority\": \"high|medium\" }, \"style_constraints\": { \"artistic_style\": \"[photorealistic/illustration/3D render/watercolor/etc]\", \"inspiration\": \"[specific artists or movements if relevant]\", \"must_avoid\": [\"elements to exclude\"] }, \"technical_requirements\": { \"intended_use\": \"[social media/print/web/presentation]\", \"safe_zones\": \"[areas to keep clear fo\" } }",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11427-169",
+      "title": "Human and Pixar Character Duplication Prompt",
+      "prompt": "Ultra-high-quality hyper-realistic photo featuring a real human and a giant 3D Pixar-style version of THE SAME person — both strictly based on the uploaded reference image. The real person and the Pixar character must have identical facial structure, hairstyle, facial expression, body proportions, height, and clothing. Both are wearing a knitted sweater with a gradient from light yellow to pink, high-waisted blue jeans, and white high-top sneakers. The pose must exactly match the reference: the real person stands relaxed with a friendly smile, with their hand naturally resting on the shoulder of the Pixar character. The Pixar version stands slightly wider, arms confidently positioned near the pockets, with a playful sly smirk, one raised eyebrow, and expressive Pixar-style eyes. The Pixar character should be proportionally larger, but anatomically identical to the real person. The facial expression, head tilt, posture, and body language must precisely replicate the reference image. Clean gray-blue studio background, soft even studio lighting, realistic shadows, crisp fabric texture, smooth Pixar-style skin shading, cinematic sharpness. DO NOT change the pose, reaction, clothing, or proportions. Strict adherence to the reference.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11432-169-Nano-Banana-Pro-Master-Prompt-Template-JSON.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11427-169-Human-and-Pixar-Character-Duplication-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -400,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32502-257",
-      "title": "Bohemian Crochet Fashion Studio Portrait",
-      "prompt": "Create HD quality editorial fashion photos using uploaded reference images.Don't change your face.Keep the young woman's face 100% identical to the reference create an intimate, warm close-up portrait, her makeup (soft blush on cheeks and nose, pink lips, soft, natural eyebrows) must be identical to the reference photo.Her long black hair was cut in layers, with loose strands blowing in the wind. Close-up portrait of a young woman with flowing brown hair wearing a {argument name=\"clothing\" default=\"crocheted oversized cardigan\"} (cream, teal, and magenta yellow) and a {argument name=\"accessory\" default=\"brightly colored crochet headscarf\"} (cream, teal, lime green, and magenta yellow) tied under her chin.She wore large, square, oversized sunglasses with thick tortoiseshell frames and amber lenses.The sun shines brightly from behind, illuminating her and creating a bright, high-contrast, dreamy summer aesthetic.Her dark bangs peeked out from under her scarf and her makeup was subtle.A {argument name=\"animal\" default=\"fluffy orange cat\"} relaxes on her shoulder.The background is a clear bright blue sky.Realistic, colorful, fashionable photography style., pet, photorealistic, high detail",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32577-257",
+      "title": "Stylish Man with Weimaraner in Modern Elevator",
+      "prompt": "Ultra-realistic full-body fashion portrait of a {argument name=\"subject\" default=\"stylish bearded man\"} wearing {argument name=\"jacket\" default=\"black bomber jacket\"}, {argument name=\"shirt\" default=\"beige turtleneck\"}, black trousers, sunglasses and white sneakers, standing confidently with a Weimaraner dog inside a luxurious modern elevator, warm cinematic lighting, reflective metallic walls, DSLR photography, 8K, sharp details.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32502-257-Bohemian-Crochet-Fashion-Studio-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32577-257-Stylish-Man-with-Weimaraner-in-Modern-Elevator.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25014-533",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25014-534",
       "title": "Architectural High-Fashion Gown Collage",
       "prompt": "A professional fashion collage showcasing six {argument name=\"theme\" default=\"elegant high-fashion gowns\"}, presented in a 2x3 grid layout. The designs feature a mix of bold colors, architectural elements, and intricate textures, each modeled in a contemporary or minimalist architectural setting: ​Top Left: A vibrant royal blue dress featuring structured, sculptural draping and peplum-style folds at the waist, accented with subtle metallic hardware details. ​Top Right: A flowing, sleeveless terracotta orange gown with a deep V-neckline and a tiered, multi-layered pleated maxi skirt. ​Middle Left: A striking deep purple gown showcasing an avant-garde, fan-like pleated architectural cape element extending from the back and shoulder. ​Middle Right: A one-shoulder fitted maxi dress adorned with an intricate, geometric tribal-inspired pattern in shades of black, olive green, and cream. ​Bottom Left: A sleek, minimalist emerald green column dress featuring a high mock neckline and a sharp, diagonal mesh cutout across the chest. ​Bottom Right: A dramatic metallic charcoal grey gown featuring voluminous, cascading ruffles along a one-shoulder neckline and trailing down the skirt. ​The overall aesthetic is editorial and sophisticated, emphasizing modern tailoring, clean lines, and high-end evening wear design against textured concrete and neutral backdrops.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25014-533-Architectural-High-Fashion-Gown-Collage.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25014-534-Architectural-High-Fashion-Gown-Collage.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +533,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11440-170",
-      "title": "JSON Prompt Template for Camera and Lighting Control",
-      "prompt": "{ \"scene\": \"AI engineer working at futuristic desk with multiple holographic displays\", \"camera\": { \"angle\": \"over-the-shoulder, slightly elevated\", \"focal_length\": \"50mm portrait lens\", \"depth_of_field\": \"shallow, subject in sharp focus, background slightly blurred\" }, \"lighting\": { \"type\": \"dramatic side lighting with blue accent lights\", \"time_of_day\": \"late night\", \"mood\": \"focused, tech-noir atmosphere\", \"shadows\": \"deep but not harsh\" }, \"color_grade\": \"cool tones, teal and orange color scheme\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11432-170",
+      "title": "Nano Banana Pro Master Prompt Template (JSON)",
+      "prompt": "{ \"generation_mode\": \"thinking|standard\", \"output_specifications\": { \"resolution\": \"1K|2K|4K\", \"aspect_ratio\": \"16:9|1:1|9:16|custom\", \"quality_priority\": \"speed|balanced|quality\" }, \"scene_description\": { \"primary_subject\": \"{argument name=\"primary subject\" default=\"[main focus of image]\"}\", \"environment\": \"{argument name=\"environment\" default=\"[setting and background]\"}\", \"atmosphere\": \"[mood and feeling]\", \"style\": \"[visual aesthetic]\", \"time_of_day\": \"[if relevant]\" }, \"camera_controls\": { \"angle\": \"[camera perspective]\", \"focal_length\": \"[lens type - wide/standard/telephoto]\", \"depth_of_field\": \"[shallow/deep, what's in focus]\", \"composition\": \"[rule of thirds/centered/golden ratio/etc]\" }, \"lighting_setup\": { \"primary_light\": { \"type\": \"[natural/studio/dramatic/soft]\", \"direction\": \"[where light comes from]\", \"intensity\": \"[bright/moderate/moody]\" }, \"shadows\": \"[deep/subtle/minimal]\", \"color_temperature\": \"[warm/cool/neutral]\", \"special_effects\": \"[rim light/backlighting/etc if needed]\" }, \"color_grading\": { \"overall_tone\": \"[vibrant/muted/monochrome/etc]\", \"color_palette\": [\"primary color\", \"secondary color\", \"accent color\"], \"mood\": \"[emotional impact of colors]\" }, \"text_elements\": [ { \"text_content\": \"[exact text to render]\", \"position\": \"[location in image]\", \"font_style\": \"[typography description]\", \"size\": \"[relative size]\", \"color\": \"[text color]\", \"effects\": \"[glow/shadow/3D/etc]\", \"language\": \"[if not English]\" } ], \"reference_images\": [ { \"image_id\": 1, \"purpose\": \"style reference|composition reference|color reference|character reference\", \"extract_elements\": [\"specific elements to copy\"], \"apply_to\": \"[where to use these elements]\", \"transfer_intensity\": \"[0-100%]\" } ], \"characters\": [ { \"character_id\": 1, \"detailed_description\": \"[ethnicity, age, gender, facial features, hair, expression]\", \"clothing\": \"[detailed outfit description]\", \"pose\": \"[body position and gesture]\", \"position_in_scene\": \"[spatial placement]\", \"consistency_reference\": \"[image_id if maintaining across multiple generations]\" } ], \"grounding\": { \"enabled\": true|false, \"search_queries\": [\"facts to verify\"], \"data_requirements\": [\"specific information needed\"], \"accuracy_priority\": \"high|medium\" }, \"style_constraints\": { \"artistic_style\": \"[photorealistic/illustration/3D render/watercolor/etc]\", \"inspiration\": \"[specific artists or movements if relevant]\", \"must_avoid\": [\"elements to exclude\"] }, \"technical_requirements\": { \"intended_use\": \"[social media/print/web/presentation]\", \"safe_zones\": \"[areas to keep clear fo\" } }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11440-170-JSON-Prompt-Template-for-Camera-and-Lighting-Control.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11432-170-Nano-Banana-Pro-Master-Prompt-Template-JSON.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32504-258",
-      "title": "South Asian Couple Skardu Travel Photo",
-      "prompt": "Use my pic face Create an ultra-realistic full-body photograph of a {argument name=\"subject\" default=\"young South Asian Couple\"} (use uploaded reference face exactly) enjoying a trip in {argument name=\"location\" default=\"Skardu, Pakistan\"}. The image should look like a genuine tourist photo captured on a modern smartphone. Style: Natural smartphone camera photography, ultra realistic, real travel photo, NOT cinematic, NOT studio lighting, NOT AI-looking. SKARDU ADVENTURE (ULTRA REALISTIC, FULL BODY, 8K CAMERA • Full body visible • Natural handheld phone camera shot • Slight perspective imperfections • Realistic depth of field • Ultra HD 8K quality • Sharp facial details • Natural color tones • No filters MALE • Use uploaded reference face exactly • Same hairstyle as reference image • Light beard • Wearing traditional white Korton Kurta pajama with stylish shoes. FEMALE • Elegant traditional purple traditional Pakistani dress. • Natural makeup • Realistic facial features • Warm smile • Natural hair movement POSE • Man Catch the selfie Own girlfriend. • Genuine candid travel moment • Happy and relaxed expressions • Authentic tourist vibes LOCATION — SKARDU • Beautiful Skardu Valley • Massive mountains in background • Crystal-clear lake nearby • Green meadows • Rocky landscapes • Famous Skardu scenery • Natural tourism atmosphere CROWD • Tourists visible in background • Families taking photos • People enjoying the scenery • Natural crowd blur LIGHTING • Bright natural daylight • Soft mountain sunlight • Realistic shadows • Natural exposure • No flash REALISM • Hyper-realistic photography • Natural skin pores • Real fabric textures • Authentic human anatomy • Smartphone camera quality • Travel photography realism • Ultra HD 8K NEGATIVE PROMPT: cartoon, anime, CGI, 3D render, fake skin, AI face, plastic face, blurry image, low quality, watermark, text, logo, bad anatomy, extra fingers, unrealistic eyes, HDR glow, cinematic grading, studio lighting, oversaturated colors ratio size 9 16.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32502-258",
+      "title": "Bohemian Crochet Fashion Studio Portrait",
+      "prompt": "Create HD quality editorial fashion photos using uploaded reference images.Don't change your face.Keep the young woman's face 100% identical to the reference create an intimate, warm close-up portrait, her makeup (soft blush on cheeks and nose, pink lips, soft, natural eyebrows) must be identical to the reference photo.Her long black hair was cut in layers, with loose strands blowing in the wind. Close-up portrait of a young woman with flowing brown hair wearing a {argument name=\"clothing\" default=\"crocheted oversized cardigan\"} (cream, teal, and magenta yellow) and a {argument name=\"accessory\" default=\"brightly colored crochet headscarf\"} (cream, teal, lime green, and magenta yellow) tied under her chin.She wore large, square, oversized sunglasses with thick tortoiseshell frames and amber lenses.The sun shines brightly from behind, illuminating her and creating a bright, high-contrast, dreamy summer aesthetic.Her dark bangs peeked out from under her scarf and her makeup was subtle.A {argument name=\"animal\" default=\"fluffy orange cat\"} relaxes on her shoulder.The background is a clear bright blue sky.Realistic, colorful, fashionable photography style., pet, photorealistic, high detail",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32504-258-South-Asian-Couple-Skardu-Travel-Photo.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32502-258-Bohemian-Crochet-Fashion-Studio-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25020-534",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25020-535",
       "title": "Retro 80s Action Figure Aesthetic",
       "prompt": "{argument name=\"style\" default=\"80s retro action figure\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25020-534-Retro-80s-Action-Figure-Aesthetic.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25020-535-Retro-80s-Action-Figure-Aesthetic.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +685,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11445-171",
-      "title": "JSON Prompt Template for Defining Canvas Size",
-      "prompt": "{ \"scene\": \"futuristic AI workspace with holographic screens showing code\", \"resolution\": \"4K\", \"aspect_ratio\": \"16:9\", \"style\": \"cinematic lighting, cyberpunk aesthetic, ultra-detailed\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11440-171",
+      "title": "JSON Prompt Template for Camera and Lighting Control",
+      "prompt": "{ \"scene\": \"AI engineer working at futuristic desk with multiple holographic displays\", \"camera\": { \"angle\": \"over-the-shoulder, slightly elevated\", \"focal_length\": \"50mm portrait lens\", \"depth_of_field\": \"shallow, subject in sharp focus, background slightly blurred\" }, \"lighting\": { \"type\": \"dramatic side lighting with blue accent lights\", \"time_of_day\": \"late night\", \"mood\": \"focused, tech-noir atmosphere\", \"shadows\": \"deep but not harsh\" }, \"color_grade\": \"cool tones, teal and orange color scheme\" }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11445-171-JSON-Prompt-Template-for-Defining-Canvas-Size.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11440-171-JSON-Prompt-Template-for-Camera-and-Lighting-Control.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32507-259",
-      "title": "1980s Retro Salon Portrait",
-      "prompt": "{ \"subject\": \"{argument name=\"subject description\" default=\"Woman in her late twenties, auburn-chestnut hair cut short and swept up and back off the face with sculpted 1980s volume at the crown and sides, finished with a black grosgrain bow pinned at the back. Fair skin with a warm peachy tone. Period makeup: soft bronze-mauve shadow blended to the brow bone, strong arched brows, sculpted blusher high on the cheekbone, glossy brick-red lip. Slender build, elegant long neck. Chin lifted, gaze angled off toward the light, composed and aloof.\"}\", \"outfit\": { \"dress\": \"{argument name=\"dress style\" default=\"Cobalt-blue metallic brocade cocktail dress with an allover shifting lamé sheen, strongly padded shoulders tapering to a narrow waist, gathered blouson bodice with a rounded yoke, long full sleeves, slim knee-length skirt\"}\", \"hosiery\": \"Sheer smoke-grey tights with a soft period sheen\", \"shoes\": \"Black suede pointed-toe pumps with a slim stiletto heel and a small bow at the vamp\", \"jewellery\": \"Stacked wide gold bangles on both wrists, gold drop earrings\", \"props\": \"A slim crystal champagne flute held loosely in one hand\" }, \"pose\": \"Seated in a clear lucite armchair, torso upright and turned three-quarters to the camera. Legs crossed high at the knee and extended long toward the floor, toes pointed, feet angled together. One arm resting along the chair arm holding the champagne flute out at chest height; the other hand relaxed on the thigh. Shoulders squared back, spine straight, head tilted slightly away.\", \"setting\": \"{argument name=\"interior style\" default=\"A pale 1980s salon interior. A transparent lucite armchair with a woven cream cushion, a matching lucite side table, and a low cream boucle sofa behind. Soft beige-grey walls, a sheer curtained window casting a broad wash of light, warm oak flooring beneath.\"} Sparse and elegant — nothing else in frame. Absolutely no text, lettering or signage anywhere.\", \"camera\": \"35mm crisp direct flash. Hard frontal light throwing a defined shadow behind the chair, fierce specular blowout across the metallic brocade so the dress ignites, hot glints on the gold bangles and champagne glass. Warm saturated period grade, cobalt pushed rich against neutral cream. Lifted blacks, medium-high contrast, fine 35mm grain, gentle halation, corner vignette.\", \"framing\": \"Vertical 2:3. ANGLE — low view from the subject's left, lens near seat height and tilted up. The crossed legs foreshorten toward the camera and read longer, the lucite chair reads at a three-quarter turn with its transparent frame catching flash, and more wall and ceiling opens above her head.\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32504-259",
+      "title": "South Asian Couple Skardu Travel Photo",
+      "prompt": "Use my pic face Create an ultra-realistic full-body photograph of a {argument name=\"subject\" default=\"young South Asian Couple\"} (use uploaded reference face exactly) enjoying a trip in {argument name=\"location\" default=\"Skardu, Pakistan\"}. The image should look like a genuine tourist photo captured on a modern smartphone. Style: Natural smartphone camera photography, ultra realistic, real travel photo, NOT cinematic, NOT studio lighting, NOT AI-looking. SKARDU ADVENTURE (ULTRA REALISTIC, FULL BODY, 8K CAMERA • Full body visible • Natural handheld phone camera shot • Slight perspective imperfections • Realistic depth of field • Ultra HD 8K quality • Sharp facial details • Natural color tones • No filters MALE • Use uploaded reference face exactly • Same hairstyle as reference image • Light beard • Wearing traditional white Korton Kurta pajama with stylish shoes. FEMALE • Elegant traditional purple traditional Pakistani dress. • Natural makeup • Realistic facial features • Warm smile • Natural hair movement POSE • Man Catch the selfie Own girlfriend. • Genuine candid travel moment • Happy and relaxed expressions • Authentic tourist vibes LOCATION — SKARDU • Beautiful Skardu Valley • Massive mountains in background • Crystal-clear lake nearby • Green meadows • Rocky landscapes • Famous Skardu scenery • Natural tourism atmosphere CROWD • Tourists visible in background • Families taking photos • People enjoying the scenery • Natural crowd blur LIGHTING • Bright natural daylight • Soft mountain sunlight • Realistic shadows • Natural exposure • No flash REALISM • Hyper-realistic photography • Natural skin pores • Real fabric textures • Authentic human anatomy • Smartphone camera quality • Travel photography realism • Ultra HD 8K NEGATIVE PROMPT: cartoon, anime, CGI, 3D render, fake skin, AI face, plastic face, blurry image, low quality, watermark, text, logo, bad anatomy, extra fingers, unrealistic eyes, HDR glow, cinematic grading, studio lighting, oversaturated colors ratio size 9 16.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32507-259-1980s-Retro-Salon-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32504-259-South-Asian-Couple-Skardu-Travel-Photo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25010-536",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-25010-537",
       "title": "Macro Luxury Biscuit Milk Splash",
       "prompt": "Ultra-realistic {argument name=\"product name\" default=\"[BISCUIT NAME]\"} biscuits stacked dynamically in mid-air, slightly broken to reveal rich texture, creamy filling / buttery layers visible, dramatic milk splash forming artistic curves around the biscuits, soft biscuit crumbs suspended in air, glossy milk droplets frozen in motion, {argument name=\"background\" default=\"dark studio gradient background\"}, cinematic professional lighting, macro food photography, ultra-sharp focus, high contrast, premium luxury commercial advertisement style, dramatic splash effect, hyper-detailed textures, photorealistic, 8K ultra-high resolution Aspect ratio {argument name=\"aspect ratio\" default=\"3:4\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25010-536-Macro-Luxury-Biscuit-Milk-Splash.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-25010-537-Macro-Luxury-Biscuit-Milk-Splash.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +837,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11260-172",
-      "title": "Ultra-Realistic Character Transformation Prompt",
-      "prompt": "Convert this into an ultra-realistic, cinematic, fully photorealistic scene. The characters must be transformed into real human versions of the original uploaded references, keeping their identity, facial structure, key features, and overall likeness intact.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11445-172",
+      "title": "JSON Prompt Template for Defining Canvas Size",
+      "prompt": "{ \"scene\": \"futuristic AI workspace with holographic screens showing code\", \"resolution\": \"4K\", \"aspect_ratio\": \"16:9\", \"style\": \"cinematic lighting, cyberpunk aesthetic, ultra-detailed\" }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11260-172-Ultra-Realistic-Character-Transformation-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11445-172-JSON-Prompt-Template-for-Defining-Canvas-Size.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32511-261",
-      "title": "Hyperrealistic Macro Eye Detail",
-      "prompt": "Extreme macro close-up of the same woman from the reference image, keeping her exact identity, {argument name=\"eye color\" default=\"pale blue eyes\"}, {argument name=\"skin type\" default=\"warm aged skin\"} and {argument name=\"hair color\" default=\"silver hair\"}. Tight crop on one eye and eyebrow, straight-on eye-level angle, serene expression. Hyperrealistic detail: pale blue iris with fine striations and a soft catchlight, natural sparse lashes, fine crepey eyelid texture, deep natural wrinkles and age spots, a soft silver brow. Soft even studio beauty light, pale gray background, 100mm macro, razor sharp, photorealistic, not airbrushed, no text.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32507-260",
+      "title": "1980s Retro Salon Portrait",
+      "prompt": "{ \"subject\": \"{argument name=\"subject description\" default=\"Woman in her late twenties, auburn-chestnut hair cut short and swept up and back off the face with sculpted 1980s volume at the crown and sides, finished with a black grosgrain bow pinned at the back. Fair skin with a warm peachy tone. Period makeup: soft bronze-mauve shadow blended to the brow bone, strong arched brows, sculpted blusher high on the cheekbone, glossy brick-red lip. Slender build, elegant long neck. Chin lifted, gaze angled off toward the light, composed and aloof.\"}\", \"outfit\": { \"dress\": \"{argument name=\"dress style\" default=\"Cobalt-blue metallic brocade cocktail dress with an allover shifting lamé sheen, strongly padded shoulders tapering to a narrow waist, gathered blouson bodice with a rounded yoke, long full sleeves, slim knee-length skirt\"}\", \"hosiery\": \"Sheer smoke-grey tights with a soft period sheen\", \"shoes\": \"Black suede pointed-toe pumps with a slim stiletto heel and a small bow at the vamp\", \"jewellery\": \"Stacked wide gold bangles on both wrists, gold drop earrings\", \"props\": \"A slim crystal champagne flute held loosely in one hand\" }, \"pose\": \"Seated in a clear lucite armchair, torso upright and turned three-quarters to the camera. Legs crossed high at the knee and extended long toward the floor, toes pointed, feet angled together. One arm resting along the chair arm holding the champagne flute out at chest height; the other hand relaxed on the thigh. Shoulders squared back, spine straight, head tilted slightly away.\", \"setting\": \"{argument name=\"interior style\" default=\"A pale 1980s salon interior. A transparent lucite armchair with a woven cream cushion, a matching lucite side table, and a low cream boucle sofa behind. Soft beige-grey walls, a sheer curtained window casting a broad wash of light, warm oak flooring beneath.\"} Sparse and elegant — nothing else in frame. Absolutely no text, lettering or signage anywhere.\", \"camera\": \"35mm crisp direct flash. Hard frontal light throwing a defined shadow behind the chair, fierce specular blowout across the metallic brocade so the dress ignites, hot glints on the gold bangles and champagne glass. Warm saturated period grade, cobalt pushed rich against neutral cream. Lifted blacks, medium-high contrast, fine 35mm grain, gentle halation, corner vignette.\", \"framing\": \"Vertical 2:3. ANGLE — low view from the subject's left, lens near seat height and tilted up. The crossed legs foreshorten toward the camera and read longer, the lucite chair reads at a three-quarter turn with its transparent frame catching flash, and more wall and ceiling opens above her head.\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32511-261-Hyperrealistic-Macro-Eye-Detail.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32507-260-1980s-Retro-Salon-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24734-547",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-24734-548",
       "title": "FIFA World Cup 2026 Identity System",
       "prompt": "{argument name=\"event\" default=\"FIFA World Cup 2026\"} {argument name=\"scope\" default=\"country\"} identity system.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24734-547-FIFA-World-Cup-2026-Identity-System.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-24734-548-FIFA-World-Cup-2026-Identity-System.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/product-marketing.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-10116-412",
-      "title": "Intimate Date Scene Generator for Multiple Characters",
-      "prompt": "close-up intimate composition of ALL REFERENCED CHARACTERS in their exact art style and exact clothes with the characters sitting across from each other in a cozy date setting that fits all character's environment. if character is an object, personify that object faithfully. ultra-photorealistic date venue formed by all characters' backgrounds while the activity and cuisine is defined by all character's styles, colors, and moodboards. all characters engaged in a natural getting-to-know-each-other interaction with relaxed body language showing genuine connection and fun with. warm atmospheric lighting complementing all characters' color palettes and moods, photorealistic ambient features floating throughout scene contextually matching the setting type with soft hearts fitting all characters vibes and artstyle. environment rendering in complete photorealistic 3D quality while all characters maintain their native art styles without blending, background softly blurred with bokeh effects highlighting the intimate date atmosphere, cozy and inviting ambiance with warm color temperature, high resolution, high quality, high detail, romantic yet comfortable setting where all characters feel naturally at home, volumetric lighting creating depth and warmth, scene composition emphasizing connection between all characters, no crowds, intimate private setting, candid moment of shared experience and discovery, accurate anatomy.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-10116-412-Intimate-Date-Scene-Generator-for-Multiple-Characters.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Game Asset"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/game-asset.json",
       "license": "upstream",
       "createdAt": null
     }

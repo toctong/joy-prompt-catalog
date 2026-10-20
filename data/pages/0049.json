@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-110",
+      "title": "Image Editing Prompt: Adding Creatures to Background",
+      "prompt": "using the first image and its style and size, add the creature from the second image into the first at varying distances in the background, ensure the focus and size of the creatures is appropriate for its distance, there should be a total of {argument name=\"number of creatures\" default=\"7\"} of them, their look and style may vary slightly from one another",
+      "media": "image",
+      "model": "GPT Image 1.5",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-gpt-image-1.5/README-110-Image-Editing-Prompt-Adding-Creatures-to-Background.jpg",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "GPT Image 1.5",
+        "Creative"
+      ],
+      "author": "Kyle Salazar",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-gpt-image-1.5-111",
       "title": "Character Sheet Generation Prompt (GPT and Nano Banana)",
       "prompt": "in the same style as the image, generate a character sheet broken up into 5 separate sections divided by lines, the left section is a full front shot of the character head to toe, the other smaller sections are medium close up shots of the characters head and shoulders showing front, left, right and rear",
@@ -924,25 +943,6 @@
         "xianyu-multi-model",
         "Seedream 5 Pro",
         "3D"
-      ],
-      "author": "Jared Liu",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-seedream-4.5-42",
-      "title": "Global Deforestation Data Visualization",
-      "prompt": "A beautiful and informative data visualization for a report on global deforestation. The main visual could be a world map where countries are colored based on their rate of forest loss, or a series of stylized tree graphics where the number of leaves represents the remaining forest cover. The design should be impactful and emotionally resonant, not just a dry chart, demonstrating the ability to turn data into a compelling visual story. –ar 16:9",
-      "media": "image",
-      "model": "Seedream 5 Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-seedream-4.5/README-42-Global-Deforestation-Data-Visualization.png",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Seedream 5 Pro",
-        "Creative"
       ],
       "author": "Jared Liu",
       "source": "xianyu-multi-model",

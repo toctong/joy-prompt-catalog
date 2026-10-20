@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31262-365",
+      "title": "High Altitude Mountain Selfie",
+      "prompt": "Use the exact same face from the reference image and generate a breathtakingly realistic selfie taken at high altitude on a {argument name=\"mountain type\" default=\"dramatic green mountain\"} — the kind of photo that stops everyone mid-scroll. The subject holds the camera slightly above eye level at a natural selfie angle — face filling the left or center portion of the frame, body from shoulders up visible, casual and completely natural. Expression is genuinely alive — a warm natural smile or that relaxed effortlessly cool expression of someone who just hiked to the top of something beautiful and knows it. Wind very slightly moving the hair. Wearing a casual outdoor layer — a fitted fleece or light jacket, completely real and appropriate for mountain altitude. Behind and around the subject the mountain view is absolutely jaw-dropping and completely photorealistic — vast rolling green mountain ranges extending to the horizon in layer after layer of deepening atmospheric perspective, the nearest slopes a rich vivid green, middle distance mountains slightly softer and cooler, the furthest peaks dissolving into natural blue-grey atmospheric haze at the horizon. The specific lush green of high altitude mountain vegetation — dense forest on the lower slopes transitioning to alpine meadow at the higher elevations, rocky outcrops breaking through the green at the peaks. A dramatic sky above — clear blue with a few three-dimensional cumulus clouds at different heights casting natural moving shadows across the green mountain surfaces below. The selfie perspective showing genuine altitude — the ground falling away sharply below the subject, the scale of the mountain landscape making the human figure feel appropriately small against the vast green world behind them. Real mountain wind suggested by the hair movement and jacket fabric. Lighting completely natural — bright overcast or partial sun outdoor mountain light, honest and real. Shot with front camera simulation — natural slight wide angle distortion, authentic smartphone selfie rendering. 3% film grain. Vertical 9:16 format. Ultra photorealistic 8K — the selfie that makes everyone ask exactly which mountain this is.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31262-365-High-Altitude-Mountain-Selfie.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-6244-273",
       "title": "Exploded-View Structural Cutaway for Food Photography",
       "prompt": "Using the first image as the base, create a clean exploded-view structural cutaway. Separate each ingredient vertically one by one, keep perfect alignment, spacing, and scale. White studio background, labeled diagram style, ultra sharp, realistic.",
@@ -39,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21644-777",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21644-778",
       "title": "Luxury Boho Sticker Collection",
       "prompt": "luxury boho sticker collection, {argument name=\"subject\" default=\"elegant deer with golden antlers\"}, {argument name=\"elements\" default=\"soft rainbow arc, sparkling stars and delicate crescent moon, fluffy pastel clouds, wildflowers and botanical sprigs, beaded garland and ornate dreamcatcher\"}, watercolor hand drawn illustration, subtle paper texture, harmonious natural color palette in muted pastels and warm neutrals, isolated separate printable sticker elements, crisp white background, high resolution",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21644-777-Luxury-Boho-Sticker-Collection.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21644-778-Luxury-Boho-Sticker-Collection.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,16 +115,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10406-236",
-      "title": "Ana de Armas Painting a Realistic Mural of Herself",
-      "prompt": "{ \"type\": \"image_generation\", \"style\": \"ultra-realistic cinematic portrait photography\", \"resolution\": \"8K UHD\", \"aspect_ratio\": \"2:3 vertical\", \"face_preservation\": { \"preserve_identity\": true, \"preserve_face_shape\": true, \"preserve_eyes\": true, \"preserve_nose\": true, \"preserve_lips\": true, \"preserve_expression\": true, \"preserve_skin_texture\": true, \"preserve_proportions\": true, \"no_beautification_filter\": true, \"no_face_modification\": true }, \"scene\": { \"location\": \"cozy artistic café interior\", \"environment_description\": \"A warm yet naturally lit café with textured plaster walls, wooden flooring, soft neutral-toned furniture, and an intimate creative atmosphere. The wall has a natural, slightly rough texture with subtle imperfections visible.\", \"mural_concept\": \"The woman is painting a large, realistic artistic mural of her own face on the café wall. The mural face must match her real facial features and exact expression perfectly, as if she is painting her own reflection. The mural style is hyper-detailed realism with painterly brush textures visible upon close inspection.\", \"decor_elements\": { \"white_decorative_pots\": \"Elegant matte white ceramic pots arranged near the wall and around the floor area.\", \"flowers\": \"Various colors of fresh roses including red, pink, peach, white, and soft yellow.\", \"plants\": \"Delicate green vines and climbing plants trailing naturally around the mural edges and along the wall corners.\", \"ambience\": \"Artistic, cozy, creative café vibe with subtle decorative charm.\" } }, \"subject\": { \"position\": \"Standing slightly angled toward the wall while painting\", \"action\": \"Holding a paintbrush mid-stroke while working on the mural\", \"expression\": \"Exactly the same as in the uploaded reference image\", \"pose_details\": \"Natural relaxed posture, focused and immersed in painting, realistic hand placement holding brush and palette\", \"clothing\": \"Casual yet stylish café-artist outfit, soft neutral or earthy tones, natural fabric texture\", \"hair\": \"Exactly as in the original image, no changes\", \"makeup\": \"Natural and realistic, matching the original photo\" }, \"lighting\": { \"type\": \"soft natural daylight\", \"direction\": \"Light entering gently from a nearby window\", \"temperature\": \"Neutral daylight (not too warm, not overly golden)\", \"shadow_style\": \"Soft diffused shadows with realistic depth\", \"skin_tone_rendering\": \"True-to-life color accuracy without oversaturation\" }, \"camera_settings\": { \"camera_type\": \"Full-frame professional DSLR\", \"lens\": \"85mm portrait lens\", \"aperture\": \"f/2.0\", \"depth_of_field\": \"Shallow depth of field with sharp focus on subject and mural face\", \"focus\": \"Crisp facial details on both real face and painted mural face\", \"dynamic_range\": \"High dynamic range wit",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10377-236",
+      "title": "Tropical Island in a Puddle Prompt",
+      "prompt": "A hyper-realistic, low-angle ground-level shot of a miniature tropical island paradise inside a rainwater puddle on a rough asphalt suburban street. The island features tiny white sand, microscopic palm trees, a yellow lifeguard tower, a blue beach shack, and several miniature people sunbathing and swimming. The reflection of the trees is visible in the clear puddle water. In the background, out-of-focus (bokeh) suburban houses and parked cars line the street under a bright blue sky. Tilt-shift effect, whimsical, highly detailed, 8k resolution.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10406-236-Ana-de-Armas-Painting-a-Realistic-Mural-of-Herself.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10377-236-Tropical-Island-in-a-Puddle-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -134,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31259-366",
-      "title": "Cozy Bakery Giant Coffee Scene",
-      "prompt": "A {argument name=\"subject\" default=\"young East Asian woman with sleek shoulder-length black hair\"} wearing a {argument name=\"outfit\" default=\"cream oversized knit sweater and light-wash high-waisted straight jeans\"} with white sneakers, standing in a cozy pastel-toned bakery café. She leans casually against a giant oversized iced coffee cup (larger than her torso) with a pink-and-blue striped straw, the cup wrapped in a bold retro sticker design reading \"SELF CARE\" in pastel gradient bubble letters. Warm string lights hang overhead, a \"Treat Yourself\" wall print and shelves of candles sit in the background, with a bakery display case of {argument name=\"pastries\" default=\"pink-frosted cupcakes\"} and a stack of macarons visible to the side, soft pink roses in a vase near a sunlit window. Natural warm lighting, shallow depth of field, lifestyle/editorial photography style, soft bokeh background.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31261-366",
+      "title": "Ironic Ocean Office Meme",
+      "prompt": "Realistic candid photo of [person from uploaded photo] standing chest-deep in rough ocean water, surrounded by large breaking waves and white sea foam, no hat. In one raised hand, held above the water, they hold an {argument name=\"laptop\" default=\"open dark grey/space-black laptop with a visible Apple logo\"}, angled toward their face as if working on it. In the other hand, raised at chest height, they hold a {argument name=\"drink\" default=\"to-go coffee cup with a white lid and brown sleeve\"}. Their expression is focused and slightly tired, looking down at the laptop screen. Only the head, shoulders, and raised arms are visible above the waterline; the rest of the body is submerged. The ocean is turbulent with rolling waves and whitewater in the background, cool grey-blue-green color grading, overcast diffused daylight, slightly moody and dramatic lighting. Shot from a distance with a slight telephoto compression, as if photographed candidly from the shore. Vertical composition, photorealistic, ironic \"always working\" meme aesthetic, no text overlays anywhere on the image.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31259-366-Cozy-Bakery-Giant-Coffee-Scene.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31261-366-Ironic-Ocean-Office-Meme.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21622-778",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21622-779",
       "title": "Luxury Perfume Magazine Cover",
       "prompt": "A high-end magazine cover titled \"{argument name=\"magazine title\" default=\"CHANCE\"}\" featuring an elegant woman in a black halter dress. The background includes hazy wisps of smoke and a blurry Parisian cityscape at night. Prominently in the foreground is a large bottle of {argument name=\"perfume name\" default=\"CHANCE\"} Parfum, with {argument name=\"liquid color\" default=\"golden\"} liquid and clear glass. The word \"TIMELESS\" is written in a sophisticated font across the bottom of the image, which also includes the label \"CHANCE PANS PARFUM\", a barcode, fine print, and the number \"86\" for quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21622-778-Luxury-Perfume-Magazine-Cover.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21622-779-Luxury-Perfume-Magazine-Cover.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10379-237",
-      "title": "Photo-Style Line Drawing Sketch Prompt",
-      "prompt": "Create a photo-style line drawing / ink sketch of the person identical to the uploaded image — keep every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10406-237",
+      "title": "Ana de Armas Painting a Realistic Mural of Herself",
+      "prompt": "{ \"type\": \"image_generation\", \"style\": \"ultra-realistic cinematic portrait photography\", \"resolution\": \"8K UHD\", \"aspect_ratio\": \"2:3 vertical\", \"face_preservation\": { \"preserve_identity\": true, \"preserve_face_shape\": true, \"preserve_eyes\": true, \"preserve_nose\": true, \"preserve_lips\": true, \"preserve_expression\": true, \"preserve_skin_texture\": true, \"preserve_proportions\": true, \"no_beautification_filter\": true, \"no_face_modification\": true }, \"scene\": { \"location\": \"cozy artistic café interior\", \"environment_description\": \"A warm yet naturally lit café with textured plaster walls, wooden flooring, soft neutral-toned furniture, and an intimate creative atmosphere. The wall has a natural, slightly rough texture with subtle imperfections visible.\", \"mural_concept\": \"The woman is painting a large, realistic artistic mural of her own face on the café wall. The mural face must match her real facial features and exact expression perfectly, as if she is painting her own reflection. The mural style is hyper-detailed realism with painterly brush textures visible upon close inspection.\", \"decor_elements\": { \"white_decorative_pots\": \"Elegant matte white ceramic pots arranged near the wall and around the floor area.\", \"flowers\": \"Various colors of fresh roses including red, pink, peach, white, and soft yellow.\", \"plants\": \"Delicate green vines and climbing plants trailing naturally around the mural edges and along the wall corners.\", \"ambience\": \"Artistic, cozy, creative café vibe with subtle decorative charm.\" } }, \"subject\": { \"position\": \"Standing slightly angled toward the wall while painting\", \"action\": \"Holding a paintbrush mid-stroke while working on the mural\", \"expression\": \"Exactly the same as in the uploaded reference image\", \"pose_details\": \"Natural relaxed posture, focused and immersed in painting, realistic hand placement holding brush and palette\", \"clothing\": \"Casual yet stylish café-artist outfit, soft neutral or earthy tones, natural fabric texture\", \"hair\": \"Exactly as in the original image, no changes\", \"makeup\": \"Natural and realistic, matching the original photo\" }, \"lighting\": { \"type\": \"soft natural daylight\", \"direction\": \"Light entering gently from a nearby window\", \"temperature\": \"Neutral daylight (not too warm, not overly golden)\", \"shadow_style\": \"Soft diffused shadows with realistic depth\", \"skin_tone_rendering\": \"True-to-life color accuracy without oversaturation\" }, \"camera_settings\": { \"camera_type\": \"Full-frame professional DSLR\", \"lens\": \"85mm portrait lens\", \"aperture\": \"f/2.0\", \"depth_of_field\": \"Shallow depth of field with sharp focus on subject and mural face\", \"focus\": \"Crisp facial details on both real face and painted mural face\", \"dynamic_range\": \"High dynamic range wit",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10379-237-Photo-Style-Line-Drawing-Sketch-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10406-237-Ana-de-Armas-Painting-a-Realistic-Mural-of-Herself.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +305,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31258-367",
-      "title": "Primitive Stencil Dog Illustration",
-      "prompt": "A stylized, primitive illustration of a {argument name=\"subject\" default=\"dog\"} is rendered in {argument name=\"subject color\" default=\"light pink\"} against a {argument name=\"background color\" default=\"dark red\"} background. The dog is depicted in a side profile, with a large, angular head featuring a single, circular eye with a smaller circle in its center, and two pointed ears. Its mouth is open, revealing a row of sharp, triangular teeth and a dark, cavernous interior. A curved tail extends from its rear. The body of the dog appears to be filled with hand drawn crosshatching and symbols. Its four legs are depicted as simple, rectangular shapes. The overall aesthetic is reminiscent of a {argument name=\"art style\" default=\"stencil or woodcut print\"}, with a rough, textured quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31259-367",
+      "title": "Cozy Bakery Giant Coffee Scene",
+      "prompt": "A {argument name=\"subject\" default=\"young East Asian woman with sleek shoulder-length black hair\"} wearing a {argument name=\"outfit\" default=\"cream oversized knit sweater and light-wash high-waisted straight jeans\"} with white sneakers, standing in a cozy pastel-toned bakery café. She leans casually against a giant oversized iced coffee cup (larger than her torso) with a pink-and-blue striped straw, the cup wrapped in a bold retro sticker design reading \"SELF CARE\" in pastel gradient bubble letters. Warm string lights hang overhead, a \"Treat Yourself\" wall print and shelves of candles sit in the background, with a bakery display case of {argument name=\"pastries\" default=\"pink-frosted cupcakes\"} and a stack of macarons visible to the side, soft pink roses in a vase near a sunlit window. Natural warm lighting, shallow depth of field, lifestyle/editorial photography style, soft bokeh background.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31258-367-Primitive-Stencil-Dog-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31259-367-Cozy-Bakery-Giant-Coffee-Scene.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21624-785",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21624-786",
       "title": "1950s Vintage Soda Advertisement Posters",
       "prompt": "A pair of vintage-style mid-century advertisement posters featuring a smiling woman with glasses as the central focus, holding up a glass beverage bottle. Both illustrations capture a nostalgic, sun-drenched retro vibe with bold typography and warm color tones reminiscent of 1950s commercial art. One scene is set on a lively beach featuring a woman in a polka-dot dress holding a bottle of \"{argument name=\"soda brand 1\" default=\"FIZZ\"}\" with a pier and sunbathers in the background. The other scene transitions to a sunny suburban backyard picnic, showing a woman in a red dress holding a bottle of \"{argument name=\"soda brand 2\" default=\"BREW\"}\" alongside vintage cars, a picnic basket, and families relaxing on the lawn.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21624-785-1950s-Vintage-Soda-Advertisement-Posters.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21624-786-1950s-Vintage-Soda-Advertisement-Posters.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,16 +419,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10316-238",
-      "title": "Welcome Home Scenario Prompt",
-      "prompt": "Welcome home 🤍🩷🩵 I was cooking a cake and I saw you arrived 🏰 Were you with someone...? 😇🔪 Nano Banana Pro 🍌",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10379-238",
+      "title": "Photo-Style Line Drawing Sketch Prompt",
+      "prompt": "Create a photo-style line drawing / ink sketch of the person identical to the uploaded image — keep every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10316-238-Welcome-Home-Scenario-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10379-238-Photo-Style-Line-Drawing-Sketch-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -438,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31358-368",
-      "title": "Photorealistic Woman at Pool Table",
-      "prompt": "Photorealistic professional photograph of a brunette lookalike with long wavy ponytail hair, smiling and looking toward the camera over her shoulder. She is wearing a {argument name=\"top style\" default=\"neon orange short-sleeved crop top with a small hood\"}, a {argument name=\"skirt style\" default=\"very short black ruffled mini skirt\"}, and {argument name=\"footwear\" default=\"neon orange high heels\"} from attached picture 1. She is sitting on the edge of a wooden pool table with a small sign 'Keor' engraved on it, holding a pool cue vertically with both hands near her shoulder, one leg raised and bent with the foot resting near the table. Large wooden-framed windows behind her show a sunny hilly landscape. Glass block detailing under the table, polished floor, and pool balls visible on the table surface. Bright natural daylight fills the room. Highly detailed textures, realistic skin and hair, sharp focus, professional lifestyle photography style, 8k resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31258-368",
+      "title": "Primitive Stencil Dog Illustration",
+      "prompt": "A stylized, primitive illustration of a {argument name=\"subject\" default=\"dog\"} is rendered in {argument name=\"subject color\" default=\"light pink\"} against a {argument name=\"background color\" default=\"dark red\"} background. The dog is depicted in a side profile, with a large, angular head featuring a single, circular eye with a smaller circle in its center, and two pointed ears. Its mouth is open, revealing a row of sharp, triangular teeth and a dark, cavernous interior. A curved tail extends from its rear. The body of the dog appears to be filled with hand drawn crosshatching and symbols. Its four legs are depicted as simple, rectangular shapes. The overall aesthetic is reminiscent of a {argument name=\"art style\" default=\"stencil or woodcut print\"}, with a rough, textured quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31358-368-Photorealistic-Woman-at-Pool-Table.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31258-368-Primitive-Stencil-Dog-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21628-786",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21628-787",
       "title": "Male Model Streetwear Campaign in Daisy Field",
       "prompt": "Ultra-realistic cinematic fashion campaign shot of a handsome male model lying relaxed in a vast {argument name=\"setting\" default=\"blooming daisy field\"} during golden hour sunset. The camera angle is slightly low and close-up, capturing the model reclining naturally among thousands of white daisies with yellow centers. Warm sunlight softly illuminates the face and flowers, creating dreamy highlights and gentle shadows. The model is wearing the exact provided oversized {argument name=\"wardrobe\" default=\"white graphic t-shirt\"} from the product image, maintaining the same eagle artwork placement, proportions, fabric texture, neckline, sleeve fit, and overall design without any modifications. Styled with loose black trousers. Expression is calm andconfident, looking directly toward the camera. Background filled endlessly with soft-focus daisies and natural greenery, creating a peaceful editorialluxury aesthetic. Shallow depth of field, soft cinematic bokeh in foreground flowers, muted earthy tones, premium streetwear campaign vibe, highly detailed skin texture, natural hair, realistic lighting, fashion magazine photography, shot on 85mm lens, ultra photorealistic, high-end editorial styling, 1:1 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21628-786-Male-Model-Streetwear-Campaign-in-Daisy-Field.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21628-787-Male-Model-Streetwear-Campaign-in-Daisy-Field.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,16 +571,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10293-239",
-      "title": "Surreal Cinematic Campfire in Cosmic Void",
-      "prompt": "{ \"type\": \"image_generation_prompt\", \"style\": \"surreal, cinematic, conceptual art\", \"camera\": { \"angle\": \"high-angle\", \"shot\": \"full shot\", \"composition\": \"symmetrical balance with central campfire dividing two characters\", \"background\": \"pitch-black void with no visible environment\" }, \"scene\": { \"setting\": \"abstract cosmic space\", \"environment\": \"dark void emphasizing isolation and contrast\", \"resolution\": \"8k\", \"render_style\": \"photorealistic\" }, \"characters\": [ { \"position\": \"left\", \"subject\": \"astronaut\", \"pose\": \"sitting\", \"seat\": \"rough gray rock\", \"appearance\": { \"suit\": \"highly detailed realistic white space suit\", \"helmet\": \"on, reflective visor\" }, \"action\": \"holding a stick and roasting a marshmallow over the fire\" }, { \"position\": \"right\", \"subject\": \"young man\", \"pose\": \"sitting and leaning forward\", \"seat\": \"metal folding chair\", \"appearance\": { \"hair\": \"dark hair\", \"clothing\": { \"top\": \"red and black plaid flannel shirt\", \"bottom\": \"blue jeans\", \"footwear\": \"brown boots\" } },\\n \"action\": \"warming hands by the fire\" } ], \"central_element\": { \"object\": \"campfire\", \"style\": \"magical and surreal\", \"fire_behavior\": \"flames transition seamlessly into a spiral galaxy\", \"galaxy\": { \"type\": \"photorealistic spiral galaxy\", \"details\": [ \"glittering stars\", \"cosmic dust\", \"swirling motion\" ], \"shape\": \"arching overhead like a celestial canopy\" } }, \"lighting\": { \"primary_light\": \"warm orange glow from the campfire\", \"secondary_light\": \"cool blue and purple glow from the galaxy\", \"mood\": \"dramatic, cinematic, ethereal\", \"shadows\": \"soft but deep, emphasizing contrast\" }, \"color_palette\": { \"dominant\": [\"black\", \"orange\", \"blue\", \"purple\"], \"accent\": [\"white\", \"red\", \"brown\"] }, \"themes\": [ \"human connection\", \"cosmic wonder\", \"contrast between the ordinary and the infinite\", \"shared warmth in an infinite universe\" ], \"quality_tags\": [ \"ultra-detailed\", \"photorealistic textures\", \"cinematic lighting\", \"sharp focus\", \"high dynamic range\" ] }",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10316-239",
+      "title": "Welcome Home Scenario Prompt",
+      "prompt": "Welcome home 🤍🩷🩵 I was cooking a cake and I saw you arrived 🏰 Were you with someone...? 😇🔪 Nano Banana Pro 🍌",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10293-239-Surreal-Cinematic-Campfire-in-Cosmic-Void.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10316-239-Welcome-Home-Scenario-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -590,12 +609,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31260-369",
-      "title": "Cozy Cafe Fashion Portrait",
-      "prompt": "A beautiful young East Asian woman with {argument name=\"hair style\" default=\"long wavy light brown hair styled with a soft white bow hair accessory\"}, fair skin, gentle smile, looking directly at the camera. She is wearing {argument name=\"outfit\" default=\"a cream-white short-sleeve knitted top with delicate ruffles around the round neckline and a textured cable-knit pattern\"}, paired with a black mini skirt. White knee-high ribbed socks and black Mary Jane shoes. She holds a clear plastic cup of iced light-brown coffee with a black straw in her right hand. A {argument name=\"accessory\" default=\"small pale yellow quilted crossbody bag with a gold chain strap and interlocking CC logo\"} rests at her hip, her left hand lightly touching it. Playful pose with one leg lifted and bent behind her. Cozy cafe interior with warm wooden walls and paneling, a large window showing green outdoor foliage, hanging fern plants and a potted fern nearby, a curved wooden chair in the foreground, soft natural daylight, realistic photography style, high detail, natural skin texture, soft lighting.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31358-369",
+      "title": "Photorealistic Woman at Pool Table",
+      "prompt": "Photorealistic professional photograph of a brunette lookalike with long wavy ponytail hair, smiling and looking toward the camera over her shoulder. She is wearing a {argument name=\"top style\" default=\"neon orange short-sleeved crop top with a small hood\"}, a {argument name=\"skirt style\" default=\"very short black ruffled mini skirt\"}, and {argument name=\"footwear\" default=\"neon orange high heels\"} from attached picture 1. She is sitting on the edge of a wooden pool table with a small sign 'Keor' engraved on it, holding a pool cue vertically with both hands near her shoulder, one leg raised and bent with the foot resting near the table. Large wooden-framed windows behind her show a sunny hilly landscape. Glass block detailing under the table, polished floor, and pool balls visible on the table surface. Bright natural daylight fills the room. Highly detailed textures, realistic skin and hair, sharp focus, professional lifestyle photography style, 8k resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31260-369-Cozy-Cafe-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31358-369-Photorealistic-Woman-at-Pool-Table.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21458-795",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21458-796",
       "title": "Luxury Brand Campaign Portrait",
       "prompt": "A chic, high-fashion promotional image in the style of a {argument name=\"style type\" default=\"luxury brand campaign\"}. Create an elegant woman using the referenced image with straight hair wearing a {argument name=\"outfit\" default=\"tailored black pantsuit and black stiletto heels\"}, sitting confidently cross-legged in a massive armchair. The large armchair is upholstered in a black fabric repeating the \"{argument name=\"brand monogram\" default=\"MK\"}\" monogram pattern, styled with gold chain accents. She holds a stylish quilted black leather Michael Kors handbag with a prominent gold clasp on her lap. In the background, large 3D metallic gold letters on the wall spell out \"MICHAEL KORS\". The setting is a luxurious marble-floored hall with an elegant archway, flanked by modern gold floor lamps featuring the MK logo. The lighting is soft and cinematic, creating an upscale, sophisticated atmosphere.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21458-795-Luxury-Brand-Campaign-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21458-796-Luxury-Brand-Campaign-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,16 +723,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10317-240",
-      "title": "Quick Stop Scenario Prompt",
-      "prompt": "Hey, wait for me outside for a moment, I'm just going to take out money and then we'll go eat 🤍🖤💙 Nano Banana Pro 🍌",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10293-240",
+      "title": "Surreal Cinematic Campfire in Cosmic Void",
+      "prompt": "{ \"type\": \"image_generation_prompt\", \"style\": \"surreal, cinematic, conceptual art\", \"camera\": { \"angle\": \"high-angle\", \"shot\": \"full shot\", \"composition\": \"symmetrical balance with central campfire dividing two characters\", \"background\": \"pitch-black void with no visible environment\" }, \"scene\": { \"setting\": \"abstract cosmic space\", \"environment\": \"dark void emphasizing isolation and contrast\", \"resolution\": \"8k\", \"render_style\": \"photorealistic\" }, \"characters\": [ { \"position\": \"left\", \"subject\": \"astronaut\", \"pose\": \"sitting\", \"seat\": \"rough gray rock\", \"appearance\": { \"suit\": \"highly detailed realistic white space suit\", \"helmet\": \"on, reflective visor\" }, \"action\": \"holding a stick and roasting a marshmallow over the fire\" }, { \"position\": \"right\", \"subject\": \"young man\", \"pose\": \"sitting and leaning forward\", \"seat\": \"metal folding chair\", \"appearance\": { \"hair\": \"dark hair\", \"clothing\": { \"top\": \"red and black plaid flannel shirt\", \"bottom\": \"blue jeans\", \"footwear\": \"brown boots\" } },\\n \"action\": \"warming hands by the fire\" } ], \"central_element\": { \"object\": \"campfire\", \"style\": \"magical and surreal\", \"fire_behavior\": \"flames transition seamlessly into a spiral galaxy\", \"galaxy\": { \"type\": \"photorealistic spiral galaxy\", \"details\": [ \"glittering stars\", \"cosmic dust\", \"swirling motion\" ], \"shape\": \"arching overhead like a celestial canopy\" } }, \"lighting\": { \"primary_light\": \"warm orange glow from the campfire\", \"secondary_light\": \"cool blue and purple glow from the galaxy\", \"mood\": \"dramatic, cinematic, ethereal\", \"shadows\": \"soft but deep, emphasizing contrast\" }, \"color_palette\": { \"dominant\": [\"black\", \"orange\", \"blue\", \"purple\"], \"accent\": [\"white\", \"red\", \"brown\"] }, \"themes\": [ \"human connection\", \"cosmic wonder\", \"contrast between the ordinary and the infinite\", \"shared warmth in an infinite universe\" ], \"quality_tags\": [ \"ultra-detailed\", \"photorealistic textures\", \"cinematic lighting\", \"sharp focus\", \"high dynamic range\" ] }",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10317-240-Quick-Stop-Scenario-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10293-240-Surreal-Cinematic-Campfire-in-Cosmic-Void.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -742,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31263-371",
-      "title": "Y2K Balletcore Nighttime Portrait",
-      "prompt": "Ultra-realistic playful Y2K balletcore nighttime lifestyle portrait of a young adult woman with long {argument name=\"hair color\" default=\"vivid copper-red hair\"} styled into two neat thick braids falling over her chest, soft center part, loose face-framing strands, subtle flyaways, and natural silky texture. Fair warm ivory skin with clearly visible pores, realistic skin texture, delicate natural freckles across the cheeks, nose, shoulders, chest, arms, and legs, subtle facial vellus hair, natural skin variation, pronounced rosy flushed cheeks, softly luminous complexion, feathered brows, subtle champagne-pink eyeshadow, fine brown winged eyeliner, wispy separated lashes, glossy rosy-pink lips with realistic lip texture, and bright blue-gray eyes. She has a huge genuine open-mouth smile with visible natural teeth, slightly squinted happy eyes, and an energetic candid expression. Wearing a fitted white ribbed camisole with delicate lace trim, tiny feminine bow details and long ribbon ties at the neckline, layered underneath a cropped pastel-pink long-sleeve shrug cardigan. Pair it with a short white tiered ruffle mini skirt, white patterned semi-sheer tights featuring a delicate geometric knit design, and glossy pastel-pink satin platform Mary Jane heels with chunky block heels. She is crouching beside an open stainless-steel refrigerator in a modern apartment kitchen at night, balanced naturally on her heels with one knee raised, one hand resting lightly across her thigh while the other reaches toward a refrigerator shelf. The open refrigerator is brightly illuminated and stocked with realistic everyday groceries, yogurt cups, sauces, condiments, packaged snacks, fruit, leftovers, jars, and containers. Colorful candy bars, gummy candy packets, snack wrappers, cereal boxes, and small packaged treats are playfully scattered across the dark wooden floor around her, creating a chaotic late-night snack-run aesthetic. Modern apartment kitchen with glossy white cabinetry, stainless-steel refrigerator, built-in appliances, dark nighttime windows, subtle city lights, and minimal contemporary styling. Captured using an {argument name=\"camera model\" default=\"iPhone 15 Pro\"} with strong direct rear-camera flash, producing authentic harsh frontal illumination, bright eye catchlights, crisp shadows behind the subject, realistic reflections across the {argument name=\"refrigerator style\" default=\"stainless steel refrigerator\"}, glossy shoes and packaging, slight highlight clipping, natural smartphone perspective, and the imperfect candid quality of a spontaneous late-night photo. Cool refrigerator light mixes with the warmer flash and dark ambient room lighting. Y2K sleepover aesthetic, balletcore fashion, playful Pinterest nightlife photography, candid Gen-Z lifestyle image, realistic anatomy, individual hair strands, detailed fabric fibers, visible pores and freckles, realistic hands and fingers, natural teeth, RAW-like clar",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31260-370",
+      "title": "Cozy Cafe Fashion Portrait",
+      "prompt": "A beautiful young East Asian woman with {argument name=\"hair style\" default=\"long wavy light brown hair styled with a soft white bow hair accessory\"}, fair skin, gentle smile, looking directly at the camera. She is wearing {argument name=\"outfit\" default=\"a cream-white short-sleeve knitted top with delicate ruffles around the round neckline and a textured cable-knit pattern\"}, paired with a black mini skirt. White knee-high ribbed socks and black Mary Jane shoes. She holds a clear plastic cup of iced light-brown coffee with a black straw in her right hand. A {argument name=\"accessory\" default=\"small pale yellow quilted crossbody bag with a gold chain strap and interlocking CC logo\"} rests at her hip, her left hand lightly touching it. Playful pose with one leg lifted and bent behind her. Cozy cafe interior with warm wooden walls and paneling, a large window showing green outdoor foliage, hanging fern plants and a potted fern nearby, a curved wooden chair in the foreground, soft natural daylight, realistic photography style, high detail, natural skin texture, soft lighting.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31263-371-Y2K-Balletcore-Nighttime-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31260-370-Cozy-Cafe-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21452-797",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-21452-798",
       "title": "Detailed Embroidery Portrait Effect",
       "prompt": "Close-up portrait transformed into detailed embroidery artwork, realistic thread stitching across facial features, layered cotton textures, handcrafted patch aesthetic, visible fabric fibers, fashion editorial lighting, premium streetwear campaign style",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21452-797-Detailed-Embroidery-Portrait-Effect.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-21452-798-Detailed-Embroidery-Portrait-Effect.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-10231-241",
-      "title": "Black Jade Diorama of Night Mountain of the Ancients",
-      "prompt": "Subject: an imperial masterpiece ornate black jade bowl diorama titled Night Mountain of the Ancients, the bowl opened with an organic blended cutaway where the dark jade rim seamlessly transforms into jagged mountain rock, ancient soil, moss, and weathered stone so the boundary between vessel and terrain appears naturally continuous and almost indistinguishable, revealing a miniature nocturnal sacred mountain world with steep terraces, a secluded ancient shrine carved into the cliff face, winding pilgrimage steps, weathered guardian statues, twisted wind-shaped pines, and faint runic stone markers suggesting forgotten ages Environment: the black jade bowl rests on a prestigious museum pedestal within a dimmed gallery-style neutral space, inside the bowl exists a high sacred mountain ecosystem under night conditions with layered cliffs, narrow stone paths, drifting low mist, sparse alpine vegetation, scattered fallen needles, and subtle environmental storytelling such as worn stair edges, cracked stone slabs, and ancient offerings, all mountain peaks, trees, and shrine roofs intentionally composed fully inside the frame with visible headroom above to prevent clipping Style: ultra-refined hyper-detailed surreal realism with mythic nocturnal atmosphere, imperial East-Asian-inspired sacred artifact aesthetic, masterwork black jade carving object design, cinematic macro miniature photography, extremely precise geological realism, physically plausible environmental aging, strong visual hierarchy, premium Nano Banana Pro optimized imperial masterpiece density Lighting: deep moonlit night illumination with cool blue ambient light, soft silver moon highlights catching cliff edges and pine needles, subtle internal lantern glow along the pilgrimage steps and shrine entrance providing warm focal contrast, faint mist diffusion enhancing depth, delicate rim lighting revealing the polished black jade translucency and mineral depth without losing shadow detail Camera: carefully composed three-quarter frontal museum presentation angle aimed into the blended opening, slightly elevated macro viewpoint maximizing terrace and shrine readability while framing the entire bowl, all peaks, and tallest trees fully within the image, generous vertical breathing space above the highest elements, cinematic miniature depth of field emphasizing the lantern-lit shrine and ascending path, 70–100mm macro-equivalent lens feel, stable gallery presentation framing Materials: master-carved black jade bowl with deep near-obsidian tonal layers, subtle green-black mineral veining, low translucent depth along thinner carved regions, ultra-fine engraved dragon-cloud, mountain, and ancient rune motifs polished into the jade, the cutaway transition organically morphs into stratified rock faces, weathered steps, moss patches, root systems, and cliff textures so the jade appears naturally crystallized into th",
+      "id": "xianyu-multi-model:ym-ai-skill-others-10317-241",
+      "title": "Quick Stop Scenario Prompt",
+      "prompt": "Hey, wait for me outside for a moment, I'm just going to take out money and then we'll go eat 🤍🖤💙 Nano Banana Pro 🍌",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10231-241-Black-Jade-Diorama-of-Night-Mountain-of-the-Ancients.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-10317-241-Quick-Stop-Scenario-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31152-373",
-      "title": "Cozy Home Fitness Lifestyle Portrait",
-      "prompt": "Create a photorealistic lifestyle portrait of an young woman seated comfortably on a compact indoor exercise machine in a cozy, modern home interior. 1. Subject, hair, skin, expression, pose: A young woman with {argument name=\"hair style\" default=\"long, naturally red/auburn hair\"} styled in a high ponytail, with a few soft strands framing her face. Fair skin with realistic natural texture and subtle freckles. Light-colored eyes, neatly shaped eyebrows, and understated everyday makeup. She has a calm, slightly serious expression while looking directly toward the camera. She is seated upright on the exercise equipment with both knees comfortably raised and bent, maintaining a relaxed, balanced posture. One hand gently rests near the side of her hair while the other arm rests naturally beside her. Her pose should feel candid, casual, and comfortable rather than staged. 2. Clothing and accessories: She wears a simple {argument name=\"top color\" default=\"burgundy-red\"} sleeveless athletic top layered naturally over a subtle gray underlayer, paired with fitted gray textured workout leggings. Add a delicate necklace with a small pendant. Keep the outfit practical, modest, contemporary, and suitable for light indoor exercise. No unnecessary accessories. 3. Environment and lighting: Set the scene inside a warm, tidy residential room. Behind her is a large decorative framed artwork with a botanical-inspired pattern and metallic neutral accents. Include a small side cabinet with a clear glass vase containing soft blue and lavender flowers. The room has neutral walls, understated furniture, and a clean minimalist atmosphere. Use warm ambient indoor lighting combined with soft diffused illumination from the room, creating gentle highlights on the subject while preserving natural skin tones and realistic shadows. 4. Camera / visual style: Photorealistic editorial lifestyle photography, vertical portrait composition, approximately 50mm lens, natural perspective, eye-level camera position, shallow-to-moderate depth of field, crisp facial details, realistic fabric textures, authentic skin texture, subtle background separation, balanced exposure, soft highlights, natural shadows, cinematic but believable color grading, high dynamic range, professional photography quality, ultra-detailed, realistic proportions, candid home-photography atmosphere. 5. Overall direction: Keep the composition faithful to a casual indoor lifestyle photograph. Prioritize natural anatomy, realistic hands and feet, accurate facial proportions, authentic clothing folds, physically believable lighting, and detailed environmental textures.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-31263-372",
+      "title": "Y2K Balletcore Nighttime Portrait",
+      "prompt": "Ultra-realistic playful Y2K balletcore nighttime lifestyle portrait of a young adult woman with long {argument name=\"hair color\" default=\"vivid copper-red hair\"} styled into two neat thick braids falling over her chest, soft center part, loose face-framing strands, subtle flyaways, and natural silky texture. Fair warm ivory skin with clearly visible pores, realistic skin texture, delicate natural freckles across the cheeks, nose, shoulders, chest, arms, and legs, subtle facial vellus hair, natural skin variation, pronounced rosy flushed cheeks, softly luminous complexion, feathered brows, subtle champagne-pink eyeshadow, fine brown winged eyeliner, wispy separated lashes, glossy rosy-pink lips with realistic lip texture, and bright blue-gray eyes. She has a huge genuine open-mouth smile with visible natural teeth, slightly squinted happy eyes, and an energetic candid expression. Wearing a fitted white ribbed camisole with delicate lace trim, tiny feminine bow details and long ribbon ties at the neckline, layered underneath a cropped pastel-pink long-sleeve shrug cardigan. Pair it with a short white tiered ruffle mini skirt, white patterned semi-sheer tights featuring a delicate geometric knit design, and glossy pastel-pink satin platform Mary Jane heels with chunky block heels. She is crouching beside an open stainless-steel refrigerator in a modern apartment kitchen at night, balanced naturally on her heels with one knee raised, one hand resting lightly across her thigh while the other reaches toward a refrigerator shelf. The open refrigerator is brightly illuminated and stocked with realistic everyday groceries, yogurt cups, sauces, condiments, packaged snacks, fruit, leftovers, jars, and containers. Colorful candy bars, gummy candy packets, snack wrappers, cereal boxes, and small packaged treats are playfully scattered across the dark wooden floor around her, creating a chaotic late-night snack-run aesthetic. Modern apartment kitchen with glossy white cabinetry, stainless-steel refrigerator, built-in appliances, dark nighttime windows, subtle city lights, and minimal contemporary styling. Captured using an {argument name=\"camera model\" default=\"iPhone 15 Pro\"} with strong direct rear-camera flash, producing authentic harsh frontal illumination, bright eye catchlights, crisp shadows behind the subject, realistic reflections across the {argument name=\"refrigerator style\" default=\"stainless steel refrigerator\"}, glossy shoes and packaging, slight highlight clipping, natural smartphone perspective, and the imperfect candid quality of a spontaneous late-night photo. Cool refrigerator light mixes with the warmer flash and dark ambient room lighting. Y2K sleepover aesthetic, balletcore fashion, playful Pinterest nightlife photography, candid Gen-Z lifestyle image, realistic anatomy, individual hair strands, detailed fabric fibers, visible pores and freckles, realistic hands and fingers, natural teeth, RAW-like clar",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31152-373-Cozy-Home-Fitness-Lifestyle-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-31263-372-Y2K-Balletcore-Nighttime-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-13389-338",
-      "title": "Samurai War Tent Cinematic Shot",
-      "prompt": "Cinematic motion shot inside a {argument name=\"location\" default=\"war tent\"} during a {argument name=\"weather\" default=\"sandstorm\"}. The older samurai is turning his body away from the Shogun, mid-motion, slightly blurred. His movement feels reactive, not controlled. In the background, another enemy guard is approaching from the front. The Shogun is now partially out of frame, no longer the focus. Dust and light beams fill the scene. Dynamic composition, motion blur, cinematic realism.",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-13389-338-Samurai-War-Tent-Cinematic-Shot.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Comic / Storyboard"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
       "license": "upstream",
       "createdAt": null
     }

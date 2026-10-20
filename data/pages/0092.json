@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32398-277",
+      "title": "Fashion Editorial Portrait in Cafe",
+      "prompt": "A candid, waist-up portrait of a young South Asian woman posing gracefully in a chic, warm-toned cafe interior. She has {argument name=\"hair style\" default=\"long, wavy dark brown hair\"} cascading over one shoulder, with one hand gently tucked behind her head. She is wearing a oversized black cotton t-shirt featuring a highly detailed, textured embroidered patch on the chest depicting a {argument name=\"t-shirt patch\" default=\"cute blue penguin wearing a pink beanie and holding a heart that reads \\\"Be Mine\\\"\"}. She pairs the top with high-waisted white trousers accented by a thin white belt, and she holds a {argument name=\"bag style\" default=\"beige pleated corduroy clutch bag\"} under her arm. Elegant drop pearl earrings catch the light. Technical Details: Shot on a 85mm lens, f/1.8 aperture for a shallow depth of field with a soft, blurred background showing cozy ambient cafe lighting, warm globe pendant lights, dark wooden tables, and subtle greenery. Natural soft fill lighting on her face, hyper-realistic skin texture, realistic fabric folds, 8k resolution, photorealistic fashion editorial aesthetic.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32398-277-Fashion-Editorial-Portrait-in-Cafe.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Social Media Post"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-8744-213",
       "title": "Nano Banana Pro Prompting Strategy for Stable Output",
       "prompt": "① Always switch the mode to 'Thought' or 'Pro' (I feel 'Thought' is better) ② 'Describe the scene in sentences' rather than listing keywords ③ Specify the subject, background, and atmosphere as a set of three points ④ Don't aim for perfection in one go; apply 'gradual corrections' ⑤ Avoid negative expressions; give instructions in positive sentences ⑥ Add quality keywords (4K, high resolution) in English ⑦ Clearly state the purpose at the beginning (e.g., \"{argument name=\"purpose\" default=\"Diagram for a proposal\"}\") ⑧ Exclude unnecessary elements using negative prompts ⑨ Do not attempt complex edits all at once; proceed in segments ⑩ Save frequently used prompts as templates",
@@ -39,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23733-618",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23733-619",
       "title": "Amalfi Coast Summer Fashion Collage",
       "prompt": "Ultra-photorealistic vertical 4:5 summer fashion mood-board collage, arranged as a clean 2x2 grid with four cohesive frames of the same {argument name=\"subject\" default=\"young woman\"} in a sunny Italian coastal setting. Strict face and identity consistency across all four panels: same facial structure, same warm olive sun-kissed skin tone, same long dark brown hair with soft sun-lightened ends, same natural-glam makeup, same elegant Mediterranean beauty. The entire collage is unified by a vivid yellow summer color palette. Place one large vivid yellow orchid bloom in the exact center of the collage, overlapping the borders of all four panels as a decorative editorial focal element. The orchid should be photorealistic, sharp, elegant, and harmonize with the yellow styling. Overall mood: luxury Italian summer, Amalfi Coast atmosphere, warm golden Mediterranean sunlight, glowing realistic skin, soft natural shadows, crisp facial details, clean anatomy, realistic hands, premium phone-camera editorial photography. Color palette should include vivid lemon yellow, golden honey, warm cream, white linen, sea blue, pastel Italian buildings, green shutters, and honey-colored stone. True-to-life vivid color, not oversaturated, not washed out. Top left panel: close detail fashion shot of a flowing yellow chiffon dress catching the breeze and sunlight. Show soft translucent fabric movement, elegant pleats, delicate folds, and a glimpse of layered beaded jewelry. Artful cropped framing, luxury editorial style, sunlight passing through the chiffon, shallow depth of field, dreamy but realistic. Top right panel: the same woman leaning against a sunlit white terrace ledge overlooking the Amalfi-style coastline and deep blue sea. She wears a fitted yellow satin mini slip dress with thin straps and a soft cowl neckline. Her head is tilted slightly back toward the sun, eyes softly closed or half-closed, serene and radiant. Natural elegant pose, clean body proportions, realistic hands resting on the terrace, coastline and boats softly blurred in the background. Bottom left panel: the same woman walking through a charming Italian old-town street with pastel buildings, green shutters, stone pavement, potted plants, and bougainvillea flowers. She wears a yellow halter top with a small white flower detail at the neckline and flowing white linen trousers. She carries a small woven shoulder bag and holds sunglasses in one hand. Candid walking pose, natural stride, correct anatomy, realistic legs and hands, soft sunlight filtering through the street. Bottom right panel: close editorial portrait of the same woman reclining against warm honey-colored stone. She wears a yellow maxi dress with a subtle tonal floral print. Her expression is soft, confident, and sensual, looking toward the camera. Golden-hour glow on her face and skin, realistic pores, luminous but natural complexion, detailed fabric texture, intimate luxury magazine feel. Camera and lighting: premium",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23733-618-Amalfi-Coast-Summer-Fashion-Collage.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23733-619-Amalfi-Coast-Summer-Fashion-Collage.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11277-186",
-      "title": "Surreal Nano Banana Aesthetic Template Prompt",
-      "prompt": "\"replace the {argument name=\"object\" default=\"object\"} with a banana-shaped {argument name=\"style\" default=\"style\"}, surreal nano banana aesthetic, realistic lighting, cinematic composition, seamless integration, preserve {argument name=\"subject\" default=\"subject\"}, preserve {argument name=\"pose\" default=\"pose\"}, preserve {argument name=\"background\" default=\"background\"}, ultra realistic, high detail\"",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11308-186",
+      "title": "Exaggerated Curvy Figure at Gas Station",
+      "prompt": "{ “subject”: { “description”: “A vertical photograph of a strikingly beautiful young woman with an exaggerated curvy build, pumping gas into a car at a gas station at night.”, “body”: { “physique”: “She possesses an incredibly exaggerated ‘slim-thick’ hourglass figure. Her waist is extremely tiny and snatched, transitioning dramatically into massively prominent, round, and wide glutes and thick, shapely thighs. The contrast between her very small waist and exaggerated lower body is the defining feature.”, “pose”: “Standing at the gas pump, holding the nozzle into the car. She is twisted slightly, looking back over her right shoulder directly at the viewer, similar to the previous pose. Her stance emphasizes the extreme curve of her lower back and glutes.”, “features”: “Dark hair pulled up in a casual messy bun with a gold star-shaped hair clip. Her face is strikingly beautiful and gorgeous but with realistic skin texture, natural pores, and genuine features, not looking artificial or like porcelain. Her arms are bare and have NO tattoos.” } }, “wardrobe”: { “outfit”: “She is wearing a {argument name=\"top color\" default=\"light yellow\"} cropped t-shirt that hugs her upper body. On her lower body, she wears fitted {argument name=\"legging color\" default=\"grey\"} athletic leggings that stretch tightly over her exaggerated curves.” }, “pose_action”: “Filling up her car with gas at a station at night, looking back over her shoulder.”, “scene”: { “environment”: “A brightly lit gas station at night.”, “elements”: “She is standing next to a bright {argument name=\"car color\" default=\"pink\"} Mini Cooper car, inserting the pump nozzle. The background shows the gas pumps, concrete ground, the overhead canopy structure with industrial lights, and brightly lit convenience store signage in the distance against the dark night sky.”, “composition”: “Vertical 9:16 aspect ratio. A medium-full shot capturing the subject from the knees up while pumping gas.” }, “lighting”: { “setup”: “Nighttime mixed lighting: bright overhead fluorescent canopy lights casting strong light and distinct shadows, mixed with the glow of neon signs from the station.”, “details”: “The artificial lighting highlights the realistic texture of her skin, the fabric of the light yellow top and grey leggings, and the glossy paint of the pink car.” }, “camera”: { “technical”: “High-resolution photograph. Sharp focus on the main subject. Realistic, candid style captures during the night.”, “aspect_ratio\": “9:16”, “constraints”: [ “CRITICAL: The subject must have the specific EXAGGERATED hourglass physique with a tiny waist and massive glutes.”, “CRITICAL: The face must be incredibly beautiful but REALISTIC, not doll-like.”, “CRITICAL: There must be NO TATTOOS on her arms.”, “CRITICAL: Outfit colors must be LIGHT YELLOW top and GREY leggings.”, “CRITICAL: Scene must be a GAS STATION AT NIGHT with a PINK MINI COOPER.”, “The final image must be a photorealistic ve” ] } }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11277-186-Surreal-Nano-Banana-Aesthetic-Template-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11308-186-Exaggerated-Curvy-Figure-at-Gas-Station.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32185-285",
-      "title": "Candid Airport Lounge Portrait",
-      "prompt": "ar 9:16 High A realistic photograph of a young East Asian woman in her {argument name=\"age range\" default=\"late teens or early 20s\"} sitting in a modern airport or public waiting lounge. She has fair, smooth skin, soft natural makeup, slightly parted lips, and a gentle, calm, slightly contemplative expression while looking off to the left of the camera. Her black hair is cut in a {argument name=\"hair style\" default=\"neat, slightly messy bob\"} with soft bangs framing her face and a small black hair bow or clip at the back. She is wearing a {argument name=\"top clothing\" default=\"white cable-knit cardigan\"} with three-quarter sleeves, two visible white buttons, and a soft textured knit pattern, worn open over a white camisole or tank top with a small black bow detail at the center of the neckline. Around her neck is a delicate silver necklace with a small pendant. On her left wrist she wears a thin silver chain bracelet. She is seated with her legs drawn up, arms crossed loosely over her knees, holding a soft light-pink or pale rose-colored pillow or plush object with a black ribbon or stripe. She wears matching light pink wide-leg pants or a soft skirt that drapes over her legs. The setting is a bright, modern indoor public space with large blue and black modern lounge chairs, a round metallic planter with greenery in the background, polished concrete or stone flooring, and soft natural daylight mixed with indoor lighting. The composition is a medium close-up, slightly low angle, shallow depth of field with the background softly blurred. Photorealistic style, natural skin texture, high detail on clothing fabric and jewelry, soft natural lighting, candid and elegant atmosphere.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32321-284",
+      "title": "Outdoor Lifestyle Balcony Portrait",
+      "prompt": "Create a photorealistic outdoor lifestyle portrait of a young woman with fair, warm-toned skin, light-colored eyes, and {argument name=\"hair style\" default=\"long blonde hair styled in a loose, slightly tousled ponytail\"} with soft strands framing her face. She has natural facial features, subtle makeup, softly defined eyebrows, and a calm, confident expression while gazing slightly past the camera. She is standing upright on a {argument name=\"location\" default=\"spacious residential balcony\"}, facing the camera with a relaxed posture, both arms extended naturally to rest lightly on the decorative railing, and one foot positioned slightly ahead of the other for a casual, balanced stance. She is wearing an elegant {argument name=\"outfit\" default=\"deep burgundy-red outfit\"} with a sleek, structured silhouette, broad shoulder straps, and clean minimalist detailing. The fabric has a subtle smooth texture with realistic folds and highlights. Keep the styling sophisticated and contemporary, with minimal accessories and a small understated tattoo on the forearm. The setting is a beautiful upscale residential neighborhood viewed from a tiled balcony, featuring manicured lawns, mature green trees, paved walkways, elegant detached homes, rooftops, and distant suburban details. The balcony has warm wood-look floor tiles, a black decorative metal railing with circular motifs, and potted greenery near the edges. Capture a peaceful golden-hour atmosphere with warm sunlight coming from behind and slightly to the side of the subject, creating a soft golden rim light around her hair and shoulders while maintaining gentle facial illumination and realistic shadows. The sky should have a warm pale-gold gradient with subtle evening haze. Photographed with an 85mm lens, natural perspective, shallow depth of field, crisp focus on the face and eyes, realistic background separation, detailed individual hair strands, authentic skin texture, accurate fabric texture, realistic hands and feet, balanced exposure, soft highlight rolloff, cinematic warm color grading, subtle filmic contrast, high dynamic range, professional outdoor editorial photography, photorealistic detail, natural color reproduction, vertical composition, elegant candid lifestyle aesthetic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32185-285-Candid-Airport-Lounge-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32321-284-Outdoor-Lifestyle-Balcony-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23748-622",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23748-623",
       "title": "Playing Card Fashion Queen Editorial",
       "prompt": "{ \"image_prompt\": { \"subject\": { \"appearance\": \"A young woman with a smooth, sharp facial features, and captivating brown eyes with warm tone makeup. She has a voluminous, perfectly styled dark blonde wavy haircut that frames her face beautifully.\", \"reference_celebrity\": \"Emma Watson\", \"expression\": \"Naturally smiling, calm, confident, and direct gaze looking straight into the camera with neutral yet powerful intensity.\", \"physical_details\": \"Slender build, prominent collarbones, visible upper torso with a deep V-neck opening showing clean skin texture.\" }, \"attire\": { \"garment\": \"An avant-garde, high-fashion dress featuring a plunging deep V-neckline. The fabric is a complex, pink, black, white collage pattern made entirely of abstract playing card art and vibrant graphic elements.\", \"styling\": \"The collar is structurally dramatic and rigid, flaring outward into sharp, geometric wing-like shapes covered in detailed artistic illustrations.\", \"headpiece\": \"A crown made from a deck of playing cards\" }, \"pose\": { \"stance\": \"Sitting comfortably on the floor, facing the camera directly with a high-fashion runway attitude.\", \"arms\": \"one hand running her hand through her hair, the other on her waist\" }, \"setting\": { \"environment\": \"A surreal, highly chaotic, and abstract background entirely themed around playing cards and graphic pop art.\", \"background_details\": [ \"Giant, oversized playing cards scattered and tilted at dynamic angles\", \"A large yellow card with black club symbols prominent on the upper right\", \"Abstract splatters of bold red, orange, blue, and black geometric shapes\", \"Graffiti-style street art and collage elements blending into a dense, non-realistic backdrop\" ] }, \"photography_style\": { \"aesthetic\": \"High-end fashion editorial photography, surrealist pop-art fusion, sharp digital illustration realism\", \"lighting\": \"Studio lighting, perfectly even and bright, casting minimal shadows to emphasize the vivid colors and complex patterns on the attire and background\", \"composition\": \"Centered medium shot from the waist up, perfectly symmetrical composition, eye-level angle, deep focus ensuring both the subject and the intricate background details remain sharp and vibrant\" } } } --ar 9:16",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23748-622-Playing-Card-Fashion-Queen-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23748-623-Playing-Card-Fashion-Queen-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11307-187",
-      "title": "Wong Kar-wai Style Portrait in Taxi",
-      "prompt": "Wong Kar-wai style realistic portrait using photo uploads as a face model, emphasizing the jawline and neck to be sharp as a sculpture, the same face and uniqueness. Do not change the face. Posture: sitting with head leaning on mirror, hands on the edge, eyes staring at the street light. Scene: an old taxi. Pale leather seats. Rain-smudge windows. Street lights streak blur. Camera Angle: Taken from outside the mirror. Shadows reflecting on the face. Lighting: Neon red-green running through. Face changes color according to light. Clothes: Black button down shirt. Slightly relaxed. Hair is wet, Image tone: Contrast red-green. Film grain thick. Motion blur clear. Glow blur around carlight. Mood: Lonely, solitary, big city with no answers",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11277-187",
+      "title": "Surreal Nano Banana Aesthetic Template Prompt",
+      "prompt": "\"replace the {argument name=\"object\" default=\"object\"} with a banana-shaped {argument name=\"style\" default=\"style\"}, surreal nano banana aesthetic, realistic lighting, cinematic composition, seamless integration, preserve {argument name=\"subject\" default=\"subject\"}, preserve {argument name=\"pose\" default=\"pose\"}, preserve {argument name=\"background\" default=\"background\"}, ultra realistic, high detail\"",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11307-187-Wong-Kar-wai-Style-Portrait-in-Taxi.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11277-187-Surreal-Nano-Banana-Aesthetic-Template-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +305,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32194-286",
-      "title": "70s Iran Political Group Portrait",
-      "prompt": "{argument name=\"group\" default=\"a left party\"} from {argument name=\"country\" default=\"iran\"} {argument name=\"decade\" default=\"70s\"} in tehran , like a communism man",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32185-286",
+      "title": "Candid Airport Lounge Portrait",
+      "prompt": "ar 9:16 High A realistic photograph of a young East Asian woman in her {argument name=\"age range\" default=\"late teens or early 20s\"} sitting in a modern airport or public waiting lounge. She has fair, smooth skin, soft natural makeup, slightly parted lips, and a gentle, calm, slightly contemplative expression while looking off to the left of the camera. Her black hair is cut in a {argument name=\"hair style\" default=\"neat, slightly messy bob\"} with soft bangs framing her face and a small black hair bow or clip at the back. She is wearing a {argument name=\"top clothing\" default=\"white cable-knit cardigan\"} with three-quarter sleeves, two visible white buttons, and a soft textured knit pattern, worn open over a white camisole or tank top with a small black bow detail at the center of the neckline. Around her neck is a delicate silver necklace with a small pendant. On her left wrist she wears a thin silver chain bracelet. She is seated with her legs drawn up, arms crossed loosely over her knees, holding a soft light-pink or pale rose-colored pillow or plush object with a black ribbon or stripe. She wears matching light pink wide-leg pants or a soft skirt that drapes over her legs. The setting is a bright, modern indoor public space with large blue and black modern lounge chairs, a round metallic planter with greenery in the background, polished concrete or stone flooring, and soft natural daylight mixed with indoor lighting. The composition is a medium close-up, slightly low angle, shallow depth of field with the background softly blurred. Photorealistic style, natural skin texture, high detail on clothing fabric and jewelry, soft natural lighting, candid and elegant atmosphere.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32194-286-70s-Iran-Political-Group-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32185-286-Candid-Airport-Lounge-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -343,12 +362,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23741-627",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23741-628",
       "title": "Modern Editorial Fashion Collage Poster",
       "prompt": "A premium modern {argument name=\"design\" default=\"editorial collage poster design\"}. The background features four stacked rounded panels filled with high-contrast, black and white cinematic portraits of a {argument name=\"subject\" default=\"stylish young woman named Kinza wearing sunglasses\"} in different editorial fashion poses. Overlayed sharply in the foreground is a 3D-depth full-color cutout of the same woman, Kinza, wearing an {argument name=\"outfit\" default=\"oversized white shirt with tailored black pants and dark sunglasses\"}, striking a confident fashion pose. Clean minimal layout, soft shadows, intricate depth layering, professional poster composition, Vogue style, photorealistic, 8K resolution, cinematic lighting.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23741-627-Modern-Editorial-Fashion-Collage-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23741-628-Modern-Editorial-Fashion-Collage-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,16 +419,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11298-188",
-      "title": "Pink Power Rangers Cosplay Fashion Editorial Prompt",
-      "prompt": "{ \"character\": { \"name\": \"Young Woman\", \"type\": \"real_person\", \"portrayal_style\": \"cosplay fashion editorial\", \"age_appearance\": \"young adult\" }, \"appearance\": { \"hair\": { \"color\": \"blonde\", \"style\": \"long, loose, wavy\", \"detail_level\": \"individual hair strands visible\" }, \"expression\": { \"mood\": \"confident, playful\", \"gaze\": \"direct gaze over shoulder\" }, \"pose\": { \"body_orientation\": \"side profile\", \"leg_position\": \"one leg forward slightly bent\", \"hips\": \"cocked\", \"back\": \"arched\", \"left_hand\": \"resting lightly on hip\", \"right_hand\": \"holding helmet near waist\" }, \"accessories\": [ \"small gold hoop earrings\" ] }, \"costume\": { \"theme\": \"pink power rangers inspired\", \"top\": { \"type\": \"glossy bodysuit-style crop top\", \"color\": \"pink\", \"details\": \"white diamond accents, thin straps\", \"material\": \"high-gloss synthetic\" }, \"bottom\": { \"type\": \"high-waisted leggings\", \"color\": \"pink\", \"details\": \"white diamond pattern panels\", \"material\": \"high-gloss synthetic\" }, \"gloves\": { \"type\": \"long gloves\", \"color\": \"white\", \"trim\": \"pink\" }, \"boots\": { \"type\": \"thigh-high boots\", \"color\": \"white\", \"details\": \"pink diamond accents\", \"heel_type\": \"high heels\", \"finish\": \"high gloss\" }, \"prop\": { \"item\": \"pink Power Rangers-style helmet\", \"surface\": \"glossy, reflective\" } }, \"photography\": { \"style\": \"ultra realistic photorealistic high-fashion cosplay\", \"camera\": { \"lens_type\": \"cinematic movie lens\", \"depth_of_field\": \"shallow\" }, \"lighting\": { \"setup\": \"bright neutral clean studio background\", \"type\": \"even soft lighting\", \"purpose\": \"emphasize glossy fabric reflections and skin texture\" }, \"resolution\": \"8K\", \"quality_tags\": [ \"high detail\", \"realistic material shine\", \"glove texture detail\", \"boot gloss detail\", \"helmet surface reflection\", \"authentic unedited photoshoot look\", \"no AI artifacts\" ] }, \"environment\": { \"background\": \"neutral clean studio\", \"color_palette\": [\"pink\", \"white\", \"neutral tones\"], \"vibe\": \"cinematic, polished, editorial\" } }",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11307-188",
+      "title": "Wong Kar-wai Style Portrait in Taxi",
+      "prompt": "Wong Kar-wai style realistic portrait using photo uploads as a face model, emphasizing the jawline and neck to be sharp as a sculpture, the same face and uniqueness. Do not change the face. Posture: sitting with head leaning on mirror, hands on the edge, eyes staring at the street light. Scene: an old taxi. Pale leather seats. Rain-smudge windows. Street lights streak blur. Camera Angle: Taken from outside the mirror. Shadows reflecting on the face. Lighting: Neon red-green running through. Face changes color according to light. Clothes: Black button down shirt. Slightly relaxed. Hair is wet, Image tone: Contrast red-green. Film grain thick. Motion blur clear. Glow blur around carlight. Mood: Lonely, solitary, big city with no answers",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11298-188-Pink-Power-Rangers-Cosplay-Fashion-Editorial-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11307-188-Wong-Kar-wai-Style-Portrait-in-Taxi.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Creative"
       ],
       "author": "YouMind OpenLab",
@@ -438,12 +457,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32188-287",
-      "title": "Classic Man at Azadi Square",
-      "prompt": "a man stand {argument name=\"location\" default=\"azadi square tehran\"} in {argument name=\"era\" default=\"70s\"} like a {argument name=\"style\" default=\"real and classic man\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32194-287",
+      "title": "70s Iran Political Group Portrait",
+      "prompt": "{argument name=\"group\" default=\"a left party\"} from {argument name=\"country\" default=\"iran\"} {argument name=\"decade\" default=\"70s\"} in tehran , like a communism man",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32188-287-Classic-Man-at-Azadi-Square.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32194-287-70s-Iran-Political-Group-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23728-629",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23728-630",
       "title": "Organic Sci-Fi Magazine Cover",
       "prompt": "A high-fashion magazine cover titled \"{argument name=\"title\" default=\"AURA\"}\" featuring a stunning woman with warm, olive skin and striking green-hazel eyes looking directly at the camera. Her dark hair is styled into an elegant, intricate braided updo, adorned with a delicate, bronze-toned filigree headpiece integrated with organic elements like moss, tiny dried flowers, and small glowing amber orbs. She wears a high-collared, cream-colored structured gown detailed with geometric bronze embroidery and transparent, terrarium-like glass pockets on the collar and shoulders that house miniature ecosystems of soil and dried flora. Her hand, featuring intricate bronze rings, rests gently near her collarbone. The overall aesthetic blends futuristic organic sci-fi with high-end sustainable luxury, set against a clean, off-white studio background with crisp, elegant typography overlaid on the sides.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23728-629-Organic-Sci-Fi-Magazine-Cover.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23728-630-Organic-Sci-Fi-Magazine-Cover.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11287-189",
-      "title": "Cinematic Disintegration Portrait Prompt",
-      "prompt": "Create an ultra-realistic, cinematic 8K image with high-contrast dramatic lighting and a photo-real digital painting aesthetic-use face reference exactly. The man is shown in a full-body side profile facing right, his face and hairstyle copied perfectly with no alterations He wears modern casual streetwear; a light grey crewneck t-shirt, light neutral cargo pants, light-colored high-top boots, and a watch on his left wrist. His posture is slightly slumped, head bowed, eyes looking downward, hands relaxed at his sides, conveying deep introspection and sorrow. Nearly half of his body is dissolving into extremely thick, cloud-like grey smoke filled with glowing yellow dust particles. His left arm, shoulder, torso, legs, and part of his hair become transparent as they break into luminous particles, suggesting active disintegration Behind and partially surrounding him is a massive glowing crescent (C-shaped) energy aura, emitting fiery golden-white plasma light. This aura acts as a powerful rim and backlight, highlighting the smoke, dust, and silhouette. The setting is minimal and stark: a concrete or desolate paved surface meeting a heavily overcast sky. The color palette is nearly monochrome greys and whites, contrasted by intense amber-gold glow, Shallow depth of field, glow/bloom lighting, particle dispersion, cinematic composition, emotional and dramatic atmosphere.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11298-189",
+      "title": "Pink Power Rangers Cosplay Fashion Editorial Prompt",
+      "prompt": "{ \"character\": { \"name\": \"Young Woman\", \"type\": \"real_person\", \"portrayal_style\": \"cosplay fashion editorial\", \"age_appearance\": \"young adult\" }, \"appearance\": { \"hair\": { \"color\": \"blonde\", \"style\": \"long, loose, wavy\", \"detail_level\": \"individual hair strands visible\" }, \"expression\": { \"mood\": \"confident, playful\", \"gaze\": \"direct gaze over shoulder\" }, \"pose\": { \"body_orientation\": \"side profile\", \"leg_position\": \"one leg forward slightly bent\", \"hips\": \"cocked\", \"back\": \"arched\", \"left_hand\": \"resting lightly on hip\", \"right_hand\": \"holding helmet near waist\" }, \"accessories\": [ \"small gold hoop earrings\" ] }, \"costume\": { \"theme\": \"pink power rangers inspired\", \"top\": { \"type\": \"glossy bodysuit-style crop top\", \"color\": \"pink\", \"details\": \"white diamond accents, thin straps\", \"material\": \"high-gloss synthetic\" }, \"bottom\": { \"type\": \"high-waisted leggings\", \"color\": \"pink\", \"details\": \"white diamond pattern panels\", \"material\": \"high-gloss synthetic\" }, \"gloves\": { \"type\": \"long gloves\", \"color\": \"white\", \"trim\": \"pink\" }, \"boots\": { \"type\": \"thigh-high boots\", \"color\": \"white\", \"details\": \"pink diamond accents\", \"heel_type\": \"high heels\", \"finish\": \"high gloss\" }, \"prop\": { \"item\": \"pink Power Rangers-style helmet\", \"surface\": \"glossy, reflective\" } }, \"photography\": { \"style\": \"ultra realistic photorealistic high-fashion cosplay\", \"camera\": { \"lens_type\": \"cinematic movie lens\", \"depth_of_field\": \"shallow\" }, \"lighting\": { \"setup\": \"bright neutral clean studio background\", \"type\": \"even soft lighting\", \"purpose\": \"emphasize glossy fabric reflections and skin texture\" }, \"resolution\": \"8K\", \"quality_tags\": [ \"high detail\", \"realistic material shine\", \"glove texture detail\", \"boot gloss detail\", \"helmet surface reflection\", \"authentic unedited photoshoot look\", \"no AI artifacts\" ] }, \"environment\": { \"background\": \"neutral clean studio\", \"color_palette\": [\"pink\", \"white\", \"neutral tones\"], \"vibe\": \"cinematic, polished, editorial\" } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11287-189-Cinematic-Disintegration-Portrait-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11298-189-Pink-Power-Rangers-Cosplay-Fashion-Editorial-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +609,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32196-288",
-      "title": "Traditional Southeast Asian Portrait",
-      "prompt": "ar 9:16 High A beautiful {argument name=\"subject\" default=\"young Southeast Asian woman (Indonesian features)\"} sitting gracefully on a {argument name=\"furniture\" default=\"soft cream-colored bouclé sofa\"}, looking directly at the camera with a soft, elegant smile and gentle eye contact. She has fair skin with soft pink blush on her cheeks, defined winged eyeliner, long lashes, and glossy rose-pink lips. Her dark black hair is styled in a neat, polished updo with a braided crown and a few delicate loose strands framing her face. She is wearing a {argument name=\"clothing\" default=\"delicate light powder-blue kebaya\"} made of intricate floral lace with sheer long sleeves, pearl buttons running down the front, and a fitted silhouette. The kebaya is paired with a traditional dark batik kain with intricate gold and cream geometric patterns. Layered jewelry includes a strand of white pearls, multiple delicate gold necklaces with small pendants, pearl stud earrings, gold rings, and a thin gold bracelet. A light blue quilted shoulder bag with a gold clasp rests on her left side. Her right hand is raised near her face in a soft, elegant pose with one finger lightly touching near her cheek, while her left arm rests naturally. Soft natural lighting highlights her features and the lace texture. Background features vertical beige-and-cream striped wallpaper and a large green leafy plant in a white ceramic pot on a gold stand to the left. Elegant, refined, traditional-modern fusion style, high detail, photorealistic, soft glam makeup, studio portrait quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32188-288",
+      "title": "Classic Man at Azadi Square",
+      "prompt": "a man stand {argument name=\"location\" default=\"azadi square tehran\"} in {argument name=\"era\" default=\"70s\"} like a {argument name=\"style\" default=\"real and classic man\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32196-288-Traditional-Southeast-Asian-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32188-288-Classic-Man-at-Azadi-Square.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -647,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23713-631",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23713-632",
       "title": "Edible Product Transformation",
       "prompt": "Hyper realistic edible version of uploaded product,preserve exact original shape, proportions and silhouette, product fully intact and uncut, surface transformed into soft matte mousse texture, natural sponge-like edible detailing, no glossy or shiny finish, subtle velvet spray coating, straight front view, eye-level camera angle, camera positioned directly in front of the product, centered symmetrical composition natural soft daylight coming from a nearby window, realistic gentle shadows, placed on a wooden or beige marble table, soft neutral linen fabric background, bright natural lighting, not overexposed, shallow depth of field, macro lens photography, premium yet natural dessert styling, hand holding a simple spoon close to the surface but not cutting, ultra realistic, 8k high detailfinal image in 3:4.Turn the uploaded product into a hyper realistic edible cake, preserve exact shape and front view. Soft matte mousse texture, no gloss.Natural daylight setting.A spoon gently cuts one edge, surface breaks softly, inside reveals layered sponge cake and cream.Slow smooth motion, macro lens, ultra realistic.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23713-631-Edible-Product-Transformation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23713-632-Edible-Product-Transformation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11205-190",
-      "title": "Historical Moment Capture Prompt",
-      "prompt": "take a photo at {argument name=\"latitude\" default=\"31.2001° N\"}, {argument name=\"longitude\" default=\"29.9187° E\"}, {argument name=\"date\" default=\"August 12, 30 BCE\"}, {argument name=\"time\" default=\"16:00 hours\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11287-190",
+      "title": "Cinematic Disintegration Portrait Prompt",
+      "prompt": "Create an ultra-realistic, cinematic 8K image with high-contrast dramatic lighting and a photo-real digital painting aesthetic-use face reference exactly. The man is shown in a full-body side profile facing right, his face and hairstyle copied perfectly with no alterations He wears modern casual streetwear; a light grey crewneck t-shirt, light neutral cargo pants, light-colored high-top boots, and a watch on his left wrist. His posture is slightly slumped, head bowed, eyes looking downward, hands relaxed at his sides, conveying deep introspection and sorrow. Nearly half of his body is dissolving into extremely thick, cloud-like grey smoke filled with glowing yellow dust particles. His left arm, shoulder, torso, legs, and part of his hair become transparent as they break into luminous particles, suggesting active disintegration Behind and partially surrounding him is a massive glowing crescent (C-shaped) energy aura, emitting fiery golden-white plasma light. This aura acts as a powerful rim and backlight, highlighting the smoke, dust, and silhouette. The setting is minimal and stark: a concrete or desolate paved surface meeting a heavily overcast sky. The color palette is nearly monochrome greys and whites, contrasted by intense amber-gold glow, Shallow depth of field, glow/bloom lighting, particle dispersion, cinematic composition, emotional and dramatic atmosphere.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11205-190-Historical-Moment-Capture-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11287-190-Cinematic-Disintegration-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -742,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32199-289",
-      "title": "Koshien Baseball Broadcast Screen",
-      "prompt": "A screenshot of the 2026 Koshien high school baseball finals broadcast. High school baseball broadcast, with the score \"{argument name=\"score\" default=\"Bottom of the 8th, Chiben Wakayama 2-2 Kenadai Takasaki\"}\" in the corner, 2 outs, bases loaded, and inning display. Features the transparent overlays characteristic of NHK terrestrial broadcasting.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32196-289",
+      "title": "Traditional Southeast Asian Portrait",
+      "prompt": "ar 9:16 High A beautiful {argument name=\"subject\" default=\"young Southeast Asian woman (Indonesian features)\"} sitting gracefully on a {argument name=\"furniture\" default=\"soft cream-colored bouclé sofa\"}, looking directly at the camera with a soft, elegant smile and gentle eye contact. She has fair skin with soft pink blush on her cheeks, defined winged eyeliner, long lashes, and glossy rose-pink lips. Her dark black hair is styled in a neat, polished updo with a braided crown and a few delicate loose strands framing her face. She is wearing a {argument name=\"clothing\" default=\"delicate light powder-blue kebaya\"} made of intricate floral lace with sheer long sleeves, pearl buttons running down the front, and a fitted silhouette. The kebaya is paired with a traditional dark batik kain with intricate gold and cream geometric patterns. Layered jewelry includes a strand of white pearls, multiple delicate gold necklaces with small pendants, pearl stud earrings, gold rings, and a thin gold bracelet. A light blue quilted shoulder bag with a gold clasp rests on her left side. Her right hand is raised near her face in a soft, elegant pose with one finger lightly touching near her cheek, while her left arm rests naturally. Soft natural lighting highlights her features and the lace texture. Background features vertical beige-and-cream striped wallpaper and a large green leafy plant in a white ceramic pot on a gold stand to the left. Elegant, refined, traditional-modern fusion style, high detail, photorealistic, soft glam makeup, studio portrait quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32199-289-Koshien-Baseball-Broadcast-Screen.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32196-289-Traditional-Southeast-Asian-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -799,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23554-635",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-23554-636",
       "title": "Pasta Art Bust Portrait",
       "prompt": "Top-down flat lay portrait of {argument name=\"character\" default=\"your character\"}, shown as a true centered bust portrait (head and shoulders only), entirely created from {argument name=\"material\" default=\"uncooked pasta\"} arranged as food art. Use only one single {argument name=\"color\" default=\"pasta color\"} throughout, Clean white background, same pasta color",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23554-635-Pasta-Art-Bust-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-23554-636-Pasta-Art-Bust-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-others-11254-191",
-      "title": "Prompt Ideas for Apreciasi Plot",
-      "prompt": "𝗣𝗥𝗢𝗠𝗣𝗧 𝗜𝗗𝗘𝗔𝗦 𝐹͟𝑂͟𝑅͟ 𝐴͟𝑃͟𝑅͟𝐸͟𝑆͟𝐼͟𝐴͟𝑆͟𝐼͟ 𝑃͟𝐿͟𝑂͟𝑇.",
+      "id": "xianyu-multi-model:ym-ai-skill-others-11205-191",
+      "title": "Historical Moment Capture Prompt",
+      "prompt": "take a photo at {argument name=\"latitude\" default=\"31.2001° N\"}, {argument name=\"longitude\" default=\"29.9187° E\"}, {argument name=\"date\" default=\"August 12, 30 BCE\"}, {argument name=\"time\" default=\"16:00 hours\"}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11254-191-Prompt-Ideas-for-Apreciasi-Plot.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-11205-191-Historical-Moment-Capture-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +913,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32105-294",
-      "title": "Summer Cottage Cherry Garden Portrait",
-      "prompt": "A cinematic, grainy close-up portrait of a {argument name=\"subject\" default=\"young woman\"}. She is standing in a summer cottage garden near trees laden with large red cherries. She holds a large enamel basin filled with red cherries against her hip with one hand, while the other hand holds a cherry-laden branch up to her mouth. She is wearing a {argument name=\"outfit\" default=\"form-fitting pink romper with thin straps and a small cherry print\"}. She wears a {argument name=\"accessory\" default=\"white lace headscarf\"}. Her very long, wavy hair is worn loose, with a few strands framing her face. Daylight with a moody, shadowed quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32199-290",
+      "title": "Koshien Baseball Broadcast Screen",
+      "prompt": "A screenshot of the 2026 Koshien high school baseball finals broadcast. High school baseball broadcast, with the score \"{argument name=\"score\" default=\"Bottom of the 8th, Chiben Wakayama 2-2 Kenadai Takasaki\"}\" in the corner, 2 outs, bases loaded, and inning display. Features the transparent overlays characteristic of NHK terrestrial broadcasting.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32105-294-Summer-Cottage-Cherry-Garden-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32199-290-Koshien-Baseball-Broadcast-Screen.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-comic-storyboard-19388-261",
-      "title": "Multi-Layered Artist Journal Sketch",
-      "prompt": "Create a multi-layered {argument name=\"medium\" default=\"charcoal and graphite sketch\"} on {argument name=\"paper\" default=\"textured cream paper\"}, featuring several artistic perspectives of a young woman. The central portrait shows her facing forward with a warm smile, wearing a {argument name=\"clothing\" default=\"beanie and a utility jacket\"}. Two larger, ethereal profile views frame the center, one looking left and one looking right with a serene expression. At the bottom, a full-body miniature version of the woman is depicted sitting and sketching in a notebook. The background blends into a loose, urban street scene with architectural lines and trees, utilizing expressive cross-hatching, smudged shadows, and raw pencil strokes.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/comic-storyboard/comic-storyboard-19388-261-Multi-Layered-Artist-Journal-Sketch.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Comic / Storyboard"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/comic-storyboard.json",
       "license": "upstream",
       "createdAt": null
     }
