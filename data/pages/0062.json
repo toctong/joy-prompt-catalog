@@ -20,12 +20,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-13412-26",
-      "title": "Cinematic Podcast Studio Portrait",
-      "prompt": "A professional {argument name=\"host description\" default=\"podcast host sitting at a wooden desk in a modern studio setup\"}, facing the camera with a confident and friendly expression. He is wearing a {argument name=\"clothing\" default=\"fitted black shirt\"} and sitting in a comfortable chair. A high-quality podcast microphone on a boom arm is positioned close to his mouth. On the desk are a notebook with handwritten notes, a coffee mug, and an audio interface with connected cables. The background features {argument name=\"background lighting\" default=\"stylish indoor plants and warm red-orange accent lighting\"}, creating a clean, cinematic studio atmosphere. Soft key lighting on the face, subtle rim lighting, shallow depth of field, ultra-realistic details, 50mm lens, f/1.8, professional color grading, high contrast, 8K, YouTube podcast aesthetic.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-19617-24",
+      "title": "NBA Broadcast Stadium Screenshot",
+      "prompt": "{\"meta\":{\"image_quality\":\"High\",\"image_type\":\"Screenshot\",\"resolution_estimation\":\"1920x1080\",\"file_characteristics\":{\"compression_artifacts\":\"Low\",\"noise_level\":\"Low\",\"lens_type_estimation\":\"Medium telephoto\"}},\"global_context\":{\"scene_description\":\"A medium shot of a young woman with long dark hair sitting in a crowded arena, likely a basketball game, with an ESPN broadcast overlay at the bottom and top right.\",\"environment_type\":\"Indoor arena\",\"time_of_day\":\"Unknown\",\"weather_atmosphere\":\"Crowded, indoor lighting\",\"lighting\":{\"source\":\"Artificial arena lighting\",\"direction\":\"Frontal, slightly overhead\",\"quality\":\"Soft, diffused\",\"color_temperature\":\"Neutral\"},\"color_palette\":{\"dominant_hex_estimates\":[\"#1a1a1a\",\"#333333\",\"#ffffff\"],\"accent_colors\":[\"#fdb927\",\"#007a33\"],\"contrast_level\":\"Medium\"}},\"composition\":{\"camera_angle\":\"Eye-level\",\"framing\":\"Medium shot\",\"depth_of_field\":\"Shallow\",\"focal_point\":\"The woman's face\",\"symmetry_type\":\"None\",\"rule_of_thirds_alignment\":\"Woman's face is positioned in the upper right quadrant\"},\"objects\":[{\"id\":\"obj_001\",\"label\":\"Woman\",\"category\":\"Person\",\"location\":{\"relative_position\":\"Center\",\"bounding_box_percentage\":{\"x\":0.25,\"y\":0.05,\"width\":0.5,\"height\":0.9}},\"dimensions_relative\":\"Large\",\"distance_from_camera\":\"Near\",\"pose_orientation\":\"Facing slightly right, head turned towards the left\",\"material\":\"Skin, hair, fabric\",\"surface_properties\":{\"texture\":\"Smooth skin, wavy hair\",\"reflectivity\":\"Low\",\"micro_details\":\"Natural skin texture, subtle makeup\",\"wear_state\":\"N/A\"},\"color_details\":{\"base_color_hex\":\"#d2b48c\",\"secondary_colors\":[\"#000000\"],\"gradient_or_pattern\":\"None\"},\"interaction_with_light\":{\"shadow_casting\":\"Soft shadows under chin and nose\",\"highlight_zones\":\"Cheekbones, nose bridge, lips\",\"translucency\":\"None\"},\"text_content\":null,\"relationships\":[]},{\"id\":\"obj_002\",\"label\":\"ESPN Scoreboard Overlay\",\"category\":\"UI elements\",\"location\":{\"relative_position\":\"Bottom center\",\"bounding_box_percentage\":{\"x\":0.25,\"y\":0.85,\"width\":0.5,\"height\":0.15}},\"dimensions_relative\":\"Medium\",\"distance_from_camera\":\"Overlay\",\"pose_orientation\":\"Flat\",\"material\":\"Digital graphic\",\"surface_properties\":{\"texture\":\"Smooth\",\"reflectivity\":\"None\",\"micro_details\":\"Sharp typography\",\"wear_state\":\"N/A\"},\"color_details\":{\"base_color_hex\":\"#000000\",\"secondary_colors\":[\"#fdb927\",\"#007a33\",\"#ffffff\"],\"gradient_or_pattern\":\"Solid color blocks\"},\"interaction_with_light\":{\"shadow_casting\":\"None\",\"highlight_zones\":\"None\",\"translucency\":\"Slightly opaque\"},\"text_content\":{\"raw_text\":\"{argument name=\"scoreboard text\" default=\"LAL 51 BOS 43 2ND 3:31 24 NBA WEDNESDAY\"}\",\"font_style\":\"Sans-serif\",\"font_weight\":\"Bold\",\"text_case\":\"Uppercase\",\"alignment\":\"Center\",\"color_hex\":\"#ffffff\"},\"relationships\":[]}],\"background_details\":{\"texture\":\"Blurred crowd\",\"patterns\":\"None\",\"lighting_behavior\":\"Out of focus\",\"additional_elements\":[\"Person holding a plastic cup on the left\",\"Person on the right\"]}}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-13412-26-Cinematic-Podcast-Studio-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-19617-24-NBA-Broadcast-Stadium-Screenshot.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32918-70",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32918-72",
       "title": "Vintage Whimsical Halloween Illustration",
       "prompt": "A vintage-style illustration depicts a whimsical Halloween scene under a large, grinning full moon. The {argument name=\"subject\" default=\"central figure is a dapper anthropomorphic pumpkin wearing a top hat, a suit, and striped pants, holding a cane with a bird's head\"}. Beside him stands a {argument name=\"companion\" default=\"black cat with a bow tie\"}. The background features a spooky village, bare trees, and bats flying in the night sky. The overall mood is festive and slightly eerie, with a textured, aged appearance.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32918-70-Vintage-Whimsical-Halloween-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32918-72-Vintage-Whimsical-Halloween-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36154-24",
-      "title": "Elderly Asian Ceramic Artist Portrait",
-      "prompt": "Ultra-realistic cinematic portrait: an elderly Asian ceramic artist sitting in a cluttered studio, hands covered in wet clay, shaping a slender-necked vase on a potter's wheel; afternoon sunlight streams through a dusty window, creating Tyndall rays; wooden shelves filled with unglazed pottery, an old apron hanging on the wall; shallow depth of field, 85mm lens, visible skin pores and clay texture, warm tones, natural light, highly detailed.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36156-24",
+      "title": "Red Carpet Fashion Photo Prompt",
+      "prompt": "Use the uploaded image as the primary visual reference. Create an ultra-realistic, high-end red-carpet fashion photograph of the same woman, preserving her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and natural proportions with maximum accuracy. No identity drift or facial alteration. Dress her in an exquisite icy silver-blue couture evening gown made from sheer translucent fabric, densely decorated with hundreds of individually visible crystal and rhinestone embellishments. The gown has a fitted long-sleeve illusion bodice, elegant high neckline, sculpted waist, and a sleek floor-length silhouette. Add a dramatic flowing light-blue sheer train cascading naturally down the stairs behind her. Crystal-studded silver open-toe heels, delicate diamond earrings, and a refined diamond necklace. Place her standing gracefully on the grand cream-colored staircase of a prestigious fashion gala, facing the camera with a confident yet elegant expression. Behind her, a glamorous crowd of photographers and guests are taking photographs, with professional cameras and flashes visible. The staircase and surrounding railings are covered with sparkling crystal-like decorations. Composition: full-body portrait, head-to-toe visible, centered subject, elegant natural standing pose, train fully visible, realistic body proportions. Photography: luxury fashion editorial photography, cinematic depth of field, realistic flash photography, soft ambient lighting, subtle reflections from crystals, natural skin pores and texture, highly detailed fabric, physically accurate rhinestones, realistic hands and fingers, premium Vogue-style aesthetic, photorealistic, 8K detail. Negative prompt: cartoon, CGI, 3D render, plastic skin, excessive beauty retouching, altered face, different person, identity drift, distorted anatomy, extra fingers, malformed hands, blurry face, oversized jewelry, unrealistic crystals, artificial-looking fabric, duplicate people, text, logo, watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36154-24-Elderly-Asian-Ceramic-Artist-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36156-24-Red-Carpet-Fashion-Photo-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -229,16 +229,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-12708-35",
-      "title": "Nano Banana 2 Brushstroke Title Logo Prompts (4 Styles)",
-      "prompt": "1. Battle Anime Style: \"Title logo for the text '{argument name=\"Text\" default=\"TEXT\"}'. Rough, powerful brushstrokes, ink splatters and bleeding, intense brush strokes. Explosive energy, flames, lightning, and speed lines in the background. Impactful, like the title of a shonen manga battle work. High contrast, glow effects, dramatic, dynamic composition, 4K. Do not include any background images, scenery, or decorative scenes. The background must be a solid color (white or black) or transparent.\" 2. Colorful Pop Style: \"Title logo for the text '{argument name=\"Text\" default=\"TEXT\"}'. Brushstroke font but pop and colorful, merging neon colors and gradients with the ink. Combine ink splashes with pop shapes (circles and stars). Bright and impressive design, like an anime opening logo. Vivid colors, clean and high resolution. Do not include any background images, scenery, or decorative scenes. The background must be a solid color (white or black) or transparent.\" 3. Horror Style: \"Title logo for the text '{argument name=\"Text\" default=\"TEXT\"}'. Distorted and unsettling brushstrokes, crumbling calligraphy, thin and elongated abnormal strokes. Ink is not only black but also blood-like reddish-black ink that bleeds, dripping expressions, and viscous texture. Strong blurring and bleeding, irregular and unstable shapes. Abnormal expressions where parts of the text melt, bleed, or collapse. Slight blur or double image (ghosting) included. Effects: ・Faintly and eerily glowing border (red or pale blue light) ・Thin, fog-like smoke ・Noise, glitch, grainy particles ・Ink splatters like blood (subtle) Overall, emphasize quiet terror, anxiety, and a sense of unease. Atmosphere like a Japanese horror or psychological horror movie title. High contrast, dark tone, cinematic, ultra high definition, 4K, masterpiece, best quality, ultra detailed, typography, logo design Do not include any background images, scenery, or decorative scenes. The background must be a solid color (white or black) or transparent.\" 4. Cyberpunk Style: \"Title logo for the text '{argument name=\"Text\" default=\"TEXT\"}'. Futuristic and sophisticated cyberpunk style design. A hybrid typeface based on brushstrokes, where parts of the strokes are digitally transformed and reconstructed. Merge smooth, sharp lines with geometric, technological edges. Ink expression is clean, with minimal bleeding or converted into a stylized form. Colors are based on neon (cyan, magenta, purple, blue), Composed of glowing lines, borders, and gradients. Effects: ・Glitch (light and stylish) ・Hologram-like transparency ・Light particles and digital noise ・Scan lines, fine lines, and fragments in a UI style Futuristic presentation where parts of the text are pixelated, disassembled, and reconstructed. Clean, sharp, high contrast, glowing, futuristic, Ultra high definition, 4K, masterpiece, best quality, ultra detailed, typography, logo design Do not include any background images, scenery, or decorative scenes. The background must be a solid color (white or black) or transparent.\"",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-13412-27",
+      "title": "Cinematic Podcast Studio Portrait",
+      "prompt": "A professional {argument name=\"host description\" default=\"podcast host sitting at a wooden desk in a modern studio setup\"}, facing the camera with a confident and friendly expression. He is wearing a {argument name=\"clothing\" default=\"fitted black shirt\"} and sitting in a comfortable chair. A high-quality podcast microphone on a boom arm is positioned close to his mouth. On the desk are a notebook with handwritten notes, a coffee mug, and an audio interface with connected cables. The background features {argument name=\"background lighting\" default=\"stylish indoor plants and warm red-orange accent lighting\"}, creating a clean, cinematic studio atmosphere. Soft key lighting on the face, subtle rim lighting, shallow depth of field, ultra-realistic details, 50mm lens, f/1.8, professional color grading, high contrast, 8K, YouTube podcast aesthetic.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-12708-35-Nano-Banana-2-Brushstroke-Title-Logo-Prompts-4-Styles.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-13412-27-Cinematic-Podcast-Studio-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -324,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32920-73",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32920-75",
       "title": "Mysterious Shadow Red Dress Portrait",
       "prompt": "A girl in a {argument name=\"dress color\" default=\"red lace dress\"} stands against a {argument name=\"wall color\" default=\"blue wall\"}, illuminated by warm side lighting. Her hair is in a low ponytail. A large shadow with horns is visible on the wall behind her, creating a mystical atmosphere. High contrast lighting with warm light on the model and a cold background. Cinematic style, Halloween fine art, mysterious mood, high detail.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32920-73-Mysterious-Shadow-Red-Dress-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32920-75-Mysterious-Shadow-Red-Dress-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,16 +400,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36157-25",
-      "title": "Magazine Cover Prompt for Nano Banana 2.1",
-      "prompt": "Use my uploaded photo as the main subject. My face, skin tone, hair, and facial features must remain completely unchanged. Replicate the style and layout of the reference poster. Scene: Vertical 4:5 magazine poster. I stand in the center, facing the camera, with a calm and serious expression, head slightly tilted. Wearing a flowing, elegant dark charcoal navy midi skirt with soft natural folds in the fabric. Background: Soft blue-gray studio wall with cinematic cyan-to-navy gradient. On the left and right edges, there are ghost-like figures wearing dark loose clothing, blurred by motion trails, resembling long-exposure ghosts, kept out of focus. Lighting: Soft, moody natural light with slight rim light on the hair. Low-saturation film tones, fine grain, shallow depth of field, high-fashion editorial quality. Typography: Top center: Small, wide-spaced white text \"{argument name=\"top_text_en\" default=\"SONI\"}\" Center, overlaying the lower body: Huge white bold narrow sans-serif text \"{argument name=\"main_title_en\" default=\"PROMPT\"}\", positioned in front of the skirt, slightly overlapping me Immediately below: Orange handwritten font \"{argument name=\"subtitle_en\" default=\"NanoBanana 2.1\"}\", slightly tilted Do not add any arrows, buttons, ellipses, or capsule shapes. Do not add any other text, logos, or watermarks. Style: High-end magazine poster, clean typography, high-contrast text, cinematic, photorealistic, 4:5 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36154-25",
+      "title": "Elderly Asian Ceramic Artist Portrait",
+      "prompt": "Ultra-realistic cinematic portrait: an elderly Asian ceramic artist sitting in a cluttered studio, hands covered in wet clay, shaping a slender-necked vase on a potter's wheel; afternoon sunlight streams through a dusty window, creating Tyndall rays; wooden shelves filled with unglazed pottery, an old apron hanging on the wall; shallow depth of field, 85mm lens, visible skin pores and clay texture, warm tones, natural light, highly detailed.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36157-25-Magazine-Cover-Prompt-for-Nano-Banana-2.1.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36154-25-Elderly-Asian-Ceramic-Artist-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -438,16 +438,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-12564-37",
-      "title": "Drake with Orbiting Glass Music Interfaces",
-      "prompt": "Numerous 3D Spotify and Apple Music interface cards orbiting Drake at varying depths. Material: Translucent frosted glass (glassmorphism) with soft rounded edges and subtle glowing borders. Movement: Some cards are in the extreme foreground, partially obscuring Drake, while others drift into the distance behind him. Visual Accents: Dynamic motion blur on the edges of the cards to suggest a swirling, orbiting movement. LIGHTING & COMPOSITION Lighting: Natural tones with enhanced professional photo quality. The soft glow from the interface cards subtly illuminates Drake’s face. Focus: Strong depth of field. The background and extreme foreground cards are artistically blurred, keeping the focus sharp on Drake and the closest player interfaces. Composition: A cinematic wide or medium shot that emphasizes the scale of the floating AR elements. AESTHETIC High-end editorial music photography, futuristic AR concept, clean and airy vibe. 8k resolution, sophisticated lighting, and realistic textures on the glass cards.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-12708-36",
+      "title": "Nano Banana 2 Brushstroke Title Logo Prompts (4 Styles)",
+      "prompt": "1. Battle Anime Style: \"Title logo for the text '{argument name=\"Text\" default=\"TEXT\"}'. Rough, powerful brushstrokes, ink splatters and bleeding, intense brush strokes. Explosive energy, flames, lightning, and speed lines in the background. Impactful, like the title of a shonen manga battle work. High contrast, glow effects, dramatic, dynamic composition, 4K. Do not include any background images, scenery, or decorative scenes. The background must be a solid color (white or black) or transparent.\" 2. Colorful Pop Style: \"Title logo for the text '{argument name=\"Text\" default=\"TEXT\"}'. Brushstroke font but pop and colorful, merging neon colors and gradients with the ink. Combine ink splashes with pop shapes (circles and stars). Bright and impressive design, like an anime opening logo. Vivid colors, clean and high resolution. Do not include any background images, scenery, or decorative scenes. The background must be a solid color (white or black) or transparent.\" 3. Horror Style: \"Title logo for the text '{argument name=\"Text\" default=\"TEXT\"}'. Distorted and unsettling brushstrokes, crumbling calligraphy, thin and elongated abnormal strokes. Ink is not only black but also blood-like reddish-black ink that bleeds, dripping expressions, and viscous texture. Strong blurring and bleeding, irregular and unstable shapes. Abnormal expressions where parts of the text melt, bleed, or collapse. Slight blur or double image (ghosting) included. Effects: ・Faintly and eerily glowing border (red or pale blue light) ・Thin, fog-like smoke ・Noise, glitch, grainy particles ・Ink splatters like blood (subtle) Overall, emphasize quiet terror, anxiety, and a sense of unease. Atmosphere like a Japanese horror or psychological horror movie title. High contrast, dark tone, cinematic, ultra high definition, 4K, masterpiece, best quality, ultra detailed, typography, logo design Do not include any background images, scenery, or decorative scenes. The background must be a solid color (white or black) or transparent.\" 4. Cyberpunk Style: \"Title logo for the text '{argument name=\"Text\" default=\"TEXT\"}'. Futuristic and sophisticated cyberpunk style design. A hybrid typeface based on brushstrokes, where parts of the strokes are digitally transformed and reconstructed. Merge smooth, sharp lines with geometric, technological edges. Ink expression is clean, with minimal bleeding or converted into a stylized form. Colors are based on neon (cyan, magenta, purple, blue), Composed of glowing lines, borders, and gradients. Effects: ・Glitch (light and stylish) ・Hologram-like transparency ・Light particles and digital noise ・Scan lines, fine lines, and fragments in a UI style Futuristic presentation where parts of the text are pixelated, disassembled, and reconstructed. Clean, sharp, high contrast, glowing, futuristic, Ultra high definition, 4K, masterpiece, best quality, ultra detailed, typography, logo design Do not include any background images, scenery, or decorative scenes. The background must be a solid color (white or black) or transparent.\"",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-12564-37-Drake-with-Orbiting-Glass-Music-Interfaces.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-12708-36-Nano-Banana-2-Brushstroke-Title-Logo-Prompts-4-Styles.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -514,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32921-75",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32921-77",
       "title": "Abstract Expressionist Paint Eruption",
       "prompt": "A highly detailed, vibrant oil painting in an {argument name=\"style\" default=\"abstract expressionist style\"} of a {argument name=\"subject\" default=\"young man with short, dark curly hair\"}, his head tilted sharply upward and back, mouth slightly open in an expression of intensity or release. The upper portion of his face and eyes are completely obscured and dissolved into thick, chaotic swirls of dark paint mixed with explosive bursts of color. Explosive abstract paint eruptions surge from and around his head: molten oranges, fiery yellows, deep reds, electric blues, greens, purples, and blacks, rendered with heavy impasto texture, visible bold brushstrokes, dripping and splattered paint, and dynamic swirling motion that creates a sense of energy, emotion, and mental or spiritual eruption. His neck and lower face are painted in dramatic light-to-shadow gradients of warm yellows, golds, and cool blues, with strong directional lighting from above. He wears a simple blue t-shirt, the fabric also treated with expressive, textured brushwork and scattered colorful paint accents. The background is a light, off-white or cream surface with loose paint splatters and drips, allowing the figure and the colorful explosion to dominate. Thick, tactile oil paint texture throughout, rich saturated colors, high contrast between warm fiery tones and cool blues, emotional intensity, energetic and turbulent composition, masterpiece quality, ultra-detailed brushwork.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32921-75-Abstract-Expressionist-Paint-Eruption.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32921-77-Abstract-Expressionist-Paint-Eruption.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,16 +590,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36150-26",
-      "title": "Luxury Fashion Editorial Photo",
-      "prompt": "Ultra-realistic high-end fashion editorial photo of an elegant young woman posing against a glossy black luxury sedan. She is seated sideways on the edge of the car, with one leg crossed naturally over the other, one hand resting on the car beside her, and her body slightly angled toward the camera. She has shoulder-length softly wavy light-brown hair, delicate facial features, natural makeup, subtle eyeliner, and a calm, confident expression looking directly at the camera. She wears a fitted black high-neck top, tailored black trousers, and a long structured black blazer draped naturally over her shoulders. The blazer has sharp elegant shoulders and a sophisticated luxury-fashion silhouette. The black sedan fills the background, with glossy reflections, dark tinted windows, visible door handle and a large premium alloy wheel on the right side. Modern luxury showroom/indoor architectural setting, dark neutral tones, soft diffused cinematic lighting, realistic reflections on the car, shallow depth of field, subtle background blur, natural skin texture, detailed hair strands, realistic fabric texture, sophisticated black-on-black aesthetic, luxury automotive campaign, Vogue-style fashion photography, 85mm lens, eye-level camera, vertical full-body composition, photorealistic, ultra-detailed, 4K, no text, no watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36157-26",
+      "title": "Magazine Cover Prompt for Nano Banana 2.1",
+      "prompt": "Use my uploaded photo as the main subject. My face, skin tone, hair, and facial features must remain completely unchanged. Replicate the style and layout of the reference poster. Scene: Vertical 4:5 magazine poster. I stand in the center, facing the camera, with a calm and serious expression, head slightly tilted. Wearing a flowing, elegant dark charcoal navy midi skirt with soft natural folds in the fabric. Background: Soft blue-gray studio wall with cinematic cyan-to-navy gradient. On the left and right edges, there are ghost-like figures wearing dark loose clothing, blurred by motion trails, resembling long-exposure ghosts, kept out of focus. Lighting: Soft, moody natural light with slight rim light on the hair. Low-saturation film tones, fine grain, shallow depth of field, high-fashion editorial quality. Typography: Top center: Small, wide-spaced white text \"{argument name=\"top_text_en\" default=\"SONI\"}\" Center, overlaying the lower body: Huge white bold narrow sans-serif text \"{argument name=\"main_title_en\" default=\"PROMPT\"}\", positioned in front of the skirt, slightly overlapping me Immediately below: Orange handwritten font \"{argument name=\"subtitle_en\" default=\"NanoBanana 2.1\"}\", slightly tilted Do not add any arrows, buttons, ellipses, or capsule shapes. Do not add any other text, logos, or watermarks. Style: High-end magazine poster, clean typography, high-contrast text, cinematic, photorealistic, 4:5 aspect ratio.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36150-26-Luxury-Fashion-Editorial-Photo.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36157-26-Magazine-Cover-Prompt-for-Nano-Banana-2.1.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -628,16 +628,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-12402-40",
-      "title": "Cinematic 3x3 Grid Camera Angle Prompt",
-      "prompt": "A cinematic 3×3 grid presenting multiple camera angles of the same female subject outdoors at dusk. A young woman wearing a patterned black shirt stands beside a car on a rural road, surrounded by open fields and distant hills. Each frame shows a distinct shot: extreme close-up, medium shot, over-the-shoulder, wide shot, high-angle top-down, low-angle, profile, three-quarter rear view, and full back view. Natural blue-hour lighting, soft sky gradients, realistic colors, shallow depth of field, cinematic framing. Consistent subject appearance across all frames, film-still aesthetic, professional cinematography reference sheet style, ultra-realistic photography.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-12564-38",
+      "title": "Drake with Orbiting Glass Music Interfaces",
+      "prompt": "Numerous 3D Spotify and Apple Music interface cards orbiting Drake at varying depths. Material: Translucent frosted glass (glassmorphism) with soft rounded edges and subtle glowing borders. Movement: Some cards are in the extreme foreground, partially obscuring Drake, while others drift into the distance behind him. Visual Accents: Dynamic motion blur on the edges of the cards to suggest a swirling, orbiting movement. LIGHTING & COMPOSITION Lighting: Natural tones with enhanced professional photo quality. The soft glow from the interface cards subtly illuminates Drake’s face. Focus: Strong depth of field. The background and extreme foreground cards are artistically blurred, keeping the focus sharp on Drake and the closest player interfaces. Composition: A cinematic wide or medium shot that emphasizes the scale of the floating AR elements. AESTHETIC High-end editorial music photography, futuristic AR concept, clean and airy vibe. 8k resolution, sophisticated lighting, and realistic textures on the glass cards.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-12402-40-Cinematic-3x3-Grid-Camera-Angle-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-12564-38-Drake-with-Orbiting-Glass-Music-Interfaces.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -704,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32415-83",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32415-85",
       "title": "Neo-Noir Typographic Avatar Poster",
       "prompt": "Using the person in the attached reference photo as the exact facial and physical subject, create a cinematic portrait poster in the same bold, minimal, {argument name=\"style\" default=\"neo-noir style\"} as the reference: show the person from roughly the waist or chest up in a confident three-quarter pose, head slightly lowered or turned, wearing {argument name=\"clothing\" default=\"sleek modern black clothing such as a fitted jacket, premium dark T-shirt\"}, and subtle contemporary accessories, with realistic fabric and skin detail. Use a {argument name=\"background color\" default=\"vivid saturated red\"} background filled with soft smoky haze and atmospheric shadows, strong directional lighting, deep blacks, dramatic contrast, and a slightly mysterious editorial mood. Behind the person, place their {argument name=\"text\" default=\"Shushant\"} in enormous condensed uppercase black typography stretching across the frame, partially hidden by their body, with a distressed, weathered texture. Keep the composition clean, powerful, photorealistic, premium, and movie-poster-like, with no logos, watermarks, superhero costume elements, masks, or extra text.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32415-83-Neo-Noir-Typographic-Avatar-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32415-85-Neo-Noir-Typographic-Avatar-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36101-27",
-      "title": "Misty Lake Rowboat with Text Caption",
-      "prompt": "A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: \"{argument name=\"caption\" default=\"stillness is a place\"}\"",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36150-27",
+      "title": "Luxury Fashion Editorial Photo",
+      "prompt": "Ultra-realistic high-end fashion editorial photo of an elegant young woman posing against a glossy black luxury sedan. She is seated sideways on the edge of the car, with one leg crossed naturally over the other, one hand resting on the car beside her, and her body slightly angled toward the camera. She has shoulder-length softly wavy light-brown hair, delicate facial features, natural makeup, subtle eyeliner, and a calm, confident expression looking directly at the camera. She wears a fitted black high-neck top, tailored black trousers, and a long structured black blazer draped naturally over her shoulders. The blazer has sharp elegant shoulders and a sophisticated luxury-fashion silhouette. The black sedan fills the background, with glossy reflections, dark tinted windows, visible door handle and a large premium alloy wheel on the right side. Modern luxury showroom/indoor architectural setting, dark neutral tones, soft diffused cinematic lighting, realistic reflections on the car, shallow depth of field, subtle background blur, natural skin texture, detailed hair strands, realistic fabric texture, sophisticated black-on-black aesthetic, luxury automotive campaign, Vogue-style fashion photography, 85mm lens, eye-level camera, vertical full-body composition, photorealistic, ultra-detailed, 4K, no text, no watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36101-27-Misty-Lake-Rowboat-with-Text-Caption.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36150-27-Luxury-Fashion-Editorial-Photo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,16 +818,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-12351-41",
-      "title": "Decorative Cinematic Title Font Generation",
-      "prompt": "Based on the word “{argument name=\"word\" default=\"[WORD]\"},” design an original decorative cinematic title font that visually evokes the meaning of the word. Use your imagination to create a unique and original design without being limited by existing typefaces. Choose the background color according to the design.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-12402-41",
+      "title": "Cinematic 3x3 Grid Camera Angle Prompt",
+      "prompt": "A cinematic 3×3 grid presenting multiple camera angles of the same female subject outdoors at dusk. A young woman wearing a patterned black shirt stands beside a car on a rural road, surrounded by open fields and distant hills. Each frame shows a distinct shot: extreme close-up, medium shot, over-the-shoulder, wide shot, high-angle top-down, low-angle, profile, three-quarter rear view, and full back view. Natural blue-hour lighting, soft sky gradients, realistic colors, shallow depth of field, cinematic framing. Consistent subject appearance across all frames, film-still aesthetic, professional cinematography reference sheet style, ultra-realistic photography.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-12351-41-Decorative-Cinematic-Title-Font-Generation.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-12402-41-Cinematic-3x3-Grid-Camera-Angle-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -894,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32320-84",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-32320-86",
       "title": "Professional Eid Greeting Poster",
       "prompt": "Create a highly professional and elegant Eid Milad-un-Nabi ﷺ greeting wooden-style poster. Place a handsome man on the right side, wearing a clean {argument name=\"man's attire\" default=\"white shalwar kameez\"}, silver glasses, and a professionally wrapped {argument name=\"turban style\" default=\"black-and-white Qatari-style ghutra turban\"} with a subtle textured pattern. Preserve the man's original facial features, identity, hairstyle, and natural skin texture exactly as shown in the reference photo. On the left side of the background, beautifully showcase Masjid an-Nabawi ﷺ with the Green Dome in a peaceful and respectful atmosphere. Add elegant Islamic architecture, soft golden decorative hanging lights, glowing lanterns, subtle crescent-and-star elements, and beautiful Islamic geometric patterns. Use a premium wooden texture as the main poster background with warm golden lighting and sophisticated depth. Add elegant Arabic/Urdu calligraphy text: \"{argument name=\"poster text\" default=\"عید میلاد النبی ﷺ مبارک\"}\" and below it: \"اللهم صل وسلم وبارك على سيدنا محمد ﷺ\" Make the overall design luxurious, spiritual, peaceful, respectful, photorealistic, cinematic lighting, premium Islamic poster design, detailed wooden texture, soft golden glow, sharp focus, high-end professional graphic design, 8K ultra-realistic quality, 9:16 vertical poster composition.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32320-84-Professional-Eid-Greeting-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-32320-86-Professional-Eid-Greeting-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

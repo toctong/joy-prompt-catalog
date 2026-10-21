@@ -20,16 +20,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35391-85",
-      "title": "High-Fashion Editorial Portrait Prompt",
-      "prompt": "{ \"aspect_ratio\": \"9:16\", \"style\": \"photorealistic high-fashion editorial\", \"subject\": \"young blonde woman seated confidently on a wooden stool\", \"outfit\": \"oversized hot-pink knitted sweater and wide-leg pants, red statement belt, patterned orange-red cuffs, glossy red platform boots\", \"accessories\": \"red patent handbag, orange statement earrings, delicate rings\", \"pose\": \"front-facing, legs wide, hands resting between legs, confident expression\", \"background\": \"seamless vibrant hot-pink studio backdrop and floor\", \"lighting\": \"soft professional studio lighting, subtle shadows\", \"composition\": \"centered full-body portrait, straight-on camera, clean symmetrical framing\", \"details\": \"realistic skin, detailed knit texture, glossy leather, bold coordinated colors\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35392-85",
+      "title": "Woman By Submerged Porsche",
+      "prompt": "Photographic frame in iPhone style, overcast daylight. Natural river setting. In the foreground — wet stones, calm greenish water, deciduous trees around. A simple metal pedestrian bridge is visible in the background. Soft cloudy sky, even natural daylight. Realistic textures — wet stones, light ripples on the water, faint reflections. In the background, a {argument name=\"car model\" default=\"Porsche 911 GT3 RS\"} is partially submerged nose-first in the river; the rear is still visible above the water. The rear spoiler and taillights are above the surface; water softly touches the lower body panels. The car clearly shows damage after an accident: scratched and scuffed body panels. In the foreground, sitting casually on a large rock at the water’s edge, a woman slightly turned toward the camera. Elbows resting on her knees. Relaxed pose. Completely unbothered facial expression — a slightly bored look, a light shrug energy, lips slightly pressed together, the gaze saying “well… it happens.” No panic. No drama. Just dry acceptance. She is wearing an olive quarter-zip fleece and light gray sweatpants, holding an orange phone and car keys in her hands.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35391-85-High-Fashion-Editorial-Portrait-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35392-85-Woman-By-Submerged-Porsche.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -58,16 +58,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4579-145",
-      "title": "Documentary Style Image Generation with Nano Banana Pro",
-      "prompt": "Generate differential images based on the attached image, in the style of the documentary program \"{argument name=\"program theme\" default=\"24-Hour Ramen Shop, Beautiful Solo Female Staff\"}\". The image is composed of four scenes divided into a 2x2 grid. Generate superimposed text (telop) and a picture-in-picture (wipe) as if it were a TV program.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4635-144",
+      "title": "Political YouTube Thumbnail (Trump and Document)",
+      "prompt": "Powerful youtube thumbnail: {argument name=\"figure 1\" default=\"Trump\"} (Right Side): Well-lit close-up. Expression: A very confident smirk or a \"winning\" smile. Left Side: An official UK House of Lords document which clearly says \"{argument name=\"document text\" default=\"ignore the President\"}\" in bright neon green. Tilt the document slightly for dynamism. The Text (Top, Yellow): {argument name=\"overlay text\" default=\"CAUGHT ON TAPE\"}",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4579-145-Documentary-Style-Image-Generation-with-Nano-Banana-Pro.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4635-144-Political-YouTube-Thumbnail-Trump-and-Document.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -134,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22459-256",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22459-258",
       "title": "Melancholic Nature Archive Editorial Photo",
       "prompt": "{ \"vibe_title_en\": \"Melancholic Nature Archive\", \"master_prompt\": \"A cinematic medium shot of {argument name=\"protagonist\" default=\"The Protagonist\"} standing in a densely cluttered, dust-moted Taxidermy & Restoration Atelier. The room is a chaotic masterpiece of 'Busy Environment' aesthetics: floor-to-ceiling wooden shelves overflowing with antique glass jars, spools of copper wire, dried autumn hydrangeas, stacks of yellowing anatomy encyclopedias, and loose bird feathers. The Protagonist wears a structured, high-neck gown of raw beige silk and intricate lace, mirroring the texture of the surroundings. In a moment of surreal tenderness, they are nose-to-nose with a hyper-realistic {argument name=\"animal\" default=\"Red Fox\"} that is perched precariously on a stack of books. The surreal twist: the boundaries of the room are dissolving; the back wall is fading into a foggy, bare-branch forest, with crisp brown oak leaves frozen in mid-air around the subject, defying gravity. Lighting is moody and volumetric, streaming through dirty workshop windows. Shot on a Hasselblad H6D-100c with an 80mm f/1.9 lens. Emphasize organic textures: the coarse fur of the fox, the fraying lace, the dust on the glass, and realistic skin pores. Kodak Portra 400 film stock simulation with soft grain. NO neon. NO plastic textures.\", \"meta\": { \"intent\": \"High-End Editorial / Surreal Narrative\", \"priorities\": \"Texture, Atmospheric Depth, Emotional Connection\", \"device_profile\": \"Hasselblad H6D-100c, Medium Format\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Rule of Thirds, centering on the connection between subject and animal\", \"layout\": \"Dense foreground and background framing the subject\", \"camera_angle\": \"Eye-level, intimate proximity\", \"tilt_roll_degrees\": \"0 degrees\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist (Universal Template)\", \"demographics\": \"Ageless, Ethereal\", \"face\": \"Neutral but deeply connected gaze, soft interaction\", \"hair\": \"Textured, slightly undone, adorned with subtle organic matter\", \"body\": \"Elegant posture, holding or leaning towards the animal\", \"expression\": \"Serene, mystical, focused on the creature\", \"pose\": \"Profile or three-quarter turn, intimate interaction with the fox\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"High-neck Gown\", \"material\": \"Raw Silk and Antique Lace\", \"color\": \"Champagne / Muted Beige\", \"fit\": \"Structured Bodice, Flowing Skirt\" } ], \"accessories\": [ { \"item\": \"Choker\", \"color\": \"Bronze / Aged Gold\", \"material\": \"Metal and Velvet\", \"brand_style\": \"Victorian Heirloom\" } ] }, \"environment\": { \"setting\": \"Overgrown Taxidermy Atelier / Antique Study\", \"surfaces\": \"Aged wood, dusty glass, scattered paper, dry leaves\", \"depth\": \"High depth of field fall-off, background dissolving into fog\", \"atmosphere\": \"Hazy, dust-fil\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22459-256-Melancholic-Nature-Archive-Editorial-Photo.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22459-258-Melancholic-Nature-Archive-Editorial-Photo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35311-86",
-      "title": "Sunset Burger Scene Prompt",
-      "prompt": "Color street photography in lifestyle style, shot on iPhone 17, 24 mm wide-angle lens, realistic style, high detail, natural lighting, light grain, 3:4 format. Composition: I, a man, sitting on a folding camping chair in the foreground, back to the camera but with my head turned over my shoulder looking straight into the camera, a slight smile on my face. One hand holds a glass of champagne, the other rests on my knee. The chair and torso are slightly turned toward the table. I am wearing a light oversized cotton or linen shirt, light loose trousers, light sneakers, thin-framed sunglasses. Behind me, across the table, opposite me, stands a white BMW 3 Series sport sedan (in M-package style). The car is positioned on the other side of the table, front facing me, headlights on and shining onto the table and me, creating warm light. Black kidney grille, LED headlights, black multi-spoke wheels, glossy white body. Location: endless field of dry yellow grass, in the background — hills and mountains in haze, evening sky with warm orange clouds, sunset. Between me and the car stands a table covered with a white tablecloth: a gold candelabra with three candles, champagne glasses, a bottle of champagne, plates with burgers and snacks, white flowers in a vase, and next to the champagne bottle a bottle of motor oil. Lighting: natural sunset light, warm reflections from the headlights and candles, soft shadows, realistic color rendering. Angle: view from behind-side, as if the photo was taken from table level. Color palette: white, yellow, golden, orange, gray. The shot looks like an amateur photo taken on a mobile phone: natural lighting, slight motion blur, digital noise and grain, camera imperfections. The frame is spontaneous and documentary. No staged photoshoot look and no artificial processing. Do not allow visual AI artifacts and do not change the person’s appearance.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35391-86",
+      "title": "High-Fashion Editorial Portrait Prompt",
+      "prompt": "{ \"aspect_ratio\": \"9:16\", \"style\": \"photorealistic high-fashion editorial\", \"subject\": \"young blonde woman seated confidently on a wooden stool\", \"outfit\": \"oversized hot-pink knitted sweater and wide-leg pants, red statement belt, patterned orange-red cuffs, glossy red platform boots\", \"accessories\": \"red patent handbag, orange statement earrings, delicate rings\", \"pose\": \"front-facing, legs wide, hands resting between legs, confident expression\", \"background\": \"seamless vibrant hot-pink studio backdrop and floor\", \"lighting\": \"soft professional studio lighting, subtle shadows\", \"composition\": \"centered full-body portrait, straight-on camera, clean symmetrical framing\", \"details\": \"realistic skin, detailed knit texture, glossy leather, bold coordinated colors\" }",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35311-86-Sunset-Burger-Scene-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35391-86-High-Fashion-Editorial-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -248,16 +248,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4356-147",
-      "title": "Moody Cinematic Portrait Prompt for AI Image Generation",
-      "prompt": "A moody cinematic portrait of a {argument name=\"subject\" default=\"man\"}, dramatic side lighting, high contrast, intense gaze, deep shadows, high detail, thriller aesthetic, {argument name=\"style\" default=\"photorealistic\"}, 8k",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4579-146",
+      "title": "Documentary Style Image Generation with Nano Banana Pro",
+      "prompt": "Generate differential images based on the attached image, in the style of the documentary program \"{argument name=\"program theme\" default=\"24-Hour Ramen Shop, Beautiful Solo Female Staff\"}\". The image is composed of four scenes divided into a 2x2 grid. Generate superimposed text (telop) and a picture-in-picture (wipe) as if it were a TV program.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4356-147-Moody-Cinematic-Portrait-Prompt-for-AI-Image-Generation.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4579-146-Documentary-Style-Image-Generation-with-Nano-Banana-Pro.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "YouTube Thumbnail"
       ],
       "author": "YouMind OpenLab",
@@ -324,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22483-259",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22483-261",
       "title": "Cristiano Ronaldo Victory Poster",
       "prompt": "A high-energy, cinematic sports celebration poster featuring multiple depictions of {argument name=\"athlete\" default=\"Cristiano Ronaldo\"} wearing a vibrant {argument name=\"kit colors\" default=\"yellow and blue\"} football kit. At the top, a massive, detailed close-up profile of Ronaldo screaming in passionate victory dominates the frame, set against a backdrop of glowing stadium lights and a roaring crowd. Below him, an inverted glowing neon triangle frames several dynamic action poses: one standing confidently with arms crossed and a smile, another sprinting forward dribbling a football, one mid-air executing a volley kick, and another sliding on his knees in intense celebration. In the bottom right corner, he is shown kneeling with his eyes closed, reverently holding a gleaming golden trophy, while another identical large golden trophy sits prominently on a pedestal in the foreground. The entire composition has a dramatic, golden-hour glow, covered in sparkling golden dust and confetti, with the bold, metallic gold word \"{argument name=\"headline\" default=\"VICTORY\"}\" stretching across the very top.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22483-259-Cristiano-Ronaldo-Victory-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22483-261-Cristiano-Ronaldo-Victory-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,16 +400,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35314-87",
-      "title": "Vintage Parisian Fashion Editorial with Eiffel Tower",
-      "prompt": "Luxury vintage Parisian fashion editorial, full-body vertical 2:3 portrait. Elegant young adult woman standing on an ornate Parisian balcony beside a black wrought-iron railing, Eiffel Tower clearly visible in the left background. Calm, confident expression, porcelain-fair realistic skin, burgundy lipstick, subtle smoky vintage makeup, defined brows and lashes. Short-to-medium dark brunette hair styled in sculpted 1940s–50s Hollywood waves, wearing a structured black wide-brimmed felt hat. Black-and-cream houndstooth couture suit with sharp tailoring, fitted waist, realistic wool texture and a black silk oversized bow scarf. Slim belt with vintage black-and-gold buckle, ornate chandelier earrings. Historic cream Parisian architecture, rooftops and distant trees, soft natural daylight, subtle atmospheric haze. Muted cinematic colors: ivory, deep black, burgundy, champagne gold, dusty blue and warm skin tones. Authentic medium-format film aesthetic, realistic texture, gentle grain, crisp subject, soft background, timeless 1940s–50s French couture glamour. Negative: black-and-white, oversaturated colors, modern clothing, CGI, plastic skin, distorted anatomy, extra fingers, warped architecture, messy clothing, harsh flash, excessive HDR, watermark, text, logo.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35311-87",
+      "title": "Sunset Burger Scene Prompt",
+      "prompt": "Color street photography in lifestyle style, shot on iPhone 17, 24 mm wide-angle lens, realistic style, high detail, natural lighting, light grain, 3:4 format. Composition: I, a man, sitting on a folding camping chair in the foreground, back to the camera but with my head turned over my shoulder looking straight into the camera, a slight smile on my face. One hand holds a glass of champagne, the other rests on my knee. The chair and torso are slightly turned toward the table. I am wearing a light oversized cotton or linen shirt, light loose trousers, light sneakers, thin-framed sunglasses. Behind me, across the table, opposite me, stands a white BMW 3 Series sport sedan (in M-package style). The car is positioned on the other side of the table, front facing me, headlights on and shining onto the table and me, creating warm light. Black kidney grille, LED headlights, black multi-spoke wheels, glossy white body. Location: endless field of dry yellow grass, in the background — hills and mountains in haze, evening sky with warm orange clouds, sunset. Between me and the car stands a table covered with a white tablecloth: a gold candelabra with three candles, champagne glasses, a bottle of champagne, plates with burgers and snacks, white flowers in a vase, and next to the champagne bottle a bottle of motor oil. Lighting: natural sunset light, warm reflections from the headlights and candles, soft shadows, realistic color rendering. Angle: view from behind-side, as if the photo was taken from table level. Color palette: white, yellow, golden, orange, gray. The shot looks like an amateur photo taken on a mobile phone: natural lighting, slight motion blur, digital noise and grain, camera imperfections. The frame is spontaneous and documentary. No staged photoshoot look and no artificial processing. Do not allow visual AI artifacts and do not change the person’s appearance.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35314-87-Vintage-Parisian-Fashion-Editorial-with-Eiffel-Tower.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35311-87-Sunset-Burger-Scene-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -438,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4438-148",
-      "title": "Character Riding Pegasus Fantasy Illustration Prompt",
-      "prompt": "Utilizing the composition, background, and Pegasus from this image, generate a fantasy illustration of a character riding the Pegasus. Character: - A human character naturally riding the Pegasus. - Slightly leaning forward to maintain balance during flight. - Hands holding the reins or in a natural position suitable for riding. - Expression is cool and focused. Pegasus and Direction: - The Pegasus is flying at high speed. - The wings are powerful, conveying the motion of cutting through the wind. - Hair and clothing are flowing in the wind. Visual Representation: - High-quality anime-style illustration. - Cinematic expression with unified lighting, shadows, and color palette. - An aerial scene conveying speed and tension. Constraints: - Do not significantly alter the Pegasus design or the overall composition. - Do not add new characters or unnecessary elements. - Do not include text, logos, or watermarks. - Aspect ratio is 16:9",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4356-148",
+      "title": "Moody Cinematic Portrait Prompt for AI Image Generation",
+      "prompt": "A moody cinematic portrait of a {argument name=\"subject\" default=\"man\"}, dramatic side lighting, high contrast, intense gaze, deep shadows, high detail, thriller aesthetic, {argument name=\"style\" default=\"photorealistic\"}, 8k",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4438-148-Character-Riding-Pegasus-Fantasy-Illustration-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4356-148-Moody-Cinematic-Portrait-Prompt-for-AI-Image-Generation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22463-260",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22463-262",
       "title": "1970s Psychedelic Cat UFO Abduction",
       "prompt": "A vintage-style illustration depicts a surreal scene of a {argument name=\"animal\" default=\"cat\"} being abducted by a {argument name=\"spacecraft\" default=\"UFO\"}. The UFO, a classic silver disc with a dome, hovers in the sky, emitting a bright pink and yellow beam of light. A tabby cat stands in the beam, its paws outstretched as if in surprise or surrender. The background is a vibrant, psychedelic landscape with lush green trees and purple foliage, set against a sky filled with swirling pink and blue clouds and radiating yellow sunbeams. The overall aesthetic is reminiscent of 1970s psychedelic art.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22463-260-1970s-Psychedelic-Cat-UFO-Abduction.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22463-262-1970s-Psychedelic-Cat-UFO-Abduction.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +590,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35227-88",
-      "title": "Terracotta Outfit Portrait on Cobblestone Street",
-      "prompt": "A high-resolution photorealistic eye level medium portrait of a stunning woman smiling at the camera standing beside an open car door She is wearing a chic {argument name=\"outfit color\" default=\"terracotta brown\"} monochrome business suit including a tailored blazer top and matching high waisted trousers with a leather belt. Her dark hair is styled in an elegant messy updo with loose strands framing her face She is wearing delicate golden hoop earrings and a thin gold necklace The background features a picturesque European Mediterranean cobblestone street with rustic stone buildings and vibrant blooming pink bougainvillea flowers Soft natural sunlight warm color palette sharp focus high fashion aesthetic, 8k resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35314-88",
+      "title": "Vintage Parisian Fashion Editorial with Eiffel Tower",
+      "prompt": "Luxury vintage Parisian fashion editorial, full-body vertical 2:3 portrait. Elegant young adult woman standing on an ornate Parisian balcony beside a black wrought-iron railing, Eiffel Tower clearly visible in the left background. Calm, confident expression, porcelain-fair realistic skin, burgundy lipstick, subtle smoky vintage makeup, defined brows and lashes. Short-to-medium dark brunette hair styled in sculpted 1940s–50s Hollywood waves, wearing a structured black wide-brimmed felt hat. Black-and-cream houndstooth couture suit with sharp tailoring, fitted waist, realistic wool texture and a black silk oversized bow scarf. Slim belt with vintage black-and-gold buckle, ornate chandelier earrings. Historic cream Parisian architecture, rooftops and distant trees, soft natural daylight, subtle atmospheric haze. Muted cinematic colors: ivory, deep black, burgundy, champagne gold, dusty blue and warm skin tones. Authentic medium-format film aesthetic, realistic texture, gentle grain, crisp subject, soft background, timeless 1940s–50s French couture glamour. Negative: black-and-white, oversaturated colors, modern clothing, CGI, plastic skin, distorted anatomy, extra fingers, warped architecture, messy clothing, harsh flash, excessive HDR, watermark, text, logo.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35227-88-Terracotta-Outfit-Portrait-on-Cobblestone-Street.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35314-88-Vintage-Parisian-Fashion-Editorial-with-Eiffel-Tower.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -628,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4395-149",
-      "title": "Cinematic 12-Panel Timeline of a Subject's Epic Day",
-      "prompt": "\"In the Day of {argument name=\"subject\" default=\"[SUBJECT]\"}\": Design a 12-panel (4x3) cinematic timeline capturing an epic, chaotic, or hilarious day in the life of {argument name=\"subject\" default=\"[SUBJECT]\"}. Add this title in a style that matches the subject to the top of the image. Each panel must be [PHOTOREALISTIC], large, and show: a timestamp (e.g. 06:00, 08:00...) a short, punchy caption in quotes (e.g. \"Potion Mishap\", \"Midnight Bounty Run\") a richly detailed, high-energy scene tailored to that moment of their day. The overall backdrop, panel frames, textures, and visual UI elements must match the subject’s universe — e.g., {argument name=\"theme example\" default=\"leather + studs for rockstars\"}, arcane scrolls for wizards, chrome HUD for cyborgs, jungle vines for pirates, etc. Panels are arranged in a grid or storyboard, with rugged or themed dividers. Final panel (06:00 next day) shows collapse, rest, or post-chaos resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4438-149",
+      "title": "Character Riding Pegasus Fantasy Illustration Prompt",
+      "prompt": "Utilizing the composition, background, and Pegasus from this image, generate a fantasy illustration of a character riding the Pegasus. Character: - A human character naturally riding the Pegasus. - Slightly leaning forward to maintain balance during flight. - Hands holding the reins or in a natural position suitable for riding. - Expression is cool and focused. Pegasus and Direction: - The Pegasus is flying at high speed. - The wings are powerful, conveying the motion of cutting through the wind. - Hair and clothing are flowing in the wind. Visual Representation: - High-quality anime-style illustration. - Cinematic expression with unified lighting, shadows, and color palette. - An aerial scene conveying speed and tension. Constraints: - Do not significantly alter the Pegasus design or the overall composition. - Do not add new characters or unnecessary elements. - Do not include text, logos, or watermarks. - Aspect ratio is 16:9",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4395-149-Cinematic-12-Panel-Timeline-of-a-Subject-s-Epic-Day.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4438-149-Character-Riding-Pegasus-Fantasy-Illustration-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22250-261",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22250-263",
       "title": "Futurist Retro Vehicle Illustration",
       "prompt": "Futurist retro-serigraph illustration of a {argument name=\"brand\" default=\"[BRAND]\"}-inspired {argument name=\"vehicle\" default=\"[VEHICLE]\"} concept speeding through giant flowing graphic curves and abstract high-speed road forms, dynamic 3/4 perspective, aerodynamic bodywork, aggressive stance and retro motorsport aesthetic, stylized motion trails integrated into the environment, sensation of high speed without realistic motion blur. Minimal but dramatic composition made from layered curved bands and negative space. Vintage modernist poster aesthetic, smooth airbrushed gradients, crisp vector-like surfaces, subtle print grain, soft paper texture. Color palette restricted to {argument name=\"color palette\" default=\"[COLOR 1], [COLOR 2], [COLOR 3] and [COLOR 4]\"} only. Elegant screenprint finish, vertical composition 4:5",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22250-261-Futurist-Retro-Vehicle-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22250-263-Futurist-Retro-Vehicle-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,16 +780,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35228-90",
-      "title": "Red Gown Multi-Arm Illusion",
-      "prompt": "Create an ultra-realistic high-fashion editorial portrait based closely on the reference image. A glamorous woman stands centered against a seamless vivid crimson-red studio background. She wears a luxurious fitted, floor-length red off-the-shoulder gown with long sleeves, a sculpted neckline, and matching glossy red opera gloves. Create a surreal artistic illusion of multiple red-gloved hands surrounding and touching different areas of her body: two gloved hands resting elegantly across her shoulders near her neck, another gloved hand placed across her upper waist/abdomen, and another hand positioned across her lower waist. Additional gloved arms extend naturally from behind her body, creating the illusion of a mysterious multi-armed fashion figure. The hands must look anatomically realistic with five fingers each, natural joints, realistic skin/glove folds, and believable positioning. The woman has sleek, straight, jet-black hair, neatly parted to one side and falling smoothly behind her shoulders. She wears dramatic luxury makeup: deep burgundy-red smoky eyeshadow, softly closed eyes, long defined lashes, sculpted eyebrows, luminous highlighted cheekbones, warm bronzed skin, and glossy deep-red lipstick. Add small elegant gold hoop earrings and a minimal metallic gold choker necklace. Pose her with a calm, confident, mysterious expression and elegant posture. Keep the composition highly symmetrical and visually balanced. The entire scene follows a monochromatic red aesthetic, with rich crimson tones throughout the dress, gloves, and background. Lighting: dramatic professional studio lighting, strong directional red light, soft highlights on the face and shoulders, deep cinematic shadows, subtle rim lighting, glossy reflections on the satin fabric and gloves, realistic skin texture. Photography style: luxury fashion magazine editorial, haute couture campaign, sophisticated beauty photography, cinematic portrait, 85mm lens, shallow depth of field, crisp focus on the face and clothing, realistic proportions, detailed fabric texture, photorealistic rendering, high dynamic range, ultra-detailed, 4K, premium commercial photography. Composition: vertical full-body portrait, subject centered, camera at eye level, clean seamless background, dramatic negative space, elegant and polished fashion campaign aesthetic. Do not change the woman’s facial identity or natural facial proportions if a reference face is provided. Preserve realistic anatomy and consistent facial features. Negative prompt: deformed hands, extra fingers, missing fingers, fused fingers, malformed arms, duplicated face, distorted face, unnatural anatomy, extra body parts, warped clothing, blurry face, low resolution, plastic skin, cartoon, illustration, text, watermark, logo, cropped head, awkward pose.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35227-89",
+      "title": "Terracotta Outfit Portrait on Cobblestone Street",
+      "prompt": "A high-resolution photorealistic eye level medium portrait of a stunning woman smiling at the camera standing beside an open car door She is wearing a chic {argument name=\"outfit color\" default=\"terracotta brown\"} monochrome business suit including a tailored blazer top and matching high waisted trousers with a leather belt. Her dark hair is styled in an elegant messy updo with loose strands framing her face She is wearing delicate golden hoop earrings and a thin gold necklace The background features a picturesque European Mediterranean cobblestone street with rustic stone buildings and vibrant blooming pink bougainvillea flowers Soft natural sunlight warm color palette sharp focus high fashion aesthetic, 8k resolution.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35228-90-Red-Gown-Multi-Arm-Illusion.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35227-89-Terracotta-Outfit-Portrait-on-Cobblestone-Street.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -818,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4091-154",
-      "title": "Youtube Thumbnail Concept: The New Weapon",
-      "prompt": "Youtube thumbnail Concept: Background (Split 50/50): Left Side (War): Grayscale or desaturated sepia tone. Shows a chaotic background of smoke or tanks. Right Side (Fusion): High-saturation, deep blues and glowing purples. Shows a futuristic tokamak reactor core. Subject: A large, shoulder up cutout of Trump placed dead center, acting as the divider between the two worlds. He should look confident/determined, facing slightly toward the \"Fusion\" side. Text (Top, full width): \"{argument name=\"main text\" default=\"THE NEW WEAPON\"}\" (in large, blocky #FFFF00 Yellow font). Note: Add a heavy black drop shadow or a dark gradient vignette at the very top to ensure the yellow text is readable against the glowing background.\"",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-4395-150",
+      "title": "Cinematic 12-Panel Timeline of a Subject's Epic Day",
+      "prompt": "\"In the Day of {argument name=\"subject\" default=\"[SUBJECT]\"}\": Design a 12-panel (4x3) cinematic timeline capturing an epic, chaotic, or hilarious day in the life of {argument name=\"subject\" default=\"[SUBJECT]\"}. Add this title in a style that matches the subject to the top of the image. Each panel must be [PHOTOREALISTIC], large, and show: a timestamp (e.g. 06:00, 08:00...) a short, punchy caption in quotes (e.g. \"Potion Mishap\", \"Midnight Bounty Run\") a richly detailed, high-energy scene tailored to that moment of their day. The overall backdrop, panel frames, textures, and visual UI elements must match the subject’s universe — e.g., {argument name=\"theme example\" default=\"leather + studs for rockstars\"}, arcane scrolls for wizards, chrome HUD for cyborgs, jungle vines for pirates, etc. Panels are arranged in a grid or storyboard, with rugged or themed dividers. Final panel (06:00 next day) shows collapse, rest, or post-chaos resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4091-154-Youtube-Thumbnail-Concept-The-New-Weapon.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-4395-150-Cinematic-12-Panel-Timeline-of-a-Subject-s-Epic-Day.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22265-263",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-22265-265",
       "title": "Charcoal and Pencil Couple Drawings",
       "prompt": "A series of black-and-white, highly detailed {argument name=\"style\" default=\"charcoal and pencil\"} portrait drawings capturing intimate, affectionate moments between three different couples. ​The first portrait shows a young couple smiling warmly; a man with light, wavy hair and a slight beard wraps his arm around a woman with her hair pulled up into a loose bun as she leans happily into his chest. ​The second portrait features a close-up, high-contrast ink and charcoal drawing of a smiling man and woman looking toward the viewer, highlighted by dramatic, bright lighting cast across their faces against a dark, shadowed background. ​The third portrait depicts a deeply tender moment between a couple with {argument name=\"hair type\" default=\"dark, wavy hair\"}, shown with their eyes softly closed as the man gently presses his forehead against the woman's hair while she rests serenely in his embrace, all rendered with rich texture and deep, moody shading.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22265-263-Charcoal-and-Pencil-Couple-Drawings.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-22265-265-Charcoal-and-Pencil-Couple-Drawings.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "xianyu-multi-model:ym-ai-skill-others-9950-262",
+      "title": "Cinematic Disintegration Effect Portrait",
+      "prompt": "{ \"prompt_type\": \"ultra_realistic_cinematic_full_body_disintegration\", \"base_style\": \"ultra-realistic, cinematic, photo-real digital painting, hyper-detailed, dramatic high-contrast lighting\", \"quality_tags\": [ \"8K resolution\", \"masterpiece\", \"best quality\", \"ultra high detail\", \"photorealistic textures\", \"cinematic color grading\", \"sharp focus\", \"volumetric lighting\", \"HDR\", \"realistic skin texture\", \"subtle film grain\" ], \"subject\": { \"gender\": \"female\", \"view\": \"full-body side profile facing right\", \"face_reference\": \"use provided face reference exactly with zero alterations\", \"facial_accuracy\": \"exact facial structure, skin tone, eye shape, nose, lips, bone structure, hairstyle replicated perfectly\", \"expression\": \"deep introspection and sorrow, subtle tension in eyebrows, slightly parted lips, soft emotional heaviness\", \"eyes\": \"looking downward with emotional depth\", \"hairstyle\": \"copied exactly from reference image, no changes in length, texture, or styling\" }, \"pose\": { \"description\": \"elegant sorrowful stance\", \"posture\": \"slightly forward-leaning posture, shoulders gently lowered\", \"hands\": \"hands positioned naturally according to pose, relaxed yet emotionally expressive\", \"body_language\": \"introspective, vulnerable, emotionally weighted\" }, \"outfit\": { \"description\": \"flowing, textured fabric outfit that reacts naturally to wind and light\", \"material_detail\": \"fine fabric fibers, realistic folds, subtle fabric translucency\", \"color\": \"muted neutral tones to complement monochrome environment\" }, \"disintegration_effect\": { \"coverage\": \"nearly half of the body dissolving\", \"affected_areas\": [ \"left arm\", \"left shoulder\", \"left torso\", \"left leg\", \"portion of hair\" ], \"effect_type\": \"thick cloud-like grey smoke\", \"particle_detail\": \"glowing yellow dust particles embedded within smoke\", \"transparency\": \"gradual transparency transitioning into luminous particle dispersion\", \"motion\": \"active disintegration mid-process, particles drifting outward dynamically\", \"lighting_interaction\": \"particles catching rim light and glowing intensely\" }, \"background\": { \"environment\": \"minimal desolate concrete or paved surface\", \"sky\": \"heavily overcast dramatic sky\", \"atmosphere\": \"moody, cinematic, emotionally heavy\" }, \"backlight_object\": { \"type\": \"massive glowing circular energy sphere\", \"light_color\": \"fiery golden-white plasma\", \"function\": \"powerful rim and backlight\", \"effect\": \"strong silhouette separation, dramatic edge lighting on smoke and particles\", \"plasma_detail\": \"radiating energy waves, subtle solar flare effects, bloom and glow\" }, \"lighting\": { \"style\": \"extreme high-contrast cinematic lighting\", \"rim_light\": \"intense golden-whi\" } }",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/others/others-9950-262-Cinematic-Disintegration-Effect-Portrait.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
+        "Creative"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
       "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29654-263",
       "title": "Realistic Close-up Portrait with Green Eyes",
       "prompt": "{ \"subject\": { \"description\": \"{argument name=\\\"woman description\\\" default=\\\"A beautiful young woman with fair skin, long dark hair, striking green eyes, defined eyebrows, and glossy pink lips. She has a soft, intimate expression with her mouth slightly open.\\\"}\", \"pose\": \"Extreme close-up, head tilted slightly, one hand gently touching her cheek or temple with fingers visible, watching directly on camera\", \"clothing\": \"{argument name=\\\"clothing style\\\" default=\\\"zebra top with deep neckline (partially visible).\\\"}\", \"modifications\": \"Add a small, elegant '{argument name=\\\"tattoo text\\\" default=\\\"Keor\\\"}' tattoo in minimalist script on the side of her hand or on one of her fingers, subtly visible.\" }, \"setting\": { \"environment\": \"Soft, neutral indoor background with diffused lighting.\", \"lighting\": \"Soft, flattering light highlighting her facial features and creating a gentle glow on her skin.\" }, \"style\": { \"photography\": \"Realistic, high-resolution close-up portrait with exceptional detail on skin texture, eyes, lips, and hair strands.\", \"mood\": \"Intimate, soft, and captivating.\", \"composition\": \"Tight facial close-up focusing on eyes and expression.\" }, \"full_prompt\": \"Photorealistic extreme close-up portrait of a beautiful woman with dark hair and striking green eyes, her hand gently touching her cheek. She has glossy pink lips and a soft expression. Add a small elegant 'Keor' tattoo on the side of her hand or finger. Soft diffused lighting, ultra-detailed skin, eyes, and hair textures.\" }",
@@ -20,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30802-405",
-      "title": "Cozy Kitchen Lifestyle Portrait",
-      "prompt": "A photorealistic indoor lifestyle portrait of a {argument name=\"subject\" default=\"young woman in a modern, cozy apartment\"}. She has {argument name=\"appearance\" default=\"fair skin, long auburn-red hair gathered into a relaxed low ponytail, with a few loose strands naturally framing her face\"}. Her expression is warm and friendly, with a subtle genuine smile and relaxed eyes looking toward the camera. She is seated comfortably in a natural three-quarter pose, turned slightly toward the camera, with one hand resting naturally on her knee and the other positioned comfortably beside her. Her posture should appear relaxed and authentic rather than overly posed. She wears a {argument name=\"clothing\" default=\"soft pink floral lounge dress with delicate small flower patterns, thin straps, subtle decorative edging, and natural fabric folds\"}. Add a simple understated ring and minimal accessories. Keep the styling casual, tasteful, and everyday, with no visible logos or branding. The room has a warm contemporary interior with vertical wooden panels, light neutral walls, polished wooden flooring, and a small kitchen area in the background. A straw-colored decorative hat hangs on the wall, while a fruit arrangement containing bananas and oranges adds a natural touch to the setting. Warm interior lighting combines with soft daylight entering from the side. Camera and style: shot on an 85mm portrait lens, natural eye-level perspective, soft diffused window light, subtle warm indoor illumination, realistic skin texture, detailed individual hair strands, authentic fabric texture, shallow depth of field, cinematic color grading, balanced exposure, natural shadows, professional lifestyle photography, high detail, photorealistic 4K quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30806-404",
+      "title": "Korean School Candid Portrait",
+      "prompt": "{argument name=\"subject\" default=\"2 female high school students\"} standing on a {argument name=\"location\" default=\"school staircase\"}, warmly hugging each other, subtle happy smiles, looking at each other instead of the camera, unaware of the camera, candid moment, authentic Korean school stairwell, soft afternoon sunlight, shot on iPhone 16 Pro, natural HDR, realistic smartphone photo, handheld, slightly imperfect framing, natural colors, everyday moment, photorealistic,",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30802-405-Cozy-Kitchen-Lifestyle-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30806-404-Korean-School-Candid-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30810-407",
-      "title": "Celebrity Red Carpet Cinematic Portrait",
-      "prompt": "Generate a hyper-realistic, cinematic 8k image of the uploaded man with his face fully preserved. he is wearing {argument name=\"eyewear\" default=\"sleek black sunglasses\"} and a {argument name=\"outfit\" default=\"sharp black tailored suit\"}, walking confidently on a red carpet in a natural motion. his hands are in his pockets, exuding calm authority and celebrity vibes. surrounding him are excited fans and glamorous women reaching out to touch him, while journalists’ cameras flash from below the frame, adding intense energy and drama. a {argument name=\"car type\" default=\"luxury lamborghini\"} is parked right beside the red carpet, enhancing the high-status atmosphere. the setting should feel crowded, dense, and cinematic, with rich lighting, dramatic shadows, and the color grading of a high-end sony a7s4 camera shot",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-30802-406",
+      "title": "Cozy Kitchen Lifestyle Portrait",
+      "prompt": "A photorealistic indoor lifestyle portrait of a {argument name=\"subject\" default=\"young woman in a modern, cozy apartment\"}. She has {argument name=\"appearance\" default=\"fair skin, long auburn-red hair gathered into a relaxed low ponytail, with a few loose strands naturally framing her face\"}. Her expression is warm and friendly, with a subtle genuine smile and relaxed eyes looking toward the camera. She is seated comfortably in a natural three-quarter pose, turned slightly toward the camera, with one hand resting naturally on her knee and the other positioned comfortably beside her. Her posture should appear relaxed and authentic rather than overly posed. She wears a {argument name=\"clothing\" default=\"soft pink floral lounge dress with delicate small flower patterns, thin straps, subtle decorative edging, and natural fabric folds\"}. Add a simple understated ring and minimal accessories. Keep the styling casual, tasteful, and everyday, with no visible logos or branding. The room has a warm contemporary interior with vertical wooden panels, light neutral walls, polished wooden flooring, and a small kitchen area in the background. A straw-colored decorative hat hangs on the wall, while a fruit arrangement containing bananas and oranges adds a natural touch to the setting. Warm interior lighting combines with soft daylight entering from the side. Camera and style: shot on an 85mm portrait lens, natural eye-level perspective, soft diffused window light, subtle warm indoor illumination, realistic skin texture, detailed individual hair strands, authentic fabric texture, shallow depth of field, cinematic color grading, balanced exposure, natural shadows, professional lifestyle photography, high detail, photorealistic 4K quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30810-407-Celebrity-Red-Carpet-Cinematic-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-30802-406-Cozy-Kitchen-Lifestyle-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -263,25 +282,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/others.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-29561-265",
-      "title": "Golden Hour Car Selfie",
-      "prompt": "Ultra-realistic golden hour car selfie, close-up, vertical 4:5, high-end smartphone front camera, 26mm, f/1.8, ISO 40, HDR, natural skin texture, subtle film grain, 8K. A {argument name=\"subject\" default=\"young woman sitting in the front passenger seat of a modern black leather car\"}, wearing a seatbelt, long dark chestnut-brown wavy hair, fair skin, light blue-gray eyes, thick brows, soft winged eyeliner, glossy pink lips, {argument name=\"clothing\" default=\"black spaghetti-strap top\"}, silver hoop earrings, and a silver Hamsa pendant necklace. {argument name=\"lighting\" default=\"Warm golden sunlight\"} from the side window casts cinematic shadows across her face, clear blue sky outside, calm neutral expression, photorealistic, premium smartphone photography.",
-      "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-29561-265-Golden-Hour-Car-Selfie.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "AI Image Model",
-        "Profile / Avatar"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
       "license": "upstream",
       "createdAt": null
     },

@@ -1,16 +1,35 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32667-241",
-      "title": "Ultra-Realistic Fashion Portrait Consistency",
-      "prompt": "{ \"prompt\": \"Using the uploaded image above with 100% facial accuracy, body size, haircut and shape, create a breathtaking 16K ultra-realistic editorial fashion portrait of the same beautiful African woman. Preserve every facial feature exactly as in the uploaded image, including her face shape, warm brown skin tone, expressive eyes, eyebrows, nose, lips, smile, natural makeup, body proportions, hairstyle, head wrap, braided locs, jewelry placement, and confident pose. Maintain her right hand resting on her head and her left hand placed on her waist exactly as shown. She is wearing the same black bandeau-style wrap top with a long draped scarf in the center, low-rise light blue denim jeans, waist chain, bracelets, rings, necklace, and matching accessories. The background is a warm golden studio backdrop with the soft circular spotlight glow, identical lighting direction, smooth wall texture, and shallow depth of field. Illuminate the subject with luxurious golden-hour cinematic lighting, soft key light, subtle rim lighting, realistic shadows, and natural skin reflections. Capture with a professional full-frame cinema camera using an 85mm f/1.2 portrait lens, producing creamy bokeh, crystal-clear eyes, ultra-detailed skin pores, natural melanin texture, realistic hair strands, detailed fabric textures, physically accurate lighting, HDR, RAW image quality, ray-traced global illumination, volumetric lighting, subsurface scattering, premium fashion magazine quality, luxury editorial photography, masterpiece composition, hyper-realistic rendering, true-to-life colors, flawless anatomy, no distortion, no AI artifacts, and maximum photorealism.\", \"negative_prompt\": \"cartoon, anime, CGI, illustration, painting, blurry, low quality, pixelated, noisy, oversharpened, overexposed, underexposed, plastic skin, fake skin texture, deformed anatomy, inaccurate facial features, extra fingers, missing fingers, extra limbs, duplicated body parts, crossed eyes, distorted proportions, bad hands, watermark, logo, text, frame, cropped body, unrealistic lighting, unnatural colors, compression artifacts\", \"aspect_ratio\": \"16:9\", \"resolution\": \"15360x8640\", \"quality\": \"16K Ultra HD\", \"style\": \"Ultra-Realistic Editorial Fashion Photography\", \"camera\": { \"model\": \"Sony A1 II\", \"lens\": \"Sony FE 85mm f/1.2 GM\", \"focal_length\": \"85mm\", \"aperture\": \"f/1.2\", \"iso\": 100, \"shutter_speed\": \"1/200 sec\", \"focus\": \"Eye Autofocus\" }, \"lighting\": { \"style\": \"Golden cinematic studio lighting\", \"key_light\": \"Large warm softbox positioned front-left\", \"fill_light\": \"Soft reflected fill\", \"rim_light\": \"Warm edge light for subject separation\", \"background_light\": \"Soft circular golden spotlight matching the reference image\", \"hdr\": true }, \"render_settings\": { \"engine\": \"Photorealistic\", \"ray_tracing\": true, \"global_illumination\": true, \"ambient_oc",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-31870-161",
+      "title": "Rustic Kitchen Lifestyle Portrait",
+      "prompt": "A young woman with fair skin and soft facial features, smiling warmly toward the camera with a relaxed and natural expression. She has {argument name=\"hair style\" default=\"long blonde hair pulled into a casual high ponytail\"}, with a few loose strands framing her face. She is standing in a {argument name=\"setting\" default=\"rustic indoor kitchen area\"}, slightly turned toward the camera, holding a small metal pot in one hand and a white ceramic cup in the other, creating a candid everyday moment. Her pose feels comfortable and natural, with a gentle smile and calm confidence. She is wearing a {argument name=\"outfit\" default=\"light pink sleeveless crop top and light blue casual pajama-style pants\"} with small playful printed designs. The outfit has a simple homewear aesthetic, complemented by a natural, relaxed appearance without additional accessories. The environment is a rustic room with textured earthen walls, a simple wooden and concrete workspace, and an open window in the background showing soft greenery outside. Warm daylight enters through the window, creating a cozy atmosphere with natural shadows, subtle highlights on the subject, and an authentic countryside kitchen feeling. Shot on an 85mm lens with shallow depth of field, soft natural window light, realistic skin texture, cinematic color grading, high detail, professional lifestyle photography style, balanced composition, warm tones, natural contrast, ultra realistic, documentary-inspired photography.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32667-241-Ultra-Realistic-Fashion-Portrait-Consistency.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-31870-161-Rustic-Kitchen-Lifestyle-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
+        "Profile / Avatar"
+      ],
+      "author": "YouMind OpenLab",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/profile-avatar.json",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32670-240",
+      "title": "Realistic Fitness Studio Editorial",
+      "prompt": "Create a photorealistic lifestyle fitness portrait of a young woman with {argument name=\"eye color\" default=\"light hazel-green eyes\"}, and medium-brown hair parted near the center and tied into a low ponytail, with a few loose strands framing her face. She has subtle natural makeup, defined eyebrows, soft rosy cheeks, and a warm, friendly smile. She is standing confidently in a modern gym, facing the camera at a slight three-quarter angle, with relaxed shoulders, natural posture, one arm resting comfortably near her hip, and a casual fitness-oriented pose. She is wearing a {argument name=\"outfit\" default=\"coordinated deep emerald-green athletic outfit consisting of a fitted sleeveless training top with wide shoulder straps and high-waisted matching leggings\"}. The athletic fabric has a smooth performance texture with realistic folds and subtle highlights. Add a simple fitness watch or understated wrist accessory, keeping the overall styling clean and practical. The setting is a {argument name=\"location\" default=\"bright contemporary fitness studio with large wall-to-wall mirrors, treadmills, resistance machines, dumbbells, exercise mats, and other modern gym equipment\"} visible naturally in the background. Large windows allow daylight into the room, creating realistic reflections across the mirrors and equipment. Use soft directional daylight combined with gentle overhead gym illumination, producing natural highlights and moderate shadows while maintaining a bright, energetic atmosphere. Photographed on an 85mm lens at approximately f/2.8, eye-level perspective, flattering natural proportions, shallow depth of field, crisp facial focus, realistic skin texture, detailed athletic fabric, authentic gym reflections, balanced exposure, cinematic color grading, high dynamic range, subtle background bokeh, professional fitness editorial photography, natural colors, realistic anatomy, high detail, photorealistic finish.",
+      "media": "image",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32670-240-Realistic-Fitness-Studio-Editorial.webp",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -96,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-8015-664",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-8015-666",
       "title": "Fragmented Typography Poster Prompt (Minimalist Chaos)",
       "prompt": "A highly minimalist, deconstructed experimental typography poster in contemporary avant-garde graphic design style. The phrase ‘{argument name=\"phrase\" default=\"Form Follows Chaos\"}’ in elegant, ultra-thin modern sans-serif lowercase letters (thin strokes with sharp geometric cuts), deliberately fragmented and scattered across the composition: some letters partially erased, broken into pieces, shifted off-axis, floating independently, or dissolving into negative space with irregular tears and voids. Extreme use of white/negative space, asymmetrical unbalanced layout, no grid, subtle overlaps and disconnections for a sense of controlled chaos. Soft, beautiful linear gradient background from {argument name=\"top color\" default=\"deep emerald green\"} at the top to {argument name=\"bottom color\" default=\"vibrant hot pink\"} at the bottom, high contrast against crisp black text. No additional elements, no shadows, no textures—just pure deconstructed type and gradient. Clean vector aesthetic, high resolution, sophisticated and hypnotic minimalist art poster.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-8015-664-Fragmented-Typography-Poster-Prompt-Minimalist-Chaos.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-8015-666-Fragmented-Typography-Poster-Prompt-Minimalist-Chaos.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,16 +172,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32675-242",
-      "title": "Grand Library Reader Portrait",
-      "prompt": "{ \"title\": \"{argument name=\"title\" default=\"THE READER OF THE GRAND LIBRARY\"}\", \"scene\": \"{argument name=\"scene description\" default=\"Inside an enormous historic library with towering wooden bookshelves reaching toward an ornate vaulted ceiling. A tall arched window overlooks the quiet world outside as golden afternoon sunlight streams through, illuminating countless floating dust particles.\"}\", \"subject\": \"{argument name=\"subject\" default=\"A beautiful young woman sits gracefully beside the arched window, reading an old leather-bound book. She wears an elegant dark green classic dress with a refined posture and a gentle, thoughtful smile, completely immersed in the timeless atmosphere of the library.\"}\", \"detail\": \"Rich mahogany bookshelves are lined with thousands of antique books. Intricate carved woodwork, vintage brass lamps, worn leather bindings, polished wooden floors, and elegant architectural details enhance the luxurious interior. Soft rays of sunlight highlight the pages of the book while delicate dust motes shimmer in the warm light. Every fabric fold, hair strand, and skin texture is rendered with exceptional realism.\", \"atmosphere\": \"Luxurious, peaceful, intellectual, nostalgic, elegant, timeless, cinematic, and inviting.\", \"lighting\": \"Golden afternoon sunlight pouring through the tall arched window, Renaissance-inspired lighting, warm cinematic glow, soft natural shadows, volumetric light rays, realistic global illumination, and subtle ambient lighting.\", \"composition\": \"Intimate cinematic portrait with the subject positioned beside the arched window, towering bookshelves framing the scene, eye-level perspective, shallow depth of field, creamy bokeh, and balanced editorial composition.\", \"style\": \"Photorealistic, cinematic editorial photography, Renaissance-inspired lighting, Kodak Portra film colors, ultra realistic textures, realistic skin details, masterpiece, HDR, highly detailed, film grain, shallow depth of field, volumetric lighting, 8K.\" }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32667-242",
+      "title": "Ultra-Realistic Fashion Portrait Consistency",
+      "prompt": "{ \"prompt\": \"Using the uploaded image above with 100% facial accuracy, body size, haircut and shape, create a breathtaking 16K ultra-realistic editorial fashion portrait of the same beautiful African woman. Preserve every facial feature exactly as in the uploaded image, including her face shape, warm brown skin tone, expressive eyes, eyebrows, nose, lips, smile, natural makeup, body proportions, hairstyle, head wrap, braided locs, jewelry placement, and confident pose. Maintain her right hand resting on her head and her left hand placed on her waist exactly as shown. She is wearing the same black bandeau-style wrap top with a long draped scarf in the center, low-rise light blue denim jeans, waist chain, bracelets, rings, necklace, and matching accessories. The background is a warm golden studio backdrop with the soft circular spotlight glow, identical lighting direction, smooth wall texture, and shallow depth of field. Illuminate the subject with luxurious golden-hour cinematic lighting, soft key light, subtle rim lighting, realistic shadows, and natural skin reflections. Capture with a professional full-frame cinema camera using an 85mm f/1.2 portrait lens, producing creamy bokeh, crystal-clear eyes, ultra-detailed skin pores, natural melanin texture, realistic hair strands, detailed fabric textures, physically accurate lighting, HDR, RAW image quality, ray-traced global illumination, volumetric lighting, subsurface scattering, premium fashion magazine quality, luxury editorial photography, masterpiece composition, hyper-realistic rendering, true-to-life colors, flawless anatomy, no distortion, no AI artifacts, and maximum photorealism.\", \"negative_prompt\": \"cartoon, anime, CGI, illustration, painting, blurry, low quality, pixelated, noisy, oversharpened, overexposed, underexposed, plastic skin, fake skin texture, deformed anatomy, inaccurate facial features, extra fingers, missing fingers, extra limbs, duplicated body parts, crossed eyes, distorted proportions, bad hands, watermark, logo, text, frame, cropped body, unrealistic lighting, unnatural colors, compression artifacts\", \"aspect_ratio\": \"16:9\", \"resolution\": \"15360x8640\", \"quality\": \"16K Ultra HD\", \"style\": \"Ultra-Realistic Editorial Fashion Photography\", \"camera\": { \"model\": \"Sony A1 II\", \"lens\": \"Sony FE 85mm f/1.2 GM\", \"focal_length\": \"85mm\", \"aperture\": \"f/1.2\", \"iso\": 100, \"shutter_speed\": \"1/200 sec\", \"focus\": \"Eye Autofocus\" }, \"lighting\": { \"style\": \"Golden cinematic studio lighting\", \"key_light\": \"Large warm softbox positioned front-left\", \"fill_light\": \"Soft reflected fill\", \"rim_light\": \"Warm edge light for subject separation\", \"background_light\": \"Soft circular golden spotlight matching the reference image\", \"hdr\": true }, \"render_settings\": { \"engine\": \"Photorealistic\", \"ray_tracing\": true, \"global_illumination\": true, \"ambient_oc",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32675-242-Grand-Library-Reader-Portrait.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32667-242-Ultra-Realistic-Fashion-Portrait-Consistency.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -248,12 +267,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-8021-665",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-8021-667",
       "title": "Brutalist Directional Blur Typography Poster Prompt",
       "prompt": "A bold experimental typographic poster in brutalist style, featuring the lowercase word ‘{argument name=\"word\" default=\"design\"}’ with the letters arranged in a strict 3-row by 2-column grid layout, each individual letter perfectly centered and isolated in its own square cell with equal spacing and thin invisible grid lines for structure. The main letters are ultra-heavy geometric sans-serif with thick slab-like strokes, perfectly rounded edges, solid black fill, high contrast. Beneath each main sharp letter, multiple duplicated ghostly versions of the same letter appear with strong directional motion blur — each cell has blur going in a unique direction: horizontal left, horizontal right, vertical up, vertical down, diagonal top-left to bottom-right, diagonal top-right to bottom-left — creating chaotic overlapping energy and depth illusion. Soft linear gradient background from {argument name=\"top color\" default=\"baby-pink\"} at the top to {argument name=\"bottom color\" default=\"vibrant yellow\"} at the bottom. Clean minimalist composition, perfectly symmetrical grid, no additional elements, high-resolution vector aesthetic, contemporary graphic design poster with hypnotic blur dynamics.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-8021-665-Brutalist-Directional-Blur-Typography-Poster-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-8021-667-Brutalist-Directional-Blur-Typography-Poster-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32669-244",
-      "title": "Surrealist Honeycomb Fashion Editorial",
-      "prompt": "{\"vibe_title_en\": \"Amber Defiance\", \"master_prompt\": \"A hyper-realistic, high-fashion surrealist editorial shot on Hasselblad H6D-100c with a 100mm f/2.2 lens on Kodak Portra 800 film. [SUBJECT]: The Protagonist, gender-neutral, embodying 'The Quiet Rebel', standing perfectly still with a defiant, calm posture while the world moves fast around them. [SETTING]: Shot completely THROUGH an intricate foreground of dripping, translucent amber beeswax and fast-moving, out-of-focus bees. The environment is a once-opulent hall now entirely consumed by colossal, organic honeycomb structures. [WARDROBE]: The subject wears a high-couture architectural garment woven from actual raw honeycomb and fine golden silk, glistening with highly realistic, viscous liquid honey. [LIGHTING]: Cinematic chiaroscuro; soft, warm volumetric golden hour light pierces through the hive canopy, casting rich amber hues and deep tactile shadows. [TECHNICAL]: Flawless practical effect simulation, ultra-detailed skin texture and pores, optical light refraction through the dripping honey. Intense motion blur on the flying swarm emphasizes the chaotic speed of the environment against the subject's absolute, unyielding stillness. Raw analog texture, pure photographic fidelity, NO NEON.\", \"meta\": {\"intent\": \"Surrealist High-Fashion Editorial\", \"priorities\": \"Tactile textures, extreme depth of field, narrative contrast between motion and stillness\", \"device_profile\": \"Medium Format Analog Camera\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"Center-framed portrait, framed through dense foreground elements\", \"layout\": \"Symmetrical core anchored by the subject, surrounded by chaotic dynamic framing\", \"camera_angle\": \"Eye-level, shooting intimately through a narrow gap in a honeycomb structure\", \"tilt_roll_degrees\": \"0\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Quiet Rebel\", \"demographics\": \"Ageless, ethereal yet grounded\", \"face\": \"Calm, defiant, unyielding, featuring highly textured, hyper-realistic skin\", \"hair\": \"Slicked back, coated in a subtle, organic golden mist\", \"body\": \"Standing tall, perfectly still, exuding a regal and grounded posture\", \"expression\": \"A defiant, calm stare piercing directly through the surrounding chaos\", \"pose\": \"Standing motionless, grounding the kinetic energy of the chaotic scene\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Sculptural avant-garde gown\", \"material\": \"Raw organic honeycomb and golden silk\", \"color\": \"Translucent amber and liquid gold\", \"fit\": \"Structured, architectural, and imposing\"}], \"accessories\": [{\"item\": \"Dripping viscous accents\", \"color\": \"Warm amber\", \"material\": \"Realistic liquid honey\", \"brand_style\": \"Surrealist high-couture practical effects\"}]}, \"environment\": {\"setting\": \"An opulent, forgotten hall completely overtaken by colossal organic beehives\", \"surfaces\": \"Sticky, highly textured beeswax, crumbling ornate stone, and dripping amber\", \"depth\": \"Extreme deep space behind the subject, heavily layered and obstructed foreground\", \"atmosphere\": \"Thick, humid, buzzing with kinetic energy, glowing with suspended golden dust motes\", \"lens_interaction\": \"Motion-blurred flying bees and dripping wax passing directly in front of the lens\"}, \"lighting\": {\"key\": \"Soft, directional warm volumetric light piercing down from the hive canopy\", \"fill\": \"Bounced ambient amber light radiating from the surrounding beeswax\", \"rim\": \"Sharp golden rim light separating the subject from the dark, cavernous background\", \"shadows\": \"Deep, rich brown and warm black chiaroscuro, heavily textured\", \"color_temperature\": \"Warm (3200K - 3800K)\", \"sensor_flare\": \"Subtle warm halation around the specular highlights of the liquid honey\"}, \"camera\": {\"lens_type\": \"Medium Format Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.2\", \"focus\": \"Tack sharp on the subject's eyes, extreme motion blur and bokeh on the surrounding swarm\", \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Zero compression, natural and intimate portrait distance\"}, \"post_processing\": {\"color\": \"Rich Kodak Portra 800 tones, deep ambers, muted golds, warm shadows\", \"tonality\": \"High contrast with carefully preserved highlight details in the dripping viscous elements\", \"texture\": \"Heavy, organic film grain, prominent skin pores, tactile viscosity\", \"digital_sharpening\": \"None, pure optical sharpness\", \"chromatic_aberration\": \"Slight organic edge fringing on the extreme out-of-focus foreground elements\"}, \"negative_specifications\": [\"neon lights\", \"cyberpunk\", \"plastic skin\", \"CGI\", \"digital illustration\", \"flat lighting\", \"rooftops\", \"minimalist office\", \"coffee shop\", \"static background\", \"clean modern architecture\", \"cartoonish bees\", \"fantasy art\"]}",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32675-243",
+      "title": "Grand Library Reader Portrait",
+      "prompt": "{ \"title\": \"{argument name=\"title\" default=\"THE READER OF THE GRAND LIBRARY\"}\", \"scene\": \"{argument name=\"scene description\" default=\"Inside an enormous historic library with towering wooden bookshelves reaching toward an ornate vaulted ceiling. A tall arched window overlooks the quiet world outside as golden afternoon sunlight streams through, illuminating countless floating dust particles.\"}\", \"subject\": \"{argument name=\"subject\" default=\"A beautiful young woman sits gracefully beside the arched window, reading an old leather-bound book. She wears an elegant dark green classic dress with a refined posture and a gentle, thoughtful smile, completely immersed in the timeless atmosphere of the library.\"}\", \"detail\": \"Rich mahogany bookshelves are lined with thousands of antique books. Intricate carved woodwork, vintage brass lamps, worn leather bindings, polished wooden floors, and elegant architectural details enhance the luxurious interior. Soft rays of sunlight highlight the pages of the book while delicate dust motes shimmer in the warm light. Every fabric fold, hair strand, and skin texture is rendered with exceptional realism.\", \"atmosphere\": \"Luxurious, peaceful, intellectual, nostalgic, elegant, timeless, cinematic, and inviting.\", \"lighting\": \"Golden afternoon sunlight pouring through the tall arched window, Renaissance-inspired lighting, warm cinematic glow, soft natural shadows, volumetric light rays, realistic global illumination, and subtle ambient lighting.\", \"composition\": \"Intimate cinematic portrait with the subject positioned beside the arched window, towering bookshelves framing the scene, eye-level perspective, shallow depth of field, creamy bokeh, and balanced editorial composition.\", \"style\": \"Photorealistic, cinematic editorial photography, Renaissance-inspired lighting, Kodak Portra film colors, ultra realistic textures, realistic skin details, masterpiece, HDR, highly detailed, film grain, shallow depth of field, volumetric lighting, 8K.\" }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32669-244-Surrealist-Honeycomb-Fashion-Editorial.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32675-243-Grand-Library-Reader-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +419,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-8119-666",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-8119-668",
       "title": "Split-Identity Cinematic Movie Poster Prompt with Face Lock",
       "prompt": "Ultra-realistic 8K cinematic poster-style photograph ASPECT RATIO: 3:4 vertical IMPORTANT – FACE LOCK Keep my face exactly the same as the uploaded photo. Do NOT change, smooth, beautify, or regenerate the face. Maintain 100% identity accuracy: same eyes, nose, lips, jawline, beard, hairline, age, skin texture, pores, and natural asymmetry. No AI face, no cartoon, no anime, no stylization. Create a Marvel-style split-identity movie poster of an 18-year-old slim, skinny young man with narrow shoulders and a lean build. The image is split by a jagged glowing green lightning crack that cuts from the top-center down to the lower right, emitting faint energy particles and sparks. LEFT SIDE – REAL HUMAN The man stands in a new powerful pose: He is standing sideways, one shoulder closer to the camera, arms crossed loosely across his chest, head turned toward the viewer. Expression: calm, cold confidence. He is wearing black rectangular eyeglasses, a short trimmed beard and mustache, and a toothpick held casually between his lips. Lighting: cool blue key light from one side with soft magenta rim light from behind, creating cinematic edge highlights. Skin is hyper-realistic with visible pores, tiny imperfections, and natural texture. Background: dark cinematic studio interior with soft blurred light panels and haze. RIGHT SIDE – VILLAIN FORM The same person appears as a dark emerald metallic armored villain, wearing a hooded cloak, with a sharp angular mask, glowing toxic-green eyes, battle-worn scratches, and brushed metal textures. Green energy flows from cracks in the armor and connects visually to the glowing tear line. CAMERA & STYLE DSLR movie-poster framing Ultra-sharp focus Cinematic depth Hollywood superhero aesthetic No CGI look, no plastic skin.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-8119-666-Split-Identity-Cinematic-Movie-Poster-Prompt-with-Face-Lock.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-8119-668-Split-Identity-Cinematic-Movie-Poster-Prompt-with-Face-Lock.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -457,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32673-246",
-      "title": "Rose Gold Shimmer City Walk",
-      "prompt": "Full-body photograph of a young curvey woman walking down a city street, wearing a {argument name=\"outfit\" default=\"metallic rose gold two-piece set featuring a cropped tank top and a matching high-waisted asymmetrical maxi skirt, both covered in layered, shimmering fringe\"}. Her {argument name=\"hair style\" default=\"long light-brown hair is styled in loose beach waves\"}, and she wears simple black strappy heeled sandals. The shot is captured from a {argument name=\"camera angle\" default=\"straight-on perspective with a shallow depth of field\"}, blurring the urban background and focus on her. Natural afternoon sunlight highlights the textures and sparkle of the fringe. A cursive delicate tiny minimalist .",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32669-245",
+      "title": "Surrealist Honeycomb Fashion Editorial",
+      "prompt": "{\"vibe_title_en\": \"Amber Defiance\", \"master_prompt\": \"A hyper-realistic, high-fashion surrealist editorial shot on Hasselblad H6D-100c with a 100mm f/2.2 lens on Kodak Portra 800 film. [SUBJECT]: The Protagonist, gender-neutral, embodying 'The Quiet Rebel', standing perfectly still with a defiant, calm posture while the world moves fast around them. [SETTING]: Shot completely THROUGH an intricate foreground of dripping, translucent amber beeswax and fast-moving, out-of-focus bees. The environment is a once-opulent hall now entirely consumed by colossal, organic honeycomb structures. [WARDROBE]: The subject wears a high-couture architectural garment woven from actual raw honeycomb and fine golden silk, glistening with highly realistic, viscous liquid honey. [LIGHTING]: Cinematic chiaroscuro; soft, warm volumetric golden hour light pierces through the hive canopy, casting rich amber hues and deep tactile shadows. [TECHNICAL]: Flawless practical effect simulation, ultra-detailed skin texture and pores, optical light refraction through the dripping honey. Intense motion blur on the flying swarm emphasizes the chaotic speed of the environment against the subject's absolute, unyielding stillness. Raw analog texture, pure photographic fidelity, NO NEON.\", \"meta\": {\"intent\": \"Surrealist High-Fashion Editorial\", \"priorities\": \"Tactile textures, extreme depth of field, narrative contrast between motion and stillness\", \"device_profile\": \"Medium Format Analog Camera\"}, \"frame\": {\"aspect\": \"4:5\", \"composition\": \"Center-framed portrait, framed through dense foreground elements\", \"layout\": \"Symmetrical core anchored by the subject, surrounded by chaotic dynamic framing\", \"camera_angle\": \"Eye-level, shooting intimately through a narrow gap in a honeycomb structure\", \"tilt_roll_degrees\": \"0\"}, \"subject\": {\"gender\": \"Female\", \"identity\": \"The Quiet Rebel\", \"demographics\": \"Ageless, ethereal yet grounded\", \"face\": \"Calm, defiant, unyielding, featuring highly textured, hyper-realistic skin\", \"hair\": \"Slicked back, coated in a subtle, organic golden mist\", \"body\": \"Standing tall, perfectly still, exuding a regal and grounded posture\", \"expression\": \"A defiant, calm stare piercing directly through the surrounding chaos\", \"pose\": \"Standing motionless, grounding the kinetic energy of the chaotic scene\"}, \"wardrobe_accessories\": {\"garments\": [{\"item\": \"Sculptural avant-garde gown\", \"material\": \"Raw organic honeycomb and golden silk\", \"color\": \"Translucent amber and liquid gold\", \"fit\": \"Structured, architectural, and imposing\"}], \"accessories\": [{\"item\": \"Dripping viscous accents\", \"color\": \"Warm amber\", \"material\": \"Realistic liquid honey\", \"brand_style\": \"Surrealist high-couture practical effects\"}]}, \"environment\": {\"setting\": \"An opulent, forgotten hall completely overtaken by colossal organic beehives\", \"surfaces\": \"Sticky, highly textured beeswax, crumbling ornate stone, and dripping amber\", \"depth\": \"Extreme deep space behind the subject, heavily layered and obstructed foreground\", \"atmosphere\": \"Thick, humid, buzzing with kinetic energy, glowing with suspended golden dust motes\", \"lens_interaction\": \"Motion-blurred flying bees and dripping wax passing directly in front of the lens\"}, \"lighting\": {\"key\": \"Soft, directional warm volumetric light piercing down from the hive canopy\", \"fill\": \"Bounced ambient amber light radiating from the surrounding beeswax\", \"rim\": \"Sharp golden rim light separating the subject from the dark, cavernous background\", \"shadows\": \"Deep, rich brown and warm black chiaroscuro, heavily textured\", \"color_temperature\": \"Warm (3200K - 3800K)\", \"sensor_flare\": \"Subtle warm halation around the specular highlights of the liquid honey\"}, \"camera\": {\"lens_type\": \"Medium Format Prime\", \"focal_length\": \"100mm\", \"aperture\": \"f/2.2\", \"focus\": \"Tack sharp on the subject's eyes, extreme motion blur and bokeh on the surrounding swarm\", \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\", \"perspective_distortion\": \"Zero compression, natural and intimate portrait distance\"}, \"post_processing\": {\"color\": \"Rich Kodak Portra 800 tones, deep ambers, muted golds, warm shadows\", \"tonality\": \"High contrast with carefully preserved highlight details in the dripping viscous elements\", \"texture\": \"Heavy, organic film grain, prominent skin pores, tactile viscosity\", \"digital_sharpening\": \"None, pure optical sharpness\", \"chromatic_aberration\": \"Slight organic edge fringing on the extreme out-of-focus foreground elements\"}, \"negative_specifications\": [\"neon lights\", \"cyberpunk\", \"plastic skin\", \"CGI\", \"digital illustration\", \"flat lighting\", \"rooftops\", \"minimalist office\", \"coffee shop\", \"static background\", \"clean modern architecture\", \"cartoonish bees\", \"fantasy art\"]}",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32673-246-Rose-Gold-Shimmer-City-Walk.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32669-245-Surrealist-Honeycomb-Fashion-Editorial.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -552,12 +571,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-8076-668",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-8076-670",
       "title": "Hyper-Realistic Zootopia Cosplay Portrait with Identity Lock",
       "prompt": "\"A hyper-realistic cinematic cosplay portrait of the SAME PERSON (face identity unchanged, real skin texture), standing back-to-back with an anthropomorphic fox in a live-action Zootopia-inspired scene. Human (Judy Hopps-inspired): blue ZPD police uniform with fitted vest and badge, blue police hat with realistic bunny ears, subtle freckles, natural rosy makeup, playful winking smile, arms crossed confidently. Fox (Nick Wilde-inspired); anthropomorphic fox with realistic fur, orange fur, white muzzle, green shirt with striped tie, sly confident smirk, arms crossed, cartoon-realistic cinematic proportions. Composition: back-to-back pose, upper-body framing, strong symmetry, movie-poster composition. Environment: textured deep blue studio backdrop, clean and uncluttered. Lighting & Camera: soft studio key light with subtle rim light, eye-level medium portrait, 50mm lens, shallow depth of field, sharp facial focus. Style: hyper-realistic, live-action Zootopia aesthetic, cinematic movie-poster quality, vibrant but controlled colors.\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-8076-668-Hyper-Realistic-Zootopia-Cosplay-Portrait-with-Identity-Lock.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-8076-670-Hyper-Realistic-Zootopia-Cosplay-Portrait-with-Identity-Lock.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -609,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32677-249",
-      "title": "Male Winter Portrait at Ice Rink",
-      "prompt": "A realistic, high-contrast portrait of a {argument name=\"subject\" default=\"handsome young adult male\"} positioned in the center and has messy hair with subtle natural imperfections. He projects a genuine, happy demeanor with a warm closed smile and relaxed eyes, standing naturally with relaxed shoulders and his hands tucked warmly inside the pockets of his {argument name=\"coat color\" default=\"heavy, deep navy-black overcoat\"} layered over a crisp white t-shirt. Directly in front of him in the foreground is a weathered, ornate dark metal railing featuring intricate circular patterns, its surface slightly frosted and wet with small patches of piled snow resting just behind it. Beyond the railing, the deep midground opens up to a massive, {argument name=\"location\" default=\"brightly illuminated outdoor ice skating rink\"}, its icy blue-white surface heavily scratched and scored from skate blades, highly reflective and dotted with small distant figures skating. The deep background reveals a historic, aged stone castle building on the left, featuring rough stone masonry, large arched windows, and a pointed tower roof entirely washed in warm amber-gold architectural uplighting. A tall stadium light pole with fiercely bright, blown-out white LED floodlights stands on the left edge, alongside bare, weathered deciduous trees against a dark cloudy night sky reflecting the ambient cloudy night gray city glow. The crisp, energetic winter atmosphere is sculpted by hard, highly directional mixed artificial lighting, producing harsh, deep black shadows under the chin, within the heavy folds of the coat, and cast behind the subject, while specular highlights gently illuminate his forehead and nose. Shot straight on with a 35mm lens at f/2.8 and 1/125s to keep the subject tack sharp against a slightly soft but readable background, the image is rendered with a split-complementary color palette, enhanced contrast, and an ISO of 1600 that introduces organic digital noise and grain into the sky, framed in a 3:4 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32673-247",
+      "title": "Rose Gold Shimmer City Walk",
+      "prompt": "Full-body photograph of a young curvey woman walking down a city street, wearing a {argument name=\"outfit\" default=\"metallic rose gold two-piece set featuring a cropped tank top and a matching high-waisted asymmetrical maxi skirt, both covered in layered, shimmering fringe\"}. Her {argument name=\"hair style\" default=\"long light-brown hair is styled in loose beach waves\"}, and she wears simple black strappy heeled sandals. The shot is captured from a {argument name=\"camera angle\" default=\"straight-on perspective with a shallow depth of field\"}, blurring the urban background and focus on her. Natural afternoon sunlight highlights the textures and sparkle of the fringe. A cursive delicate tiny minimalist .",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32677-249-Male-Winter-Portrait-at-Ice-Rink.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32673-247-Rose-Gold-Shimmer-City-Walk.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +723,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7575-678",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7575-680",
       "title": "Fantasy Movie Poster Style Conversion",
       "prompt": "The legend begins here! Raise the sword of light! Convert to a fantasy movie poster style.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7575-678-Fantasy-Movie-Poster-Style-Conversion.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7575-680-Fantasy-Movie-Poster-Style-Conversion.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -761,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32579-251",
-      "title": "Olive Green Cinematic Editorial Transformation",
-      "prompt": "Transform the uploaded image into an ultra-realistic, high-end cinematic fashion editorial portrait. Preserve the subject’s appearance, outfit, and natural proportions while creating a sophisticated {argument name=\"color scheme\" default=\"monochromatic olive-green\"} interior with {argument name=\"furniture\" default=\"sculptural furniture\"}, {argument name=\"forms\" default=\"curved forms\"} and warm golden-hour lighting. Use realistic skin texture, detailed fabric, soft cinematic shadows, natural reflections, premium editorial photography aesthetics, professional DSLR look, shallow depth of field, HDR, cinematic color grading, and ultra-detailed 4K quality.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32677-250",
+      "title": "Male Winter Portrait at Ice Rink",
+      "prompt": "A realistic, high-contrast portrait of a {argument name=\"subject\" default=\"handsome young adult male\"} positioned in the center and has messy hair with subtle natural imperfections. He projects a genuine, happy demeanor with a warm closed smile and relaxed eyes, standing naturally with relaxed shoulders and his hands tucked warmly inside the pockets of his {argument name=\"coat color\" default=\"heavy, deep navy-black overcoat\"} layered over a crisp white t-shirt. Directly in front of him in the foreground is a weathered, ornate dark metal railing featuring intricate circular patterns, its surface slightly frosted and wet with small patches of piled snow resting just behind it. Beyond the railing, the deep midground opens up to a massive, {argument name=\"location\" default=\"brightly illuminated outdoor ice skating rink\"}, its icy blue-white surface heavily scratched and scored from skate blades, highly reflective and dotted with small distant figures skating. The deep background reveals a historic, aged stone castle building on the left, featuring rough stone masonry, large arched windows, and a pointed tower roof entirely washed in warm amber-gold architectural uplighting. A tall stadium light pole with fiercely bright, blown-out white LED floodlights stands on the left edge, alongside bare, weathered deciduous trees against a dark cloudy night sky reflecting the ambient cloudy night gray city glow. The crisp, energetic winter atmosphere is sculpted by hard, highly directional mixed artificial lighting, producing harsh, deep black shadows under the chin, within the heavy folds of the coat, and cast behind the subject, while specular highlights gently illuminate his forehead and nose. Shot straight on with a 35mm lens at f/2.8 and 1/125s to keep the subject tack sharp against a slightly soft but readable background, the image is rendered with a split-complementary color palette, enhanced contrast, and an ISO of 1600 that introduces organic digital noise and grain into the sky, framed in a 3:4 aspect ratio.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32579-251-Olive-Green-Cinematic-Editorial-Transformation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32677-250-Male-Winter-Portrait-at-Ice-Rink.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +875,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7464-682",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-7464-684",
       "title": "Ultra-Realistic Portrait with Tribal Markings and Painterly Realism",
       "prompt": "A dramatic ultra-realistic portrait of a woman shown in extreme close-up, only half of her face visible. Her skin is painted with bold tribal markings in deep red, navy blue, and muted earth tones, layered with rough textures and symbolic patterns. One striking light-blue eye is sharply in focus, conveying strength, resilience, and quiet intensity. She wears weathered fabric and woven textiles around her head, with frayed edges and smallwooden beads, suggesting ancient or nomadic culture. Cinematic lighting with soft shadows, shallow depth of field, dark neutral background, hyper-detailed skin texture, painterly realism, 8K quality, editorial poster style, moody and powerful atmosphere.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7464-682-Ultra-Realistic-Portrait-with-Tribal-Markings-and-Painterly-Realism.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-7464-684-Ultra-Realistic-Portrait-with-Tribal-Markings-and-Painterly-Realism.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -913,12 +932,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32576-253",
-      "title": "Urban Café Candid Snapshot",
-      "prompt": "A straight on medium shot captures a woman lounging indoors at what appears to be a café or restaurant setting. She is wearing large headphones over her hair and sports dark sunglasses. Her attire includes an oversized {argument name=\"sweatshirt color\" default=\"navy blue\"} sweatshirt and she pairs it with white socks and {argument name=\"sneaker style\" default=\"green and white Nike\"} sneakers. She casually sips an iced beverage, suggesting a relaxed mood. The background features a combination of a {argument name=\"wall tile color\" default=\"deep green\"} tiled lower wall and a neutral, beige upper wall, adding a geometric texture to the scene. The lighting is soft and diffused, likely from natural ambient sources, casting minimal shadows and creating a neutral color palette dominated by green, navy, and beige tones. Likely captured on a smartphone, the image is a candid, urban snapshot with a casual, laid back atmosphere.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-32579-252",
+      "title": "Olive Green Cinematic Editorial Transformation",
+      "prompt": "Transform the uploaded image into an ultra-realistic, high-end cinematic fashion editorial portrait. Preserve the subject’s appearance, outfit, and natural proportions while creating a sophisticated {argument name=\"color scheme\" default=\"monochromatic olive-green\"} interior with {argument name=\"furniture\" default=\"sculptural furniture\"}, {argument name=\"forms\" default=\"curved forms\"} and warm golden-hour lighting. Use realistic skin texture, detailed fabric, soft cinematic shadows, natural reflections, premium editorial photography aesthetics, professional DSLR look, shallow depth of field, HDR, cinematic color grading, and ultra-detailed 4K quality.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32576-253-Urban-Caf-Candid-Snapshot.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-32579-252-Olive-Green-Cinematic-Editorial-Transformation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -928,25 +947,6 @@
       "author": "YouMind OpenLab",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/social-media-post.json",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:ym-ai-skill-infographic-edu-visual-9652-192",
-      "title": "Precise Natural History Illustration Prompt: Chinese Peacock Butterfly",
-      "prompt": "{argument name=\"subject\" default=\"Male Chinese Peacock Butterfly (spring form)\"} × {argument name=\"flower\" default=\"Rhododendron\"} — structural color gradient of the wings, yellow lateral stripe of the abdomen, nectar spot pattern of the petals",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/infographic-edu-visual/infographic-edu-visual-9652-192-Precise-Natural-History-Illustration-Prompt-Chinese-Peacock-Butterfly.webp",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Infographic / Education"
-      ],
-      "author": "YouMind OpenLab",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill/blob/main/references/infographic-edu-visual.json",
       "license": "upstream",
       "createdAt": null
     }
