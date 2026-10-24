@@ -2,11 +2,30 @@
   "items": [
     {
       "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-87",
+      "title": "Comic / Storyboard - The Lighthouse Keeper Storyboard",
+      "prompt": "{\n  \"title\": \"{argument name=\"story title\" default=\"The Lighthouse Keeper\"}\",\n\n  \"image_description\": \"A solitary lighthouse stands on a jagged cliff surrounded by a violent ocean storm. Towering waves crash against the rocks below. Lightning tears through dark clouds, briefly illuminating the ancient stone structure. Inside the lighthouse, an elderly keeper slowly climbs a spiral staircase carrying an old lantern. The walls are covered with faded photographs, letters and newspaper clippings spanning decades. Every ship route in the world was abandoned more than fifty years ago. No vessels pass here anymore. Yet every night, without fail, the keeper climbs to the top and turns on the light.\",\n\n  \"story_element\": {\n    \"twist\": \"{argument name=\"plot twist\" default=\"Nobody knows why he still does it.\"}\",\n    \"secret\": \"{argument name=\"the secret\" default=\"Tonight, for the first time in fifty years, a faint light appears on the horizon.\"}\"\n  },\n\n  \"environment\": {\n    \"weather\": \"Violent storm\",\n    \"time\": \"Midnight\",\n    \"atmosphere\": \"Lonely, mysterious, emotional\"\n  },\n\n  \"symbolism\": \"Faith and hope without proof.\",\n\n  \"cinematography\": {\n    \"camera_angle\": \"Low angle\",\n    \"lens\": \"85mm anamorphic\",\n    \"lighting\": \"Lightning flashes and warm lantern glow\"\n  },\n\n  \"mood\": [\n    \"Hope\",\n    \"Mystery\",\n    \"Loneliness\",\n    \"Determination\"\n  ],\n\n  \"quality\": {\n    \"style\": \"Oscar-winning cinematic drama\",\n    \"resolution\": \"8K\",\n    \"realism\": \"Ultra photorealistic\"\n  }\n}",
+      "media": "image",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-87-Comic-Storyboard-The-Lighthouse-Keeper-Storyboard.png",
+      "videoUrl": null,
+      "tags": [
+        "xianyu-multi-model",
+        "Nano Banana Pro",
+        "Video"
+      ],
+      "author": "Compound Learning - Tech | Science",
+      "source": "xianyu-multi-model",
+      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
+      "license": "upstream",
+      "createdAt": null
+    },
+    {
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-88",
       "title": "Product Marketing - Art-Deco Evening Gown Prompt",
       "prompt": "Theme:\n1920s Art-Deco opulence and high-society elegance at twilight.\n\nSubject:\nA Caucasian woman in her late twenties with a slender, graceful build, standing alone on a high-rise penthouse balcony.\n\nPerson · Expression:\nDefined facial structure with high cheekbones and a soft jawline. Her eyes are partially closed in a serene, contemplative expression, framed by long dark lashes. Her hair is a deep auburn with golden highlights, styled in thick waves cascading over one shoulder. The skin features a natural, soft texture with subtle pores and light freckles on the shoulders.\n\nClothing · Pose:\nAn emerald-green silk satin evening gown with a backless design and thin spaghetti straps. The skirt features high side slits that reveal the movement of the fabric. She is posed in a relaxed weight shift, with one hand resting on an ornate wrought-iron railing and the other holding a crystal champagne flute at chest height. Her head is tilted back slightly, savoring the atmosphere.\n\nBackground · Light:\nAn Art-Deco balcony with polished marble floors overlooking a sparkling city skyline. The scene is illuminated by the golden hour sun positioned behind the subject, creating a pronounced rim-light effect and making the silk appear translucent at the edges. The background transitions into a deep twilight blue sky with antique street lamps glowing below.\n\nComposition · Camera:\nA medium-full vertical shot from an eye-level perspective with a slight low-angle tilt. The composition follows the rule of thirds, using a shallow depth of field to maintain sharp focus on the subject and the condensation on the glass while the city becomes a soft, creamy bokeh.\n\nTexture · Style:\nUltra-photorealistic rendering with a focus on material contrast: the cool, reflective marble and wrought iron against the warm, soft texture of the skin and the liquid sheen of the satin gown. The color palette is a rich blend of emerald, gold, amber, and deep evening blues with a vintage cinematic grade.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-87-Product-Marketing-Art-Deco-Evening-Gown-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-88-Product-Marketing-Art-Deco-Evening-Gown-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -20,12 +39,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-88",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-89",
       "title": "Product Marketing - Origami Dreams Cyber Mirror Prompt",
       "prompt": "{\n  \"vibe_title_en\": \"Origami Dreams Reflected in Broken Cyber Mirrors\",\n  \"master_prompt\": \"A hyper-realistic surreal editorial photograph shot on Hasselblad H6D-100c, 80mm f/1.4 lens. The camera focuses exclusively on a fractured, viscous metallic puddle on the dark floor. Reflected sharply within this cracked surface is The Protagonist, sitting atop a massive, physically rigged origami airplane crafted from brushed aluminum. Dense, cryogenic studio fog mimics a sea of clouds below the structure. The actual subject in the background is heavily blurred by the shallow depth of field. The reflected Protagonist exhibits a cyber-ethereal synthetic beauty: impossibly symmetrical features, a piercing non-human gaze, and 'plasticized' skin that still reveals authentic micro-pores upon close inspection. The dark, minimalist brutalist chamber is illuminated by stark cyan and sharp white fluorescent rim lighting, catching the edges of the fog and the metal plane. Shot on Kodak Portra 800, heavy film grain, entirely practical high-budget effects, NO NEON, cinematic chiaroscuro.\",\n  \"meta\": {\n    \"intent\": \"Cinematic surrealism high-fashion portrait\",\n    \"priorities\": \"Distorted reflection framing, synthetic skin texture, practical surrealism\",\n    \"device_profile\": \"Medium Format Digital mimicking Analog Film\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Reflection-dominant, subject centered within the puddle's reflection while physical body remains blurred in the background\",\n    \"layout\": \"Lower half of frame dominates with sharp reflective puddle, upper half shows blurred physical scene\",\n    \"camera_angle\": \"High angle looking down at a 45-degree angle into the floor reflection\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"{argument name=\"Gender\" default=\"Female\"}\",\n    \"identity\": \"{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}\",\n    \"demographics\": \"Ageless, post-human perfection\",\n    \"face\": \"Uncannily symmetrical, plasticized sheen with distinct micro-pores\",\n    \"hair\": \"Sleek, heavily styled, synthetic-looking strands catching cyan rim light\",\n    \"body\": \"Statuesque, rigid posture\",\n    \"expression\": \"Blank, piercing, intensely observing the viewer through the reflection\",\n    \"pose\": \"Seated rigidly atop the metallic origami structure, leaning slightly forward to peer into the puddle\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"{argument name=\"Garment Item\" default=\"Structured shift dress\"}\",\n        \"material\": \"Teflon-coated synthetic silk\",\n        \"color\": \"Translucent icy white\",\n        \"fit\": \"Architectural and rigid\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Geometric ear cuffs\",\n        \"color\": \"Polished chrome\",\n        \"material\": \"Surgical steel\",\n        \"brand_style\": \"Avant-garde cyber minimalism\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Dark, minimalist brutalist aerospace testing chamber\",\n    \"surfaces\": \"Cracked concrete, viscous metallic fluid, brushed aluminum origa\"\n  }\n}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-88-Product-Marketing-Origami-Dreams-Cyber-Mirror-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-89-Product-Marketing-Origami-Dreams-Cyber-Mirror-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -39,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-89",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-90",
       "title": "Product Marketing - East Asian Woman in Gray Turtleneck Concrete Wall",
       "prompt": "A hyper-realistic 8K outdoor photograph of a beautiful East Asian woman , standing three-quarter against a pale concrete wall. Long straight dark-violet hair with blunt bangs, individual strands catching the sun. Round thin metal glasses, fair realistic skin with visible pores, brown eyes, glossy muted rose lips.\n\nShe wears a fitted gray ribbed short-sleeve turtleneck; the vertical ribs stretch across the bust with small highlights on each ridge. Matching gray arm sleeves sit below the short sleeves. Black high-waist trousers. Arms crossed loosely in front, one hand resting on the other forearm.\n\nLighting: hard midday sun from upper left, sharp shadow under the chin and across the torso, thin speculars on the rib-knit and the glasses frames. Soft wall bounce on the right side of the face. Shot on an 85mm f/2, shallow depth of field, photorealistic skin, peach fuzz, knit micro-texture, fashion editorial look.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-89-Product-Marketing-East-Asian-Woman-in-Gray-Turtleneck-Concrete-Wall.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-90-Product-Marketing-East-Asian-Woman-in-Gray-Turtleneck-Concrete-Wall.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -58,12 +77,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-90",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-91",
       "title": "Product Marketing - Full Armor Mecha Girl Concept Art",
       "prompt": "Full Armor Mecha Girl FAMG-001 Aurelith 1/7 scale plastic model, slim torso with high-heeled shaped legs, highly detailed concept art, realistic materials and lighting, white background, product photography style",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-90-Product-Marketing-Full-Armor-Mecha-Girl-Concept-Art.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-91-Product-Marketing-Full-Armor-Mecha-Girl-Concept-Art.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -77,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-91",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-92",
       "title": "Product Marketing - Red Carpet Fashion Photo Prompt",
       "prompt": "Use the uploaded image as the primary visual reference. Create an ultra-realistic, high-end red-carpet fashion photograph of the same woman, preserving her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and natural proportions with maximum accuracy. No identity drift or facial alteration.\n\nDress her in an exquisite icy silver-blue couture evening gown made from sheer translucent fabric, densely decorated with hundreds of individually visible crystal and rhinestone embellishments. The gown has a fitted long-sleeve illusion bodice, elegant high neckline, sculpted waist, and a sleek floor-length silhouette. Add a dramatic flowing light-blue sheer train cascading naturally down the stairs behind her. Crystal-studded silver open-toe heels, delicate diamond earrings, and a refined diamond necklace.\n\nPlace her standing gracefully on the grand cream-colored staircase of a prestigious fashion gala, facing the camera with a confident yet elegant expression. Behind her, a glamorous crowd of photographers and guests are taking photographs, with professional cameras and flashes visible. The staircase and surrounding railings are covered with sparkling crystal-like decorations.\n\nComposition: full-body portrait, head-to-toe visible, centered subject, elegant natural standing pose, train fully visible, realistic body proportions.\n\nPhotography: luxury fashion editorial photography, cinematic depth of field, realistic flash photography, soft ambient lighting, subtle reflections from crystals, natural skin pores and texture, highly detailed fabric, physically accurate rhinestones, realistic hands and fingers, premium Vogue-style aesthetic, photorealistic, 8K detail.\n\nNegative prompt: cartoon, CGI, 3D render, plastic skin, excessive beauty retouching, altered face, different person, identity drift, distorted anatomy, extra fingers, malformed hands, blurry face, oversized jewelry, unrealistic crystals, artificial-looking fabric, duplicate people, text, logo, watermark.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-91-Product-Marketing-Red-Carpet-Fashion-Photo-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-92-Product-Marketing-Red-Carpet-Fashion-Photo-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-92",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-93",
       "title": "Product Marketing - Luxury Fashion Editorial Photo",
       "prompt": "Ultra-realistic high-end fashion editorial photo of an elegant young woman posing against a glossy black luxury sedan. She is seated sideways on the edge of the car, with one leg crossed naturally over the other, one hand resting on the car beside her, and her body slightly angled toward the camera. She has shoulder-length softly wavy light-brown hair, delicate facial features, natural makeup, subtle eyeliner, and a calm, confident expression looking directly at the camera.\n\nShe wears a fitted black high-neck top, tailored black trousers, and a long structured black blazer draped naturally over her shoulders. The blazer has sharp elegant shoulders and a sophisticated luxury-fashion silhouette. The black sedan fills the background, with glossy reflections, dark tinted windows, visible door handle and a large premium alloy wheel on the right side.\n\nModern luxury showroom/indoor architectural setting, dark neutral tones, soft diffused cinematic lighting, realistic reflections on the car, shallow depth of field, subtle background blur, natural skin texture, detailed hair strands, realistic fabric texture, sophisticated black-on-black aesthetic, luxury automotive campaign, Vogue-style fashion photography, 85mm lens, eye-level camera, vertical full-body composition, photorealistic, ultra-detailed, 4K, no text, no watermark.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-92-Product-Marketing-Luxury-Fashion-Editorial-Photo.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-93-Product-Marketing-Luxury-Fashion-Editorial-Photo.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-93",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-94",
       "title": "Product Marketing - Surreal Candy Doll Character Prompt",
       "prompt": "A surreal doll with 5 heads, 10 ears, 2 arms and 2 legs seated on a fashionable high-chair. The central face is a realistic asian female face, the left face is wearing a Carnival mask, the right face is green like Hulk, The far right face is that of a dog, while the far-left face is that of a cat. The body is entirely made of glossy, translucent.multi-colored candy braided and twisted together, with a smooth confectionery sheen. Left arm is made of octopus tentacles. The right leg is made up of tree-roots.  She is seated on a tall high-chair for a professional high-fashion studio photoshoot, slouching naturally into an unusual, relaxed editorial pose. The five heads emerge cohesively from the same single body, creating an intentional surreal couture silhouette rather than separate figures.  Clean, plain studio background. Light pink dominates the candy-plastic body, with subtle muted reddish specular highlights catching the glossy surfaces. Soft, controlled professional studio lighting, muted pastel color palette, sophisticated fashion-editorial aesthetic, realistic facial skin contrasted against the artificial candy-plastic body, refined material detail, polished photographic finish.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-93-Product-Marketing-Surreal-Candy-Doll-Character-Prompt.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-94-Product-Marketing-Surreal-Candy-Doll-Character-Prompt.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,12 +153,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-94",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-95",
       "title": "Product Marketing - Luxury Bathtub Fashion Portrait",
       "prompt": "Use the uploaded reference image as the exact facial identity reference. Preserve her face, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and identity exactly — no identity drift or facial alteration.\n\nCreate an ultra-photorealistic colorful luxury fashion portrait of the same woman reclining elegantly inside a luxurious white freestanding bathtub. She wears a deep emerald-green satin floor-length gown with elegant draping and long black opera gloves. Add layered diamond necklaces, sparkling earrings, and refined luxury jewelry.\n\nShe holds a crystal wine glass filled with rich red wine in one hand, while her other gloved hand rests gracefully near her head. Her hair is sleek and polished, with a confident, mysterious expression and direct eye contact with the camera.\n\nLuxurious cream-and-gold marble bathroom, warm champagne lighting, subtle reflections, rich emerald, burgundy and gold color palette, cinematic shadows, glowing highlights, realistic satin texture, natural skin pores, realistic jewelry sparkle, high-fashion editorial photography, sophisticated Hollywood cinematography, 85mm lens, shallow depth of field, ultra-detailed, photorealistic, elegant and glamorous.\n\nVertical 4:5, full-body composition, cinematic luxury editorial, realistic colors, no AI look.\n\nNegative prompt: different face, identity drift, altered facial features, plastic skin, over-retouching, distorted hands, extra fingers, bad anatomy, CGI, cartoon, blurry, low quality, watermark, text, logo.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-94-Product-Marketing-Luxury-Bathtub-Fashion-Portrait.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-95-Product-Marketing-Luxury-Bathtub-Fashion-Portrait.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -153,12 +172,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-95",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-96",
       "title": "Product Marketing - Luxury Fashion Editorial with Sports Sedan",
       "prompt": "Create a photorealistic luxury fashion editorial of an elegant young woman standing confidently in front of a glossy brown luxury sports sedan, parked on a sophisticated European-style city street. She wears a tailored chocolate-brown blazer, matching high-waisted trousers, a silky brown blouse, and pointed brown heels. Long softly wavy brown hair, natural flawless skin, subtle luxury makeup, confident expression. Warm beige historic architecture with tall arched windows and boutique entrance in the background, cinematic golden-hour lighting, shallow depth of field, realistic reflections on the car, premium fashion campaign aesthetic, full-body composition, vertical 4:5, ultra-detailed, realistic photography, no text, no watermark, no distorted hands or face.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-95-Product-Marketing-Luxury-Fashion-Editorial-with-Sports-Sedan.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-96-Product-Marketing-Luxury-Fashion-Editorial-with-Sports-Sedan.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -172,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-96",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-97",
       "title": "Product Marketing - Cinematic Luxury Evening Portrait by Infinity Pool",
       "prompt": "Use the uploaded image as the exact visual and facial reference. Preserve the woman’s facial identity, facial proportions, hairstyle, and overall appearance with zero identity drift.\n\nCreate a photorealistic cinematic luxury evening portrait of the same woman standing beside a calm infinity pool overlooking a modern waterfront city skyline at blue hour/night. She wears an elegant floor-length silver-white couture gown with delicate crystal embellishments, thin straps, a fitted embellished bodice, flowing pleated skirt, and a subtle train. Add matching sparkling silver high heels.\n\nKeep the same graceful side-profile pose as the reference: body slightly turned sideways toward the camera, shoulders relaxed, one arm naturally resting beside her body, elegant posture, soft confident gaze directly toward the camera.\n\nThe pool should reflect the surrounding city lights naturally. In the background, show a sophisticated modern skyline with tall illuminated towers, softly blurred for cinematic depth of field. Include a realistic, naturally sized full moon in the upper sky — not oversized — with subtle moonlight illuminating the scene. Gentle evening breeze moves a few strands of her hair and the gown slightly.\n\nLighting: realistic moonlight mixed with soft ambient architectural lighting, subtle highlights on the silver dress, natural skin tones, realistic shadows, cinematic contrast, soft atmospheric haze.\n\nCamera: full-body composition, eye-level camera, 85mm portrait lens, shallow depth of field, realistic bokeh, sharp subject, detailed fabric texture, natural skin pores.\n\nStyle: high-end luxury fashion editorial, cinematic photography, ultra-photorealistic, sophisticated, elegant, realistic proportions, natural skin texture, no artificial AI appearance.\n\nNegative prompt: identity change, face drift, different person, altered facial features, oversized moon, plastic skin, excessive retouching, distorted hands, extra fingers, warped body, unnatural pose, cartoon, CGI look, oversaturated colors, excessive glow, duplicate person, blurry face, watermark, text, logo.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-96-Product-Marketing-Cinematic-Luxury-Evening-Portrait-by-Infinity-Pool.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-97-Product-Marketing-Cinematic-Luxury-Evening-Portrait-by-Infinity-Pool.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-97",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-98",
       "title": "Product Marketing - Cheetos Snack Ad Portrait",
       "prompt": "Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.\nThe model wears a glossy bright orange puffer jacket over a white t-shirt.\nBackground in a vibrant orange gradient with light yellow accents, bold and fun.\nSoft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.\nExpressive smile, fun street-commercial aesthetic.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-97-Product-Marketing-Cheetos-Snack-Ad-Portrait.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-98-Product-Marketing-Cheetos-Snack-Ad-Portrait.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +229,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-98",
+      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-99",
       "title": "Product Marketing - High-End Beauty Portrait with Reference",
       "prompt": "Use the uploaded image as the primary visual reference. Create a high-end photorealistic beauty portrait of the same woman, preserving her facial features, face shape, skin tone, eyes, nose, lips, and overall identity. She has dark brown hair styled in a messy elegant updo with loose wavy strands framing her face. Soft natural makeup, warm brown eyeshadow, subtle eyeliner, long lashes, glossy deep-red lips, and realistic glowing skin.\n\nShe wears an elegant deep burgundy sheer long-sleeve outfit with a high neckline. Her hand rests gracefully near her neck, showing delicate gold rings and detailed burgundy-and-gold nail art. Pose is slightly turned toward the camera with a soft, confident expression.\n\nWarm golden-orange cinematic lighting, strong soft rim light around the hair, cozy dark beige background, shallow depth of field, realistic skin texture, fine hair details, professional beauty photography, 85mm portrait lens, soft bokeh, cinematic color grading, ultra-detailed, photorealistic, 8K. No text, watermark, or logo.",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-98-Product-Marketing-High-End-Beauty-Portrait-with-Reference.jpg",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-99-Product-Marketing-High-End-Beauty-Portrait-with-Reference.jpg",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -223,25 +242,6 @@
         "Product"
       ],
       "author": "Aynah",
-      "source": "xianyu-multi-model",
-      "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
-      "license": "upstream",
-      "createdAt": null
-    },
-    {
-      "id": "xianyu-multi-model:import-YouMind-OpenLab-awesome-nano-banana-pro-prompts-99",
-      "title": "Product Marketing - Cheetos Snack Ad Portrait",
-      "prompt": "Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.\nThe model wears a glossy bright orange puffer jacket over a white t-shirt.\nBackground in a vibrant orange gradient with light yellow accents, bold and fun.\nSoft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.\nExpressive smile, fun street-commercial aesthetic.",
-      "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/awesome-nano-banana-pro-prompts/README-99-Product-Marketing-Cheetos-Snack-Ad-Portrait.jpg",
-      "videoUrl": null,
-      "tags": [
-        "xianyu-multi-model",
-        "Nano Banana Pro",
-        "Product"
-      ],
-      "author": "Duet | AI",
       "source": "xianyu-multi-model",
       "sourceUrl": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README.md",
       "license": "upstream",
