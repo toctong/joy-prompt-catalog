@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35563-39",
-      "title": "Cinematic Nighttime Lifestyle Portrait",
-      "prompt": "Create a photorealistic cinematic nighttime lifestyle portrait. Preserve the same reference woman’s recognizable facial structure, face shape, eyes, eyebrows, nose, lips, skin tone, complexion, and natural facial proportions from the reference. Maintain her identity-like appearance consistently. Natural skin texture, subtle pores, realistic details, no facial distortion. She is relaxing comfortably in an elegant cozy bedroom, sitting against soft pillows on a neatly made bed while reading a hardcover book. She wears luxurious ivory satin pajamas with a relaxed low bun and a few natural strands framing her face, plus delicate gold hoop earrings. A fluffy cream-colored cat sleeps peacefully beside her. A warm bedside lamp casts soft golden light while cool blue moonlight enters through a large window, creating a beautiful warm-and-cool cinematic contrast. A cup of tea sits on the wooden nightstand beside the lamp. Soft beige bedding, elegant neutral interiors, realistic fabric textures, intimate peaceful nighttime atmosphere. CAMERA & STYLE: Photorealistic cinematic photography, 50mm lens, natural perspective, shallow depth of field, soft bokeh, realistic skin and hair, subtle filmic lighting, soft shadows, premium luxury lifestyle photography, highly detailed, natural colors, 8K realism. Negative Prompt identity drift, different face, altered facial structure, distorted face, asymmetrical eyes, unnatural eyes, deformed hands, extra fingers, missing fingers, fused fingers, malformed limbs, bad anatomy, plastic skin, overly smooth skin, excessive makeup, unnatural hair, duplicate person, duplicate cat, distorted cat, floating objects, warped book, unreadable text, CGI, cartoon, illustration, 3D render, oversaturated colors, harsh lighting, excessive blur, low resolution, noise, artifacts, watermark, logo, text, cropped face, unnatural pose",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35562-39",
+      "title": "Fine-Art Studio Portrait with Butterfly Lighting",
+      "prompt": "{ \"style_prompt_template\": { \"subject\": \"{argument name=\"person\" default=\"{{PERSON_NAME_OR_IMAGE}}\"}\", \"aspect_ratio\": \"9:16 vertical\", \"canvas_size_guidance\": \"1080x1920 or equivalent 9:16\", \"shot_type\": \"medium portrait shot, zoomed out 50% from tight close-up, head-to-mid-torso visible, facing camera\", \"photography_style\": \"dramatic black and white studio portrait, editorial/fine-art photography\", \"composition\": { \"face_position\": \"subject's face centered both horizontally and vertically in the frame\", \"face_size_in_frame\": \"face occupies roughly 20-25% of frame height, not tightly cropped, ample negative space around subject\", \"eye_line\": \"eyes aligned at approximate vertical center of the canvas\", \"headroom\": \"generous margin above the hair, clear dark space visible above head\", \"crop\": \"visible down to mid-chest or waist, more of the suit and shoulders shown, wider view than a tight headshot\", \"surrounding_space\": \"large area of negative black space surrounding subject on left, right, top, and bottom\", \"alignment\": \"subject facing straight into camera, symmetrical framing, no off-center offset\" }, \"lighting\": { \"type\": \"single hard top-down spotlight (butterfly/Paramount lighting)\", \"quality\": \"harsh, narrow beam creating strong falloff\", \"key_highlight\": \"top of hair and forehead catch bright rim light\", \"shadow_behavior\": \"deep shadows under brow, cheekbones, and jawline; steep light-to-dark gradient across face\", \"background_light\": \"none; background falls into near-total darkness with faint gradient near top edge, spotlight cone visible in wider frame\" }, \"color_treatment\": \"monochrome black and white, high contrast, deep blacks, no gray midtone flatness\", \"background\": \"solid black or near-black, subtle vignette, no visible texture or props, large expanse of negative space\", \"wardrobe\": \"dark tailored suit jacket, white dress shirt, dark tie, formal/business attire, full torso visible\", \"expression_and_pose\": \"neutral to serious expression, calm and composed, minimal smile, direct gaze into lens, relaxed shoulders\", \"skin_and_texture_detail\": \"visible natural skin texture, pores, fine wrinkles, stubble if present, unretouched realism\", \"hair_detail\": \"individual strands visible and crisply lit, natural texture, not overly styled\", \"camera_and_lens\": \"shot as if on medium format camera, 50mm-85mm equivalent lens, greater working distance from subject, shallow depth of field, tack-sharp focus on eyes\", \"grain_and_finish\": \"fine film-like grain, high dynamic range, crisp micro-contrast, glossy editorial finish\", \"mood\": \"intense, powerful, cinematic, timeless\" }, \"negative_prompt\": \"color cast, flat lighting, soft focus, blown highlights on face, busy background, smiling broad\" }",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35563-39-Cinematic-Nighttime-Lifestyle-Portrait.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35562-39-Fine-Art-Studio-Portrait-with-Butterfly-Lighting.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",
@@ -20,16 +20,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35799-59",
-      "title": "Chess King Strategic Power Portrait Prompt",
-      "prompt": "CONCEPT — EXACT: A layered composite — a massive faded close-up ghost portrait fills the upper background blending into a dark marble-textured backdrop, and a smaller sharp full-color standing portrait of the same man stands in the foreground beside a giant oversized black chess king piece, strategic power-and-leadership theme. BACKGROUND GHOST PORTRAIT — EXACT: Large faded close-up portrait, head turned slightly, calm intense composed gaze, short neat hair, light beard, blending into the dark grey-black marble texture so it reads as a subtle tonal overlay. MAIN SUBJECT — FOREGROUND — EXACT: Standing pose beside a giant black marble chess king piece taller than himself, one hand resting on top of the chess piece's crown, other hand tucked into the trouser pocket, calm confident composed gaze toward camera. MAIN SUBJECT IDENTITY LOCK: Foreground face must match the ghost portrait exactly — same jaw width, cheek fullness, beard density, nose shape, and lip shape, with natural head-to-body proportion. BODY: Medium-tan skin tone, lean build, confident composed standing posture. OUTFIT: Black tailored double-breasted overcoat over a black turtleneck, black tailored trousers, black leather dress shoes, silver wristwatch. PROP DETAIL — EXACT: An oversized black marble chess king piece with intricate carved detailing standing beside the subject, smaller white and black chess pieces scattered across a checkered marble floor in the foreground. BACKGROUND — EXACT: Dark grey-black marble hall with soft veining texture, subtle checkered marble floor pattern, dramatic empty space suggesting scale and power. LIGHTING — EXACT: Single dramatic side-key light, deep shadow across half the marble hall, crisp highlight along the chess piece's carved edges and the subject's jawline. COLOR GRADE — EXACT: Deep charcoal-and-black dominant palette throughout, cool marble-grey undertones, natural warm skin tone providing the only contrast, dramatic high-end editorial power-portrait color grading with ultra-detailed 8K sharpness. Shot on Sony A7R IV, 50mm f/1.8 — foreground subject and chess piece tack sharp with fabric and stone detail crisp, background ghost portrait softly blended. Ultra photorealistic — zero AI artifacts, no watermark. IMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity in BOTH the ghosted background portrait AND the full-color foreground standing figure. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, beard density, moustache style, jawline, skin tone, facial texture, masculine proportions, and all natural imperfections exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, feminize, or replace my face with a random celebrity or model",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35845-60",
+      "title": "Full-body Fashion Editorial with Identity Preservation",
+      "prompt": "Use the reference image as the identity reference only. Preserve the girl’s exact facial identity, facial structure, eyes, nose, lips, skin tone, and recognizable features with no identity drift. Create a full-body fashion editorial photograph, showing her completely from head to toe, with both feet visible. A striking young woman standing confidently in an otherworldly luxury fashion studio, wearing an avant-garde sculptural gown made from flowing translucent silver fabric and delicate metallic petals, asymmetric silhouette, architectural shoulders, subtle crystal embellishments, elegant high-fashion styling, sleek dark hair, minimal silver jewelry, natural confident expression. The fabric gently moves with a soft breeze. Reflective black floor, geometric architectural shadows, sophisticated futuristic atmosphere, premium haute couture editorial, realistic fabric texture, natural skin pores and fine facial details, realistic hands and fingers, anatomically correct proportions, photorealistic photography, full-body composition, camera positioned at eye level and far enough away to capture the entire body without cropping, 85mm fashion photography, soft directional studio lighting, ultra-detailed, 8K, luxury magazine aesthetic, same reference face, consistent identity, no face alteration. Negative prompt: identity drift, different face, altered facial features, face morphing, cropped head, cropped feet, half-body, close-up, distorted anatomy, elongated limbs, bad proportions, extra fingers, malformed hands, duplicate limbs, plastic skin, over-smoothed skin, CGI, cartoon, unrealistic fabric, blurry face, asymmetrical eyes, low resolution, text, logo, watermark.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35799-59-Chess-King-Strategic-Power-Portrait-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35845-60-Full-body-Fashion-Editorial-with-Identity-Preservation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -58,12 +58,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8648-90",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8648-91",
       "title": "Cinematic Close-Up of Crispy Chicken Nuggets",
       "prompt": "A slow, cinematic close-up video of crispy golden chicken nuggets. One nugget is bitten in half, revealing tender, juicy shredded white meat inside. The extra-crunchy panko coating glistens with golden-brown highlights and coarse sea salt flakes. Camera gently pans and slowly zooms in, with warm, inviting lighting and soft shallow depth of field creating a dreamy bokeh background. Out-of-focus nuggets in the background add depth. The coating crunch subtly emphasized with slow-motion micro-detail shots, highlighting texture and golden crispiness. Professional food styling, hyper-realistic, appetizing, mouthwatering, [food], 4K, cinematic lighting, smooth camera movement.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8648-90-Cinematic-Close-Up-of-Crispy-Chicken-Nuggets.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8648-91-Cinematic-Close-Up-of-Crispy-Chicken-Nuggets.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33384-125",
-      "title": "POV Perspective from Starbucks Cup",
-      "prompt": "Extreme low-angle, POV shot looking straight up from inside the bottom of a transparent {argument name=\"brand\" default=\"Starbucks\"} plastic cup. In the immediate foreground, vibrant {argument name=\"drink texture\" default=\"red crushed strawberry puree and slushy ice\"} fill the bottom edge with glossy, detailed texture. Whipped cream and strawberry sauce drip down the clear inner walls of the cup, with the green Starbucks siren logo visible on the sides. Looking up through the circular opening of the cup against a vivid clear blue summer sky, a young {argument name=\"subject\" default=\"East Asian man\"} with short dark parted hair looks directly down into the camera with wide, expressive eyes, drinking from a classic green straw that extends straight down into the cup. Bright, direct sunlight, sharp focus, vibrant summery aesthetic, shot on wide-angle lens, mobile photography perspective, high resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33378-126",
+      "title": "Vintage Glamour Fashion Portrait",
+      "prompt": "A close-up stylized fashion portrait of a young woman with a short, wavy {argument name=\"hair color\" default=\"platinum blonde\"} bob slightly tousled by the wind. She has heavy sun-kissed freckles across her cheeks and nose, glowing porcelain skin, and plump {argument name=\"lip color\" default=\"glossy red\"} lips, tilting her head slightly upward. She wears round vintage metal-frame sunglasses with warm amber-tinted lenses, delicate drop earrings, and a {argument name=\"outfit style\" default=\"vintage ruffled high-collar blouse\"} featuring a vibrant red and cream floral print, adorned with a large, glossy crimson satin pussy-bow ribbon tied at the neck. Moody studio lighting with soft, warm directional sunlight, dark muted background, retro editorial aesthetic, highly detailed digital painting, 8k resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33384-125-POV-Perspective-from-Starbucks-Cup.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33378-126-Vintage-Glamour-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -115,12 +115,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-22033-134",
-      "title": "Gemini Cyberpunk Dimension",
-      "prompt": "Gemini, Gemini constellation {argument name=\"location\" default=\"Another dimension\"} {argument name=\"style\" default=\"Cyberpunk\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-22032-134",
+      "title": "Fantasy Stellar Gemini Dimension",
+      "prompt": "Gemini, Gemini constellation {argument name=\"location\" default=\"Another dimension\"} {argument name=\"style\" default=\"Fantasy stellar style\"}",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-22033-134-Gemini-Cyberpunk-Dimension.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-22032-134-Fantasy-Stellar-Gemini-Dimension.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -191,12 +191,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35558-40",
-      "title": "Autumn Jacket Portrait",
-      "prompt": "Realistic 3:4 photo, vertical portrait. Do not change the girl’s appearance. Natural hairstyle, hair lying freely on the shoulders. Medium-length square manicure in a milky color. The girl is wearing a dark brown cropped leather jacket, a brown plaid shirt, and black leggings. She is standing by a modern metal railing, leaning slightly back, right hand behind her head. Face in left profile, eyes closed, head slightly tilted upward. Background of dense autumn foliage: bright orange, yellow, red, and green leaves, a tree trunk with green ivy on the left. Soft natural daylight, no harsh shadows. Background sharp, no blur. Pinterest and lifestyle aesthetic, high detail and natural skin texture, shot in iPhone 17 Pro style. A lively spontaneous frame without posing, natural everyday look.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35563-40",
+      "title": "Cinematic Nighttime Lifestyle Portrait",
+      "prompt": "Create a photorealistic cinematic nighttime lifestyle portrait. Preserve the same reference woman’s recognizable facial structure, face shape, eyes, eyebrows, nose, lips, skin tone, complexion, and natural facial proportions from the reference. Maintain her identity-like appearance consistently. Natural skin texture, subtle pores, realistic details, no facial distortion. She is relaxing comfortably in an elegant cozy bedroom, sitting against soft pillows on a neatly made bed while reading a hardcover book. She wears luxurious ivory satin pajamas with a relaxed low bun and a few natural strands framing her face, plus delicate gold hoop earrings. A fluffy cream-colored cat sleeps peacefully beside her. A warm bedside lamp casts soft golden light while cool blue moonlight enters through a large window, creating a beautiful warm-and-cool cinematic contrast. A cup of tea sits on the wooden nightstand beside the lamp. Soft beige bedding, elegant neutral interiors, realistic fabric textures, intimate peaceful nighttime atmosphere. CAMERA & STYLE: Photorealistic cinematic photography, 50mm lens, natural perspective, shallow depth of field, soft bokeh, realistic skin and hair, subtle filmic lighting, soft shadows, premium luxury lifestyle photography, highly detailed, natural colors, 8K realism. Negative Prompt identity drift, different face, altered facial structure, distorted face, asymmetrical eyes, unnatural eyes, deformed hands, extra fingers, missing fingers, fused fingers, malformed limbs, bad anatomy, plastic skin, overly smooth skin, excessive makeup, unnatural hair, duplicate person, duplicate cat, distorted cat, floating objects, warped book, unreadable text, CGI, cartoon, illustration, 3D render, oversaturated colors, harsh lighting, excessive blur, low resolution, noise, artifacts, watermark, logo, text, cropped face, unnatural pose",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35558-40-Autumn-Jacket-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35563-40-Cinematic-Nighttime-Lifestyle-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,16 +210,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35801-60",
-      "title": "Recreate Image with Vines and Neon Lights",
-      "prompt": "recreate the image, but her face is slightly behind vines and flowers on a platform on the ocean with secessionist lamps around it. Various camera angles, neon intense light in violet and blue, night time",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35800-61",
+      "title": "Pastel Blue Knit Sweater Boutique Portrait",
+      "prompt": "A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers.Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35801-60-Recreate-Image-with-Vines-and-Neon-Lights.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35800-61-Pastel-Blue-Knit-Sweater-Boutique-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -248,12 +248,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8503-98",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8503-99",
       "title": "Cinematic Sci-Fi Landscape and Fintech UI Design Prompts",
       "prompt": "This one for Nano Banana Pro 4k: Cinematic sci-fi landscape, a massive pale celestial moon dominating the sky partially obscured by layers of thick clouds, a rugged rocky coastline with sparse ancient vegetation on the left, calm water in the foreground reflecting the scene, a solitary silhouette of a person standing on a rock ledge for scale, heavy atmospheric blue mist and fog, soft diffuse lighting, ethereal and dreamlike mood, cool color palette of icy blues and whites, high-quality digital matte painting, 4k resolution, photorealistic concept art. This for the frontend: High-fidelity UI design overlay for a modern fintech SaaS landing page, minimalist navigation bar with \"Flowstate\" logo and centered menu links, \"Get Started\" button in top right, centered hero section layout, pill-shaped transparent badge reading \"INFRASTRUCTURE FOR NEXT FINANCIAL LAYER\", large bold sans-serif headline \"Trust-first infrastructure for digital finance\", clean paragraph subtext below, primary solid black rounded button next to a secondary text link button, bottom row featuring monochrome trusted company logos (Google, Microsoft, Stripe), glassmorphism effects, white typography, transparent background, sleek Figma interface design",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8503-98-Cinematic-Sci-Fi-Landscape-and-Fintech-UI-Design-Prompts.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8503-99-Cinematic-Sci-Fi-Landscape-and-Fintech-UI-Design-Prompts.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33390-126",
-      "title": "Cinematic Macro Fluid Art Portrait",
-      "prompt": "A cinematic macro fashion portrait of a woman integrated with dynamic fluid art. She has flawless skin, subtle gold shimmer eyeshadow, and glowing {argument name=\"eye color\" default=\"turquoise\"} eyes gazing forward. Her hair is a cascade of {argument name=\"hair color\" default=\"deep cerulean blue\"} intermixed with vibrant splatters of wet paint, melting droplets, and suspended amber-colored resin beads. Cascading down her collarbones and shoulders, the paint congeals into an haute couture wearable sculpture made of liquid streams, thick impasto textures, and dripping paint drops in rich {argument name=\"paint colors\" default=\"orange, yellow, and midnight blue\"}. Soft studio lighting, realistic reflections, shallow depth of field.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33384-127",
+      "title": "POV Perspective from Starbucks Cup",
+      "prompt": "Extreme low-angle, POV shot looking straight up from inside the bottom of a transparent {argument name=\"brand\" default=\"Starbucks\"} plastic cup. In the immediate foreground, vibrant {argument name=\"drink texture\" default=\"red crushed strawberry puree and slushy ice\"} fill the bottom edge with glossy, detailed texture. Whipped cream and strawberry sauce drip down the clear inner walls of the cup, with the green Starbucks siren logo visible on the sides. Looking up through the circular opening of the cup against a vivid clear blue summer sky, a young {argument name=\"subject\" default=\"East Asian man\"} with short dark parted hair looks directly down into the camera with wide, expressive eyes, drinking from a classic green straw that extends straight down into the cup. Bright, direct sunlight, sharp focus, vibrant summery aesthetic, shot on wide-angle lens, mobile photography perspective, high resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33390-126-Cinematic-Macro-Fluid-Art-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33384-127-POV-Perspective-from-Starbucks-Cup.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -305,16 +305,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-21471-137",
-      "title": "Baroquepunk Royal Garden Miniature",
-      "prompt": "Whimsical {argument name=\"subject\" default=\"miniature world depiction of a royal garden courtyard with fountain ceremony\"} in an artistic {argument name=\"style\" default=\"baroquepunk\"} style.",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-22033-135",
+      "title": "Gemini Cyberpunk Dimension",
+      "prompt": "Gemini, Gemini constellation {argument name=\"location\" default=\"Another dimension\"} {argument name=\"style\" default=\"Cyberpunk\"}",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-21471-137-Baroquepunk-Royal-Garden-Miniature.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-22033-135-Gemini-Cyberpunk-Dimension.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Game Asset"
       ],
       "author": "YouMind OpenLab",
@@ -381,16 +381,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35560-41",
-      "title": "Nano Banana Pro vs GPT Image 2 & Others Comparison",
-      "prompt": "Photorealistic photograph of an unmistakably adult woman. Use the supplied live-action reference photo as the absolute authority for her identity: exact facial structure, short silver-grey bob with straight bangs, hair color and texture, pale skin, real body proportions, silhouette, and overall presence. Preserve clear recognizability. do not replace her face, do not copy the reference photo’s original outfit. full-body standing portrait, smiling at the camera, hands on her skirt as it moves. Vertical crop from grass to above the head. WARDROBE: white off-shoulder lace maxi dress with ruffles and a flowing skirt, aviator sunglasses, simple jewelry and a watch. Do not copy clothing from the reference photo. SETTING: bright valley — fruit trees, wildflowers, a grazing deer, high waterfall, green mountains, birds in a clear sky. LIGHTING AND CAMERA: photoreal midday sun, natural pores, her real face readable under or around the sunglasses. Live-action photograph, 35mm, subject sharp, landscape clear. 2:3 or 3:4 portrait. One adult character only. No extra people, no text, no logos.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35558-41",
+      "title": "Autumn Jacket Portrait",
+      "prompt": "Realistic 3:4 photo, vertical portrait. Do not change the girl’s appearance. Natural hairstyle, hair lying freely on the shoulders. Medium-length square manicure in a milky color. The girl is wearing a dark brown cropped leather jacket, a brown plaid shirt, and black leggings. She is standing by a modern metal railing, leaning slightly back, right hand behind her head. Face in left profile, eyes closed, head slightly tilted upward. Background of dense autumn foliage: bright orange, yellow, red, and green leaves, a tree trunk with green ivy on the left. Soft natural daylight, no harsh shadows. Background sharp, no blur. Pinterest and lifestyle aesthetic, high detail and natural skin texture, shot in iPhone 17 Pro style. A lively spontaneous frame without posing, natural everyday look.",
       "media": "image",
-      "model": "Seedream 5 Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35560-41-Nano-Banana-Pro-vs-GPT-Image-2-Others-Comparison.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35558-41-Autumn-Jacket-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Seedream 5 Pro",
+        "AI Image Model",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",
@@ -400,16 +400,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35746-63",
-      "title": "Desert Fashion Portrait Prompt",
-      "prompt": "Use the uploaded image as the master face reference. Create a full-body, photorealistic fashion portrait of the same woman standing gracefully in the middle of vast golden desert dunes at sunset. Preserve her exact facial identity, facial structure, eyes, nose, lips, skin tone, and natural features from the reference image. She has sleek, wet-look brown hair brushed back, subtle elegant makeup, small hoop earrings, delicate layered gold necklaces, and minimal gold bracelets. She wears an elegant ivory-white couture gown inspired by futuristic royal fashion: fitted sculptural bodice with a sophisticated wrapped neckline, long sheer flowing sleeves, structured layered fabric around the hips, a long floor-length skirt with dramatic overlapping panels, and an enormous lightweight flowing cape/train trailing naturally across the sand. The fabric should look physically real, soft, slightly translucent, and naturally affected by the desert breeze. She stands confidently facing the camera with a calm, elegant expression and relaxed natural posture. Full body visible from head to feet, including the gown and flowing train. Vast realistic sand dunes extend into the distance, detailed wind-shaped ripples in the foreground, warm natural sunlight, realistic atmospheric depth, subtle desert haze, authentic shadows, natural skin texture, realistic fabric folds and stitching, detailed hands and fingers. Photography: high-end luxury fashion editorial, realistic DSLR photography, 50mm lens, natural depth of field, sharp facial details, realistic proportions, true-to-life skin texture, soft golden-hour sunlight, natural color grading, extremely detailed, photorealistic, no artificial CGI appearance. Negative prompt: cartoon, anime, illustration, 3D render, plastic skin, overly smooth face, face distortion, identity change, different person, exaggerated makeup, unrealistic body proportions, extra fingers, malformed hands, duplicated limbs, warped dress, floating fabric, blurry face, low resolution, excessive glow, artificial background, text, logo, watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35799-62",
+      "title": "Chess King Strategic Power Portrait Prompt",
+      "prompt": "CONCEPT — EXACT: A layered composite — a massive faded close-up ghost portrait fills the upper background blending into a dark marble-textured backdrop, and a smaller sharp full-color standing portrait of the same man stands in the foreground beside a giant oversized black chess king piece, strategic power-and-leadership theme. BACKGROUND GHOST PORTRAIT — EXACT: Large faded close-up portrait, head turned slightly, calm intense composed gaze, short neat hair, light beard, blending into the dark grey-black marble texture so it reads as a subtle tonal overlay. MAIN SUBJECT — FOREGROUND — EXACT: Standing pose beside a giant black marble chess king piece taller than himself, one hand resting on top of the chess piece's crown, other hand tucked into the trouser pocket, calm confident composed gaze toward camera. MAIN SUBJECT IDENTITY LOCK: Foreground face must match the ghost portrait exactly — same jaw width, cheek fullness, beard density, nose shape, and lip shape, with natural head-to-body proportion. BODY: Medium-tan skin tone, lean build, confident composed standing posture. OUTFIT: Black tailored double-breasted overcoat over a black turtleneck, black tailored trousers, black leather dress shoes, silver wristwatch. PROP DETAIL — EXACT: An oversized black marble chess king piece with intricate carved detailing standing beside the subject, smaller white and black chess pieces scattered across a checkered marble floor in the foreground. BACKGROUND — EXACT: Dark grey-black marble hall with soft veining texture, subtle checkered marble floor pattern, dramatic empty space suggesting scale and power. LIGHTING — EXACT: Single dramatic side-key light, deep shadow across half the marble hall, crisp highlight along the chess piece's carved edges and the subject's jawline. COLOR GRADE — EXACT: Deep charcoal-and-black dominant palette throughout, cool marble-grey undertones, natural warm skin tone providing the only contrast, dramatic high-end editorial power-portrait color grading with ultra-detailed 8K sharpness. Shot on Sony A7R IV, 50mm f/1.8 — foreground subject and chess piece tack sharp with fabric and stone detail crisp, background ghost portrait softly blended. Ultra photorealistic — zero AI artifacts, no watermark. IMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity in BOTH the ghosted background portrait AND the full-color foreground standing figure. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, beard density, moustache style, jawline, skin tone, facial texture, masculine proportions, and all natural imperfections exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, feminize, or replace my face with a random celebrity or model",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35746-63-Desert-Fashion-Portrait-Prompt.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35799-62-Chess-King-Strategic-Power-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -438,12 +438,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8485-99",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8485-100",
       "title": "Prompt for 80s TV Style Villainess Character Design",
       "prompt": "Choose one impressive word from my past conversation history, design a female villain leader from a Tokusatsu show that strongly reflects that word, and draw it photorealistically in the style of an 80s TV program. Reproduce the world view with photorealism. Size 9:16",
       "media": "image",
       "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8485-99-Prompt-for-80s-TV-Style-Villainess-Character-Design.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8485-100-Prompt-for-80s-TV-Style-Villainess-Character-Design.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33400-127",
-      "title": "2D Flat Vector Fashion Illustration",
-      "prompt": "2D flat vector fashion illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, full body, wearing {argument name=\"trousers\" default=\"wide-leg trousers in mustard yellow with geometric print\"}, {argument name=\"blouse\" default=\"embroidered cream blouse with floral motifs\"}, minimal shadows, clean bold outlines, soft beige background, editorial fashion pose, 3:4",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33390-128",
+      "title": "Cinematic Macro Fluid Art Portrait",
+      "prompt": "A cinematic macro fashion portrait of a woman integrated with dynamic fluid art. She has flawless skin, subtle gold shimmer eyeshadow, and glowing {argument name=\"eye color\" default=\"turquoise\"} eyes gazing forward. Her hair is a cascade of {argument name=\"hair color\" default=\"deep cerulean blue\"} intermixed with vibrant splatters of wet paint, melting droplets, and suspended amber-colored resin beads. Cascading down her collarbones and shoulders, the paint congeals into an haute couture wearable sculpture made of liquid streams, thick impasto textures, and dripping paint drops in rich {argument name=\"paint colors\" default=\"orange, yellow, and midnight blue\"}. Soft studio lighting, realistic reflections, shallow depth of field.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33400-127-2D-Flat-Vector-Fashion-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33390-128-Cinematic-Macro-Fluid-Art-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -495,12 +495,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-20778-144",
-      "title": "Souls-like Snail Creature Design",
-      "prompt": "a {argument name=\"subject\" default=\"snail\"} in the style of a {argument name=\"game style\" default=\"souls-like video game\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-21471-138",
+      "title": "Baroquepunk Royal Garden Miniature",
+      "prompt": "Whimsical {argument name=\"subject\" default=\"miniature world depiction of a royal garden courtyard with fountain ceremony\"} in an artistic {argument name=\"style\" default=\"baroquepunk\"} style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-20778-144-Souls-like-Snail-Creature-Design.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-21471-138-Baroquepunk-Royal-Garden-Miniature.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -571,16 +571,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35512-42",
-      "title": "Icelandic Countryside Snap with Husky",
-      "prompt": "Use only the uploaded reference image to preserve the person’s identity. Preserve the face, facial structure, nose, lips, jawline, beard, hair, skin tone, age, and body proportions with 100% accuracy. Do not alter or beautify his facial features. Ultra-realistic candid editorial photograph of the man standing beside a rugged vintage utility vehicle in an open Icelandic countryside. He is shown in a natural side-profile pose, leaning casually against the vehicle with both hands in his jacket pockets, looking toward the distant landscape with a calm, thoughtful expression. He wears a dark brown distressed leather jacket with a high folded collar and visible metal zipper, dark olive/black trousers, and rugged outdoor clothing. His medium-length dark brown hair is naturally swept back, slightly tousled by the wind. A large Siberian Husky is positioned in the foreground beside him, emerging from the rear of the weathered vehicle. The dog has realistic black-and-white fur, striking pale blue eyes, and natural facial detail. Keep the dog slightly closer to the camera, creating authentic foreground depth. Background: vast rural Icelandic farmland, soft green rolling fields, dark volcanic soil, overcast pale-gray sky, muted earthy colors, rustic weathered vehicle details, subtle outdoor textures. Lighting: soft natural daylight under heavy overcast clouds, completely diffused light, gentle highlights on the leather jacket and dog's fur, very soft shadows, subtle atmospheric haze, cool muted tones with warm brown leather providing contrast. Windy, quiet, rugged Nordic mood. Shot on iPhone 17 Pro Max, 48 mm equivalent, RAW, HDR, natural depth of field, realistic lens rendering, vertical 4:5 aspect ratio, documentary fashion photography, authentic skin and hair texture, natural imperfections, cinematic but completely realistic, no beauty filter, no CGI, no artificial sharpness, no plastic skin, no AI-looking details.",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35560-42",
+      "title": "Nano Banana Pro vs GPT Image 2 & Others Comparison",
+      "prompt": "Photorealistic photograph of an unmistakably adult woman. Use the supplied live-action reference photo as the absolute authority for her identity: exact facial structure, short silver-grey bob with straight bangs, hair color and texture, pale skin, real body proportions, silhouette, and overall presence. Preserve clear recognizability. do not replace her face, do not copy the reference photo’s original outfit. full-body standing portrait, smiling at the camera, hands on her skirt as it moves. Vertical crop from grass to above the head. WARDROBE: white off-shoulder lace maxi dress with ruffles and a flowing skirt, aviator sunglasses, simple jewelry and a watch. Do not copy clothing from the reference photo. SETTING: bright valley — fruit trees, wildflowers, a grazing deer, high waterfall, green mountains, birds in a clear sky. LIGHTING AND CAMERA: photoreal midday sun, natural pores, her real face readable under or around the sunglasses. Live-action photograph, 35mm, subject sharp, landscape clear. 2:3 or 3:4 portrait. One adult character only. No extra people, no text, no logos.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35512-42-Icelandic-Countryside-Snap-with-Husky.webp",
+      "model": "Seedream 5 Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35560-42-Nano-Banana-Pro-vs-GPT-Image-2-Others-Comparison.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Seedream 5 Pro",
         "Profile / Avatar"
       ],
       "author": "YouMind OpenLab",
@@ -590,16 +590,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35747-64",
-      "title": "Nighttime Bedroom Reading Scene",
-      "prompt": "Create a photorealistic cinematic nighttime bedroom scene featuring an adult woman peacefully reading an open hardcover novel while sitting comfortably on a luxurious bed. She has delicate natural facial features, realistic skin texture, subtle makeup, and blonde hair styled in a relaxed messy low bun with a few soft strands framing her face. She is wearing elegant champagne-cream satin pajamas with a classic notched collar, black piping, long sleeves, and subtle buttons. Her posture is relaxed and natural as she looks down at the book with a calm, gentle expression. The bedroom feels warm, sophisticated, and cozy: plush cream bedding, oversized pillows, a soft upholstered beige headboard, elegant framed artwork, and a warm bedside lamp casting soft golden light. Beside her, a fluffy white cat is peacefully sleeping on the bed. Through the large window, a deep blue night sky, glowing full moon, and subtle distant city lights are visible. Add a small bedside table with a delicate cup of tea and a vase of fresh white flowers. Lighting: warm cinematic bedside lighting mixed with cool moonlight from the window, soft shadows, natural highlights, realistic skin tones, cozy evening atmosphere. Photography: photorealistic, luxury lifestyle editorial photography, 50mm lens, shallow depth of field, natural bokeh, soft film grain, realistic fabric textures, detailed hair strands, authentic skin pores, balanced exposure, cinematic composition, highly detailed, 8K. Negative prompt: CGI, cartoon, illustration, plastic skin, excessive makeup, distorted hands, extra fingers, deformed face, blurry details, artificial lighting, oversaturated colors, text, subtitles, logo, watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35801-63",
+      "title": "Recreate Image with Vines and Neon Lights",
+      "prompt": "recreate the image, but her face is slightly behind vines and flowers on a platform on the ocean with secessionist lamps around it. Various camera angles, neon intense light in violet and blue, night time",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35747-64-Nighttime-Bedroom-Reading-Scene.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35801-63-Recreate-Image-with-Vines-and-Neon-Lights.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -628,12 +628,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8290-100",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8290-101",
       "title": "Cinematic Automotive Triptych Portrait Prompt",
       "prompt": "Transform this image [UPLOAD YOUR IMAGE] into a 64K DSLR shot resolution of a ultra-hyperrealistic gritty, cinematic triptych-style portrait featuring a modern urban automotive lifestyle scene. The image is divided into three horizontal frames stacked vertically, each telling a different part of the story. Top frame: An intense close-up of a man’s face (same face as the uploaded image) reflected in a car’s side mirror. His expression is focused, calm, and determined. Soft natural light highlights skin texture, subtle stubble, and sharp facial features. The shallow depth of field blurs the background, creating a cinematic, introspective mood. Middle frame: A full-body shot of the same man leaning casually against a sleek black muscle car (Ferrari-style). He stands confidently in an industrial alleyway surrounded by concrete walls and urban architecture. Outfit: fitted black graphic t-shirt, slim gray trousers, brown low-top sneakers. Hands relaxed in pockets, posture confident but effortless. The car's glossy black paint reflects the surroundings, emphasizing power and elegance. Low-angle perspective adds dominance and strength. Bottom frame: A dramatic rear shot of the car, taillights glowing softly. A custom license plate is centered, adding authenticity and personality. The alley fades into darkness, with leading lines drawing attention to the vehicle's aggressive stance. Environment & Mood: Urban, industrial alley, concrete textures, muted tones. Mood: confidence, ambition, independence, modern masculinity. Atmosphere feels like a high-end automotive editorial or cinematic lifestyle campaign. Style & Technical Details:- Ultra-hyperrealistic photography Cinematic color grading (cool shadows, neutral highlights) High contrast with controlled blacks Shallow depth of field Soft natural lighting mixed with ambient city light Subtle film grain Sharp focus on subject, background slightly desaturated Camera & Quality: Shot on full-frame DSLR / mirrorless 35mm and 85mm lens combination Low ISO, crisp details 8K ultra-high resolution Professional automotive photography, editorial quality. Octane render, Ultra-hyperrealistic & Unreal Engine 5.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8290-100-Cinematic-Automotive-Triptych-Portrait-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8290-101-Cinematic-Automotive-Triptych-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33391-128",
-      "title": "Avant-Garde Chiaroscuro Red Portrait",
-      "prompt": "Dramatic avant-garde fashion portrait of a pale woman, high-contrast chiaroscuro lighting, wearing a wide-brimmed black fedora hat and a fitted black turtleneck. A sharp, curved horizontal shadow falls across her eyes and the bridge of her nose, casting the upper face into deep shadow while brightly illuminating her lower face. Glossy {argument name=\"lip color\" default=\"bright crimson red\"} lips, subtle freckles, sculpted jawline, smokey eye makeup, striking {argument name=\"eye color\" default=\"blue-grey\"} eyes peering through the shadow. Vivid {argument name=\"background color\" default=\"solid red\"} background, cinematic editorial photography, shot on 85mm lens, f/1.8, ultra-detailed skin texture, high fashion magazine cover style.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33400-129",
+      "title": "2D Flat Vector Fashion Illustration",
+      "prompt": "2D flat vector fashion illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, full body, wearing {argument name=\"trousers\" default=\"wide-leg trousers in mustard yellow with geometric print\"}, {argument name=\"blouse\" default=\"embroidered cream blouse with floral motifs\"}, minimal shadows, clean bold outlines, soft beige background, editorial fashion pose, 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33391-128-Avant-Garde-Chiaroscuro-Red-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33400-129-2D-Flat-Vector-Fashion-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -685,16 +685,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-19773-152",
-      "title": "Humanoid Mecha Robot at Night",
-      "prompt": "{ \"format\": \"Single cinematic frame for GPT Image\", \"technical_specs\": { \"camera\": \"Low angle shot, shallow depth of field\", \"lighting\": \"Night scene, neon blue accent lights, wet surfaces\", \"quality\": \"Ultra-detailed, 4K, photorealistic CGI\" }, \"main_subject\": { \"type\": \"Large humanoid robot mecha, 15 feet tall\", \"construction\": \"Built from {argument name=\"mecha parts\" default=\"black broadcast van parts\"} - visible vehicle chassis panels, wheels converted to leg joints, satellite dish on chest\", \"details\": [ \"Matte black metal body with blue LED strips\", \"Two massive vinyl record discs (like DJ turntable platters) rotating slowly on shoulders - black vinyl with glowing blue label centers\", \"{argument name=\"brand logo\" default=\"VTX logo\"} glowing blue on chest center\", \"Mechanical legs with exposed pistons\", \"Head section has two bright blue headlight eyes\", \"Arms have DJ mixer faders and knobs as decorative panel details\" ], \"pose\": \"Standing upright, right foot planted on cracked pavement, left leg slightly bent\" }, \"person_on_mecha\": { \"position\": \"Standing on top of the mecha's head section\", \"identity\": \"{argument name=\"subject identity\" default=\"Latin American man, early 40s, completely shaved head\"}\", \"clothing\": \"Dark navy jacket, black pants, boots\", \"pose\": \"Standing confidently, one hand gripping a handle, other hand raised in fist\", \"expression\": \"Calm, confident, looking forward\" }, \"environment\": { \"location\": \"Wet asphalt road at night\", \"background\": \"Urban warehouses with neon signs, industrial buildings\", \"weather\": \"Heavy rain, puddles on ground reflecting blue lights\", \"ground\": \"Cracked pavement around mecha's foot, visible impact damage\" }, \"lighting_and_color\": { \"primary\": \"Cool blue neon glow from mecha LEDs and spinning vinyl centers\", \"secondary\": \"Warm orange sparks from mechanical joints\", \"atmosphere\": \"Dark moody night, rain, wet reflections\", \"key_colors\": \"Matte black, electric blue, dark grey asphalt\" }, \"action_frozen\": \"Mid-step stomp - right foot creating cracks in pavement, shoulder vinyl discs slowly rotating with blue light trails, sparks visible from leg joints, rain droplets frozen in air around the scene\", \"avoid\": [ \"Weapons of any kind\", \"Cannons or guns\", \"Fire or flames\", \"Organic dinosaur features\", \"Green colors\", \"Forest or trees\", \"Multiple people\", \"Handheld weapons\", \"Excessive flying debris\" ] }",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-20778-145",
+      "title": "Souls-like Snail Creature Design",
+      "prompt": "a {argument name=\"subject\" default=\"snail\"} in the style of a {argument name=\"game style\" default=\"souls-like video game\"}",
       "media": "image",
-      "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-19773-152-Humanoid-Mecha-Robot-at-Night.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-20778-145-Souls-like-Snail-Creature-Design.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "GPT Image",
+        "AI Image Model",
         "Game Asset"
       ],
       "author": "YouMind OpenLab",
@@ -761,12 +761,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35513-43",
-      "title": "Realistic Tiger Selfie Generation",
-      "prompt": "Ultra-realistic candid smartphone selfie at a wildlife park, capturing a spontaneous and unusual close interaction between the man attached in the uploaded reference image and a large adult Bengal tiger. The man is holding the phone at arm’s length in a natural selfie position, looking directly toward the camera with a genuine relaxed smile. His expression should feel completely spontaneous and unposed, as if someone unexpectedly captured a funny moment between him and the tiger. A large adult Bengal tiger is positioned extremely close to the man, with its front legs naturally wrapped around his shoulders and upper torso in a playful-looking embrace. The tiger's head rests beside and slightly above the man's head. Its face is turned partially toward the camera, with realistic amber eyes, detailed black-and-orange striped fur, white fur around the cheeks and muzzle, long individual whiskers, realistic nose texture, and natural animal anatomy. The tiger should feel physically massive compared with the man. The tiger's paws and forelegs rest naturally across the man's shoulders and chest. Preserve realistic weight, anatomy, fur compression, and contact between the tiger and the man's clothing. The interaction should look like a genuine photograph rather than a staged composite. The man is wearing a simple black short-sleeve polo shirt, with subtle natural fabric texture and small understated orange detailing on the sleeve/chest area. His clothing should look slightly compressed where the tiger's body and paws make contact. Composition: extremely close vertical selfie, approximately 9:16. The man's face occupies the lower-center/right portion of the frame while the tiger dominates the upper-left and left side of the image. The tiger's enormous body and paws partially fill the foreground. The framing should feel slightly imperfect, like a real handheld phone photograph rather than a professionally composed wildlife photograph. Keep some of the surrounding environment visible on the right side and behind the subjects. Background: an authentic dry wildlife-park enclosure in a warm, semi-arid environment. Sandy orange-brown soil, scattered dry leaves, mature trees with thin branches and sparse foliage, simple enclosure fencing visible subtly in the distance, and a natural open woodland setting. Keep the background slightly softer because of the close selfie perspective, but retain enough detail to make the location believable. Lighting: warm natural late-afternoon daylight coming from above and slightly behind the subjects. Strong but realistic sunlight creates warm highlights on the tiger's orange fur and the man's skin, while the trees create irregular soft-to-medium shadows across the sandy ground. The scene should have a slightly golden, dusty atmosphere without looking overly cinematic. Natural exposure variations are welcome. Color and atmosphere: warm earthy tones, muted orange-brown soil, golden tiger fur, deep natural blacks in the stripes and shirt, slightly warm skin tones, dusty woodland colors. The image should feel like an authentic old smartphone travel photograph rather than a polished professional wildlife photograph. Photography: shot on a modern smartphone, approximately 24–26 mm equivalent wide-angle lens, handheld front-facing camera, vertical 9:16 composition, natural HDR, realistic smartphone dynamic range, slight computational-photography characteristics, subtle lens softness around the edges, realistic exposure, natural motion imperfections, authentic skin pores and fine facial hair, highly detailed tiger fur. Important realism: preserve realistic proportions, anatomy, physics, fur texture, lighting, shadows, reflections, depth, and contact between the tiger and the man. The tiger must look like a real living Bengal tiger, not a CGI animal or oversized domestic cat. The man's face must remain completely natural and consistent with the uploaded reference. Visual style: authentic candid wildlife-travel selfie, spontaneous documentary photography, slightly imperfect smartphone snapshot, believable real-world lighting, natural skin texture, natural animal texture, no beauty filter, no studio lighting, no cinematic color grading, no artificial bokeh, no CGI appearance, no illustration, no painting, no plastic skin, no excessive sharpening, no surreal distortion, no AI-generated look. Negative prompt: cartoon, illustration, painting, CGI, 3D render, fake tiger, deformed tiger, extra legs, extra paws, malformed paws, incorrect tiger anatomy, distorted face, changed identity, altered facial features, plastic skin, beauty filter, excessive HDR, oversaturated colors, cinematic lighting, studio lighting, artificial bokeh, excessive depth of field, unrealistic fur, duplicated limbs, floating paws, unnatural body contact, warped hands, distorted clothing, perfect professional composition, staged studio photograph",
+      "id": "xianyu-multi-model:ym-ai-skill-profile-avatar-35512-43",
+      "title": "Icelandic Countryside Snap with Husky",
+      "prompt": "Use only the uploaded reference image to preserve the person’s identity. Preserve the face, facial structure, nose, lips, jawline, beard, hair, skin tone, age, and body proportions with 100% accuracy. Do not alter or beautify his facial features. Ultra-realistic candid editorial photograph of the man standing beside a rugged vintage utility vehicle in an open Icelandic countryside. He is shown in a natural side-profile pose, leaning casually against the vehicle with both hands in his jacket pockets, looking toward the distant landscape with a calm, thoughtful expression. He wears a dark brown distressed leather jacket with a high folded collar and visible metal zipper, dark olive/black trousers, and rugged outdoor clothing. His medium-length dark brown hair is naturally swept back, slightly tousled by the wind. A large Siberian Husky is positioned in the foreground beside him, emerging from the rear of the weathered vehicle. The dog has realistic black-and-white fur, striking pale blue eyes, and natural facial detail. Keep the dog slightly closer to the camera, creating authentic foreground depth. Background: vast rural Icelandic farmland, soft green rolling fields, dark volcanic soil, overcast pale-gray sky, muted earthy colors, rustic weathered vehicle details, subtle outdoor textures. Lighting: soft natural daylight under heavy overcast clouds, completely diffused light, gentle highlights on the leather jacket and dog's fur, very soft shadows, subtle atmospheric haze, cool muted tones with warm brown leather providing contrast. Windy, quiet, rugged Nordic mood. Shot on iPhone 17 Pro Max, 48 mm equivalent, RAW, HDR, natural depth of field, realistic lens rendering, vertical 4:5 aspect ratio, documentary fashion photography, authentic skin and hair texture, natural imperfections, cinematic but completely realistic, no beauty filter, no CGI, no artificial sharpness, no plastic skin, no AI-looking details.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35513-43-Realistic-Tiger-Selfie-Generation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/profile-avatar/profile-avatar-35512-43-Icelandic-Countryside-Snap-with-Husky.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,12 +780,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35749-65",
-      "title": "Prompt: A surreal, hyper-realistic photo manipulat",
-      "prompt": "A surreal, hyper-realistic photo manipulation of two vibrant hot-pink swans (bubblegum-magenta pink, hex ~ #F542A4 to #FF69B4). Their long necks are elegantly intertwined, crossing over each other to form a heart-like shape. The swans turn their heads away from each other",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35746-66",
+      "title": "Desert Fashion Portrait Prompt",
+      "prompt": "Use the uploaded image as the master face reference. Create a full-body, photorealistic fashion portrait of the same woman standing gracefully in the middle of vast golden desert dunes at sunset. Preserve her exact facial identity, facial structure, eyes, nose, lips, skin tone, and natural features from the reference image. She has sleek, wet-look brown hair brushed back, subtle elegant makeup, small hoop earrings, delicate layered gold necklaces, and minimal gold bracelets. She wears an elegant ivory-white couture gown inspired by futuristic royal fashion: fitted sculptural bodice with a sophisticated wrapped neckline, long sheer flowing sleeves, structured layered fabric around the hips, a long floor-length skirt with dramatic overlapping panels, and an enormous lightweight flowing cape/train trailing naturally across the sand. The fabric should look physically real, soft, slightly translucent, and naturally affected by the desert breeze. She stands confidently facing the camera with a calm, elegant expression and relaxed natural posture. Full body visible from head to feet, including the gown and flowing train. Vast realistic sand dunes extend into the distance, detailed wind-shaped ripples in the foreground, warm natural sunlight, realistic atmospheric depth, subtle desert haze, authentic shadows, natural skin texture, realistic fabric folds and stitching, detailed hands and fingers. Photography: high-end luxury fashion editorial, realistic DSLR photography, 50mm lens, natural depth of field, sharp facial details, realistic proportions, true-to-life skin texture, soft golden-hour sunlight, natural color grading, extremely detailed, photorealistic, no artificial CGI appearance. Negative prompt: cartoon, anime, illustration, 3D render, plastic skin, overly smooth face, face distortion, identity change, different person, exaggerated makeup, unrealistic body proportions, extra fingers, malformed hands, duplicated limbs, warped dress, floating fabric, blurry face, low resolution, excessive glow, artificial background, text, logo, watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35749-65-Prompt-A-surreal-hyper-realistic-photo-manipulat.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35746-66-Desert-Fashion-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -818,12 +818,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8020-103",
+      "id": "xianyu-multi-model:ym-ai-skill-youtube-thumbnail-8020-104",
       "title": "High-End Cover Visual Generation Prompt",
       "prompt": "High-end cover visual with a single dominant subject. Centered composition, generous negative space, soft shadows beneath the subject, premium studio lighting with subtle highlights, clean background with gentle gradient, designed to read clearly at thumbnail size and full scale.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8020-103-High-End-Cover-Visual-Generation-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/youtube-thumbnail/youtube-thumbnail-8020-104-High-End-Cover-Visual-Generation-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -856,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33389-129",
-      "title": "Building Projection Night Portrait",
-      "prompt": "Use the attached photo as an identity reference only. Keep the person's recognizable facial structure, eye shape, nose, lips, jawline, skin tone, hairline and hair characteristics, and their apparent adult age. Do not copy the clothing, background, pose or lighting from the reference. A night photograph of a {argument name=\"setting\" default=\"city square\"}. The flat side wall of a {argument name=\"building type\" default=\"six storey brick building\"} fills most of the frame. A projector on a rooftop opposite throws an enormous portrait of the adult woman onto that wall: head and shoulders, roughly four storeys tall, three quarter view, calm expression, eyes looking slightly down and to the left as if she is watching the square below. The projected portrait behaves like light on brick, not like a printed poster. It dims and warps where it crosses window recesses, a drainpipe and a fire escape. It breaks and skips across the mortar lines. Its edges fall off softly at the corners of the wall. There is a slight keystone distortion because the projector is not level with the wall. Down on the pavement at the bottom of the frame, small, the same adult woman stands with her back three quarters to the camera, hands in the pockets of a {argument name=\"outfit\" default=\"long dark coat\"}, head tilted up, looking at her own projected face. She is about one fifteenth the height of the projected head. Environment: wet paving stones, a bicycle chained to a post, a closed kiosk, one other pedestrian walking out of frame, a bus stop sign, the glow of a street lamp. Camera: standing on the pavement about twenty five metres back, phone at chest height tilted slightly up, vertical 9:16 frame, the building filling the top three quarters and the small figure placed low and left of centre. Light: the projector is the brightest thing in the scene. Cold street lamps and a red traffic signal reflecting in the wet stone. Her small figure is lit only by projector spill and street lamp, so her face is barely readable and that is correct. Realism: dust and haze visible in the projector beam high above, brick texture showing through the projected image, slight flicker banding, a soft blue night sky with no stars, grain in the shadows. The projection must read as light thrown onto a rough wall, not as a poster stuck to it. The large projected face must clearly be the same person as the small figure below. Do not add a second projected image. Do not clean the wall.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33391-130",
+      "title": "Avant-Garde Chiaroscuro Red Portrait",
+      "prompt": "Dramatic avant-garde fashion portrait of a pale woman, high-contrast chiaroscuro lighting, wearing a wide-brimmed black fedora hat and a fitted black turtleneck. A sharp, curved horizontal shadow falls across her eyes and the bridge of her nose, casting the upper face into deep shadow while brightly illuminating her lower face. Glossy {argument name=\"lip color\" default=\"bright crimson red\"} lips, subtle freckles, sculpted jawline, smokey eye makeup, striking {argument name=\"eye color\" default=\"blue-grey\"} eyes peering through the shadow. Vivid {argument name=\"background color\" default=\"solid red\"} background, cinematic editorial photography, shot on 85mm lens, f/1.8, ultra-detailed skin texture, high fashion magazine cover style.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33389-129-Building-Projection-Night-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33391-130-Avant-Garde-Chiaroscuro-Red-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -875,16 +875,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-game-asset-19208-158",
-      "title": "Technical Vehicle with Machine Gun",
-      "prompt": "a {argument name=\"vehicle\" default=\"technical\"} with an {argument name=\"weapon\" default=\"MG\"}",
+      "id": "xianyu-multi-model:ym-ai-skill-game-asset-19773-153",
+      "title": "Humanoid Mecha Robot at Night",
+      "prompt": "{ \"format\": \"Single cinematic frame for GPT Image\", \"technical_specs\": { \"camera\": \"Low angle shot, shallow depth of field\", \"lighting\": \"Night scene, neon blue accent lights, wet surfaces\", \"quality\": \"Ultra-detailed, 4K, photorealistic CGI\" }, \"main_subject\": { \"type\": \"Large humanoid robot mecha, 15 feet tall\", \"construction\": \"Built from {argument name=\"mecha parts\" default=\"black broadcast van parts\"} - visible vehicle chassis panels, wheels converted to leg joints, satellite dish on chest\", \"details\": [ \"Matte black metal body with blue LED strips\", \"Two massive vinyl record discs (like DJ turntable platters) rotating slowly on shoulders - black vinyl with glowing blue label centers\", \"{argument name=\"brand logo\" default=\"VTX logo\"} glowing blue on chest center\", \"Mechanical legs with exposed pistons\", \"Head section has two bright blue headlight eyes\", \"Arms have DJ mixer faders and knobs as decorative panel details\" ], \"pose\": \"Standing upright, right foot planted on cracked pavement, left leg slightly bent\" }, \"person_on_mecha\": { \"position\": \"Standing on top of the mecha's head section\", \"identity\": \"{argument name=\"subject identity\" default=\"Latin American man, early 40s, completely shaved head\"}\", \"clothing\": \"Dark navy jacket, black pants, boots\", \"pose\": \"Standing confidently, one hand gripping a handle, other hand raised in fist\", \"expression\": \"Calm, confident, looking forward\" }, \"environment\": { \"location\": \"Wet asphalt road at night\", \"background\": \"Urban warehouses with neon signs, industrial buildings\", \"weather\": \"Heavy rain, puddles on ground reflecting blue lights\", \"ground\": \"Cracked pavement around mecha's foot, visible impact damage\" }, \"lighting_and_color\": { \"primary\": \"Cool blue neon glow from mecha LEDs and spinning vinyl centers\", \"secondary\": \"Warm orange sparks from mechanical joints\", \"atmosphere\": \"Dark moody night, rain, wet reflections\", \"key_colors\": \"Matte black, electric blue, dark grey asphalt\" }, \"action_frozen\": \"Mid-step stomp - right foot creating cracks in pavement, shoulder vinyl discs slowly rotating with blue light trails, sparks visible from leg joints, rain droplets frozen in air around the scene\", \"avoid\": [ \"Weapons of any kind\", \"Cannons or guns\", \"Fire or flames\", \"Organic dinosaur features\", \"Green colors\", \"Forest or trees\", \"Multiple people\", \"Handheld weapons\", \"Excessive flying debris\" ] }",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-19208-158-Technical-Vehicle-with-Machine-Gun.webp",
+      "model": "GPT Image",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/game-asset/game-asset-19773-153-Humanoid-Mecha-Robot-at-Night.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "GPT Image",
         "Game Asset"
       ],
       "author": "YouMind OpenLab",

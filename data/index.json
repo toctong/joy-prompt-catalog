@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T22:17:52.371Z",
-  "total": 5645,
+  "generatedAt": "2026-10-27T21:49:02.587Z",
+  "total": 5658,
   "pageSize": 50,
   "pages": [
     "0001",
@@ -116,7 +116,8 @@
     "0110",
     "0111",
     "0112",
-    "0113"
+    "0113",
+    "0114"
   ],
   "models": [
     "AI Image Model",
@@ -128,6 +129,7 @@
     "Midjourney",
     "Nano Banana Pro",
     "Seedance 2.0",
+    "Seedance 2.5",
     "Seedream 5 Pro",
     "gemini-3",
     "gpt-image-2",
@@ -248,7 +250,7 @@
       "homepage": "https://github.com/Ericgood/seedance-prompt",
       "kind": "ericgood-video",
       "media": "video",
-      "count": 112
+      "count": 125
     }
   ],
   "note": "Static imports from JoyAI explore PROMPT_SOURCES (excl. Domer/Civitai/PixAI live markets)."
