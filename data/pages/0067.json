@@ -20,12 +20,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35848-61",
-      "title": "Surrealist Editorial Portrait Prompt",
-      "prompt": "{ \"vibe_title_en\": \"{argument name=\"title\" default=\"The Weightless Surrealism of Pink Illusions\"}\", \"master_prompt\": \"A high-budget practical surrealist editorial shot. The Protagonist, captured in a Three-Quarter Editorial waist-up mid-shot. The subject's body is angled at 45 degrees, but the head is turned directly to the camera, anchored by a piercing, tranquil, and dissociative gaze. The Protagonist wears an avant-garde, massively oversized, bubbled-texture {argument name=\"coat color\" default=\"magenta\"} couture puffer coat that is intentionally draped off one shoulder, revealing highly detailed, hyper-realistic bare skin, natural pores, and collarbone underneath. The setting is a surreal, monochromatic {argument name=\"theme color\" default=\"magenta\"} observation chamber. The floor is engulfed in dense, rolling {argument name=\"fog color\" default=\"pink\"} dry-ice fog. Suspended at various heights around the subject are hyper-realistic, fluffy cloud-like formations physically crafted from dyed raw organic cotton and spun sugar, hanging by invisible ultra-fine wires. The scene is illuminated by tall, vertical, diffused {argument name=\"light color\" default=\"magenta\"} luminescent pillars (NO NEON) that cast a soft but directional glow. A crisp, neutral-white overhead key light isolates the face, highlighting micro-details of the skin and the textural weave of the coat, while the background clouds glow with internal reflections. Shot on Hasselblad H6D-100c with a 50mm prime lens at f/1.4, creating a shallow depth of field that renders foreground cotton clouds slightly out of focus. Kodak Portra 400 film stock, authentic skin textures, natural imperfections, cinematic volumetric haze, tactile physical effects.\", \"meta\": { \"intent\": \"Editorial Surrealism\", \"priorities\": \"Tactile Textures, Monochromatic Depth, High-End Practical Effects\", \"device_profile\": \"High-Resolution Display\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Three-Quarter Editorial, Waist-up\", \"layout\": \"Center-anchored face, asymmetrical framing with suspended clouds\", \"camera_angle\": \"Eye-level, straight on to face, body at 45 degrees\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless, universal features\", \"face\": \"Symmetrical, neutral, highly textured with visible pores and natural micro-imperfections\", \"hair\": \"Pulled back cleanly, out of the face\", \"body\": \"Body angled at 45-degrees, one bare shoulder exposed\", \"expression\": \"Tranquil dissociation, piercing direct eye contact\", \"pose\": \"Waist-up mid-shot, frozen in a subtle lean, one shoulder dropped\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Avant-garde oversized puffer coat\", \"material\": \"Quilted, bubbled-texture synthetic silk\", \"color\": \"Bubblegum magenta\", \"fit\": \"Massive, disproportionate, draped off one shoulder\" } ], \"accessories\": [ { \"item\": \"Minimalist stud earring\", \"color\": \"Translucent pink\", \"material\": \"Resin\" } ] } }",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35847-60",
+      "title": "South Asian Man Artistic Portrait",
+      "prompt": "Keep the same features of the attached person, without changes. Reference picture: photo sent. Face: keep the exact same person as the reference picture. Format: featuring a young South Asian man with green eyes and a well-groomed beard. In the foreground, he is shown full-body, dressed in a green linen casual suit, leaning casually against a stone ledge, with a gold necklace and a watch. His eyes are green. Overlaid in the background is a large, close-up portrait of his face, with his striking green eyes as a focus. The entire composition has a dreamlike, brushstroke texture, set against a backdrop of a blurred mountain valley at dusk, creating a artistic and nostalgic atmosphere.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35848-61-Surrealist-Editorial-Portrait-Prompt.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35847-60-South-Asian-Man-Artistic-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,12 +96,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33378-128",
-      "title": "Vintage Glamour Fashion Portrait",
-      "prompt": "A close-up stylized fashion portrait of a young woman with a short, wavy {argument name=\"hair color\" default=\"platinum blonde\"} bob slightly tousled by the wind. She has heavy sun-kissed freckles across her cheeks and nose, glowing porcelain skin, and plump {argument name=\"lip color\" default=\"glossy red\"} lips, tilting her head slightly upward. She wears round vintage metal-frame sunglasses with warm amber-tinted lenses, delicate drop earrings, and a {argument name=\"outfit style\" default=\"vintage ruffled high-collar blouse\"} featuring a vibrant red and cream floral print, adorned with a large, glossy crimson satin pussy-bow ribbon tied at the neck. Moody studio lighting with soft, warm directional sunlight, dark muted background, retro editorial aesthetic, highly detailed digital painting, 8k resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33479-128",
+      "title": "Minimalist Architectural Fashion Portrait",
+      "prompt": "A high-resolution, minimalist fashion portrait photograph featuring an {argument name=\"ethnicity\" default=\"East Asian woman\"} with a calm, direct gaze. Her dark hair is styled in a very sleek, center-parted, tight low bun. She is sitting with a poised, structured pose on a large, textured geometric plinth painted a soft, {argument name=\"plinth color\" default=\"pale powder blue\"}. Outfit Details: The woman is wearing a striking, monochromatic, oversized ensemble in a de-saturated, {argument name=\"outfit color\" default=\"light grey\"} color (appearing like ice-grey or light celadon). The outfit consists of three main pieces: A dramatically oversized, collarless wrap-front cape-coat with wide, fluid sleeves and an undulating hemline, which drapes extensively over her and the blue plinth. Underneath the coat, a matching light grey, high-neck turtleneck knit top. Matching high-waisted, wide-leg trousers that pooling slightly at the ankles, made from a similar heavy drape fabric. Pose and Composition: She is seated comfortably but formally, hands lightly resting in her lap and on the surface of the blue cube. The composition is a centered, three-quarter length shot. Setting and Lighting: The background is a clean, seamless, off-white studio wall. The lighting is soft, diffused, high-key studio lighting, creating a cool and clean atmosphere with minimal, soft shadows, emphasizing the architectural lines and textures of the garments. The overall feel is modern, elegant, and editorial. The perspective is eye-level.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33378-128-Vintage-Glamour-Fashion-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33479-128-Minimalist-Architectural-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -134,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-27857-161",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-27857-162",
       "title": "National Identity Logo Generator",
       "prompt": "Logo for '{argument name=\"country and tagline\" default=\"Living in Country: Tagline\"}' set against a backdrop of {argument name=\"landscape\" default=\"specific landscape or cityscape\"}. Utilize the {argument name=\"flag colors\" default=\"colors of the country's flag\"} and include imagery that represents [the country’s renowned aspects – cultural, culinary, natural, etc.], [desired style or mood]",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-27857-161-National-Identity-Logo-Generator.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-27857-162-National-Identity-Logo-Generator.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,12 +210,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35846-62",
-      "title": "Photorealistic Lifestyle Portrait of Woman on Sofa",
-      "prompt": "Create a photorealistic high-quality lifestyle portrait of a beautiful young adult woman relaxing on a soft neutral sofa in a cozy modern home. She has long, naturally wavy dark-brown hair, warm fair-to-light olive skin, expressive brown eyes, soft natural makeup, subtle rosy cheeks, and a gentle confident smile. She rests her cheek naturally on one hand while looking directly into the camera. She wears an oversized cream-white textured knit sweater, light-wash relaxed-fit jeans, delicate small gold earrings, and a thin gold necklace with a tiny pendant. Natural elegant styling, minimal accessories. Warm late-afternoon sunlight enters from the side, creating soft highlights on her hair and natural skin texture. Background includes a beige sofa, neutral walls, a small vase of white flowers, books, cushions, and a dark doorway, all softly blurred with shallow depth of field. Photography: realistic DSLR photography, 50mm lens, f/1.8, soft natural window light, subtle cinematic tones, realistic skin pores, detailed hair strands, natural fabric texture, realistic proportions, gentle shadows, professional lifestyle editorial photography, authentic candid feeling, high dynamic range, sharp eyes, 4K detail. Negative prompt: plastic skin, excessive retouching, artificial face, distorted hands, extra fingers, deformed anatomy, blurry eyes, CGI, cartoon, illustration, oversaturated colors, text, logo, watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35848-62",
+      "title": "Surrealist Editorial Portrait Prompt",
+      "prompt": "{ \"vibe_title_en\": \"{argument name=\"title\" default=\"The Weightless Surrealism of Pink Illusions\"}\", \"master_prompt\": \"A high-budget practical surrealist editorial shot. The Protagonist, captured in a Three-Quarter Editorial waist-up mid-shot. The subject's body is angled at 45 degrees, but the head is turned directly to the camera, anchored by a piercing, tranquil, and dissociative gaze. The Protagonist wears an avant-garde, massively oversized, bubbled-texture {argument name=\"coat color\" default=\"magenta\"} couture puffer coat that is intentionally draped off one shoulder, revealing highly detailed, hyper-realistic bare skin, natural pores, and collarbone underneath. The setting is a surreal, monochromatic {argument name=\"theme color\" default=\"magenta\"} observation chamber. The floor is engulfed in dense, rolling {argument name=\"fog color\" default=\"pink\"} dry-ice fog. Suspended at various heights around the subject are hyper-realistic, fluffy cloud-like formations physically crafted from dyed raw organic cotton and spun sugar, hanging by invisible ultra-fine wires. The scene is illuminated by tall, vertical, diffused {argument name=\"light color\" default=\"magenta\"} luminescent pillars (NO NEON) that cast a soft but directional glow. A crisp, neutral-white overhead key light isolates the face, highlighting micro-details of the skin and the textural weave of the coat, while the background clouds glow with internal reflections. Shot on Hasselblad H6D-100c with a 50mm prime lens at f/1.4, creating a shallow depth of field that renders foreground cotton clouds slightly out of focus. Kodak Portra 400 film stock, authentic skin textures, natural imperfections, cinematic volumetric haze, tactile physical effects.\", \"meta\": { \"intent\": \"Editorial Surrealism\", \"priorities\": \"Tactile Textures, Monochromatic Depth, High-End Practical Effects\", \"device_profile\": \"High-Resolution Display\" }, \"frame\": { \"aspect\": \"4:5\", \"composition\": \"Three-Quarter Editorial, Waist-up\", \"layout\": \"Center-anchored face, asymmetrical framing with suspended clouds\", \"camera_angle\": \"Eye-level, straight on to face, body at 45 degrees\", \"tilt_roll_degrees\": \"0\" }, \"subject\": { \"gender\": \"Female\", \"identity\": \"The Protagonist\", \"demographics\": \"Ageless, universal features\", \"face\": \"Symmetrical, neutral, highly textured with visible pores and natural micro-imperfections\", \"hair\": \"Pulled back cleanly, out of the face\", \"body\": \"Body angled at 45-degrees, one bare shoulder exposed\", \"expression\": \"Tranquil dissociation, piercing direct eye contact\", \"pose\": \"Waist-up mid-shot, frozen in a subtle lean, one shoulder dropped\" }, \"wardrobe_accessories\": { \"garments\": [ { \"item\": \"Avant-garde oversized puffer coat\", \"material\": \"Quilted, bubbled-texture synthetic silk\", \"color\": \"Bubblegum magenta\", \"fit\": \"Massive, disproportionate, draped off one shoulder\" } ], \"accessories\": [ { \"item\": \"Minimalist stud earring\", \"color\": \"Translucent pink\", \"material\": \"Resin\" } ] } }",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35846-62-Photorealistic-Lifestyle-Portrait-of-Woman-on-Sofa.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35848-62-Surrealist-Editorial-Portrait-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -286,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33384-129",
-      "title": "POV Perspective from Starbucks Cup",
-      "prompt": "Extreme low-angle, POV shot looking straight up from inside the bottom of a transparent {argument name=\"brand\" default=\"Starbucks\"} plastic cup. In the immediate foreground, vibrant {argument name=\"drink texture\" default=\"red crushed strawberry puree and slushy ice\"} fill the bottom edge with glossy, detailed texture. Whipped cream and strawberry sauce drip down the clear inner walls of the cup, with the green Starbucks siren logo visible on the sides. Looking up through the circular opening of the cup against a vivid clear blue summer sky, a young {argument name=\"subject\" default=\"East Asian man\"} with short dark parted hair looks directly down into the camera with wide, expressive eyes, drinking from a classic green straw that extends straight down into the cup. Bright, direct sunlight, sharp focus, vibrant summery aesthetic, shot on wide-angle lens, mobile photography perspective, high resolution.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33378-130",
+      "title": "Vintage Glamour Fashion Portrait",
+      "prompt": "A close-up stylized fashion portrait of a young woman with a short, wavy {argument name=\"hair color\" default=\"platinum blonde\"} bob slightly tousled by the wind. She has heavy sun-kissed freckles across her cheeks and nose, glowing porcelain skin, and plump {argument name=\"lip color\" default=\"glossy red\"} lips, tilting her head slightly upward. She wears round vintage metal-frame sunglasses with warm amber-tinted lenses, delicate drop earrings, and a {argument name=\"outfit style\" default=\"vintage ruffled high-collar blouse\"} featuring a vibrant red and cream floral print, adorned with a large, glossy crimson satin pussy-bow ribbon tied at the neck. Moody studio lighting with soft, warm directional sunlight, dark muted background, retro editorial aesthetic, highly detailed digital painting, 8k resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33384-129-POV-Perspective-from-Starbucks-Cup.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33378-130-Vintage-Glamour-Fashion-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-27126-168",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-27126-169",
       "title": "Multi-Layered Paper Relief Sculpture",
       "prompt": "Make a same object 100%. {argument name=\"style description\" default=\"Intricate multi-layered paper relief art with a luxurious handcrafted paper sculpture aesthetic, featuring strong dimensional 3D depth\"}. Built from dozens of individually cut paper layers stacked at varying heights to create pronounced shadows, realistic thickness, and sculptural volume. Smooth flowing contour lines divide every section into organic paper segments with clean precision. Surfaces display subtle handmade paper fibers, fine embossed grain, delicate cracked parchment textures, soft matte finish, and lightly pressed paper details. Raised elements cast natural ambient shadows, emphasizing the layered construction and realistic paper thickness. Decorative circular motifs, flowing organic curves, and elegant botanical-inspired shapes are integrated seamlessly throughout the composition. Rich color palette dominated by {argument name=\"color palette\" default=\"warm ivory, cream, soft beige, sand, muted gold, deep forest green, olive green, charcoal outlines, and vivid crimson red accents\"}. Lighting is soft and directional from above, enhancing every paper edge, bevel, elevation, and shadow to maximize the sculptural 3D effect. Highly refined handcrafted papercut artwork with premium gallery-quality craftsmanship, elegant composition, tactile layered textures, cinematic depth, and ultra-detailed dimensional realism. R {argument name=\"aspect ratio\" default=\"9:16\"}.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-27126-168-Multi-Layered-Paper-Relief-Sculpture.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-27126-169-Multi-Layered-Paper-Relief-Sculpture.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,12 +400,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35845-63",
-      "title": "Full-body Fashion Editorial with Identity Preservation",
-      "prompt": "Use the reference image as the identity reference only. Preserve the girl’s exact facial identity, facial structure, eyes, nose, lips, skin tone, and recognizable features with no identity drift. Create a full-body fashion editorial photograph, showing her completely from head to toe, with both feet visible. A striking young woman standing confidently in an otherworldly luxury fashion studio, wearing an avant-garde sculptural gown made from flowing translucent silver fabric and delicate metallic petals, asymmetric silhouette, architectural shoulders, subtle crystal embellishments, elegant high-fashion styling, sleek dark hair, minimal silver jewelry, natural confident expression. The fabric gently moves with a soft breeze. Reflective black floor, geometric architectural shadows, sophisticated futuristic atmosphere, premium haute couture editorial, realistic fabric texture, natural skin pores and fine facial details, realistic hands and fingers, anatomically correct proportions, photorealistic photography, full-body composition, camera positioned at eye level and far enough away to capture the entire body without cropping, 85mm fashion photography, soft directional studio lighting, ultra-detailed, 8K, luxury magazine aesthetic, same reference face, consistent identity, no face alteration. Negative prompt: identity drift, different face, altered facial features, face morphing, cropped head, cropped feet, half-body, close-up, distorted anatomy, elongated limbs, bad proportions, extra fingers, malformed hands, duplicate limbs, plastic skin, over-smoothed skin, CGI, cartoon, unrealistic fabric, blurry face, asymmetrical eyes, low resolution, text, logo, watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35846-63",
+      "title": "Photorealistic Lifestyle Portrait of Woman on Sofa",
+      "prompt": "Create a photorealistic high-quality lifestyle portrait of a beautiful young adult woman relaxing on a soft neutral sofa in a cozy modern home. She has long, naturally wavy dark-brown hair, warm fair-to-light olive skin, expressive brown eyes, soft natural makeup, subtle rosy cheeks, and a gentle confident smile. She rests her cheek naturally on one hand while looking directly into the camera. She wears an oversized cream-white textured knit sweater, light-wash relaxed-fit jeans, delicate small gold earrings, and a thin gold necklace with a tiny pendant. Natural elegant styling, minimal accessories. Warm late-afternoon sunlight enters from the side, creating soft highlights on her hair and natural skin texture. Background includes a beige sofa, neutral walls, a small vase of white flowers, books, cushions, and a dark doorway, all softly blurred with shallow depth of field. Photography: realistic DSLR photography, 50mm lens, f/1.8, soft natural window light, subtle cinematic tones, realistic skin pores, detailed hair strands, natural fabric texture, realistic proportions, gentle shadows, professional lifestyle editorial photography, authentic candid feeling, high dynamic range, sharp eyes, 4K detail. Negative prompt: plastic skin, excessive retouching, artificial face, distorted hands, extra fingers, deformed anatomy, blurry eyes, CGI, cartoon, illustration, oversaturated colors, text, logo, watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35845-63-Full-body-Fashion-Editorial-with-Identity-Preservation.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35846-63-Photorealistic-Lifestyle-Portrait-of-Woman-on-Sofa.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -476,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33390-130",
-      "title": "Cinematic Macro Fluid Art Portrait",
-      "prompt": "A cinematic macro fashion portrait of a woman integrated with dynamic fluid art. She has flawless skin, subtle gold shimmer eyeshadow, and glowing {argument name=\"eye color\" default=\"turquoise\"} eyes gazing forward. Her hair is a cascade of {argument name=\"hair color\" default=\"deep cerulean blue\"} intermixed with vibrant splatters of wet paint, melting droplets, and suspended amber-colored resin beads. Cascading down her collarbones and shoulders, the paint congeals into an haute couture wearable sculpture made of liquid streams, thick impasto textures, and dripping paint drops in rich {argument name=\"paint colors\" default=\"orange, yellow, and midnight blue\"}. Soft studio lighting, realistic reflections, shallow depth of field.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33384-131",
+      "title": "POV Perspective from Starbucks Cup",
+      "prompt": "Extreme low-angle, POV shot looking straight up from inside the bottom of a transparent {argument name=\"brand\" default=\"Starbucks\"} plastic cup. In the immediate foreground, vibrant {argument name=\"drink texture\" default=\"red crushed strawberry puree and slushy ice\"} fill the bottom edge with glossy, detailed texture. Whipped cream and strawberry sauce drip down the clear inner walls of the cup, with the green Starbucks siren logo visible on the sides. Looking up through the circular opening of the cup against a vivid clear blue summer sky, a young {argument name=\"subject\" default=\"East Asian man\"} with short dark parted hair looks directly down into the camera with wide, expressive eyes, drinking from a classic green straw that extends straight down into the cup. Bright, direct sunlight, sharp focus, vibrant summery aesthetic, shot on wide-angle lens, mobile photography perspective, high resolution.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33390-130-Cinematic-Macro-Fluid-Art-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33384-131-POV-Perspective-from-Starbucks-Cup.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-26324-185",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-26324-186",
       "title": "Neo-Organic Textile Portrait Illustration",
       "prompt": "Ultra-detailed neo-organic portrait illustration blending hyper-realistic human rendering with flowing textile-inspired abstract surrealism. Faces and exposed skin rendered with authentic photographic realism, natural pores, subtle skin texture, lifelike anatomy, accurate facial proportions, soft subsurface scattering, realistic lighting transitions, and refined cinematic shading. Surrounding the subject, the hair, clothing, and secondary forms dissolve into elegant layered ribbons of translucent silk, fluid fabric waves, sculpted organza folds, and semi-transparent abstract contours. A sophisticated fusion of realistic portrait art and luxurious fabric sculpture aesthetics. Dynamic flowing structures wrap organically around the subject, creating motion and visual rhythm without distorting facial identity. Rich multi-layered color harmonies featuring {argument name=\"color palette\" default=\"deep teal, oxidized turquoise, burnt amber, copper orange, muted gold, smoky sapphire, and soft ivory\"}. Intricate overlapping translucent layers generate depth, luminosity, and painterly complexity. The composition remains fully finished from head to toe, with complete body integration, coherent anatomy, and no unfinished lower-body areas. Every section of the figure transitions seamlessly into the flowing textile architecture, maintaining visual continuity throughout the entire frame. Soft atmospheric depth, premium editorial-art quality, museum-grade digital craftsmanship, subtle linework accents, delicate material textures, elegant motion, cinematic light sculpting, ultra-high detail, masterpiece aesthetic, luxurious contemporary surrealism, highly cohesive visual design, no sketchy unfinished parts, no fragmented limbs, no cropped body, fully resolved composition.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-26324-185-Neo-Organic-Textile-Portrait-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-26324-186-Neo-Organic-Textile-Portrait-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +590,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35800-64",
-      "title": "Pastel Blue Knit Sweater Boutique Portrait",
-      "prompt": "A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers.Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35845-64",
+      "title": "Full-body Fashion Editorial with Identity Preservation",
+      "prompt": "Use the reference image as the identity reference only. Preserve the girl’s exact facial identity, facial structure, eyes, nose, lips, skin tone, and recognizable features with no identity drift. Create a full-body fashion editorial photograph, showing her completely from head to toe, with both feet visible. A striking young woman standing confidently in an otherworldly luxury fashion studio, wearing an avant-garde sculptural gown made from flowing translucent silver fabric and delicate metallic petals, asymmetric silhouette, architectural shoulders, subtle crystal embellishments, elegant high-fashion styling, sleek dark hair, minimal silver jewelry, natural confident expression. The fabric gently moves with a soft breeze. Reflective black floor, geometric architectural shadows, sophisticated futuristic atmosphere, premium haute couture editorial, realistic fabric texture, natural skin pores and fine facial details, realistic hands and fingers, anatomically correct proportions, photorealistic photography, full-body composition, camera positioned at eye level and far enough away to capture the entire body without cropping, 85mm fashion photography, soft directional studio lighting, ultra-detailed, 8K, luxury magazine aesthetic, same reference face, consistent identity, no face alteration. Negative prompt: identity drift, different face, altered facial features, face morphing, cropped head, cropped feet, half-body, close-up, distorted anatomy, elongated limbs, bad proportions, extra fingers, malformed hands, duplicate limbs, plastic skin, over-smoothed skin, CGI, cartoon, unrealistic fabric, blurry face, asymmetrical eyes, low resolution, text, logo, watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35800-64-Pastel-Blue-Knit-Sweater-Boutique-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35845-64-Full-body-Fashion-Editorial-with-Identity-Preservation.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,12 +666,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33400-131",
-      "title": "2D Flat Vector Fashion Illustration",
-      "prompt": "2D flat vector fashion illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, full body, wearing {argument name=\"trousers\" default=\"wide-leg trousers in mustard yellow with geometric print\"}, {argument name=\"blouse\" default=\"embroidered cream blouse with floral motifs\"}, minimal shadows, clean bold outlines, soft beige background, editorial fashion pose, 3:4",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33390-132",
+      "title": "Cinematic Macro Fluid Art Portrait",
+      "prompt": "A cinematic macro fashion portrait of a woman integrated with dynamic fluid art. She has flawless skin, subtle gold shimmer eyeshadow, and glowing {argument name=\"eye color\" default=\"turquoise\"} eyes gazing forward. Her hair is a cascade of {argument name=\"hair color\" default=\"deep cerulean blue\"} intermixed with vibrant splatters of wet paint, melting droplets, and suspended amber-colored resin beads. Cascading down her collarbones and shoulders, the paint congeals into an haute couture wearable sculpture made of liquid streams, thick impasto textures, and dripping paint drops in rich {argument name=\"paint colors\" default=\"orange, yellow, and midnight blue\"}. Soft studio lighting, realistic reflections, shallow depth of field.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33400-131-2D-Flat-Vector-Fashion-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33390-132-Cinematic-Macro-Fluid-Art-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -704,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-25976-193",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-25976-194",
       "title": "Expressive Oil Painting Portrait",
       "prompt": "A contemporary expressive {argument name=\"art style\" default=\"oil painting\"} style with bold, dynamic brushwork and semi-abstract realism. Visible, confident brush strokes in layered patches and broken color blocks, blending figurative portraiture with painterly abstraction. Rich warm palette dominated by {argument name=\"color palette\" default=\"peach, golden beige, soft amber, rose pink, muted magenta, and deep burgundy\"}, contrasted with subtle cool accents of olive green and desaturated teal. Loose, gestural application with thick and thin strokes interwoven, creating a sense of movement and spontaneity. Edges shift between soft blended transitions and sharp painterly marks. Light is {argument name=\"lighting\" default=\"warm and diffused\"}, creating glowing skin tones with luminous highlights. Background and subject merge through color harmony and directional strokes, giving a slightly impressionistic, unfinished yet intentional aesthetic. Textural depth resembling oil on canvas, with visible layering and painterly surface variation.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-25976-193-Expressive-Oil-Painting-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-25976-194-Expressive-Oil-Painting-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,16 +780,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35799-65",
-      "title": "Chess King Strategic Power Portrait Prompt",
-      "prompt": "CONCEPT — EXACT: A layered composite — a massive faded close-up ghost portrait fills the upper background blending into a dark marble-textured backdrop, and a smaller sharp full-color standing portrait of the same man stands in the foreground beside a giant oversized black chess king piece, strategic power-and-leadership theme. BACKGROUND GHOST PORTRAIT — EXACT: Large faded close-up portrait, head turned slightly, calm intense composed gaze, short neat hair, light beard, blending into the dark grey-black marble texture so it reads as a subtle tonal overlay. MAIN SUBJECT — FOREGROUND — EXACT: Standing pose beside a giant black marble chess king piece taller than himself, one hand resting on top of the chess piece's crown, other hand tucked into the trouser pocket, calm confident composed gaze toward camera. MAIN SUBJECT IDENTITY LOCK: Foreground face must match the ghost portrait exactly — same jaw width, cheek fullness, beard density, nose shape, and lip shape, with natural head-to-body proportion. BODY: Medium-tan skin tone, lean build, confident composed standing posture. OUTFIT: Black tailored double-breasted overcoat over a black turtleneck, black tailored trousers, black leather dress shoes, silver wristwatch. PROP DETAIL — EXACT: An oversized black marble chess king piece with intricate carved detailing standing beside the subject, smaller white and black chess pieces scattered across a checkered marble floor in the foreground. BACKGROUND — EXACT: Dark grey-black marble hall with soft veining texture, subtle checkered marble floor pattern, dramatic empty space suggesting scale and power. LIGHTING — EXACT: Single dramatic side-key light, deep shadow across half the marble hall, crisp highlight along the chess piece's carved edges and the subject's jawline. COLOR GRADE — EXACT: Deep charcoal-and-black dominant palette throughout, cool marble-grey undertones, natural warm skin tone providing the only contrast, dramatic high-end editorial power-portrait color grading with ultra-detailed 8K sharpness. Shot on Sony A7R IV, 50mm f/1.8 — foreground subject and chess piece tack sharp with fabric and stone detail crisp, background ghost portrait softly blended. Ultra photorealistic — zero AI artifacts, no watermark. IMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity in BOTH the ghosted background portrait AND the full-color foreground standing figure. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, beard density, moustache style, jawline, skin tone, facial texture, masculine proportions, and all natural imperfections exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, feminize, or replace my face with a random celebrity or model",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-35800-65",
+      "title": "Pastel Blue Knit Sweater Boutique Portrait",
+      "prompt": "A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers.Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35799-65-Chess-King-Strategic-Power-Portrait-Prompt.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-35800-65-Pastel-Blue-Knit-Sweater-Boutique-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -856,12 +856,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33391-132",
-      "title": "Avant-Garde Chiaroscuro Red Portrait",
-      "prompt": "Dramatic avant-garde fashion portrait of a pale woman, high-contrast chiaroscuro lighting, wearing a wide-brimmed black fedora hat and a fitted black turtleneck. A sharp, curved horizontal shadow falls across her eyes and the bridge of her nose, casting the upper face into deep shadow while brightly illuminating her lower face. Glossy {argument name=\"lip color\" default=\"bright crimson red\"} lips, subtle freckles, sculpted jawline, smokey eye makeup, striking {argument name=\"eye color\" default=\"blue-grey\"} eyes peering through the shadow. Vivid {argument name=\"background color\" default=\"solid red\"} background, cinematic editorial photography, shot on 85mm lens, f/1.8, ultra-detailed skin texture, high fashion magazine cover style.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33400-133",
+      "title": "2D Flat Vector Fashion Illustration",
+      "prompt": "2D flat vector fashion illustration, {argument name=\"subject\" default=\"unveiled Middle Eastern woman\"}, full body, wearing {argument name=\"trousers\" default=\"wide-leg trousers in mustard yellow with geometric print\"}, {argument name=\"blouse\" default=\"embroidered cream blouse with floral motifs\"}, minimal shadows, clean bold outlines, soft beige background, editorial fashion pose, 3:4",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33391-132-Avant-Garde-Chiaroscuro-Red-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33400-133-2D-Flat-Vector-Fashion-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -894,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-25751-196",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-25751-197",
       "title": "Sistine Chapel Last Judgment Style",
       "prompt": "{argument name=\"location\" default=\"Sistine Chapel\"} Michelangelo's \"{argument name=\"work\" default=\"The Last Judgment\"}\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-25751-196-Sistine-Chapel-Last-Judgment-Style.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-25751-197-Sistine-Chapel-Last-Judgment-Style.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",

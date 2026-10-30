@@ -20,12 +20,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36154-43",
-      "title": "Elderly Asian Ceramic Artist Portrait",
-      "prompt": "Ultra-realistic cinematic portrait: an elderly Asian ceramic artist sitting in a cluttered studio, hands covered in wet clay, shaping a slender-necked vase on a potter's wheel; afternoon sunlight streams through a dusty window, creating Tyndall rays; wooden shelves filled with unglazed pottery, an old apron hanging on the wall; shallow depth of field, 85mm lens, visible skin pores and clay texture, warm tones, natural light, highly detailed.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36156-43",
+      "title": "Red Carpet Fashion Photo Prompt",
+      "prompt": "Use the uploaded image as the primary visual reference. Create an ultra-realistic, high-end red-carpet fashion photograph of the same woman, preserving her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and natural proportions with maximum accuracy. No identity drift or facial alteration. Dress her in an exquisite icy silver-blue couture evening gown made from sheer translucent fabric, densely decorated with hundreds of individually visible crystal and rhinestone embellishments. The gown has a fitted long-sleeve illusion bodice, elegant high neckline, sculpted waist, and a sleek floor-length silhouette. Add a dramatic flowing light-blue sheer train cascading naturally down the stairs behind her. Crystal-studded silver open-toe heels, delicate diamond earrings, and a refined diamond necklace. Place her standing gracefully on the grand cream-colored staircase of a prestigious fashion gala, facing the camera with a confident yet elegant expression. Behind her, a glamorous crowd of photographers and guests are taking photographs, with professional cameras and flashes visible. The staircase and surrounding railings are covered with sparkling crystal-like decorations. Composition: full-body portrait, head-to-toe visible, centered subject, elegant natural standing pose, train fully visible, realistic body proportions. Photography: luxury fashion editorial photography, cinematic depth of field, realistic flash photography, soft ambient lighting, subtle reflections from crystals, natural skin pores and texture, highly detailed fabric, physically accurate rhinestones, realistic hands and fingers, premium Vogue-style aesthetic, photorealistic, 8K detail. Negative prompt: cartoon, CGI, 3D render, plastic skin, excessive beauty retouching, altered face, different person, identity drift, distorted anatomy, extra fingers, malformed hands, blurry face, oversized jewelry, unrealistic crystals, artificial-looking fabric, duplicate people, text, logo, watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36154-43-Elderly-Asian-Ceramic-Artist-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36156-43-Red-Carpet-Fashion-Photo-Prompt.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -96,16 +96,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33789-97",
-      "title": "Tight Red Cap Fashion CloseUp",
-      "prompt": "Ultra-realistic fashion beauty crop of a female model wearing the reference {argument name=\"headwear\" default=\"red baseball cap\"} and matching {argument name=\"apparel\" default=\"red hoodie\"}. Framing: Tight portrait crop from nose to forehead, cap and eyes filling the frame. Focus: The embroidered logo perfectly centered above the model’s eyes, stitching detail and thread depth clearly visible. Pose: Model gripping the hoodie collar softly with both hands, creating subtle fabric folds. Lighting: Soft frontal studio light with faint shadow sculpting on cheekbones and under the cap. Background: Minimal warm studio backdrop, ivory-to-beige gradient. Mood: Bold, confident, fashion-house campaign energy. Finish: Ultra-sharp fabric detail, cinematic realism, shallow depth of field, no text, no branding overlays.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33924-95",
+      "title": "Minimalist B2B Corporate Advertisement",
+      "prompt": "[Ad Message] - Main Copy: {argument name=\"headline\" default=\"Our Workplace\"} - Sub-copy: {argument name=\"subtext\" default=\"Creating the future together with BtoB partners.\"} - Company Name/Logo: {argument name=\"company\" default=\"Future Lab Inc.\"} [Image Quality/Direction/Composition] - Style: Minimalist and intelligent Japanese corporate visual, like those in major newspapers or on the back covers of economic magazines. - Visual Elements: Futuristic city skyline (glass and steel architecture), clear early morning light, or abstract clean light lines, representing trust and innovation simultaneously. - Layout & Typography (for GPT-image / Nano Banana Pro): In the wide negative space (top or bottom), the headline {argument name=\"headline\" default=\"Our Workplace\"}, the sub-copy {argument name=\"subtext\" default=\"Creating the future together with BtoB partners.\"}, and the company name {argument name=\"company\" default=\"Future Lab Inc.\"} are orderly arranged in a refined Gothic or beautiful font. - Color/Lighting: A refreshing and reliable color palette based on blue and white, with beautiful lighting contrasts and no excessive decoration. [Strict Layout Constraints (Required)] - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: --ar 16:9",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33789-97-Tight-Red-Cap-Fashion-CloseUp.webp",
+      "model": "GPT Image",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33924-95-Minimalist-B2B-Corporate-Advertisement.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "GPT Image",
         "Product Marketing"
       ],
       "author": "YouMind OpenLab",
@@ -134,12 +134,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-31151-107",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-31151-108",
       "title": "Black and White Fragmented Photo Collage",
       "prompt": "\"Black-and-white high-contrast studio portrait of a {argument name=\"subject\" default=\"your subject\"} against a pure black background, composed as a fragmented photo-collage. Multiple rectangular photographic cutouts are layered and misaligned across his/her face, creating a glitchy, dissociative, surreal effect. The base face is calm and frontal, but overlaid panels break it apart: one rectangular crop shows an eye being held wide open with fingers pulling the eyelid, another offset panel shows a second eye also being stretched open by fingers, and a large lower panel shows a wide, tense, teeth-baring grin with visible gums and strained lips. The seams between panels are hard-edged and slightly shifted, so the ears, cheeks, and jaw don't line up. Dramatic chiaroscuro lighting, deep shadows, fine skin texture, pores and stray hairs sharply detailed. Unsettling psychological horror mood, editorial fine-art photography, monochrome, shot on a macro-sharp lens, cinematic grain.\"",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-31151-107-Black-and-White-Fragmented-Photo-Collage.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-31151-108-Black-and-White-Fragmented-Photo-Collage.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -210,16 +210,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36157-44",
-      "title": "Magazine Cover Prompt for Nano Banana 2.1",
-      "prompt": "Use my uploaded photo as the main subject. My face, skin tone, hair, and facial features must remain completely unchanged. Replicate the style and layout of the reference poster. Scene: Vertical 4:5 magazine poster. I stand in the center, facing the camera, with a calm and serious expression, head slightly tilted. Wearing a flowing, elegant dark charcoal navy midi skirt with soft natural folds in the fabric. Background: Soft blue-gray studio wall with cinematic cyan-to-navy gradient. On the left and right edges, there are ghost-like figures wearing dark loose clothing, blurred by motion trails, resembling long-exposure ghosts, kept out of focus. Lighting: Soft, moody natural light with slight rim light on the hair. Low-saturation film tones, fine grain, shallow depth of field, high-fashion editorial quality. Typography: Top center: Small, wide-spaced white text \"{argument name=\"top_text_en\" default=\"SONI\"}\" Center, overlaying the lower body: Huge white bold narrow sans-serif text \"{argument name=\"main_title_en\" default=\"PROMPT\"}\", positioned in front of the skirt, slightly overlapping me Immediately below: Orange handwritten font \"{argument name=\"subtitle_en\" default=\"NanoBanana 2.1\"}\", slightly tilted Do not add any arrows, buttons, ellipses, or capsule shapes. Do not add any other text, logos, or watermarks. Style: High-end magazine poster, clean typography, high-contrast text, cinematic, photorealistic, 4:5 aspect ratio.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36154-44",
+      "title": "Elderly Asian Ceramic Artist Portrait",
+      "prompt": "Ultra-realistic cinematic portrait: an elderly Asian ceramic artist sitting in a cluttered studio, hands covered in wet clay, shaping a slender-necked vase on a potter's wheel; afternoon sunlight streams through a dusty window, creating Tyndall rays; wooden shelves filled with unglazed pottery, an old apron hanging on the wall; shallow depth of field, 85mm lens, visible skin pores and clay texture, warm tones, natural light, highly detailed.",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36157-44-Magazine-Cover-Prompt-for-Nano-Banana-2.1.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36154-44-Elderly-Asian-Ceramic-Artist-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -286,12 +286,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33667-101",
-      "title": "Luxury Fashion Campaign Poster",
-      "prompt": "Create a premium, hyper-realistic fashion editorial poster using my uploaded female face as the ONLY identity reference for the main female subject. Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, natural skin texture, hairstyle, and overall likeness. Keep me instantly recognizable. Do not beautify, reshape, feminize, age, de-age, or alter my facial features. Create a stylish modern fashion campaign poster in a vertical editorial composition, inspired by contemporary fashion-school advertising. Subject & pose: A confident young woman standing in a relaxed fashion-model pose, slightly leaning with one hand casually placed near her trouser pocket. Full-body framing. She is looking confidently toward the camera with a natural, sophisticated expression. Outfit: Elegant minimalist fashion outfit: oversized lightweight cream/off-white button-down shirt worn open over a simple fitted neutral top, paired with high-waisted wide-leg burnt-orange/rust brown trousers. Clean white contemporary sneakers. Premium fabric texture, realistic folds and stitching. Background: Minimalist warm off-white textured plaster wall. Add large geometric terracotta/orange architectural shapes behind and beneath the subject, creating a sophisticated editorial graphic design. Soft natural studio lighting with subtle shadows. Typography: On the left side, add large bold uppercase dark terracotta text: “GREAT FASHION IS NEVER SILENT, IT SAYS SOMETHING” Below it, smaller dark charcoal text: “WHAT’S YOUR FAVOURITE ONES?” Then: “COMMENT BELOW” with a small downward arrow underneath. At the top, leave a clean space for a fashion/college brand logo. Keep typography sharp, correctly spelled, aligned, and professionally typeset. Overall aesthetic: Luxury fashion magazine × contemporary university fashion campaign × minimalist editorial advertising. Sophisticated, clean, premium, youthful, highly realistic photography, natural skin texture, realistic anatomy, detailed clothing, subtle filmic lighting, professional fashion photography, high-end art direction.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33789-99",
+      "title": "Tight Red Cap Fashion CloseUp",
+      "prompt": "Ultra-realistic fashion beauty crop of a female model wearing the reference {argument name=\"headwear\" default=\"red baseball cap\"} and matching {argument name=\"apparel\" default=\"red hoodie\"}. Framing: Tight portrait crop from nose to forehead, cap and eyes filling the frame. Focus: The embroidered logo perfectly centered above the model’s eyes, stitching detail and thread depth clearly visible. Pose: Model gripping the hoodie collar softly with both hands, creating subtle fabric folds. Lighting: Soft frontal studio light with faint shadow sculpting on cheekbones and under the cap. Background: Minimal warm studio backdrop, ivory-to-beige gradient. Mood: Bold, confident, fashion-house campaign energy. Finish: Ultra-sharp fabric detail, cinematic realism, shallow depth of field, no text, no branding overlays.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33667-101-Luxury-Fashion-Campaign-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33789-99-Tight-Red-Cap-Fashion-CloseUp.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -324,12 +324,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-30426-113",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-30426-114",
       "title": "Mixed Media Abstract Portrait Illustration",
       "prompt": "Ultra-detailed contemporary {argument name=\"art style\" default=\"mixed-media portrait illustration style\"}, expressive painterly brushwork blended with abstract gestural marks, layered collage aesthetic combining paint splashes, ink scribbles, fragmented shapes, and semi-transparent overlays, {argument name=\"background\" default=\"textured vintage paper background with subtle stains and worn edges\"}, dynamic fusion of figurative realism and chaotic abstraction, vibrant {argument name=\"color palette\" default=\"warm color palette with coral red, burnt orange, peach, cream, and muted teal accents\"}, expressive linework and spontaneous splatter effects, layered acrylic and ink textures, modern editorial art style, fine art portrait combined with experimental abstract expressionism, high-detail painterly strokes, organic texture blending with digital collage elements, contemporary gallery-style illustration, raw artistic energy with controlled composition.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-30426-113-Mixed-Media-Abstract-Portrait-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-30426-114-Mixed-Media-Abstract-Portrait-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -400,16 +400,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36150-45",
-      "title": "Luxury Fashion Editorial Photo",
-      "prompt": "Ultra-realistic high-end fashion editorial photo of an elegant young woman posing against a glossy black luxury sedan. She is seated sideways on the edge of the car, with one leg crossed naturally over the other, one hand resting on the car beside her, and her body slightly angled toward the camera. She has shoulder-length softly wavy light-brown hair, delicate facial features, natural makeup, subtle eyeliner, and a calm, confident expression looking directly at the camera. She wears a fitted black high-neck top, tailored black trousers, and a long structured black blazer draped naturally over her shoulders. The blazer has sharp elegant shoulders and a sophisticated luxury-fashion silhouette. The black sedan fills the background, with glossy reflections, dark tinted windows, visible door handle and a large premium alloy wheel on the right side. Modern luxury showroom/indoor architectural setting, dark neutral tones, soft diffused cinematic lighting, realistic reflections on the car, shallow depth of field, subtle background blur, natural skin texture, detailed hair strands, realistic fabric texture, sophisticated black-on-black aesthetic, luxury automotive campaign, Vogue-style fashion photography, 85mm lens, eye-level camera, vertical full-body composition, photorealistic, ultra-detailed, 4K, no text, no watermark.",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36157-45",
+      "title": "Magazine Cover Prompt for Nano Banana 2.1",
+      "prompt": "Use my uploaded photo as the main subject. My face, skin tone, hair, and facial features must remain completely unchanged. Replicate the style and layout of the reference poster. Scene: Vertical 4:5 magazine poster. I stand in the center, facing the camera, with a calm and serious expression, head slightly tilted. Wearing a flowing, elegant dark charcoal navy midi skirt with soft natural folds in the fabric. Background: Soft blue-gray studio wall with cinematic cyan-to-navy gradient. On the left and right edges, there are ghost-like figures wearing dark loose clothing, blurred by motion trails, resembling long-exposure ghosts, kept out of focus. Lighting: Soft, moody natural light with slight rim light on the hair. Low-saturation film tones, fine grain, shallow depth of field, high-fashion editorial quality. Typography: Top center: Small, wide-spaced white text \"{argument name=\"top_text_en\" default=\"SONI\"}\" Center, overlaying the lower body: Huge white bold narrow sans-serif text \"{argument name=\"main_title_en\" default=\"PROMPT\"}\", positioned in front of the skirt, slightly overlapping me Immediately below: Orange handwritten font \"{argument name=\"subtitle_en\" default=\"NanoBanana 2.1\"}\", slightly tilted Do not add any arrows, buttons, ellipses, or capsule shapes. Do not add any other text, logos, or watermarks. Style: High-end magazine poster, clean typography, high-contrast text, cinematic, photorealistic, 4:5 aspect ratio.",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36150-45-Luxury-Fashion-Editorial-Photo.webp",
+      "model": "Nano Banana Pro",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36157-45-Magazine-Cover-Prompt-for-Nano-Banana-2.1.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "Nano Banana Pro",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -476,12 +476,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33661-103",
-      "title": "Surrealist Rolex Brand Poster",
-      "prompt": "A high-fashion surrealist poster for {argument name=\"brand\" default=\"Rolex\"}. A {argument name=\"background color\" default=\"deep emerald green\"} minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex. In the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded. Bottom center tagline: “Time, perfected. Presence, defined.” Moody luxury lighting, rich tones, cinematic reflections. Aspect ratio: 3:4.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33667-103",
+      "title": "Luxury Fashion Campaign Poster",
+      "prompt": "Create a premium, hyper-realistic fashion editorial poster using my uploaded female face as the ONLY identity reference for the main female subject. Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, natural skin texture, hairstyle, and overall likeness. Keep me instantly recognizable. Do not beautify, reshape, feminize, age, de-age, or alter my facial features. Create a stylish modern fashion campaign poster in a vertical editorial composition, inspired by contemporary fashion-school advertising. Subject & pose: A confident young woman standing in a relaxed fashion-model pose, slightly leaning with one hand casually placed near her trouser pocket. Full-body framing. She is looking confidently toward the camera with a natural, sophisticated expression. Outfit: Elegant minimalist fashion outfit: oversized lightweight cream/off-white button-down shirt worn open over a simple fitted neutral top, paired with high-waisted wide-leg burnt-orange/rust brown trousers. Clean white contemporary sneakers. Premium fabric texture, realistic folds and stitching. Background: Minimalist warm off-white textured plaster wall. Add large geometric terracotta/orange architectural shapes behind and beneath the subject, creating a sophisticated editorial graphic design. Soft natural studio lighting with subtle shadows. Typography: On the left side, add large bold uppercase dark terracotta text: “GREAT FASHION IS NEVER SILENT, IT SAYS SOMETHING” Below it, smaller dark charcoal text: “WHAT’S YOUR FAVOURITE ONES?” Then: “COMMENT BELOW” with a small downward arrow underneath. At the top, leave a clean space for a fashion/college brand logo. Keep typography sharp, correctly spelled, aligned, and professionally typeset. Overall aesthetic: Luxury fashion magazine × contemporary university fashion campaign × minimalist editorial advertising. Sophisticated, clean, premium, youthful, highly realistic photography, natural skin texture, realistic anatomy, detailed clothing, subtle filmic lighting, professional fashion photography, high-end art direction.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33661-103-Surrealist-Rolex-Brand-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33667-103-Luxury-Fashion-Campaign-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -514,12 +514,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-30211-119",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-30211-120",
       "title": "Engraved Surreal Illustration Portrait",
       "prompt": "{argument name=\"style\" default=\"Hyper-detailed engraved illustration style\"}, cross-hatching and fine line pen drawing technique, classical engraving mixed with modern illustration, ultra-dense linework forming realistic human face and upper body, tactile woven texture across skin and fabric, baroque and rococo influence, ornate clothing details, gold embroidery and chain accents, dramatic chiaroscuro lighting, {argument name=\"color palette\" default=\"muted yet bold color accents (pink, gold, blue, cream, black)\"}, painterly ink texture, vintage print aesthetic blended with contemporary surreal portrait art, high contrast, museum-grade detail, editorial illustration quality, {argument name=\"background\" default=\"dark textured background\"}, intellectual and artistic mood.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-30211-119-Engraved-Surreal-Illustration-Portrait.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-30211-120-Engraved-Surreal-Illustration-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -590,12 +590,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36101-46",
-      "title": "Misty Lake Rowboat with Text Caption",
-      "prompt": "A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: \"{argument name=\"caption\" default=\"stillness is a place\"}\"",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36150-46",
+      "title": "Luxury Fashion Editorial Photo",
+      "prompt": "Ultra-realistic high-end fashion editorial photo of an elegant young woman posing against a glossy black luxury sedan. She is seated sideways on the edge of the car, with one leg crossed naturally over the other, one hand resting on the car beside her, and her body slightly angled toward the camera. She has shoulder-length softly wavy light-brown hair, delicate facial features, natural makeup, subtle eyeliner, and a calm, confident expression looking directly at the camera. She wears a fitted black high-neck top, tailored black trousers, and a long structured black blazer draped naturally over her shoulders. The blazer has sharp elegant shoulders and a sophisticated luxury-fashion silhouette. The black sedan fills the background, with glossy reflections, dark tinted windows, visible door handle and a large premium alloy wheel on the right side. Modern luxury showroom/indoor architectural setting, dark neutral tones, soft diffused cinematic lighting, realistic reflections on the car, shallow depth of field, subtle background blur, natural skin texture, detailed hair strands, realistic fabric texture, sophisticated black-on-black aesthetic, luxury automotive campaign, Vogue-style fashion photography, 85mm lens, eye-level camera, vertical full-body composition, photorealistic, ultra-detailed, 4K, no text, no watermark.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36101-46-Misty-Lake-Rowboat-with-Text-Caption.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36150-46-Luxury-Fashion-Editorial-Photo.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -666,16 +666,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33673-104",
-      "title": "Culture Magazine Editorial Portrait",
-      "prompt": "[Subject Information] - Name/Character: {argument name=\"name\" default=\"Kotone Tanaka\"} - Interview Theme: {argument name=\"theme\" default=\"Waves of Japan's Next-Gen Creation\"} [Text and Graphic Placement] - Catchphrase to place: {argument name=\"catchphrase\" default=\"Weaving Tradition and Modernity\"} [Quality, Direction, and Composition] - Style: Editorial portrait for the cover or feature page of a sophisticated Japanese culture magazine (such as BRUTUS, POPEYE, or &Premium). - Composition: Bust-up or medium shot of the subject. A natural expression that reveals the subject's personality and intelligence. - Background: A minimal yet deep space, such as a clay wall with fine texture or concrete where natural light and shadows intersect. - Lighting: Soft natural light (window light) from the side, with nuanced tones and suppressed contrast. - Colors: Calm earth tones, slightly desaturated cinematic color palette. - Text Placement (for GPT-image / Nano Banana Pro): The text \"{argument name=\"catchphrase\" default=\"Weaving Tradition and Modernity\"}\" is arranged as typography in the empty space (e.g., left side or bottom) in a font and size that harmonizes beautifully with the design. [Strict Layout and Output Constraints (Required)] - Output the finished design itself, filling the entire canvas. Scene descriptions inside the design (walls, spaces, shadows, etc.) may follow the main instructions. - Prohibitions: Photos of the finished poster in a frame, photos of it pasted on a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows. - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: --ar 3:4",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33661-105",
+      "title": "Surrealist Rolex Brand Poster",
+      "prompt": "A high-fashion surrealist poster for {argument name=\"brand\" default=\"Rolex\"}. A {argument name=\"background color\" default=\"deep emerald green\"} minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex. In the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded. Bottom center tagline: “Time, perfected. Presence, defined.” Moody luxury lighting, rich tones, cinematic reflections. Aspect ratio: 3:4.",
       "media": "image",
-      "model": "GPT Image",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33673-104-Culture-Magazine-Editorial-Portrait.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33661-105-Surrealist-Rolex-Brand-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "GPT Image",
+        "AI Image Model",
         "Product Marketing"
       ],
       "author": "YouMind OpenLab",
@@ -704,12 +704,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-30072-120",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-30072-121",
       "title": "Urban Street-Art Subway Poster",
       "prompt": "A cinematic, high-fidelity {argument name=\"scene\" default=\"portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her\"}. She has {argument name=\"hair\" default=\"warm brown hair with soft bangs\"} and a few loose strands blowing in the wind created by the passing train. Her face is clear and sharp, featuring delicate freckles, soft makeup, and a calm, slightly pensive expression. Add bold red, black, and gray paint splashes with geometric circles, lines, and grid overlays for a {argument name=\"style\" default=\"modern urban street-art aesthetic\"}. Include the typography: \"FOCUS\" in large cream uppercase letters, \"on your\" in red brush script, and \"Dreams\" in elegant black script, along with the motivational text \"DISCIPLINE TODAY • STRENGTH TOMORROW • LEGACY FOREVER\", vertical \"STAY FOCUSED\" on the right, subtle dot accents centered at the bottom. Style it as a luxury, magazine-quality, high-resolution graphic design poster with a clean, balanced composition.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-30072-120-Urban-Street-Art-Subway-Poster.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-30072-121-Urban-Street-Art-Subway-Poster.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
@@ -780,16 +780,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36028-47",
-      "title": "Golden Goddess Mahalakshmi Image",
-      "prompt": "Generate image of 3d golden text \"{argument name=\"text\" default=\"Mahalakshmi\"}\" and golden goddess Mahalakshmi is sitting and adjusted over that text. Black background. 1:1 ratio 8k resolution",
+      "id": "xianyu-multi-model:ym-ai-skill-social-media-post-36101-47",
+      "title": "Misty Lake Rowboat with Text Caption",
+      "prompt": "A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: \"{argument name=\"caption\" default=\"stillness is a place\"}\"",
       "media": "image",
-      "model": "Nano Banana Pro",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36028-47-Golden-Goddess-Mahalakshmi-Image.webp",
+      "model": "AI Image Model",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/social-media-post/social-media-post-36101-47-Misty-Lake-Rowboat-with-Text-Caption.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "Nano Banana Pro",
+        "AI Image Model",
         "Social Media Post"
       ],
       "author": "YouMind OpenLab",
@@ -856,16 +856,16 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33656-106",
-      "title": "Romantic Rainy City Moment",
-      "prompt": "{argument name=\"setting\" default=\"White classical building facade with decorative molding\"}. Overcast weather atmosphere. {argument name=\"outfit\" default=\"Outfit: light blue trench coat with oversized silhouette, wide lapels and visible front buttons. Underneath a soft pastel pink knit top\"}. {argument name=\"flowers\" default=\"Holding a large bouquet of purple and white tulips with long green stems\"}. Accessories: transparent dome umbrella held above head. Hairstyle: straight long hair worn loose and smooth, natural fall over shoulders. Pose: standing sideways under umbrella, head tilted slightly upward with eyes closed as if enjoying light rain. Bouquet held close to chest with both arms. Camera angle: medium shot from waist up, slightly angled from the front side. Lighting: soft cloudy daylight, neutral tones, slightly muted contrast. Mood: romantic rainy city moment, natural editorial realism.",
+      "id": "xianyu-multi-model:ym-ai-skill-product-marketing-33673-106",
+      "title": "Culture Magazine Editorial Portrait",
+      "prompt": "[Subject Information] - Name/Character: {argument name=\"name\" default=\"Kotone Tanaka\"} - Interview Theme: {argument name=\"theme\" default=\"Waves of Japan's Next-Gen Creation\"} [Text and Graphic Placement] - Catchphrase to place: {argument name=\"catchphrase\" default=\"Weaving Tradition and Modernity\"} [Quality, Direction, and Composition] - Style: Editorial portrait for the cover or feature page of a sophisticated Japanese culture magazine (such as BRUTUS, POPEYE, or &Premium). - Composition: Bust-up or medium shot of the subject. A natural expression that reveals the subject's personality and intelligence. - Background: A minimal yet deep space, such as a clay wall with fine texture or concrete where natural light and shadows intersect. - Lighting: Soft natural light (window light) from the side, with nuanced tones and suppressed contrast. - Colors: Calm earth tones, slightly desaturated cinematic color palette. - Text Placement (for GPT-image / Nano Banana Pro): The text \"{argument name=\"catchphrase\" default=\"Weaving Tradition and Modernity\"}\" is arranged as typography in the empty space (e.g., left side or bottom) in a font and size that harmonizes beautifully with the design. [Strict Layout and Output Constraints (Required)] - Output the finished design itself, filling the entire canvas. Scene descriptions inside the design (walls, spaces, shadows, etc.) may follow the main instructions. - Prohibitions: Photos of the finished poster in a frame, photos of it pasted on a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows. - Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges. - Aspect Ratio: --ar 3:4",
       "media": "image",
-      "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33656-106-Romantic-Rainy-City-Moment.webp",
+      "model": "GPT Image",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/product-marketing/product-marketing-33673-106-Culture-Magazine-Editorial-Portrait.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
-        "AI Image Model",
+        "GPT Image",
         "Product Marketing"
       ],
       "author": "YouMind OpenLab",
@@ -894,12 +894,12 @@
       "createdAt": null
     },
     {
-      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-29837-121",
+      "id": "xianyu-multi-model:ym-ai-skill-poster-flyer-29837-122",
       "title": "Sa'idi Egyptian Woman Vector Illustration",
       "prompt": "{argument name=\"style\" default=\"Flat vector illustration\"}, side profile of a {argument name=\"subject\" default=\"Sa'idi Egyptian woman\"}, featureless face, wearing a long black tarha (headscarf) decorated with flat silver Tally embroidery patterns, geometric triangles and stars rendered as flat metallic dots. She holds a stylized clay water jar (ballas) on her shoulder. Background: flat warm ochre desert with a distant pharaonic temple silhouette on the horizon. Palette: ochre, black, silver-cream, terracotta, deep red. Fusion of Upper Egypt folk and pharaonic memory.",
       "media": "image",
       "model": "AI Image Model",
-      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-29837-121-Sa-idi-Egyptian-Woman-Vector-Illustration.webp",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/xianyu110/image-prompt-generator@main/assets/imported/YouMind-OpenLab/ai-image-prompts-skill/poster-flyer/poster-flyer-29837-122-Sa-idi-Egyptian-Woman-Vector-Illustration.webp",
       "videoUrl": null,
       "tags": [
         "xianyu-multi-model",
